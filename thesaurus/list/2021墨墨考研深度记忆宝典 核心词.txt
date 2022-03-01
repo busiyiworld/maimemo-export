@@ -1,0 +1,2274 @@
+#001 define —— 确立“定义”
+define
+definition
+identify
+identifiable
+identity
+determine
+determinism
+judge
+#002 behavior —— 注意自己的每个“行为”和“举止”
+behavior
+behavioral
+conduct
+manner
+performance
+#003 demand —— 为自己的“主张”发声
+demand
+require
+claim
+acclaim
+claimant
+command
+assert
+assertion
+request
+affirm
+allegation
+#004 ignore —— 请选择“忽视”
+ignore
+ignorant
+neglect
+overlook
+#005 own —— 此物属我“占有”
+own
+ownership
+property
+possession
+possess
+occupy
+occupation
+monopoly
+#006 state —— 我来“说明”这个理论
+state
+statement
+statesman
+understatement
+illustrate
+specific
+specify
+detail
+interpretation
+interpret
+misinterpretation
+explanation
+explanatory
+exemplify
+outline
+#007 view —— 各种“看”
+view
+observe
+observation
+witness
+glance
+glimpse
+#008 suggest —— 给你我的“建议”
+suggest
+suggestion
+refer
+reference
+advocate
+propose
+proposal
+urge
+lobby
+recommend
+recommendation
+convincing
+convince
+persuade
+persuasive
+advisory
+#009 announce —— 公开“宣布”
+announce
+announcement
+publish
+publication
+publicity
+publicize
+release
+advertisement
+advertising
+advertiser
+declaration
+#010 deal ——“打理”好乱糟糟的局面
+deal
+executive
+solution
+handle
+administration
+regulation
+regulator
+regulate
+regulatory
+arrange
+supervise
+supervision
+surveillance
+cope
+tackle
+resolve
+monitor
+#011 consider —— 用脑“思考”
+consider
+consideration
+reflect
+conceive
+deduce
+ponder
+#012 admit —— 我“承认”，的确有这事
+admit
+recognize
+recognition
+acknowledge
+#013 produce ——“生产”出产品
+produce
+productivity
+generate
+generative
+output
+yield
+manufacture
+manufacturer
+#014 sense —— “感知”周围的状况
+sense
+sensory
+perceive
+conscious
+consciousness
+subconscious
+detect
+detector
+cognitive
+comprehension
+#015 predict ——“预知”未来
+predict
+prediction
+unpredictability
+forecast
+foreseeable
+#016 create —— “创造”出新模样
+create
+innovation
+innovative
+formulate
+formulation
+invent
+novelty
+#017 promote ——“促进”进度条的完成
+promote
+further
+contribute
+contributory
+advance
+advanced
+boost
+motivate
+motion
+motive
+assist
+motor
+propel
+#018 criticize —— 各种“骂”法不留情
+criticize
+criticism
+critic
+critique
+blame
+condemn
+#019 found —— 立地而起，“建立”起来！
+found
+establish
+established
+establishment
+construct
+construction
+#020 provide ——“提供”必要的物质
+provide
+supply
+cater
+equip
+render
+provision
+#021 gain ——“得到”了某物
+gain
+obtain
+acquire
+acquisition
+inherit
+attain
+reap
+#022 select ——“挑选”出来
+select
+selection
+option
+optional
+filter
+extract
+#023 track —— 寻找留下来的“痕迹”
+track
+trace
+clue
+trail
+#024 evaluate —— 看看如何“评定”这样的质量
+evaluate
+evaluation
+assess
+assessment
+estimate
+overestimate
+underestimate
+criterion
+#025 suppose —— 你“猜”我猜不猜？
+suppose
+supposed
+infer
+inference
+wonder
+assumption
+assume
+speculate
+hypothesis
+premise
+presumably
+bet
+#026 protect —— “保护”你不受伤害
+protect
+prevent
+prevention
+security
+secure
+insecurity
+insurance
+insure
+guard
+guardian
+conservation
+immune
+aid
+shelter
+rescue
+shield
+#027 calculate —— 开始“算数”
+calculate
+measure
+measurable
+figure
+count
+random
+index
+statistic
+statistical
+statistician
+populate
+census
+quantity
+numerical
+#028 expose ——“暴露”出原本面目
+expose
+exposure
+reveal
+betray
+unfold
+leakage
+leak
+confide
+#029 drop —— 从高处“落下”
+drop
+collapse
+plunge
+#030 force —— 被“强迫”得这样做
+force
+enforcement
+enforce
+impose
+compel
+compulsive
+#031 direct ——“指引”前方的道路
+direct
+direction
+director
+position
+locate
+instruction
+orient
+guidance
+guideline
+#032 spread ——向周围“分散”开去
+spread
+widespread
+diffuse
+scatter
+sow
+#033 communication —— 与人打交道
+communication
+response
+expression
+expressive
+interaction
+interact
+debate
+inform
+feedback
+negotiate
+interpersonal
+discourse
+confer
+#034 replace ——“代替”你做事
+replace
+behalf
+represent
+representative
+switch
+alternative
+agent
+substitute
+spare
+#035 competition —— 展开你死我活的“竞争”
+competition
+campaign
+combat
+contend
+contention
+defeat
+contest
+#036 contain ——“包含”了很多内容
+contain
+container
+constitute
+constituent
+consist
+#037 limited —— 受到了“限制”
+limited
+restriction
+restrict
+restrictive
+constraint
+constrain
+bind
+finite
+#038 promise —— 守住“承诺”
+promise
+promising
+guarantee
+commit
+commitment
+pledge
+contract
+warrant
+#039 edition ——“编辑”工作
+edition
+review
+reviewer
+cite
+modify
+modification
+revise
+newsroom
+column
+amendment
+mend
+#040 combine ——“结合”起来
+combine
+complementary
+merger
+blend
+#041 separate —— 两两相爱，却被“分开”
+separate
+separation
+divide
+division
+apart
+divorce
+split
+strip
+disconnect
+#042 strategy —— 制定行动的“方案”
+strategy
+strategic
+budget
+agenda
+mission
+scheme
+#043 deliver —— 两地之间的“位置变化”
+deliver
+delivery
+shift
+immigrant
+immigration
+migration
+migrate
+convey
+transition
+transfer
+transportation
+transport
+transmit
+carrier
+transplant
+journey
+mobility
+#044 distribution ——“分发”给每个人
+distribution
+distribute
+assign
+allocation
+appointment
+appoint
+#045 quit ——“离开”此地
+quit
+dismiss
+vanish
+withdraw
+evade
+flee
+retreat
+#046 fulfill ——“行动”起来，做事情！
+fulfill
+fulfillment
+engage
+engagement
+engaged
+implement
+implementation
+exert
+resort
+operational
+operative
+operator
+exploit
+exploitation
+practitioner
+#047 slave —— 没办法，只能“屈服”了
+slave
+slavery
+compromise
+passive
+submit
+#048 hit —— 用力发出的动作
+hit
+grasp
+shut
+strike
+cast
+grip
+squeeze
+chop
+#049 demonstrate ——“展示”面貌
+demonstrate
+demonstration
+sample
+manifest
+sketch
+exhibit
+projection
+symptom
+depict
+#050 stick ——“固定”住不动
+stick
+stuck
+attach
+stability
+adhere
+stationary
+#051 examine —— 寻根问底，展开“调查”
+examine
+survey
+investigation
+investigate
+inquiry
+verify
+proof
+scrutiny
+confirm
+inspection
+excavation
+probe
+#052 recall ——“回忆”一下
+recall
+reminder
+memorize
+recite
+#053 abandon ——“抛弃”之，不留一丝念想
+abandon
+discard
+sacrifice
+disposable
+#054 cooperate ——“一起合作”，干活不累
+cooperate
+cooperation
+collective
+joint
+collaborative
+mutual
+alliance
+#055 defend —— 站直腰杆来“抵抗”外敌
+defend
+defendant
+defense
+resistant
+resistance
+confront
+confrontation
+withstand
+#056 destroy —— 大肆“破坏”
+destroy
+destruction
+ruin
+undermine
+disruptive
+devastating
+#057 prison —— 把TA“关”到小黑屋里
+prison
+imprison
+confine
+arrest
+#058 intimate —— 亲密动作
+intimate
+privacy
+lean
+cling
+embrace
+#059 absorb ——“吸收”进来，成为一体
+absorb
+integrate
+integrity
+integration
+integrated
+recruit
+assimilation
+assimilate
+enroll
+enrollment
+inject
+enlist
+#060 imitate ——“抄”出来是一样的
+imitate
+imitation
+duplication
+clone
+#061 attack —— 展开“攻击”
+attack
+predator
+plague
+hack
+#062 backward ——“倒退”至不如当初
+backward
+fade
+recession
+downgrade
+#063 soak —— N种“用水”方法
+soak
+flow
+pour
+irrigation
+drift
+splash
+#064 block —— 前进受到了“阻碍”
+block
+curb
+intervention
+suppress
+barrier
+interference
+interfere
+hinder
+obstacle
+restrain
+boycott
+#065 fold —— 操作手法
+fold
+carve
+twist
+juggle
+#066 wave —— 幅度大或小的动作
+wave
+float
+slip
+swing
+fluctuate
+revolve
+#067 tempt —— 坏人“引诱”人做坏事
+tempt
+lure
+induce
+#068 fetch ——“拿走”&“给予”
+fetch
+dedicate
+dedicated
+reception
+recipient
+receptor
+donate
+#069 cultivate —— 用心血“培养”起来
+cultivate
+cultivation
+nutrition
+nutrient
+foster
+#070 steal —— 非法的来钱行径
+steal
+hijack
+corruption
+corrupt
+bribery
+gambler
+#071 entertainment —— 跟朋友们一起“娱乐消遣”
+entertainment
+entertaining
+leisure
+concert
+#072 relieve —— 把痛苦“减轻”
+relieve
+relief
+alleviate
+alleviation
+#073 addicted —— 放肆地“纵容”
+addicted
+addiction
+indulge
+#074 mean ——指的是什么？
+mean
+means
+meaningless
+indicate
+indicator
+indicative
+imply
+implication
+implicit
+entail
+#075 function ——“有用”的东西
+function
+functional
+available
+availability
+worthwhile
+necessarily
+necessity
+necessitate
+#076 individual ——“单独”存在
+individual
+unique
+single
+mere
+solely
+#077 probably —— 不一样的“可能性”
+probably
+possible
+potential
+inevitable
+unlikely
+definitely
+assure
+odds
+#078 focus —— 关注“重点”
+focus
+emphasize
+emphasis
+highlight
+concentrate
+concentration
+#079 tendency ——“倾向一边”的分布
+tendency
+popularity
+popularize
+biased
+bias
+dense
+density
+#080 character —— 细数种种“特征”
+character
+characteristic
+characterize
+particular
+feature
+attribute
+trait
+temper
+#081 difficult —— 这道题真的很“难”很“难”
+difficult
+complex
+complexity
+complicated
+intricacy
+intricate
+#082 reduce —— 量越来越“少”了
+reduce
+reduction
+decline
+lack
+diminish
+minimum
+minimize
+minority
+#083 improve —— 变得“更好”
+improve
+improvement
+enhance
+strengthen
+upgrade
+elevate
+polish
+#084 humanity ——“善良”的人
+humanity
+sympathy
+conscience
+#085 abstract ——“抽象”的形态
+abstract
+concept
+conception
+ideal
+idealized
+ideology
+awareness
+#086 significant —— 很“重要”的事情
+significant
+significance
+major
+majority
+essential
+essence
+crucial
+chief
+critical
+fundamental
+primary
+primarily
+far-reaching
+primacy
+prime
+influential
+vital
+indispensable
+prominent
+core
+principal
+foremost
+#087 otherwise —— 转折
+otherwise
+despite
+whereas
+regardless
+nevertheless
+nonetheless
+#088 logical —— “有条理的”分析方法
+logical
+logic
+structure
+infrastructure
+restructuring
+reasonable
+reasoning
+systematic
+methodology
+#089 struggle —— 很“费力”地完成艰巨的任务
+struggle
+labor
+endeavor
+strive
+tough
+#090 proper —— 做“合适”的事宜
+proper
+improper
+due
+appropriate
+inappropriate
+applicable
+sensible
+#091 effectively —— 采取“有效”措施
+effectively
+ineffective
+efficiency
+efficient
+practical
+practically
+validity
+valid
+invalidate
+#092 extreme —— 这话说得“非常”绝对
+extreme
+particularly
+radical
+absolute
+critically
+specifically
+#093 contrast —— 存在“不同”
+contrast
+contrary
+diverse
+diversity
+comparison
+comparative
+distinction
+distinctly
+gap
+distinguish
+distinguished
+discrimination
+differentiate
+#094 entire —— 充满了“整体”
+entire
+overall
+throughout
+comprehensive
+universal
+universality
+wholly
+#095 link —— 断不了“关系”
+link
+related
+relatively
+relate
+relative
+tie
+concerning
+relevant
+irrelevant
+contact
+regarding
+#096 duty —— 有“义务”
+duty
+responsible
+oblige
+obligation
+ought
+liability
+#097 exactly —— 务必保证“准确”性
+exactly
+precisely
+precision
+elaborate
+accuracy
+#098 extend —— 推出“增大”版
+extend
+extensive
+extension
+expand
+expansion
+broadly
+vast
+enlarge
+widen
+spacious
+#099 material —— 接地气的普通生活
+material
+materialistic
+indeed
+factual
+ordinary
+concrete
+realistic
+livelihood
+#100 moreover ——“和”你、“与”他一起
+moreover
+furthermore
+additional
+alongside
+accompany
+#101 giant —— 很“大”很“大”
+giant
+gigantic
+mass
+massive
+substantial
+enormous
+bulk
+considerable
+sizable
+tremendous
+#102 ruling —— 只听从“主导”的那一方
+ruling
+supreme
+authority
+leading
+dominant
+dominate
+predominance
+prevailing
+prevail
+reign
+manipulate
+overshadow
+prevalent
+#103 seldom —— 只有“很小的程度”
+seldom
+rarely
+barely
+bare
+bit
+somewhat
+somehow
+tiny
+subtle
+slight
+slightly
+#104 similarity —— 有很多“相似”之处
+similarity
+common
+parallel
+likewise
+identical
+overlap
+resemble
+seemingly
+#105 capable ——“有才”的实力股！
+capable
+capability
+inability
+intellectual
+intellect
+intellectualism
+intelligence
+intelligent
+capacity
+wisdom
+qualification
+genius
+qualified
+qualify
+talented
+eligible
+excel
+competent
+wit
+#106 spirit —— get“生命力”
+spirit
+spiritual
+restore
+recovery
+revival
+revive
+dynamic
+refreshing
+renew
+liveliness
+#107 suspect —— 这人很“可疑”
+suspect
+suspicious
+suspicion
+skeptical
+skepticism
+questionable
+#108 ambiguous —— 好“模糊”，难以辨认
+ambiguous
+obscure
+roughly
+rough
+vague
+dim
+indirect
+#109 modest —— 为人“低调”
+modest
+modesty
+moderate
+humble
+#110 boom —— 一片“繁荣”景象
+boom
+prosperity
+flourish
+thrive
+thriving
+#111 habit —— 长期以来的“习惯”
+habit
+routine
+routinely
+custom
+ritual
+rut
+regularity
+#112 unexpected ——“冷不防”的急变
+unexpected
+dramatic
+dramatically
+abrupt
+#113 conflict —— 关系“不和”
+conflict
+controversy
+controversial
+dispute
+contradictory
+contradict
+paradoxical
+paradox
+reverse
+quarrel
+#114 error ——“错误”的操作
+error
+misleading
+misuse
+abuse
+misguided
+#115 exception —— 把这个“除”掉
+exception
+exceptional
+eliminate
+exclude
+exclusive
+exclusively
+exclusion
+deprive
+overturn
+abolish
+#116 generous —— 心胸广阔的“慷慨”之人
+generous
+liberal
+illiberal
+hospitality
+#117 sector —— 分开成几个“部分”
+sector
+factor
+aspect
+element
+branch
+component
+segment
+item
+fragment
+proportion
+disproportionately
+fraction
+ratio
+layer
+lay
+ingredient
+particle
+#118 accomplishment —— 取得“成就”
+accomplishment
+accomplish
+elite
+triumph
+peak
+celebrity
+breakthrough
+#119 strange —— 怪人不“怪”?不怪才怪！
+strange
+odd
+peculiar
+bizarre
+weird
+#120 fake —— 是“假”的
+fake
+artificial
+so-called
+synthetic
+#121 equal —— 数量“相当”，力量“相等”
+equal
+inequality
+equality
+counterpart
+equivalent
+comparable
+evenly
+#122 flexible —— 很容易就能改变状态
+flexible
+flexibility
+adapt
+adaptable
+adjustment
+susceptible
+#123 loyal —— 身边“忠诚的”朋友
+loyal
+loyalty
+faith
+faithful
+devoted
+#124 solid ——“坚固”才能站得牢
+solid
+stable
+reinforce
+consolidate
+consolidation
+robust
+#125 inadequate ——“缺乏”想要的东西
+inadequate
+adequate
+inadequacy
+dearth
+#126 fragile —— 这玩意很“脆弱”
+fragile
+sensitive
+insensitive
+insensitivity
+vulnerable
+delicate
+feeble
+#127 sufficient —— “丰裕”“够多”
+sufficient
+insufficient
+abundant
+productive
+fertile
+fertilizer
+abound
+#128 accumulation —— 继续“增多”
+accumulation
+supplement
+augment
+#129 symbol —— 代表的“标志”
+symbol
+symbolic
+code
+encode
+label
+embody
+token
+#130 destiny —— 支配自己的“命运”
+destiny
+fortune
+doom
+#131 violence —— 充满暴力倾向的“凶狠”
+violence
+aggressive
+fierce
+crude
+vicious
+cruelty
+cruel
+#132 evident —— 太“明显”
+evident
+apparent
+striking
+markedly
+#133 excessive ——“超出”了平常
+excessive
+excess
+exceed
+surplus
+lengthy
+surpass
+outweigh
+weigh
+outlive
+redundancy
+superfluous
+#134 credible —— 信得过，“靠得住”
+credible
+credit
+incredible
+credibility
+reliable
+reliability
+reliance
+dependency
+authentic
+frankly
+#135 moral —— 这些品质值得赞扬
+moral
+immoral
+ethical
+ethic
+courageous
+upright
+dignity
+thrift
+virtue
+esteem
+#136 imaginative —— 虚构出不存在的事实
+imaginative
+virtual
+virtually
+illusion
+supposedly
+#137 slowdown ——“慢”下来
+slowdown
+gradual
+slack
+#138 regret —— 做了坏事
+regret
+regrettable
+penalty
+penalize
+#139 urgent ——“紧急”！刻不容缓！
+urgent
+instant
+imperative
+#140 ease —— 简单又轻松
+ease
+casual
+readily
+simplicity
+effortless
+#141 accelerate ——“快点”，再“快点”
+accelerate
+acceleration
+prompt
+hasten
+expedite
+#142 evil —— 不是好人
+evil
+nasty
+cunning
+distasteful
+distaste
+#143 intense ——“猛烈”的场景
+intense
+intensify
+turbulent
+#144 excellent ——“好”！各种“好”！
+excellent
+desirable
+undesirable
+respectable
+elegant
+unsurpassed
+extraordinary
+dazzlingly
+precious
+#145 clarity —— 白纸黑字，很“清晰”
+clarity
+explicit
+plain
+transparency
+#146 harmony —— 两两“一致”，很和谐
+harmony
+harmonious
+comply
+coordination
+compliance
+consensus
+correspond
+correspondence
+unity
+unite
+conformity
+#147 royal —— 地位“高高在上”
+royal
+monarchy
+monarch
+lord
+aristocratic
+nobility
+noble
+#148 pointless —— 这样可“行不通”
+pointless
+vain
+nonsense
+plausible
+groundless
+idle
+#149 suicide —— 与“死亡”有关
+suicide
+bury
+fatal
+toxic
+tomb
+perish
+#150 shortcoming —— 凡事都有其“不足”
+shortcoming
+flaw
+flawed
+failing
+drawback
+#151 insignificant —— 有些小事情“没有那么重要”
+insignificant
+inferior
+trivial
+superior
+fuss
+#152 insightful ——“洞察”世事
+insightful
+profound
+enlightened
+enlighten
+sophisticated
+#153 rank ——“等级”排行
+rank
+rate
+status
+scale
+#154 type —— 各个不同的“种类”
+type
+species
+sort
+variety
+category
+genre
+#155 political —— 有关政治的活动
+political
+politics
+politician
+policy
+reform
+revolution
+revolutionary
+vote
+election
+elect
+healthcare
+policymaker
+sovereign
+taxpayer
+#156 expense —— 把钱“花”出去
+expense
+investment
+invest
+fund
+funding
+debt
+tuition
+loan
+#157 financial ——“金融”活动
+financial
+finance
+economic
+stock
+shareholder
+stakeholder
+inflation
+inflate
+capital
+asset
+treasury
+venture
+bubble
+estate
+#158 republican —— 各个政治党派
+republican
+democracy
+democratic
+democrat
+#159 principle —— 遵守“条条框框”
+principle
+official
+discipline
+norm
+mode
+uniform
+ceremony
+frame
+framework
+doctrine
+format
+formation
+#160 legal —— 法律讲求“合法”
+legal
+illegal
+court
+justice
+sentence
+justify
+justified
+justification
+constitution
+constitutional
+legislation
+legislative
+legislature
+legislator
+entitle
+legitimate
+legitimacy
+trial
+patent
+retiree
+jury
+verdict
+innocent
+charter
+prosecution
+prosecutor
+statute
+legacy
+lawsuit
+#161 charge ——“控告”TA的罪过！
+charge
+complain
+complaint
+accuse
+sue
+#162 profit —— 要得到“利益”和“好处”
+profit
+profitable
+reward
+rewarding
+crop
+welfare
+beneficial
+#163 trade ——“商业”社会
+trade
+purchase
+commercial
+e-commerce
+commerce
+consumption
+consume
+marketing
+entrepreneur
+compensate
+compensation
+brand
+retailer
+retail
+transaction
+commodity
+bargain
+chain
+costly
+sponsor
+enterprise
+wholesale
+client
+export
+luxury
+subscriber
+subscribe
+bid
+#164 industry —— 各“行”各“业”
+industry
+industrial
+industrialization
+industrialized
+banking
+craft
+architecture
+accounting
+account
+accountable
+vocational
+pottery
+comic
+#165 conference —— 参加“会议”
+conference
+congress
+congressional
+council
+parliament
+#166 salary —— 辛苦工作拿到“报酬”
+salary
+income
+revenue
+wage
+heritage
+pension
+bonus
+subsidy
+allowance
+paycheck
+#167 crime —— 触犯法律者“有罪”
+crime
+criminal
+guilty
+violate
+tort
+conviction
+#168 religious —— 宗教用语
+religious
+religion
+sermon
+sacred
+preach
+#169 kilogram ——“度量单位”集合
+kilogram
+degree
+row
+quarter
+dose
+dosage
+dimension
+array
+inch
+volume
+dozen
+pile
+#170 digital —— 科技应用语
+digital
+digit
+technical
+technique
+medium
+database
+satellite
+automation
+default
+browser
+reactor
+#171 philosophy —— 那些深奥的学科
+philosophy
+philosopher
+philosophical
+genetically
+genetic
+genetics
+mechanism
+mechanical
+nuclear
+anthropologist
+anthropology
+anthropological
+geological
+geologist
+geology
+futurologist
+archaeologist
+archaeological
+astronomy
+astronomer
+geophysical
+specialization
+specialist
+specialize
+#172 literature —— 语言学习
+literature
+literary
+literacy
+literally
+verbal
+linguistic
+linguist
+grammatical
+tone
+narrative
+proverb
+#173 membership —— 身份的归宿
+membership
+citizen
+citizenry
+civil
+civilization
+ethnic
+lineage
+#174 desire —— 很“渴望”得到
+desire
+attempt
+pursuit
+pursue
+quest
+ambition
+ambitious
+desperate
+envy
+enviable
+#175 oppose —— 不，不，我表示“反对”
+oppose
+opposition
+deny
+reject
+object
+objection
+protest
+defy
+#176 mental ——“心理状态”
+mental
+emotional
+psychology
+psychological
+psychologist
+sentiment
+#177 opinion —— 发表自己的“观点”
+opinion
+regard
+comment
+remark
+remarkable
+perspective
+notion
+deem
+posture
+#178 expectation —— 对未知的“展望”
+expectation
+expectancy
+prospect
+outlook
+anticipate
+anticipation
+foresee
+#179 praise —— 心悦诚服的“赞扬”
+praise
+merit
+deserve
+#180 approve —— 可以，我表示“同意”
+approve
+approval
+disapproval
+grant
+adopt
+admission
+authorize
+permit
+permission
+consent
+#181 serious —— 保持“严肃”
+serious
+severe
+rigid
+stern
+harsh
+#182 intend —— 跟着自己的意愿走
+intend
+instinct
+deliberately
+inclination
+incline
+intention
+intentionally
+voluntary
+intuitive
+#183 fear ——“吓”到了
+fear
+panic
+astonishing
+dreadful
+#184 appeal ——“恳求”你了
+appeal
+plead
+#185 puzzle —— 摸不着头脑，实在“困惑”！
+puzzle
+curiosity
+confusing
+confusion
+#186 depression —— 徒留“沮丧”
+depression
+upset
+frustration
+despair
+frown
+#187 tolerance —— 还要“忍受”他
+tolerance
+tolerate
+tolerant
+endure
+durable
+abide
+#188 objective —— 没有被感情左右
+objective
+objectivity
+impartial
+partial
+indifferent
+indifference
+remote
+#189 prejudice —— 梳理“不得当的情绪”
+prejudice
+impulse
+#190 prefer —— 心底的“喜爱”
+prefer
+preference
+preferable
+favor
+appreciation
+appreciate
+appreciative
+amateur
+obsess
+obsession
+fascination
+fascinate
+favoritism
+favorable
+worship
+adore
+#191 cautious —— 你得“小心”点
+cautious
+caution
+lest
+thoughtful
+prudent
+alert
+#192 contempt —— 不屑一顾的“蔑视”
+contempt
+contemptuous
+contemptible
+disregard
+patronize
+#193 optimism ——“思想形态”人有各异
+optimism
+optimist
+conventional
+convention
+pessimistic
+pessimism
+superstition
+#194 hostile —— 产生了敌对的姿态
+hostile
+hostility
+rival
+opponent
+counterbalance
+counteract
+resent
+provoke
+indignation
+#195 anxiety —— 心里“不安”又“焦虑”
+anxiety
+strain
+uneasy
+#196 enthusiastic —— 充满“热情”
+enthusiastic
+enthusiasm
+passionate
+eager
+eagerness
+#197 sharp ——“尖刻”的话真刺痛人
+sharp
+sharpen
+mock
+ironic
+ironically
+sarcastic
+#198 delight —— 心中“愉悦的”情感
+delight
+gratitude
+gratification
+#199 unwilling —— 心中酝酿的“不情愿”
+unwilling
+reluctant
+tentative
+hesitate
+outrage
+rage
+#200 boast —— 大肆“吹嘘”
+boast
+exaggerate
+exaggeration
+awkward
+vanity
+feverish
+#201 situation —— 看看周围的“境况”
+situation
+condition
+unconditional
+conditional
+instance
+circumstance
+extent
+atmosphere
+#202 process —— 事情的发展“过程”
+process
+progressive
+course
+evolve
+evolution
+evolutionary
+procedure
+pace
+proceed
+#203 remain —— 把状态“保持”住
+remain
+maintain
+maintenance
+preserve
+sustain
+sustainable
+sustainability
+retain
+#204 consequence —— 接受这样的“结果”
+consequence
+consequently
+impact
+eventually
+outcome
+incur
+postwar
+#205 therefore ——“所以”这样
+therefore
+thus
+hence
+owe
+thereby
+whereby
+sake
+#206 source —— 寻找“起源”
+source
+origin
+originate
+original
+stem
+derive
+#207 arise —— 万事都只差一个“开始”
+arise
+emerge
+emergence
+launch
+initial
+initiative
+initiate
+pioneer
+preliminary
+#208 finish ——结束了，到此为“止”
+finish
+conclude
+inconclusive
+conclusive
+cease
+#209 threat —— 落入“不好的境遇”中
+threat
+threaten
+issue
+risk
+crisis
+poverty
+capture
+captive
+disorder
+aggravate
+misery
+disaster
+undergo
+trick
+dilemma
+nightmare
+encounter
+trap
+setback
+extinction
+tragedy
+#210 phenomenon —— 无法解释的“奇事”
+phenomenon
+myth
+mythical
+marvel
+#211 sight —— 眼睛里看到的“景象”
+sight
+sightseer
+scene
+visible
+invisible
+visualize
+landscape
+vision
+envision
+#212 vary —— 有所“变化”
+vary
+variation
+variable
+alter
+transform
+convert
+#213 event —— 发生的不同“事件”
+event
+affair
+accident
+explosion
+incidence
+incident
+coincidence
+episode
+recur
+#214 inspire ——“激”起了心里的小火苗
+inspire
+arouse
+incentive
+trigger
+stimulate
+spark
+stimulus
+spur
+#215 reputation ——“名声”在外
+reputation
+fame
+glory
+celebrated
+disgrace
+humiliation
+prestige
+stain
+#216 organization —— 成为一个“组织”
+organization
+disorganized
+federal
+firm
+institution
+institutional
+department
+association
+agency
+corporation
+corporate
+incorporate
+associate
+institute
+associated
+#217 content —— 书本内容
+content
+discontent
+information
+pattern
+phrase
+quote
+context
+headline
+graph
+preface
+paraphrase
+postal
+textual
+plot
+#218 location —— 去某个“地方”
+location
+site
+field
+setting
+spot
+#219 treatment —— 有效的“治疗”方法
+treatment
+medical
+biomedical
+medication
+cure
+diet
+surgery
+prescription
+therapy
+#220 region —— 限定的区域
+region
+community
+range
+span
+colony
+colonial
+urban
+scope
+rural
+nationwide
+multinational
+multiple
+territory
+regime
+provincial
+empire
+tribe
+#221 fiction —— 阅遍各类“书籍”
+fiction
+journal
+journalist
+journalism
+journalistic
+draft
+license
+autobiography
+newsletter
+newsprint
+biographical
+certificate
+#222 article —— 绞尽脑汁写成的“文章”
+article
+composition
+compose
+prose
+thesis
+manuscript
+#223 channel —— 从“通道”走出去
+channel
+access
+accessible
+passage
+pathway
+runway
+entrance
+circuit
+route
+via
+bypass
+rail
+lane
+pipe
+#224 disease —— 患上了什么“病”都不好受
+disease
+epidemic
+paralysis
+paralyzed
+infection
+#225 vehicle ——“交通工具”合集
+vehicle
+vessel
+auto
+automobile
+truck
+#226 plate —— 实用之物
+plate
+board
+screen
+device
+belt
+loom
+fuel
+string
+tap
+tag
+instrument
+grain
+cement
+purse
+vacuum
+telescope
+petrol
+ladder
+kit
+counter
+#227 round —— 圆长粗细各种形状
+round
+dome
+lump
+globe
+#228 palace —— 回到“住的地方”
+palace
+housing
+harbor
+dwelling
+#229 laboratory —— 林林总总的“建筑物”
+laboratory
+dam
+pyramid
+platform
+shore
+clinic
+chamber
+canteen
+lounge
+#230 muscle —— 身体部位
+muscle
+eyebrow
+beard
+#231 costume —— 披戴、穿各种“衣物”
+costume
+garment
+helmet
+sandal
+#232 present ——“现在”的时光
+present
+presence
+current
+modern
+modernize
+meanwhile
+hitherto
+#233 period —— 度过的这“一段时期”
+period
+term
+generation
+stage
+brief
+era
+millennium
+transient
+phase
+#234 following —— 场次有点晚，“后”面才出现
+following
+series
+latter
+prolong
+defer
+sequence
+subsequent
+alphabetically
+alphabet
+alphabetism
+#235 previous ——“过去”时光只能怀缅了
+previous
+former
+formerly
+historical
+historian
+historic
+prehistoric
+outdated
+preceding
+#236 recording —— 时间、事件的记载
+recording
+version
+annual
+register
+curriculum
+#237 senior ——“老年”人
+senior
+ancient
+aging
+elderly
+#238 temporary —— 暂停下，来段“间歇”吧！
+temporary
+standstill
+suspend
+suspension
+#239 permanent —— 就这样“持久”下去
+permanent
+constant
+persistent
+persist
+chronic
+continuous
+consistent
+succession
+perpetuate
+#240 adulthood —— 不同的“人生时期”
+adulthood
+teen
+infant
+infancy
+juvenile
+mature
+#241 peer —— 认识到一些“伙伴”
+peer
+colleague
+acquaintance
+mate
+#242 chairman —— 上司与下属们
+chairman
+president
+presidential
+minister
+governor
+govern
+governance
+chancellor
+vice
+#243 schooling ——“学校群体”
+schooling
+scholar
+scholarly
+academic
+academy
+undergraduate
+bachelor
+doctoral
+#244 crowd —— 一个名词就是“一群人的集合”
+crowd
+overcrowded
+commission
+panel
+audience
+folk
+staff
+military
+committee
+band
+herd
+faculty
+personnel
+rally
+assembly
+assemble
+#245 candidate —— 场景中的身份、角色
+candidate
+native
+victim
+alien
+outsider
+participant
+applicant
+application
+founder
+disguise
+readership
+prey
+#246 servant —— 每人一份“职业”
+servant
+profession
+professionalism
+post
+analyst
+analytical
+workforce
+secretary
+physician
+athlete
+stylist
+stylish
+conductor
+knight
+anchor
+auditor
+steward
+consultant
+#247 parental ——“亲人”
+parental
+parenthood
+domestic
+household
+spouse
+ancestor
+ancestry
+kinship
+offspring
+paternal
+descendant
+#248 resident —— 有家可归的“居民”
+resident
+residence
+inhabitant
+townsfolk
+settler
+settle
+settlement
+#249 bottom —— 终于到了最“底”的基处
+bottom
+base
+basis
+ground
+foundation
+ultimately
+#250 forth —— 在“前面”
+forth
+priority
+prior
+precede
+predecessor
+privilege
+#251 below —— 低头看“下面”
+below
+underlying
+underlie
+underground
+downside
+#252 ocean —— 地理的万象“地貌”
+ocean
+horizon
+continent
+continental
+stream
+volcano
+marine
+bay
+coast
+#253 inner ——“内心”的深处
+inner
+internal
+external
+inherent
+innate
+interior
+intrinsic
+#254 planet —— 宇宙世界
+planet
+gravity
+cosmic
+cosmos
+galaxy
+#255 sexual —— 生物的种种特征
+sexual
+gender
+creature
+hormone
+organic
+organ
+organism
+pregnant
+neural
+#256 circle —— 笔直迂回各种走向
+circle
+shrink
+circulation
+surround
+surroundings
+wander
+distort
+steep
+roundabout
+encompass
+#257 edge —— 就在“边”上了啦
+edge
+margin
+boundary
+border
+#258 storm —— 多样的“自然现象”
+storm
+climate
+dawn
+tide
+halo
+haze
+#259 protein —— 生、物、化的物质
+protein
+virus
+molecular
+silicon

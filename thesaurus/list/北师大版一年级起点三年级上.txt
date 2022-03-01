@@ -1,0 +1,79 @@
+#Unit 1
+do
+left
+right
+litter
+touch
+move
+camera
+worry
+cry
+food
+smoking
+parking
+#Unit 2
+how much
+toy
+please
+fifty
+thirty
+robot
+sixty
+ninety
+forty
+seventy
+eighty
+hundred
+#Unit 3
+study
+whose
+computer
+CD
+glasses
+watch
+TV
+children
+photo
+radio
+mobile phone
+#Unit 4
+come in
+living room
+bedroom
+sleep
+sleeping
+bathroom
+wash
+washing
+come out
+fish
+fishing
+kitchen
+cook
+cooking
+dinner
+write
+writing
+drink
+drinking
+play
+playing
+paint
+painting
+#Unit 5
+our
+math
+English
+subject
+classroom
+playground
+their
+library
+music
+art
+Chinese
+science
+P.E.
+#Unit 6
+Christmas
+parents

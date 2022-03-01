@@ -1,0 +1,49 @@
+#Unit 1
+Nancy
+David
+#Unit 2
+fine
+well
+good
+#Unit 3
+grandpa
+grandma
+uncle
+aunt
+#Unit 4
+a pen
+a crayon
+a ruler
+a rubber
+#Unit 5
+a bus
+a car
+a taxi
+a bike
+#Unit 6
+a bee
+a bird
+a kite
+a balloon
+#Unit 7
+open the door
+close the window
+stand up
+sit down
+#Unit 8
+swim
+skate
+play football
+play chess
+#Unit 9
+one
+two
+three
+four
+five
+six
+seven
+#Unit 10
+a park
+a zoo
+a cinema

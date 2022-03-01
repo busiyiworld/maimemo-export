@@ -1,0 +1,3237 @@
+#Word List 1 数学（一）
+abscissa
+absolute value
+acute angle
+addition
+adjacent angle
+algebra
+algorithm
+angle bisector
+angular
+arc
+area
+arithmetic
+arithmetic mean
+arithmetic progression
+arm
+average
+average out
+bisect
+bracket
+breadth
+calculator
+calculus
+center
+chord
+coefficient
+common divisor
+composite number
+concentric
+concentric circle
+cone
+congruent
+consecutive integer
+cube
+decimal
+denominator
+diagonal
+diameter
+difference
+digit
+dimension
+dimensional
+divided evenly
+dividend
+divisible
+divisor
+equation
+equilateral triangle
+even number
+factor
+factorial
+formula
+fraction
+geometric
+geometric mean
+geometric progression
+hexagon
+hypotenuse
+improper fraction
+increment
+indices
+integer
+invariant
+isosceles
+isosceles triangle
+leg
+length
+mathematics
+matrix
+median
+median of a triangle
+midpoint
+millimeter
+minus
+#Word List 2 数学（二）
+multiple
+multiply
+natural number
+negative number
+number
+number lines
+numerator
+numerical
+obtuse angle
+octagon
+odd number
+ordinate
+parallel lines
+parallelogram
+parameter
+pentagon
+perimeter
+permutation
+perpendicular
+plane
+plus
+polygon
+positive number
+power
+prime factor
+prime number
+product
+proper fraction
+pyramid
+quadrant
+quadratic
+quadrilateral
+quadruple
+quotient
+radial
+radius
+ratio
+rectangle
+rectangular prism
+regular polygon
+remainder
+rhombus
+right angle
+right triangle
+salient
+scalene triangle
+semicircular
+side
+spatial
+square
+square root
+straight angle
+subset
+subtract
+sum
+surface area
+tangent
+theorem
+times
+total
+trapezium
+triangle
+triple
+variable
+variance
+vector
+vertex
+vertex angle
+vertical
+vertical angle
+whole number
+width
+#Word List 3 经济
+accountant
+agent
+antitrust law
+audit
+bankrupt
+borrowing
+brokerage
+budget
+capitalistic
+commercial
+compound interest
+consortium
+coupon
+currency
+deficit
+economic
+economical
+economy
+financial crash
+fiscal
+free market
+GNP
+import relief
+inflation
+interest rate
+inventory
+investment
+invigorate
+keynesian
+laissez-faire capitalism
+list price
+managerial
+margin
+mark up
+mark down
+mercantilist
+merchandise
+monetary
+mortgage
+nickel
+outlet
+output
+pension
+per capita
+premium
+privatize
+proceeds
+produce
+productivity
+profit
+profitable
+purchasing price
+quota
+rate
+rating
+real estate
+receipt
+recession
+recurrent
+revenue
+sale price
+simple interest
+sluggish economy
+statistic
+stipend
+stock
+subcontract
+subsidize
+subsidy
+surplus
+tariff
+transaction
+treasury
+turnaround
+turnover
+unemployment
+property
+proxy
+collateral
+consume
+takeover
+default
+#Word List 4 医学（一）
+acupuncture
+adrenal
+ambulance
+amphetamine
+analgesic
+anesthetic
+antipsychotic
+astringent
+cancerous
+clinical
+coronary angiography
+diagnose
+dope
+dosage
+dose
+disfunction
+erythromycin
+hypertherm
+immunology
+infectious
+infirmary
+influenza
+inherited
+inhibitor
+inoculate
+inpatient
+insomnia
+insulin
+intestine
+irritant
+kidney
+liver
+malady
+malaria
+manic
+marijuana
+marrow
+measles
+medication
+migraine
+morphine
+morphogenetic
+narcotic
+nausea
+nicotine
+off-the-shelf
+opiate
+outpatient
+panacea
+paralysis
+pediatric
+penicillin
+pharmaceutical
+pharmacy
+physician
+plague
+plaque
+pneumonia
+prescription
+proprietary
+psychiatric
+psychoactive
+psychological
+psychosis
+psychotherapy
+quarantine
+remedy
+respiratory
+respire
+sanitary
+sanitation
+smallpox
+spleen
+surgeon
+surgical
+susceptible
+sustenance
+syndrome
+tablet
+tardive
+#Word List 5 医学（二）化学
+thyroid
+tranquilizer
+tuberculosis
+typhoid
+ulcer
+vaccinate
+vaccine
+varicose
+vascular
+venous
+vitamin
+viral
+virulent
+virus
+womb
+yellow fever
+aluminium
+amalgam
+arsenic
+brazen
+bronze
+buffer
+caffeine
+calcium
+carbohydrate
+carbon
+carotene
+catalyst
+chemical
+cholesterol
+cocaine
+cocoa
+compound
+dioxide
+dispersant
+ethylene
+formaldehyde
+glycerol
+graphite
+helium
+hemoglobin
+herpesvirus
+hormone
+hydrocarbon
+hydrogen
+insecticide
+metabolize
+methane
+mineral
+molecule
+nitrogen
+nucleotide
+ocher
+oligosaccharide
+ore
+oxide
+ozone
+particulates
+pesticide
+petroleum
+phosphate
+pigment
+plutonium
+pollutant
+polymorph
+potassium
+precipitation
+preservative
+protein
+pseudomer
+radon
+ribosome
+sodium
+sulfur
+uranium
+cinder
+char
+crystallize
+#Word List 6 动物学 人类学
+anole
+anopheles
+antenna
+ape
+avian
+bipedalism
+carnivore
+caterpillar
+chameleon
+condor
+dinosaur
+fauna
+fledgling
+gorilla
+hamster
+herbivore
+herring
+hippo
+invertebrate
+lactation
+larva
+leaven
+lepidopter
+livestock
+lobster
+mammal
+microbe
+mosquito
+moth
+neuron
+parasite
+pelvis
+plankton
+plasma
+poultry
+predator
+prey
+primate
+pupation
+quadrupedal
+raccoon
+reptile
+rhinoceros
+rodent
+saliva
+scavenger
+silkworm
+skull
+specimen
+spine
+squirrel
+strain
+swarm
+tadpole
+vegetarian
+vertebrate
+vessel
+wasp
+weevil
+woodpecker
+yeast
+anthropology
+orthogenetic
+overlord
+paleolithic
+posterity
+prehistoric
+sacralization
+sexist
+throne
+sovereign
+hominid
+#Word List 7 物理 农业
+adhesive
+alloy
+amplitude
+ballistic
+blind spot
+conductive
+deform
+density
+dynamics
+elastic
+electrical
+electric
+electricity
+electromagnet
+electron
+electronic
+elliptical
+flexible
+gel
+globular
+gradient
+gravitation
+gravitational
+gravity
+inelasticity
+inertia
+infrared
+ion
+isotope
+laser
+leverage
+magnetic
+mass
+mechanics
+molten
+nucleus
+opaque
+parallax
+particle
+photon
+prism
+proton
+pulsation
+quanta
+radioactive
+reactor
+reflex
+refraction
+semiconductor
+speed velocity
+sphere
+transistor
+vacuum
+velocity
+rubbery
+agrarian
+arable
+cereal
+cultivate
+fertilizer
+graft
+graze
+niche
+nomad
+plantation
+specialty
+pasture
+#Word List 8 地理 植物学
+algae
+cashew
+coriander
+escarole
+flora
+foliage
+forage
+hemp
+husk
+intracellular
+laurel
+maize
+membrane
+mitochondria
+organelle
+organic
+palm
+photosynthesis
+pollen
+pollinate
+protoplasm
+rib
+runner
+species
+spinach
+squash
+stem
+sugarcane
+tissue
+unicellular
+vegetation
+alluvial
+arctic
+aseismic
+clay
+delta
+desert
+domain
+epicenter
+equator
+Eurasian
+geography
+geology
+hemisphere
+latitude
+leeway
+limestone
+longitudinal
+lunar
+magma
+magnitude
+marine
+meteorite
+peninsula
+prairie
+ranch
+rapid
+salinity
+seismic
+seismology
+semi-arid
+slant
+solar
+stratigraphy
+theodolite
+topographical
+topsoil
+transatlantic
+tributary
+tropical
+Yare
+terrain
+zoning
+#Word List 9 法律 语言学 文学
+enact
+enforce
+investigate
+judgment
+jurisdiction
+justify
+lawsuit
+legacy
+legislature
+legitimate
+liability
+lien
+litigant
+malpractice
+motion
+obligation
+ordinance
+parole
+penalize
+perpetrate
+plaintiff
+probate
+prosecute
+purge
+recess
+recoup
+respondent
+sentinel
+session
+statute
+sue
+superintendent
+tribunal
+vendor
+subterfuge
+tactic
+practitioner
+defendant
+bilingual
+clause
+conjunction
+countable
+dialect
+etymology
+figurative
+idiomatic
+infinitive
+lingo
+linguistics
+lyrical
+methodology
+non-verbal
+paradox
+parenthetical
+passive
+polygraph
+poststructuralism
+punctuation
+rhetoric
+skim
+syllable
+synonymous
+tag
+transitive
+typology
+vocal
+morphology
+terminology
+anthology
+autobiography
+composition
+epic
+fiction
+pornography
+mythology
+#Word List 10 生物学 军事 宗教
+amino acid
+anatomy
+ankle
+antibiotic
+antidote
+appendix
+bacteria
+biofeedback
+biological
+biota
+bloodstream
+bronchial
+carcass
+chordate
+chromosome
+clavicle
+crest
+cytology
+cytoplasm
+embryo
+enzyme
+fetal
+fossil
+fungi
+gene
+genetic
+gland
+hereditary
+admiral
+ammunition
+array
+battalion
+demobilization
+enlist
+fortress
+levy
+maneuver
+martial
+militancy
+missile
+nuclear
+rear-echelon
+recruit
+regiment
+samurai
+sheathe
+sniper
+strategic
+strategy
+wage
+warrior
+defensive
+baptism
+Buddha
+cult
+divine
+doctrine
+dogma
+Islam
+mosque
+mundane
+parable
+parish
+Puritan
+religious
+secular
+#Word List 11 航天/天体 艺术 政治 其他
+aeronautics
+airborne
+asteroid
+astronaut
+astronomer
+aviation
+black hole
+celestial
+comet
+cosmic
+eclipse
+envelope
+galaxy
+neutron star
+planetary
+spherical
+supernova
+carol
+chant
+choreography
+concert
+concerto
+debut
+ethnomusicology
+finale
+foreshorten
+instrument
+orchestra
+renaissance
+rendition
+repertory
+rhythmic
+rhythmical
+statue
+calligraphy
+apolitical
+autonomy
+bipartisan
+bureaucrat
+franchise
+municipal
+NATO
+North Atlantic Treaty Organization
+non-partisan
+partisan
+polyarchy
+regime
+suffrage
+terrestrial
+territory
+totalitarian
+archaeology
+climatology
+demography
+empirical
+ethics
+graphics
+iconography
+qualitative
+tentative
+theoretical
+analytical
+conceptual
+concrete
+applied
+hygiene
+#Word List 12 社会事物（一） 器具
+antifreeze
+ceramic
+apparatus
+apparel
+appliance
+chisel
+component
+device
+equipment
+hinge
+implement
+latch
+microwave
+mute
+panel
+phonograph
+pliers
+plug
+plywood
+porcelain
+pottery
+receptor
+shuttle
+sickle
+staple
+throttle
+trench
+scale
+telescope
+wrapper
+#Word List 12 社会事物（一）称呼
+recipient
+anonymous
+apologist
+arbitrator
+artisan
+attorney
+authorship
+bandit
+benefactor
+burglar
+cartographer
+celebrity
+chef
+clerical
+comedian
+consultant
+contractor
+courier
+distributor
+donor
+dropout
+emperor
+entrepreneur
+entrepreneurship
+executioner
+gourmet
+gymnast
+gynecologist
+historian
+hypnotist
+signature
+tenant
+victor
+#Word List 12 社会事物（一）建筑
+architect
+archive
+auditorium
+baroque
+basement
+buttress
+cathedral
+chamber
+cornerstone
+pantheon
+tectonic
+tubular
+threshold
+#Word List 13 社会事物（二）交通
+congested
+embark
+automatic
+automobile
+braking
+chaise
+cylinder
+diesel
+freeway
+gasoline
+headlight
+navigation
+pedal
+pedestrian
+reef
+relay
+sedan
+steerage
+supersonic
+windshield
+#Word List 13 社会事物（二）其他事物
+bakery
+barrel
+basketry
+beverage
+bookkeeping
+boomerang
+booth
+bottleneck
+bouquet
+brewery
+brine
+buoy
+bust
+cabin
+cache
+camcorder
+candidate
+canopy
+canvas
+censorship
+census
+commuter
+container
+cork
+detergent
+domesticity
+fiberglass
+funnel
+fuse
+helicopter
+ideology
+recreation
+insurance
+ceremonious
+#Word List 13 社会事物（二）饮食
+braise
+palatable
+cater
+caviar
+chocolate
+clam
+culinary
+dietary
+digest
+dine
+dough
+edible
+ingest
+oatmeal
+processed food
+recipe
+sandwich
+sweetener
+#Word List 14 社会事物（三）文书
+boldface
+portfolio
+brochure
+catalogue
+charter
+chronicle
+chronology
+compendium
+context
+contraction
+contractual
+convention
+diploma
+editorial
+episode
+guideline
+manuscript
+memoir
+memorandum
+notification
+pamphlet
+paperwork
+petition
+protocol
+referendum
+version
+#Word List 14 社会事物（三）民众
+civic
+civil
+civilization
+compatriot
+congregation
+congress
+denationalization
+electorate
+inhabitant
+lot
+mainstream
+monarch
+phenomenon
+mason
+#Word List 14 社会事物（三）组织
+gregarious
+commission
+committee
+corporation
+division
+faction
+federal
+guild
+#Word List 14 社会事物（三）资格
+eligible
+entitled
+#Word List 14 社会事物（三）时代
+contemporary
+epochal
+era
+juvenile
+medieval
+millennium
+outdated
+outmoded
+overdue
+#Word List 14 社会事物（三）种族
+desegregation
+gypsy
+enslave
+ethnic
+ethnicity
+ethnocentric
+ethnographic
+ethnology
+interracial
+minority
+racist
+tribal
+Spaniard
+#Word List 15 社会事物（四）亲属
+clan
+ancestor
+forebear
+fraternal
+kinship
+lineage
+marital
+maternal
+matrilineal
+paternal
+paternity
+patriarchal
+patrilineal
+spouse
+#Word List 15 社会事物（四）货物
+cargo
+freight
+importation
+#Word List 15 社会事物（四）处所
+dwelling
+habitat
+habitation
+haven
+locale
+refinery
+reservoir
+roller coaster
+sanctuary
+sewage
+sewer
+#Word List 15 社会事物（四）运动
+hockey
+jog
+jolt
+outdistance
+outfield
+plummet
+slowdown
+soar
+spiral
+stride
+traverse
+#Word List 15 社会事物（四）思想
+insight
+intention
+orientation
+parental leave
+receptive
+retentive
+sentiment
+standpoint
+prestige
+#Word List 15 社会事物（四）残留物
+residue
+sediment
+vestige
+wreckage
+#Word List 15 社会事物（四）科学（家）
+logistics
+nutrition
+paleontologist
+parapsychology
+pathology
+pharmacology
+physiology
+pseudoscience
+socio-economic
+sociology
+wholesale
+#Word List 15 社会事物（四）顶点
+culminate
+peak
+pinnacle
+vertices
+#Word List 15 社会事物（四）出售
+auction
+bargain
+bid
+#Word List 16 自然事物 气象
+humid
+inclement
+meteorologist
+paleoclimatologist
+precipitate
+smog
+stratosphere
+#Word List 16 自然事物 其他
+amber
+hail
+atmosphere
+aurora
+avalanche
+blast
+crater
+deluge
+ecological systems
+ecology
+glacier
+granite
+hurricane
+#Word List 16 普通状态（一）正常
+commonplace
+orthodox
+routine
+#Word List 16 普通状态（一）异常
+abnormal
+anomalous
+exotic
+extraterrestrial
+heretical
+infrequent
+inverse
+lopsided
+miracle
+nontarget
+novelty
+paranormal
+unconventional
+unpredictable
+unrealistic
+untenable
+slip
+#Word List 16 普通状态（一）随机
+accidental
+arbitrary
+contingent
+haphazard
+unbridled
+#Word List 16 普通状态（一）精确
+accurate
+literal
+sophisticated
+#Word List 16 普通状态（一）对立
+adversary
+adverse
+antagonism
+antithesis
+archenemy
+foe
+hostile
+exclusionary
+#Word List 16 普通状态（一）模糊
+ambiguous
+blur
+equivocal
+loom
+obscure
+potential
+vague
+#Word List 16 普通状态（一）清晰
+appreciable
+clarify
+explicit
+expressly
+manifestation
+patent
+pronounced
+remarkable
+specific
+#Word List 16 普通状态（一）平衡
+balance
+bias
+equilibrium
+marginalize
+stabilize
+tendency
+tilt
+#Word List 17 普通状态（二）奇怪
+awkward
+bizarre
+erratic
+#Word List 17 普通状态（二）一致
+coincide
+consensus
+consistent
+intermingled
+nexus
+proportionate
+symmetry
+systematic
+tally
+unification
+unison
+liken
+collide
+#Word List 17 普通状态（二）方便
+convenient
+expedient
+inconvenience
+#Word List 17 普通状态（二）严厉、严肃
+demure
+severe
+stringent
+#Word List 17 普通状态（二）困境
+dilemma
+famine
+impoverish
+indigent
+irreconcilable
+quandary
+#Word List 17 普通状态（二）混乱
+destabilize
+disorder
+disrupt
+disruptive
+disturbance
+havoc
+miscellaneous
+problematic
+specious
+turbulent
+turmoil
+#Word List 17 普通状态（二）和谐
+dissonant
+harmonize
+incompatible
+reconcile
+solidarity
+sympathetic
+prospect
+#Word List 17 普通状态（二）危险
+endanger
+hazardous
+imperil
+jeopardize
+menace
+precarious
+venture
+#Word List 17 普通状态（二）灭绝
+exterminate
+extinct
+extinction
+extinguish
+mortality
+obituary
+perish
+#Word List 17 普通状态（二）适合
+inappropriate
+inept
+maladaptive
+#Word List 17 普通状态（二）强烈
+acute
+cogent
+intense
+vehement
+#Word List 17 普通状态（二）空白
+untainted
+vacancy
+vanish
+#Word List 18 正向状态 快乐
+beatific
+euphoria
+well-being
+#Word List 18 负向状态 不幸
+aftermath
+calamity
+casualty
+catastrophe
+doomed
+#Word List 18 负向状态 烦躁
+agitate
+infest
+obsess
+#Word List 18 负向状态 病症
+ailment
+allergic
+amnesia
+arthritis
+asthma
+convulsion
+cramp
+diabetes
+encephalitis
+epidemic
+hypertension
+obesity
+sunburn
+trauma
+#Word List 18 负向状态 厌恶
+aversion
+nuisance
+repellent
+#Word List 18 负向状态 肮脏
+blemish
+contaminate
+effluent
+landfill
+notorious
+odor
+smear
+stench
+#Word List 18 负向状态 沮丧
+melancholy
+depress
+dismal
+frustrate
+#Word List 18 负向状态 可怕
+formidable
+grim
+horrendous
+nightmare
+stun
+superstition
+vindictive
+stinging
+terrify
+#Word List 18 负向状态 愤怒
+indignation
+inflammatory
+infuriate
+irate
+provocative
+rage
+resent
+#Word List 18 负向状态 其他
+exhaust
+fatigue
+deplore
+embarrass
+thwart
+torture
+tyrannical
+wasteful
+#Word List 19 属性（一）数量
+abundant
+adequate
+affluent
+aggregate
+altitude
+ample
+cumulative
+deficient
+entirety
+enumerate
+exodus
+fecundity
+fertile
+frequency
+fruitful
+gauge
+multitude
+opulent
+prolific
+quantitative
+segment
+solely
+solo
+sprinkle
+substantial
+sufficient
+proportion
+#Word List 19 属性（一）附属
+accessory
+ancillary
+auxiliary
+derivative
+inherent
+innate
+intrinsic
+possessive
+subordinate
+#Word List 19 属性（一）相邻
+adjacent
+adjoining
+contiguous
+#Word List 19 属性（一）关系
+analogous
+antecedent
+antedate
+applicable
+approximate
+bilateral
+binary
+comparable
+comparative
+compatible
+complement
+complementary
+concurrent
+coordinate
+correlate
+dichotomy
+disparate
+distinct
+distinguish
+diverse
+diversify
+egalitarian
+equalize
+equidistant
+equilateral
+equivalent
+heterogeneity
+homogeneity
+homogeneous
+horizontal
+identical
+integral
+irrelevant
+linkage
+mutual
+parallel
+pertain
+relevant
+resemble
+similarity
+affinity
+#Word List 20 属性（二）新旧
+antiquated
+antique
+bygone
+cliché
+conventional
+hoary
+stale
+stereotype
+incipient
+novice
+pristine
+#Word List 20 属性（二）秘密
+arcane
+mysterious
+mystic
+cue
+furtive
+informant
+prowl
+secretary
+suggestive
+#Word List 20 属性（二）真实
+authentic
+factual
+genuine
+#Word List 20 属性（二）量词
+batch
+bout
+bunch
+cluster
+calorie
+centimeter
+pint
+ration
+slice
+#Word List 20 属性（二）利害
+beneficial
+edge
+vantage
+necessitate
+#Word List 20 属性（二）持续
+chronic
+coherent
+constant
+continuation
+continuous
+durability
+duration
+eternal
+longevity
+perennial
+periodic
+permanent
+perpetuate
+persistent
+progressive
+successive
+sustain
+lease
+incoherent
+inconsistent
+intermittent
+temporary
+#Word List 20 属性（二）简洁
+brevity
+compact
+sketchy
+superficial
+succinct
+#Word List 20 属性（二）复杂
+complex
+complexity
+convoluted
+inexplicable
+inextricable
+intricate
+profound
+#Word List 21 属性（三）重要
+consequence
+crucial
+dominant
+elite
+essential
+far-reaching
+fatal
+fatality
+momentous
+paramount
+pivotal
+primary
+signify
+substantive
+elementary
+inconsequential
+marginal
+minuscule
+minute
+negligible
+nuance
+peripheral
+periphery
+trivial
+unobtrusive
+#Word List 21 属性（三）外表
+configuration
+contour
+exterior
+ostensible
+profile
+crinkle
+#Word List 21 属性（三）笨重
+cumbersome
+unwieldy
+underweight
+#Word List 21 属性（三）先后
+hitherto
+delay
+ensue
+eventual
+posthumous
+postpone
+subsequent
+ultimate
+simultaneously
+synchronize
+sequence
+imminent
+instantaneous
+precaution
+precede
+predate
+predecessor
+preliminary
+previous
+primitive
+primordial
+proactive
+prompt
+unprecedented
+#Word List 21 属性（三）疏密
+dense
+intimate
+replete
+#Word List 21 属性（三）程度
+drastic
+emergent
+enormous
+exaggerate
+excessive
+exhaustive
+exorbitant
+immoderate
+extremely
+radical
+rudimentary
+thorough
+ingrained
+underlying
+intact
+moderate
+permissive
+pertinent
+immature
+mature
+premature
+#Word List 22 属性（四）范围
+coverage
+extent
+incidence
+span
+extensive
+pervasive
+universal
+widespread
+endemic
+in-house
+residential
+phase
+exception
+#Word List 22 属性（四）方位
+external
+extrinsic
+outermost
+outmost
+without
+frontal
+interior
+lateral
+unilateral
+verge
+wayside
+proximity
+vicinity
+outskirts
+suburban
+interstate
+underlie
+#Word List 22 属性（四）颜色
+colorize
+hue
+monochrome
+#Word List 22 属性（四）大小
+immense
+jumbo
+metropolitan
+prodigious
+sensational
+titanic
+tremendous
+peerless
+unparalleled
+predominate
+miniature
+#Word List 22 属性（四）公正
+dispassionate
+equitable
+impartial
+impartiality
+impersonal
+soundness
+neutral
+#Word List 22 属性（四）结构
+procedure
+constitute
+formation
+frame
+framework
+platform
+scenario
+skeleton
+#Word List 22 属性（四）形状
+inflection
+live
+retention
+static
+stationary
+status quo
+status quo ante
+servitude
+stiff
+lamellar
+oval
+plumb
+spiny
+stubby
+wedge-shaped
+#Word List 22 属性（四）速度
+rapidity
+tempo
+hasty
+#Word List 23 状态变化 减少/减轻/缩小
+abridge
+alleviate
+curtail
+cutback
+decelerate
+deduct
+deduction
+diminish
+diminution
+reduction
+dwindle
+minimize
+debilitate
+disarm
+ease
+mitigate
+subdue
+sap
+discount
+downsizing
+relegate
+impair
+retard
+regressive
+steep
+#Word List 23 状态变化 增加/加重/扩大
+accelerate
+accretion
+accrue
+additional
+enhance
+upgrade
+upsurge
+upturn
+zoom
+boom
+maximize
+burgeon
+aggravate
+exacerbate
+consolidate
+fortify
+intensify
+reinforce
+strengthen
+substantiate
+additive
+agglomeration
+amass
+amplify
+broaden
+bulge
+enrich
+escalate
+expand
+swell
+prolong
+expedite
+#Word List 23 状态变化 改变
+adaptation
+amend
+revise
+adjust
+convert
+diversion
+distract
+distort
+fluctuate
+innovation
+metamorphose
+mutation
+perversion
+renovate
+switch
+transform
+upheaval
+variation
+variety
+volatile
+impressionable
+invariable
+decent
+malleable
+#Word List 24 物体行为（一）躲避
+absenteeism
+avoidance
+circumvent
+elude
+elusive
+eschew
+indispensable
+inevitable
+sidestep
+#Word List 24 物体行为（一）促进
+activate
+actuate
+boost
+impetus
+incentive
+promote
+trigger
+spur
+stimulate
+breakthrough
+impulse
+groundbreaking
+#Word List 24 物体行为（一）预知
+anticipate
+expectation
+forecast
+foresee
+inspiration
+omen
+portend
+precursor
+prediction
+symptom
+estimate
+prescient
+prospective
+#Word List 24 物体行为（一）假设
+assumption
+extrapolate
+hypothesis
+hypothesize
+postulate
+presume
+#Word List 24 物体行为（一）压缩
+compile
+compress
+condense
+encapsulate
+epitome
+#Word List 24 物体行为（一）腐蚀
+caustic
+corrode
+erode
+#Word List 24 物体行为（一）分裂
+crack
+debacle
+dismember
+fracture
+rupture
+scatter
+segregate
+fissure
+fragment
+fragmentary
+partially
+respective
+crumple
+#Word List 24 物体行为（一）粉碎
+crumble
+debris
+demolish
+disintegration
+fragile
+#Word List 24 物体行为（一）衰落
+decay
+degenerate
+degrade
+deteriorate
+#Word List 25 物体行为（二）描述
+delineate
+depict
+elaborate
+embody
+narrator
+portray
+sketch
+specify
+reiterate
+underscore
+excerpt
+quotation
+#Word List 25 物体行为（二）过失
+delinquent
+erroneous
+flawed
+fallacy
+fault
+malfunction
+mishap
+mismatch
+disregard
+negligence
+oversight
+#Word List 25 物体行为（二）液体及相关行为
+drain
+drift
+drizzle
+eject
+spill
+instill
+irrigate
+implant
+influx
+spray
+inundate
+submerge
+saturate
+rinse
+scour
+scrub
+defrost
+dip
+evaporate
+moisture
+purify
+launder
+secrete
+solvent
+leakage
+mobility
+osmosis
+#Word List 25 物体行为（二）气体及相关行为
+emanate
+emit
+exhale
+inhale
+fume
+fumigate
+vent
+#Word List 25 物体行为（二）光及相关动作
+fluorescent
+luminous
+nocturnal
+optical
+illuminate
+irradiate
+radiate
+rekindle
+spectrum
+#Word List 25 物体行为（二）火及相关动作
+campfire
+combustible
+ignite
+ignition
+incinerate
+sear
+weld
+#Word List 26 自身行为（一）废除
+abolish
+abrogation
+obsolescence
+obsolete
+repeal
+rescind
+#Word List 26 自身行为（一）摩擦
+abrasion
+attrition
+breakage
+breakdown
+friction
+#Word List 26 自身行为（一）熟悉
+accomplished
+adept
+adroit
+deft
+dexterous
+acquaintance
+familiarity
+familiarize
+#Word List 26 自身行为（一）认可
+accord
+accordingly
+approbation
+connive
+endorse
+ratify
+sanction
+unanimous
+#Word List 26 自身行为（一）教育
+academic
+extracurricular
+pedagogical
+didactic
+curriculum
+elective
+discourse
+doctorate
+expertise
+lore
+grade school
+primer
+qualification
+seminar
+apprentice
+proctor
+principal
+sophomore
+adopt
+envision
+experimental
+qualify
+tuition
+#Word List 26 自身行为（一）获得
+access
+accessible
+inaccessible
+acquire
+acquired
+obtainable
+procure
+reclaim
+secure
+#Word List 26 自身行为（一）爱好
+addiction
+amateur
+appetite
+philanthropy
+predisposition
+preference
+propensity
+#Word List 26 自身行为（一）劝告
+admonition
+advisory
+dissuade
+lobby
+recommend
+#Word List 26 自身行为（一）分离
+alien
+alienate
+differentiate
+discrepant
+discrete
+discrimination
+displace
+diverge
+estrange
+expatriate
+insulate
+isolation
+partition
+polarity
+split
+#Word List 27 自身行为（二）服从
+amenable
+comply
+compromise
+conform
+obedience
+submission
+succumb
+yield
+deferential
+ductile
+pliant
+disobey
+sturdy
+tenacious
+#Word List 27 自身行为（二）供给
+bestow
+confer
+donate
+enfranchise
+impart
+oversupply
+provenance
+provision
+stockpile
+storage
+#Word List 27 自身行为（二）限制
+circumscribe
+confine
+constraint
+impose
+imprisonment
+incarcerate
+restrain
+restriction
+regulate
+interfere
+intervene
+optional
+#Word List 27 自身行为（二）分类
+category
+classify
+zone
+#Word List 27 自身行为（二）偿赎
+compensate
+countervail
+liquidation
+offset
+ransom
+refund
+reimburse
+repayment
+replenish
+restitution
+supplement
+#Word List 27 自身行为（二）命令
+compulsory
+embargo
+imperative
+injunction
+mandate
+#Word List 27 自身行为（二）承认
+commitment
+concede
+recognize
+testify
+disavow
+#Word List 27 自身行为（二）生养
+conceive
+pregnant
+proliferate
+reproduce
+breeding
+foster
+rear
+hatch
+incubation
+livelihood
+sojourn
+subsist
+survive
+sterile
+unviable
+wither
+#Word List 28 自身行为（三）感觉
+conscious
+perceptible
+sensory
+sentient
+hypersensitive
+imperceptible
+unwitting
+intuition
+olfactory
+tactile
+sensual
+seductive
+nostalgia
+morale
+psyche
+#Word List 28 自身行为（三）计划
+conspire
+intrigue
+project
+#Word List 28 自身行为（三）思考
+comprehend
+deem
+contemplate
+speculate
+recall
+reminiscence
+reflective
+speculative
+subconscious
+probe
+revert
+#Word List 28 自身行为（三）处理
+filtration
+deal
+dispose
+disposable
+#Word List 28 自身行为（三）装饰
+decorate
+embellish
+intersperse
+motif
+ornament
+ornate
+spruce
+inscribe
+collar
+#Word List 28 自身行为（三）偏离
+depart
+detach
+detached
+deviate
+#Word List 28 自身行为（三）放弃
+dump
+discard
+jettison
+relinquish
+resign
+retirement
+#Word List 28 自身行为（三）暴露
+divulge
+exposure
+play off
+reveal
+surface
+#Word List 28 自身行为（三）怀疑
+dubious
+questionable
+skeptical
+skeptic
+#Word List 28 自身行为（三）得出
+derive
+elicit
+genesis
+traceable
+#Word List 28 自身行为（三）超越
+emulate
+exceed
+outgrow
+outnumber
+pursue
+surpass
+#Word List 28 自身行为（三）崇拜
+enshrine
+esteem
+lionize
+obeisance
+revere
+venerable
+#Word List 28 自身行为（三）放出
+contagious
+transmit
+transpire
+emancipate
+erupt
+popularity
+popularize
+propaganda
+propagate
+publicity
+release
+render
+#Word List 29 自身行为（四）制造
+customize
+fabricate
+forge
+generate
+manufacture
+mold
+spurious
+#Word List 29 自身行为（四）模仿
+duplicate
+repetition
+phony
+replacement
+replica
+replicate
+substitute
+supersede
+imitate
+mimic
+paradigm
+prototype
+#Word List 29 自身行为（四）指示
+implicit
+indicate
+prescribe
+propose
+propound
+referent
+token
+typify
+#Word List 29 自身行为（四）移动
+invert
+rotate
+rotation
+whirl
+locomotion
+migrate
+remove
+shift
+transfer
+transplant
+jar
+wiggle
+stagger
+#Word List 29 自身行为（四）发生
+encounter
+incur
+occurrence
+onset
+originate
+pop
+prevail
+spark
+spontaneous
+stage
+thrive
+#Word List 29 自身行为（四）循环
+anew
+aperiodic
+circulation
+recapture
+retrieve
+regain
+recur
+rehash
+recast
+rehabilitate
+resurgence
+revitalize
+revive
+retail
+#Word List 29 自身行为（四）出现
+advent
+emerge
+germinate
+#Word List 29 自身行为（四）选择
+indiscriminate
+alternative
+preferable
+reluctant
+selective
+#Word List 29 自身行为（四）停顿
+halt
+interval
+letup
+#Word List 29 自身行为（四）忍受
+intolerable
+undergo
+withstand
+#Word List 30 涉他行为（一）吸引
+absorb
+absorbent
+desirable
+entice
+induce
+spectacular
+#Word List 30 涉他行为（一）节制
+abstinence
+preventive
+prohibitive
+taboo
+tamper
+temperance
+#Word List 30 涉他行为（一）免除
+acquit
+deregulate
+exempt
+exonerate
+immune
+impunity
+#Word List 30 涉他行为（一）授权
+authoritative
+authorize
+warrant
+#Word List 30 涉他行为（一）拥护
+advocate
+align
+allegiance
+bolster
+espouse
+#Word List 30 涉他行为（一）加入
+admittance
+affiliate
+enrollment
+input
+installation
+intake
+merge
+mingle
+unionize
+integrate
+#Word List 30 涉他行为（一）争斗
+aggressive
+contend
+contentious
+controversial
+opponent
+rival
+scramble
+strife
+strive
+campaign
+crusade
+bombardment
+#Word List 30 涉他行为（一）聚拢
+alliance
+conglomerate
+assemble
+glean
+synthesize
+synthetic
+coalesce
+centralized
+convergent
+deposit
+incorporate
+bondage
+#Word List 30 涉他行为（一）配发
+allocate
+allot
+apportion
+assign
+dispense
+allowance
+#Word List 30 涉他行为（一）请求
+application
+invoke
+plead
+supplicant
+#Word List 30 涉他行为（一）确定
+guarantee
+ascertain
+assertion
+assure
+confirm
+resolve
+verdict
+#Word List 31 涉他行为（二）判断
+identify
+identification
+assess
+criterion
+evaluate
+underestimate
+#Word List 31 涉他行为（二）帮助
+assist
+endowment
+extricate
+facilitate
+subscribe
+#Word List 31 涉他行为（二）原因
+motivation
+ascribe
+attribute
+causal
+#Word List 31 涉他行为（二）利用
+available
+feasible
+harness
+odds
+utilitarian
+utilize
+exploit
+overuse
+deplete
+expenditure
+deploy
+#Word List 31 涉他行为（二）阻碍
+balk
+bar
+blockade
+check
+curb
+deter
+drawback
+forestall
+hamper
+handicap
+hinder
+impede
+impediment
+stunt
+#Word List 31 涉他行为（二）进攻
+beset
+besiege
+charge
+incursion
+infringe
+interloper
+intrusion
+conquer
+capture
+captivity
+retaliate
+#Word List 31 涉他行为（二）反叛
+betray
+reverse
+reversible
+#Word List 31 涉他行为（二）反对
+contradict
+demur
+deprecate
+dissent
+dissident
+objection
+opposition
+rebut
+refute
+boycott
+confront
+resist
+#Word List 31 涉他行为（二）迷惑
+captivate
+confuse
+delude
+disorient
+stray
+#Word list 31 涉他行为（二）隐藏
+connote
+camouflage
+conceal
+disguise
+#Word List 32 涉他行为（三）约束
+bind
+binding
+bound
+boundary
+conditional
+manipulate
+liberalize
+#Word List 32 涉他行为（三）保护
+conserve
+protégé
+shield
+shelter
+#Word List 32 涉他行为（三）合作
+coexist
+collaborate
+cooperative
+interdependence
+interplay
+interrelate
+reciprocal
+drudgery
+#Word List 32 涉他行为（三）信任
+credence
+credible
+credit
+creed
+reliable
+reliance
+#Word List 32 涉他行为（三）贬低
+despise
+disparage
+debase
+depreciate
+descend
+#Word List 32 涉他行为（三）破坏
+decimate
+devastate
+dismantle
+spoil
+spoilage
+tatter
+undermine
+violate
+sabotage
+topple
+#Word List 32 涉他行为（三）说明
+decipher
+demonstrable
+denote
+exemplify
+explicate
+expound
+illustrate
+interpretive
+paraphrase
+proclaim
+prospectus
+unravel
+verify
+#Word List 32 涉他行为（三）工作
+designate
+endeavor
+preside
+pragmatic
+discharge
+dismissal
+impeach
+#Word List 32 涉他行为（三）分散
+diffuse
+disperse
+disseminate
+diffusive
+distribution
+dilute
+dissolve
+dissipate
+evacuate
+#Word List 33 涉他行为（四）驱逐
+dislodge
+evict
+exile
+exorcism
+expulsion
+oust
+repel
+#Word List 33 涉他行为（四）清除
+collapse
+eliminate
+eradicate
+herbicide
+revoke
+xenophobia
+#Word List 33 涉他行为（四）穿透
+embed
+engrave
+insertion
+penetrate
+permeate
+stab
+extract
+extraction
+incisive
+shatter
+#Word List 33 涉他行为（四）包围
+encase
+enclose
+encompass
+entrench
+entrenched
+envelop
+girdle
+inclusion
+mob
+occupy
+#Word List 33 涉他行为（四）要求
+entail
+premise
+prerequisite
+requisite
+stipulate
+#Word List 33 涉他行为（四）切割
+excise
+intercept
+intersect
+severance
+#Word List 33 涉他行为（四）缠绕
+afoul
+implicate
+implication
+tangle
+#Word List 33 涉他行为（四）称赞
+laudable
+laudatory
+tout
+#Word List 33 涉他行为（四）观察
+inspection
+observation
+perceive
+perceptive
+scan
+screen
+scrutinize
+surveillance
+#Word List 33 涉他行为（四）镇压
+persecute
+repress
+suppress
+#Word List 33 涉他行为（四）支持
+patron
+patronage
+patronize
+proponent
+prop
+protagonist
+responsive
+sponsor
+supportive
+underpin
+#Word List 33 涉他行为（四）保留
+withhold
+preserve
+reservation
+retain
+#Word List 34 正向评价 抱负
+ambition
+aspire
+enterprise
+#Word List 34 正向评价 热情
+ardent
+enthusiastic
+fanatic
+fervent
+#Word List 34 正向评价 慷慨
+bounty
+charitable
+charity
+hospitable
+#Word List 34 正向评价 谨慎
+conscientious
+deliberate
+discretion
+intent
+meticulously
+modest
+preoccupy
+prudent
+prudery
+scrupulous
+vigilant
+visionary
+quiescent
+#Word List 34 正向评价 美丽
+delicate
+esthetic
+florid
+#Word List 34 正向评价 活泼
+animate
+dynamic
+lush
+perk
+radiant
+reactive
+robust
+vigorous
+#Word List 34 正向评价 功效
+efficacious
+efficacy
+efficiency
+operative
+overwhelming
+telling
+validate
+valid
+propitious
+futile
+invalid
+invalidate
+null
+#Word List 34 正向评价 优秀
+eminent
+exceptional
+optimal
+pre-eminent
+preponderant
+prominent
+quintessential
+superb
+prosper
+prosperity
+renowned
+reputable
+reputation
+#Word List 34 正向评价 聪颖
+advisable
+ingenious
+judicious
+proficient
+sapience
+sensible
+shrewd
+skillful
+versatile
+trenchant
+witty
+irrational
+#Word List 34 正向评价 其他
+subtle
+upright
+amiable
+audacious
+erudition
+frugal
+imperial
+painstaking
+strenuous
+#Word List 35 负向评价 贪婪
+acquisitive
+cupidity
+insatiable
+voracious
+#Word List 35 负向评价 虚假
+adulatory
+artificial
+counterfeit
+deceptive
+fake
+falsity
+fictitious
+fraudulent
+illusionary
+illusory
+mask
+pretentious
+#Word List 35 负向评价 蠢、笨、傻
+dummy
+dupe
+gullible
+illiterate
+obtrusive
+obtuse
+trite
+#Word List 35 负向评价 残忍
+brutal
+inhumane
+relentless
+rigorous
+vicious
+#Word List 35 负向评价 有害
+deleterious
+detriment
+detrimental
+lethal
+noxious
+pernicious
+prejudicial
+victim
+toxic
+toxin
+#Word List 35 负向评价 懒惰
+disinclination
+idle
+sloth
+sluggish
+loaf
+#Word List 35 负向评价 恶毒
+hideous
+poisonous
+scandal
+venomous
+#Word List 35 负向评价 贫困
+monotonous
+needy
+paucity
+predicament
+scarcity
+sparse
+#Word List 35 负向评价 傲慢
+complacent
+narcissism
+ostentation
+overweening
+pompous
+superior
+vanity
+#Word List 35 负向评价 冗长
+profusion
+redundant
+tedious
+voluminous
+#Word List 35 负向评价 其他
+adamant
+apathetic
+bleak
+crude
+envious
+sapless
+#Word List 36 负向行为 痛苦
+afflict
+grueling
+pang
+#Word List 36 负向行为 犯罪
+convict
+criminology
+guilty
+homicide
+illicit
+incriminate
+inmate
+reprisal
+shoplift
+smuggle
+solicit
+#Word List 36 负向行为 掠夺
+abduct
+kidnap
+bereft
+denude
+deprive
+encroach
+engulf
+fade
+inalienable
+monopoly
+undercut
+counteract
+#Word List 36 人及相关动作 视听
+acoustic
+chirp
+monitor
+pry
+browse
+detect
+detectable
+discern
+discernible
+invisible
+tangible
+visual
+short-sighted
+spectator
+interrogate
+#Word List 36 人及相关动作 身体行为
+adolescent
+elevate
+embrace
+excrete
+excursion
+expedition
+hum
+impact
+indulge
+intangible
+posture
+raid
+rally
+sedentary
+siege
+stamp
+stance
+stroke
+vulnerable
+barrack
+behavioral
+startle
+#Word List 36 人及相关动作 能力
+afford
+aptitude
+competent
+omnipotent
+potent
+viable
+inability
+#Word List 36 人及相关动作 嗅觉
+aromatic
+aura
+foul
+fragrance
+#Word List 36 人及相关动作 身体特征
+idiosyncrasy
+personality
+gender
+masculinity
+hardy
+viscous
+#Word List 37 语言&其他（一） 尖酸讽刺
+absurd
+acid
+cynical
+ironic
+poke
+tease
+#Word List 37 语言&其他（一） 批评
+accuse
+censure
+critique
+denounce
+denunciation
+reproach
+repudiate
+stigmatize
+victimize
+aspersions
+complaint
+grievance
+#Word List 37 语言&其他（一） 口才
+articulate
+eloquence
+eloquent
+#Word List 37 语言&其他（一） 其他
+abruptly
+afterlife
+alleged
+alumni
+burrow
+cellular
+cure-all
+deluxe
+despite
+encode
+evolutionary
+excavate
+excavation
+extant
+feat
+feudal
+granular
+hallmark
+hegemony
+heritage
+hierarchy
+highlight
+ice-polished
+idealize
+immediacy
+immobilize
+improvise
+incomplete
+inconclusive
+incumbent
+indigenous
+aquatic
+embalm
+offshoot
+particular
+predicate
+register
+reign
+scapegoat
+seniority
+specialize
+stitch
+tenure
+tickle
+trait
+virgin
+virtually
+wingspan
+zing
+#Word List 38 其他（二） 首尾
+entrée
+initial
+preface
+intermediary
+intermediate
+medium
+conclusive
+demise
+denouement
+destination
+ramification
+repercussion
+stagnant
+stagnate
+terminate
+sequel
+terminal
+#Word List 38 其他（二） 物质
+cobble
+emerald
+entity
+immaterial
+memento
+milepost
+mosaic
+mote
+notch
+wig
+#Word List 38 其他（二） 逻辑
+deduce
+generalize
+inference
+methodical
+plausible
+rational
+rationale
+unwarranted
+#Word List 38 其他（二） 主义
+altruism
+chauvinism
+femininity
+feminist
+hedonist
+humanitarian
+#Word List 39 词组
+account for
+allow for
+assembly line
+at one stroke
+at stake
+be at issue
+price ... out of
+better off
+bring about
+call for
+center on
+cling to
+daylight saving time
+delve into
+detract from
+die out
+dote on
+draw in
+draw on
+embark on
+fall into a rut
+field study
+fool around
+gear ... to
+get by
+get through
+give rise to
+give way to
+government intervention
+hit show
+in full bloom
+in kind
+insofar as
+lay off
+live show
+look to
+make ends meet
+make both ends meet
+more often than not
+more than ever
+at odds
+on pain of death
+other than
+prime-time ratings
+prior to
+prone to
+pull away
+resort to
+rule of thumb
+shut off
+side effect
+speak out
+take issue
+take issue with somebody
+take over
+take precedence over
+the Bering Sea
+the Federal Reserve
+the Great Lakes
+the Parthenon
+the Warsaw Pact
+Wall Street
+trade off
+trade ... in for
+turn down
+bona fides
+#Word List 40 MBA 词汇
+business model
+core competency
+competitive advantage
+SWOT analysis
+cash cow
+segment
+sector
+subdivision
+marketing mix
+direct marketing
+Good Friday
+Easter Sunday
+Ascension
+Whit Monday
+Thanksgiving Day
+Advent
+leverage
+paradigm
+scalable
+value proposition
+corporate finance
+financial economics
+liquidity
+venture capital
+exit
+Initial Public Offering
+IPO
+harvest
+institutional investor
+multiple
+Portfolio Company
+upside
+acquisition
+Advisory Board
+benchmark
+burn rate
+debt financing
+due diligence
+equity financing
+holding period
+incubator
+internal rate of return
+IRR
+leveraged buy-out
+LBO
+management buy-in
+MBI
+management buy-out
+MBO
+private equity
+term sheet
+turnaround
+entrepreneurship
+human resources management
+marketing management
+strategic marketing
+manufacturing and production
+operations management
+statistics
+technology and information systems
+management information system
+MIS
+microeconomics
+macroeconomics
+promotion
+intake
+track
+curriculum
+obligatory
+mandatory
+optional
+elective
+lecture
+workshop
+seminar
+economic value added
+EVA
+return on investment
+ROI
+price to equity
+PE
+balance sheet
+profit and loss
+cash flow chart
+working capital
+sustainable development
+mergers and acquisitions
+small and medium enterprise
+SME
+shareholder
+stakeholder
+orientation
+social security number
+insurance
+medical care
+lease a car
+babyfoot
+tournament
+barrier to entry
+capital stock
+demand curve
+division of labor
+economic agent
+economic efficiency
+economies of scale
+exclusion principle
+equilibrium
+game theory
+government regulation
+invisible hand
+marginal benefit
+marginal cost
+MC
+marginal social benefit
+MSB
+market economy
+market mechanism
+market share
+natural monopoly
+necessity
+oligopoly
+oligopoly market
+optimal resource allocation
+perfect competition
+perfect monopoly
+present value
+property rights
+profit maximization
+subsidize
+symmetry of information
+technical constraints
+transaction costs
+value judge
+welfare maximization

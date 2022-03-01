@@ -1,0 +1,442 @@
+#Unit 1
+when
+month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+happy
+Happy birthday!
+old
+How old ...?
+party
+see
+See you!
+first
+second
+third
+fifth
+eighth
+ninth
+twelfth
+twentieth
+test
+trip
+art
+festival
+dear
+student
+thing
+term
+busy
+time
+Have a good time!
+there
+#Unit 2
+favorite
+favourite
+subject
+science
+P.E.
+physical education
+music
+math
+Chinese
+geography
+history
+why
+because
+Monday
+Friday
+Saturday
+for sure
+free
+cool
+Tuesday
+Wednesday
+Thursday
+Sunday
+A.M.
+a.m.
+P.M.
+p.m.
+say
+useful
+from
+from ... to ...
+Mrs.
+finish
+lesson
+hour
+#Unit 3
+guitar
+sing
+swim
+dance
+draw
+chess
+play chess
+speak
+speak English
+join
+club
+be good at ...
+tell
+story
+write
+show
+or
+talk
+talk to ...
+kung fu
+drum
+play the drums
+piano
+play the piano
+violin
+play the violin
+also
+people
+home
+be good with ...
+make
+make friends
+today
+help with sth.
+help sb. with sth.
+center
+centre
+weekend
+on the weekend
+teach
+musician
+Lisa
+Jill
+Peter
+#Unit 4
+up
+get up
+dress
+get dressed
+brush
+tooth
+shower
+take a shower
+usually
+forty
+wow
+never
+early
+fifty
+job
+work
+station
+radio station
+o'clock
+night
+funny
+exercise
+on weekends
+best
+group
+half
+past
+quarter
+homework
+do homework
+do one's homework
+run
+clean
+walk
+take a walk
+quickly
+either
+either ... or ...
+lot
+lots of
+sometimes
+taste
+life
+Rick
+Jim
+Scott
+Tony
+#Unit 5
+train
+bus
+subway
+take the subway
+ride
+ride a bike
+sixty
+seventy
+eighty
+ninety
+hundred
+minute
+far
+kilometer
+kilometre
+new
+every
+every day
+by
+by bike
+drive
+car
+live
+stop
+think of
+cross
+river
+many
+village
+between
+between ... and ...
+bridge
+boat
+ropeway
+year
+afraid
+like
+villager
+leave
+dream
+true
+come true
+Dave
+#Unit 6
+rule
+arrive
+on time
+be on time
+hallway
+hall
+dining
+listen
+listen to ...
+fight
+sorry
+outside
+wear
+important
+bring
+uniform
+quiet
+out
+go out
+practice
+dish
+do the dishes
+before
+make one's bed
+dirty
+kitchen
+more
+noisy
+relax
+read
+terrible
+feel
+strict
+be strict
+be strict with sb.
+remember
+follow
+follow the rules
+luck
+keep
+hair
+learn
+Clark
+Amy
+Molly
+New York
+#Unit 7
+panda
+zoo
+tiger
+elephant
+koala
+lion
+giraffe
+animal
+cute
+lazy
+smart
+beautiful
+scary
+kind
+kind of
+Australia
+south
+Africa
+South Africa
+pet
+leg
+cat
+sleep
+friendly
+shy
+save
+symbol
+flag
+forget
+get lost
+place
+water
+danger
+be in danger
+be in great danger
+cut
+down
+cut down
+tree
+kill
+ivory
+over
+made of
+be made of
+Julie
+Becky
+Thailand
+Thai
+#Unit 8
+newspaper
+read a newspaper
+use
+soup
+make soup
+wash
+movie
+go to the movies
+just
+eat out
+house
+drink
+tea
+drink tea
+tomorrow
+pool
+shop
+supermarket
+man
+race
+host
+study
+state
+the United States
+the United States of America
+the US
+the USA
+American
+dragon
+Dragon Boat Festival
+any
+other
+young
+child
+miss
+wish
+delicious
+still
+living
+Steve
+Laura
+#Unit 9
+rain
+windy
+cloudy
+sunny
+snow
+weather
+cook
+bad
+park
+message
+take a message
+him
+could
+back
+call back
+call sb. back
+problem
+again
+dry
+cold
+hot
+warm
+visit
+Canada
+summer
+sit
+juice
+soon
+vacation
+on a vacation
+hard
+Europe
+mountain
+country
+skate
+snowy
+winter
+Russian
+snowman
+rainy
+Joe
+Jeff
+Moscow
+Toronto
+Boston
+#Unit 10
+post
+office
+post office
+police
+police station
+hotel
+restaurant
+bank
+hospital
+street
+pay
+pay phone
+near
+across
+across from
+front
+in front of
+behind
+town
+around
+north
+along
+go along
+go along the street
+turn
+right
+left
+turn right
+crossing
+neighborhood
+spend
+spend time
+climb
+road
+often
+air
+sunshine
+free
+enjoy
+enjoy reading
+easily
+money

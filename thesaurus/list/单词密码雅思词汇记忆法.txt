@@ -1,0 +1,5062 @@
+#Part 1 词根 act “做；驱使”
+counteract
+enact
+exact
+inactive
+#Part 1 词根 acu “尖，锐利”
+acute
+acupuncture
+acumen
+#Part 1 词根 aero “空气”
+aerobics
+aeroplane
+aerospace
+aerobic
+#Part 1 词根 ag “做，代理；引导”
+agency
+agenda
+agitate
+agile
+coagent
+#Part 1 词根 alter, altern, al “其他的；改变”
+alternate
+alternative
+alter
+alienate
+#Part 1 词根 anci, antiq “古老”
+ancient
+antique
+antiquity
+antiquated
+#Part 1 词根 angl “角”
+angle
+rectangle
+#Part 1 词根 ann, anni, enni “年，一年”
+annual
+millennium
+anniversary
+perennial
+#Part 1 词根 apt, ept “适应；能力”
+apt
+adapt
+aptitude
+adept
+#Part 1 词根 aqu “水”
+aquarium
+aquatic
+aqueous
+#Part 1 词根 arc, arch “弓”
+arcade
+#Part 1 词根 arc, arch “统治者”
+archive
+monarch
+patriarch
+#Part 1 词根 arc, arch “主要的，首要的”
+architect
+architecture
+architectural
+#Part 1 词根 audit, audit “听”
+audit
+auditory
+auditorium
+audiology
+audio
+#Part 1 词根 ball, bol “球”
+bullet
+symbol
+#Part 1 词根 bio “生命；生物”
+biodiversity
+biometrics
+microbiology
+#Part 1 词根 brev, brief “短的；缩短”
+brief
+abbreviate
+briefcase
+briefly
+#Part 1 词根 cad, cas, cid, cay “落下，降临”
+coincide
+casual
+decay
+incident
+occasion
+casualty
+cascade
+#Part 1 词根 camp “田野”
+campaign
+campfire
+campus
+#Part 1 词根 cap, capt, cept, ceive, cip, cup “拿，抓，握住”
+anticipate
+perceive
+susceptible
+conceptual
+occupation
+perceptual
+recipe
+conceive
+capability
+capacity
+captive
+captious
+captivate
+captivity
+capture
+conception
+deceive
+encapsulate
+except
+handicapped
+hiccup
+misconception
+occupy
+recapture
+receptacle
+capsule
+#Part 1 词根 cap, capt, cept, ceive, cip, cup “头”
+capsize
+decapitate
+#Part 1 词根 cau “小心”
+cautious
+caution
+cautionary
+precaution
+#Part 1 词根 ced, cede, ceed, cess “行走，前进”
+proceed
+access
+exceed
+procedure
+process
+procession
+recession
+intercede
+precede
+precedent
+unprecedented
+secede
+succession
+ancestry
+ancestral
+#Part 1 词根 cern, cert, cret, crimin “搞清；区别”
+concern
+certificate
+discretion
+discriminate
+certification
+unconcerned
+#Part 1 词根 centr “中心；中间”
+concentrate
+concentric
+centric
+centripetal
+#Part 1 词根 cid, cis “切，杀”
+precise
+concise
+decision
+excise
+insecticide
+pesticide
+#Part 1 词根 circ, cycl “圆，环”
+circle
+recycle
+circuit
+circus
+encyclopedia
+#Part 1 词根 circum “环绕，周围”
+circumstance
+circumscribe
+circumspect
+#Part 1 词根 claim “呼喊，叫喊”
+acclaim
+claim
+reclaim
+proclaim
+declaim
+#Part 1 词根 clar “清楚的，明白的”
+declaration
+clarity
+declare
+#Part 1 词根 clos, clud, clus “关闭”
+conclude
+disclose
+enclose
+exclude
+exclusive
+include
+inclusive
+preclude
+closure
+seclude
+#Part 1 词根 corp, corpor “身体，团体”
+corporate
+corporal
+corps
+corporation
+corporeal
+corpus
+#Part 1 词根 cracy, crat “统治”
+democratic
+bureaucracy
+democracy
+theocracy
+#Part 1 词根 cre, cret, creas “增长；产生，做”
+decrease
+increase
+recreate
+recreation
+create
+crescent
+secrete
+mediocre
+#Part 1 词根 cred “相信，信任”
+credit
+discredit
+accredit
+credential
+credibility
+#Part 1 词根 cur, curr, curs, cours “跑”，引申为“发生”
+occur
+course
+current
+currency
+excursion
+incursion
+recourse
+curative
+curriculum
+#Part 1 词根 cur “照顾；关心”
+curious
+security
+secure
+curiosity
+#Part 1 词根 dens “变浓厚”
+dense
+density
+condensation
+condense
+#Part 1 词根 dict, dic “说；断言”
+verdict
+dictate
+dictionary
+indicate
+jurisdiction
+#Part 1 词根 doc, dox “教；观点”
+document
+orthodox
+doctrine
+paradox
+doctrinaire
+#Part 1 词根 dom “房屋；驯服；控制”
+dominate
+domestic
+domain
+dome
+domesticate
+dominance
+#Part 1 词根 don, dit “给予”
+condition
+donate
+pardon
+condone
+anecdote
+extradite
+#Part 1 词根 duc, duct “引导；带来”
+reduce
+deduce
+inductive
+productive
+productivity
+aqueduct
+conductive
+seduce
+deductive
+induction
+viaduct
+#Part 1 词根 dur “持久；坚硬的”
+endure
+durable
+duration
+#Part 1 词根 equ(i) “平等，相等，平均”
+equivalent
+equal
+equation
+equity
+equalitarian
+equanimity
+equator
+equivalence
+#Part 1 词根 fac, fact, fect, fic, fict “做；制作”
+facility
+effect
+profit
+sacrifice
+affect
+artefact
+artifact
+benefaction
+defect
+effectuate
+efficacy
+facsimile
+forfeit
+infect
+suffice
+#Part 1 词根 fac, fact, fect, fic, fict “脸；面”
+deface
+efface
+facade
+interface
+preface
+#Part 1 词根 fall, fail, fault “错误；欺骗”
+faulty
+fault
+failure
+fallacious
+fallacy
+#Part 1 词根 fer “带来，拿来”
+reference
+refer
+transfer
+conference
+fertile
+infer
+inferential
+fertilization
+fertilize
+fertilizer
+floriferous
+odoriferous
+referee
+ferry
+#Part 1 词根 fin “结束；范围”
+confine
+finance
+finite
+define
+definitive
+finale
+finitude
+affinity
+#Part 1 词根 firm “坚定”
+confirmation
+affirm
+affirmative
+confirm
+#Part 1 词根 flu “流动”
+affluent
+flush
+fluency
+fluid
+influence
+influenza
+mellifluous
+#Part 1 词根 forc, fort “力量；强壮的”
+effort
+force
+enforce
+reinforce
+reinforcement
+fortitude
+#Part 1 词根 form “形成；形状，形式”
+conform
+form
+formal
+former
+formula
+inform
+uniform
+formulate
+format
+formative
+perform
+transform
+cruciform
+informative
+aquiform
+#Part 1 词根 fract, frag “打碎，破碎”
+fragile
+fraction
+fracture
+refractory
+#Part 1 词根 fus “流，泻；融化”
+confuse
+effusive
+futile
+infuse
+suffuse
+transfuse
+#Part 1 词根 gen, gene, gener “出生，产生；种族”
+degenerate
+general
+generate
+gene
+homogeneous
+generic
+generous
+heterogeneous
+ingenuous
+#Part 1 词根 gest, gister “带来”
+suggest
+digest
+register
+congestion
+gesture
+registration
+unregister
+#Part 1 词根 grad, gradu, gress “步；度，等级；走”
+degrade
+graduate
+congress
+aggression
+digress
+retrogress
+transgress
+centigrade
+#Part 1 词根 graph “写，画”
+demographic
+graphic
+bibliography
+photography
+autobiography
+autograph
+biography
+calligraphy
+cartography
+cinematography
+geography
+graph
+graphology
+lexicographer
+photographic
+#Part 1 词根 habit, hibit “拿，持有”
+exhibit
+inhibit
+prohibitive
+#Part 1 词根 habit, hibit “居住”
+habitual
+habitat
+inhabitable
+inhabitant
+cohabit
+#Part 1 词根 hand “手”
+handout
+mishandle
+handle
+handicraft
+beforehand
+handy
+shorthand
+#Part 1 词根 heir, herit, hered “继承”
+inherited
+hereditary
+heir
+heiress
+#Part 1 词根 her, hes “黏附”
+hesitate
+hesitation
+cohesion
+coherent
+inherent
+#Part 1 词根 host “客人”
+host
+hospitable
+hospital
+hostel
+hostess
+#Part 1 词根 host “敌人”
+hostility
+#Part 1 词根 hum “地，土”
+humble
+exhume
+posthumous
+#Part 1 词根 hum “人”
+homicide
+humane
+inhuman
+inhumane
+#Part 1 词根 hum “湿”
+humid
+#Part 1 词根 ident “相同”
+identical
+identify
+identifiable
+identification
+identity
+#Part 1 词根 imag “想象”
+image
+imagine
+imaginative
+imagination
+#Part 1 词根 ject “投掷，抛，扔”
+objective
+reject
+subject
+abject
+eject
+inject
+conjecture
+#Part 1 词根 judg, judic “判断；法律”
+misjudge
+judgment
+judicious
+unprejudiced
+#Part 1 词根 junct, join “结合，连接”
+conjunction
+joint
+adjunct
+junction
+#Part 1 词根 lax, leas “松”
+relax
+release
+lease
+lax
+#Part 1 词根 lect, lig, leg, legis “讲，读”
+allege
+lecture
+legend
+legendary
+dialect
+dialectical
+illegible
+#Part 1 词根 lect, lig, leg, legis “选择”
+intellectual
+intelligence
+neglect
+collect
+elite
+elect
+electorate
+intellect
+negligence
+select
+selection
+selective
+#Part 1 词根 lect, lig, leg, legis “法律”
+delegate
+legal
+illegal
+legislative
+legitimacy
+legislation
+#Part 1 词根 lev, liev “提高，举起；变轻”
+alleviate
+relevant
+relief
+elevate
+level
+irrelevant
+lever
+relevance
+relieve
+#Part 1 词根 limin, lim “门槛”，引申为“限制”
+eliminate
+preliminary
+limp
+subliminal
+#Part 1 词根 line “线，线条；行”
+underline
+guideline
+byline
+deadline
+delineate
+headline
+outline
+storyline
+#Part 1 词根 liter “文字，字母”
+literal
+literate
+literature
+literally
+illiteracy
+illiterate
+semiliterate
+#Part 1 词根 loc(o) “地方，位置”
+allocate
+locate
+collocate
+locality
+locomotive
+relocate
+#Part 1 词根 log, logu, loqu, locu “说话”
+analogy
+slogan
+catalogue
+logic
+loquacious
+philology
+somniloquy
+circumlocution
+#Part 1 词根 long, leng “长”
+prolong
+length
+lengthen
+longevity
+longitude
+oblong
+elongate
+#Part 1 词根 lys “裂开，分解”
+analysis
+analyze
+analyse
+paralysis
+#Part 1 词根 magn(i), max, maj, mega “大，伟大”
+magnificent
+major
+majority
+maximum
+mainstream
+megacity
+#Part 1 词根 man, main “保持；逗留”
+permanent
+remain
+maintain
+#Part 1 词根 man(i), manu “手”
+manifest
+manipulate
+manual
+manuscript
+manufacture
+manufacturer
+manufacturing
+manacle
+#Part 1 词根 mark “记号，符号”
+remarkable
+landmark
+remark
+postmark
+#Part 1 词根 med, medi, mid “中间”
+immediate
+intermediate
+medium
+medieval
+Mediterranean
+midst
+#Part 1 词根 memor “记忆；记”
+memorable
+commemorate
+memorandum
+#Part 1 词根 merg “沉，没”
+emerge
+merge
+immerge
+submerge
+#Part 1 词根 meter, metry, mens “计量，测量”
+dimension
+immense
+asymmetry
+barometer
+diameter
+geometry
+thermometer
+#Part 1 词根 migr “迁移”
+migrate
+migratory
+emigrate
+immigrate
+migrant
+#Part 1 词根 milit “兵；战斗”
+military
+militant
+paramilitary
+demilitarize
+#Part 1 词根 mini “小”
+minimum
+miniature
+minister
+ministry
+#Part 1 词根 mit, miss “送，放出”
+permission
+commit
+emission
+commission
+submit
+admit
+emit
+mission
+missionary
+transmit
+emissary
+#Part 1 词根 mob, mot “动”
+remote
+emotion
+motion
+motivate
+motive
+motor
+promotion
+commotion
+demobilize
+mobster
+motivational
+#Part 1 词根 mod “方式，模式；风度”
+commodity
+modify
+model
+moderate
+#Part 1 词根 mono “单个，一个”
+monopoly
+monologue
+monotonous
+monochrome
+monograph
+monolith
+#Part 1 词根 monstr “显示”
+demonstrate
+demonstration
+monster
+remonstrate
+#Part 1 词根 nau, nav, naut “船，航行”
+navigable
+navigation
+aeronautics
+astronaut
+circumnavigate
+#Part 1 词根 nom(y) “某一领域的知识、理论，......学、术”
+autonomous
+economic
+autonomy
+economy
+astronomy
+#Part 1 词根 norm “规则，准则”
+enormous
+normal
+abnormal
+transnormal
+subnormal
+#Part 1 词根 not “知道；标记”
+denote
+notable
+notify
+notorious
+notion
+notoriety
+#Part 1 词根 nov “新的”
+innovation
+innovative
+innovate
+novel
+novice
+#Part 1 词根 nutri, nurs “滋养”
+nutrition
+nutrient
+nutritional
+nurture
+nutritious
+#Part 1 词根 opt “视力；光”
+optic
+optical
+optometrist
+#Part 1 词根 opt “选择”
+optional
+adopt
+option
+#Part 1 词根 optim “最好，最佳”
+optimistic
+optimism
+optimum
+#Part 1 词根 ordin “命令；顺序”
+extraordinary
+subordinate
+coordinate
+coordinator
+#Part 1 词根 ori “升起；开始”
+originate
+original
+origin
+orientation
+orient
+disorient
+disorientate
+#Part 1 词根 par “相等；平等”
+comparable
+comparative
+compare
+disparage
+disparity
+nonpareil
+parity
+#Part 1 词根 par “准备”
+prepare
+apparatus
+#Part 1 词根 part “部分；分开”
+depart
+apart
+impart
+particular
+partial
+participate
+apartheid
+counterpart
+particle
+#Part 1 词根 pass, path(y) “感情”
+compassion
+pathetic
+apathy
+#Part 1 词根 pass, path(y) “走；通过”
+bypass
+surpass
+compass
+passage
+passport
+trespass
+#Part 1 词根 pear “看见”
+appear
+disappear
+appearance
+reappear
+#Part 1 词根 pend, pens “悬挂，挂上”
+independent
+suspend
+depend
+appendage
+suspense
+compendium
+#Part 1 词根 pend, pens “称重量，称银子”，引申为“花费”
+compensate
+expenditure
+dispense
+pension
+pensive
+dispenser
+#Part 1 词根 pet “寻求；力争”
+appetite
+competitive
+perpetuate
+impetuous
+competent
+#Part 1 词根 physi “自然”
+physical
+physician
+astrophysics
+geophysics
+#Part 1 词根 place “放；地方；位置”
+replace
+displace
+irreplaceable
+marketplace
+#Part 1 词根 ple, plen, plet “满；填满”
+implement
+depletion
+supplement
+complement
+replenish
+#Part 1 词根 plex, plic, ply “重叠，折叠”
+complex
+complicate
+implication
+comply
+perplex
+pliable
+replicate
+applicable
+complexity
+complication
+duplex
+#Part 1 词根 ploy, ploit “用”
+exploit
+deploy
+employ
+overexploit
+#Part 1 词根 pon, pound, pos, posit “放，放置”
+expose
+component
+compose
+composition
+compound
+disposable
+impose
+position
+positive
+proposal
+purpose
+suppose
+deposit
+composure
+postpone
+supposition
+depositary
+transpose
+#Part 1 词根 popul, publ “人民”
+population
+popularity
+populate
+publicity
+popularize
+populace
+#Part 1 词根 port “部分；分开”
+proportion
+apportion
+portion
+#Part 1 词根 port “拿，运”
+export
+portable
+import
+#Part 1 词根 preci “价格；价值”
+appreciate
+appreciative
+#Part 1 词根 press “挤压；逼迫”
+impress
+pressure
+suppression
+depression
+impression
+impressive
+compress
+oppress
+depress
+express
+oppression
+#Part 1 词根 prim, prin, pri “第一”，引申为“主要的”
+primary
+principle
+prime
+primitive
+principal
+prior
+priority
+primeval
+primogenitor
+#Part 1 词根 priv “单个”，引申为“私人的”
+private
+deprive
+privilege
+#Part 1 词根 prob, prov “正直；证明”
+approve
+probe
+approbation
+approval
+disapprove
+probation
+#Part 1 词根 quir, quest, quer, quis “寻求；获得”
+acquire
+enquire
+acquisition
+conquer
+conquest
+request
+require
+requisite
+enquiry
+prerequisite
+query
+unconquerable
+#Part 1 词根 range “行，列”
+range
+arrange
+arrangement
+rearrange
+#Part 1 词根 rupt “破裂，断裂”
+disrupt
+eruption
+bankrupt
+bankruptcy
+disruption
+disruptive
+interrupt
+#Part 1 词根 san, sanit “健康的”
+sanitary
+sanitation
+insane
+unsanitary
+#Part 1 词根 sci “知道”
+conscious
+omniscient
+prescient
+#Part 1 词根 scrib, script “写”
+ascribe
+prescribe
+prescription
+describe
+inscribe
+subscribe
+transcript
+#Part 1 词根 sens “感觉”
+sensitive
+consensus
+sensory
+sensibility
+sensible
+sensitivity
+#Part 1 词根 serv “服务；保持”
+preserve
+reserve
+service
+conservation
+conservative
+observation
+observe
+conserve
+deserve
+observatory
+reserved
+#Part 1 词根 sign “记号，信号”
+assign
+consignment
+design
+resign
+signal
+signature
+significance
+significant
+signpost
+assignment
+#Part 1 词根 sight “眼光”
+eyesight
+insight
+long-sighted
+foresight
+#Part 1 词根 simil, simul(t), sembl “相类似，一样”
+assemble
+resemblance
+simultaneous
+resemble
+simulate
+verisimilar
+simulation
+#Part 1 词根 soci “同伴；结交”，引申为“社会”
+associate
+association
+sociable
+sociology
+#Part 1 词根 sol, soli “单独”
+sole
+solitary
+solitude
+desolate
+soliloquy
+#Part 1 词根 sol, soli “太阳”
+solar
+solemn
+#Part 1 词根 solv, solu, solut “松开，解开”
+resolve
+dissolve
+soluble
+solution
+solve
+solvency
+#Part 1 词根 spec(i), spect, specul “外观，看”
+aspect
+expectation
+respect
+prospect
+prospective
+spectacle
+spectacular
+prospectus
+spectrum
+suspect
+spectator
+inspect
+retrospect
+perspective
+specious
+speculate
+#Part 1 词根 spec(i), spect, specul “种类”
+species
+specification
+specimen
+specialize
+#Part 1 词根 sper “希望”
+desperate
+prosperous
+prosper
+#Part 1 词根 sphere “球”
+atmosphere
+hemisphere
+sphere
+biosphere
+#Part 1 词根 spir(e) “呼吸”
+aspire
+inspire
+spiritual
+conspire
+expire
+inspiration
+perspire
+respiratory
+conspiracy
+aspiration
+#Part 1 词根 spond, spons “承诺，约定”
+correspond
+response
+respond
+responsible
+correspondence
+irresponsibility
+respondent
+responsive
+#Part 1 词根 st, sta, stat, stant, sist “站，立”
+assist
+assistant
+consist
+constant
+estate
+insist
+obstacle
+persist
+resistance
+static
+stationary
+stationery
+statue
+status
+stout
+substantial
+exist
+insistence
+instantaneous
+stabilize
+stable
+stall
+stance
+#Part 1 词根 st, sta, stat, stant, sist “状态”
+statistics
+#Part 1 词根 sting, stinct, stimul “刺；刺激”
+distinct
+distinguish
+extinct
+extinction
+instinct
+stimulate
+extinguish
+distinctive
+stimulus
+#Part 1 词根 stitut, stit “建立；放”
+constituent
+constitute
+institute
+institution
+substitute
+constitution
+superstitious
+#Part 1 词根 strain, strict, string “拉紧”
+restrict
+restriction
+constrain
+restrain
+strain
+stringent
+#Part 1 词根 struct “建造，建立”
+construction
+destruction
+destructive
+infrastructure
+reconstruction
+structure
+instruct
+construct
+superstructure
+#Part 1 词根 sum, sumpt, summ “拿，取”
+assume
+assumption
+consumer
+resume
+#Part 1 词根 sum, sumpt, summ “加”
+summary
+summarize
+summit
+#Part 1 词根 tact, tag, tig, ting “接触”
+contact
+intact
+contagious
+contiguous
+contingency
+#Part 1 词根 tail “剪切”
+detail
+entail
+retail
+curtail
+#Part 1 词根 tain, ten(t), tin “拿住”
+contain
+content
+continuous
+entertain
+maintenance
+obtain
+sustain
+sustainable
+tenable
+tenacious
+tenacity
+tenant
+retain
+attain
+attainable
+abstinence
+unattainable
+#Part 1 词根 temper, tempor “时间或时间引起的现象”
+temporary
+temper
+temperate
+tempestuous
+#Part 1 词根 tend, tent, tens “伸展”
+attention
+extend
+extensive
+extent
+intend
+intense
+tend
+tendency
+attend
+intent
+intention
+pretend
+attentive
+contentious
+pretentious
+#Part 1 词根 thes, thet “放置”
+synthetic
+thesis
+hypothesis
+hypothetical
+photosynthesis
+photosynthetic
+synthesis
+#Part 1 tract “拉，拖”
+attractive
+contract
+detract
+subtract
+#Part 1 词根 tribut “给予”
+attribute
+contribute
+distribute
+tribute
+#Part 1 词根 tru “相信；真实”
+entrust
+truce
+trustworthy
+trustee
+#Part 1 词根 typ(o) “模式，形状；打字”
+prototype
+typical
+atypical
+#Part 1 词根 us, util “使用”
+abuse
+utilize
+usage
+utility
+usage
+utility
+utilization
+#Part 1 词根 vac, vacu “空”
+evacuate
+vacant
+vacation
+vacuum
+#Part 1 词根 vad, vas “走”
+invade
+invasive
+invader
+invasion
+pervade
+pervasive
+#Part 1 词根 val, vail, valu “强壮的”
+invalid
+prevail
+prevalence
+#Part 1 词根 val, vail, valu “价值”
+available
+evaluation
+invaluable
+valuable
+avail
+#Part 1 词根 ven, vent “来”
+adventurous
+advent
+adventure
+convenience
+convention
+revenue
+venture
+avenue
+inventory
+preventive
+#Part 1 词根 ven, vent “风”
+ventilation
+#Part 1 词根 vers, vert, verge “转”
+adverse
+convert
+diverge
+diversion
+diversity
+version
+divert
+diverse
+extroverted
+introverted
+inversion
+invert
+universe
+versus
+converse
+perverse
+pervert
+#Part 1 词根 via, vi, vey, voy “道路”
+convey
+previous
+voyage
+impervious
+#Part 1 词根 vis, vid “分开”
+individual
+devise
+divide
+dividend
+division
+#Part 1 词根 vis, vid “看”
+evidence
+visible
+visual
+envisage
+provident
+revise
+supervise
+viewpoint
+vision
+advisory
+#Part 1 词根 viv(i), vit, vig “生命”
+revive
+vital
+vigorous
+viable
+reinvigorate
+revival
+survive
+invigorate
+vivacious
+vivisect
+#Part 1 词根 voc, vok “叫喊；声音”
+evoke
+invoke
+advocate
+equivocal
+#Part 1 词根 vol, volve, volu “卷，转”
+evolve
+involve
+revolution
+revolve
+evolution
+volume
+#Part 2 前缀 a- “使......”，表加强
+announce
+astound
+ascend
+arouse
+avoid
+aware
+abide
+abandon
+abase
+amend
+amuse
+amass
+apace
+astray
+avenge
+#Part 2 前缀 a- “在......；......的”
+alight
+afield
+#Part 2 前缀 a- “表否定”
+abate
+atom
+#Part 2 前缀 ab-, abs- “相反；去掉；离去”
+absorb
+abstract
+absolute
+absent
+absolutely
+abdicate
+abduct
+abjure
+abrade
+abrupt
+abrogate
+abstruse
+#Part 2 前缀 ab-, ac-, af-, ag-, al-, ap-, ar-, as-, at- “等加在同辅音字母的词根前，“加强”
+account
+assert
+approach
+accommodation
+attract
+accustom
+accustomed
+acquaint
+acquaintance
+appliance
+appoint
+assault
+attach
+attempt
+afflict
+accelerate
+abound
+absurd
+accidentally
+accompany
+acknowledge
+affliction
+aggravate
+assimilate
+allure
+applaud
+assure
+applause
+allot
+approximate
+arrogance
+arrow
+ascertain
+assiduous
+attest
+abhorrent
+aborigine
+accentuate
+acclimatise
+accordion
+affiliation
+#Part 2 前缀 acro- “高”
+acrobat
+acrobatic
+#Part 2 前缀 ad- “做......，加强”
+adjust
+address
+adhere
+adjacent
+addict
+admire
+admission
+adorn
+adumbrate
+#Part 2 前缀 anti- “相反；抗”
+antibiotic
+antibiotics
+antidote
+antiseptic
+antipathy
+#Part 2 前缀 auto- “自己”
+automate
+automatic
+automatically
+automobile
+autocrat
+autocratic
+autoimmune
+#Part 2 前缀 be- “使......”
+bewilder
+behave
+behaviour
+belonging
+beloved
+besiege
+beware
+begrudge
+bereave
+#Part 2 前缀 be- “加以......，饰以......”
+bestir
+#Part 2 前缀 bene- “善，好”
+beneficial
+benefit
+benevolent
+benediction
+#Part 2 前缀 bi(n)- “二，两”
+bilateral
+bilingual
+biannual
+bicycle
+biennial
+binocular
+binoculars
+biped
+bisect
+#Part 2 前缀 com-, con-, cor-, co-, col- “共同”
+collaborate
+connect
+communal
+community
+compromise
+comparison
+concrete
+condemn
+conflict
+confront
+connection
+collateral
+combine
+communicate
+compatible
+consistent
+contemporary
+commerce
+commitment
+context
+contingent
+council
+coeval
+coexist
+coexistence
+cohere
+coincidence
+collaborative
+collapse
+collate
+colleague
+committee
+commute
+comparatively
+complicated
+compliment
+concord
+concur
+confer
+confluence
+congratulate
+consciousness
+consistency
+consonant
+consortium
+constraint
+consultation
+cooperation
+coordinate
+correlation
+corresponding
+colloquial
+compatriot
+compile
+conjugal
+conscientiousness
+#Part 2 前缀 com-, con-, cor-, co-, col- 表加强
+compel
+combust
+compact
+convict
+conviction
+convince
+consumption
+connote
+conduce
+conduct
+concept
+comprise
+combat
+comment
+compete
+complain
+complaint
+confidence
+complacent
+complete
+comprehend
+conceal
+concede
+conditionally
+confidant
+congregate
+consequent
+conspicuous
+contempt
+continuously
+corrective
+corroborate
+corrode
+corrosion
+corrupt
+corruption
+combustibility
+command
+#Part 2 前缀 contro-, contra- “相反”
+contradict
+contrary
+contrast
+contravene
+controversy
+controversial
+contradiction
+contradictory
+#Part 2 前缀 de- “分开，离开”
+detach
+debris
+defense
+deflect
+delay
+detour
+deviance
+deviation
+#Part 2 前缀 de- “向下，降低，减少”
+defer
+device
+department
+decline
+debut
+decelerate
+decompression
+descend
+descendant
+devalue
+#Part 2 前缀 de- “去掉，毁”
+detect
+devastate
+derelict
+desert
+detection
+decipher
+defective
+deformity
+dehydrate
+delude
+deprivation
+#Part 2 前缀 de- “使......，加强”
+debate
+dedicate
+delicate
+demand
+determine
+devote
+devoid
+derive
+definite
+deliberate
+deliberately
+dependence
+depict
+derision
+description
+designate
+despoil
+deter
+determinative
+devotion
+delimit
+decrepit
+delinquent
+#Part 2 前缀 de- “否定，相反”
+deception
+deficit
+decompose
+develop
+defeat
+deplete
+decouple
+deregulate
+demerit
+#Part 2 前缀 deca-, dec-, deci- “十”
+decade
+decathlete
+decathlon
+decibel
+#Part 2 前缀 di- “二，两”
+dioxide
+direct
+dilapidate
+dilemma
+divergent
+#Part 2 前缀 di- “使......分开”
+distill
+divest
+dilate
+#Part 2 前缀 dia- “穿过；两者之间”
+diagnosis
+diagnose
+diagram
+dialogue
+diagonal
+#Part 2 前缀 dis-, dif- “分开，分散；除去”
+distract
+dismiss
+display
+distortion
+differ
+disable
+discrepancy
+difference
+diffuse
+disarm
+discard
+discern
+discourage
+discover
+discrimination
+dispose
+distinction
+distort
+disturb
+disintegrate
+dispersal
+distend
+disseminate
+#Part 2 前缀 dis-, dif- “不，没有”
+disagree
+dispute
+disqualify
+disorder
+disdain
+diffident
+disadvantage
+disagreement
+disappoint
+disappointment
+disbelief
+discontinue
+disharmony
+disempower
+disillusion
+disobey
+disregard
+dissatisfaction
+dissatisfied
+dissimilar
+dissonant
+distrust
+#Part 2 前缀 dis-, dif- “毁掉”
+disfigure
+#Part 2 前缀 dis-, dif- 表加强
+discerning
+#Part 2 前缀 ex-, e-, ec-, ef-, exo- “出，外出，外面”
+evaluate
+elicit
+exchange
+exotic
+exhaust
+exhaustive
+expedition
+expel
+expense
+extract
+expand
+excess
+excessively
+emergent
+eccentric
+exhaustion
+eclipse
+effable
+effeminate
+effervesce
+elegant
+emergence
+emigration
+erupt
+essay
+evade
+evaporate
+evaporation
+excavate
+excavator
+excel
+exception
+exalt
+exert
+exhale
+exodus
+exorbitant
+expansive
+expatriate
+explicit
+explode
+explore
+explosion
+extension
+#Part 2 前缀 ex-, e-, ec-, ef-, exo- “使......加强”
+elaborate
+exaggerate
+executive
+educational
+effectively
+elastic
+erect
+erode
+especially
+execute
+expurgate
+exquisite
+extol
+extraction
+estrange
+enumerate
+#Part 2 前缀 ex-, e-, ec-, ef-, exo- “无，除去”
+eradicate
+#Part 2 前缀 eco- “生态”
+ecological
+ecology
+ecosystem
+eco-friendly
+#Part 2 前缀 em-, en-, “进入......之中，包围”
+embed
+embrace
+encase
+enroll
+embarrass
+embarrassingly
+embarrassment
+empirically
+enclosure
+encompass
+encroach
+endemic
+enlighten
+enlist
+enthusiasm
+entire
+#Part 2 前缀 em-, en- “使 ......”
+endorse
+endeavour
+emphasis
+employment
+enable
+encourage
+energetic
+engross
+enrich
+entitle
+entrench
+encode
+entwine
+embryo
+embodiment
+embody
+emboss
+empower
+encouragement
+endanger
+endurance
+enforcement
+enfranchise
+enlarge
+enslave
+ensure
+entangle
+#Part 2 前缀 epi- “在......旁边；在......上；在......后面”
+episodic
+epigram
+epigraph
+epilogue
+epitome
+epitomise
+#Part 2 前缀 extra-, extro- “超过，额外”
+extracurricular
+extravagant
+extrovert
+extraneous
+extravagance
+#Part 2 前缀 fore- “前面，预先”
+foresee
+forecast
+forestall
+forefront
+foremost
+foreland
+#Part 2 前缀 il-, im-, in-, ir- “使......，加以......”，表加强
+induce
+incur
+inflict
+incendiary
+illustrious
+impair
+impending
+impoverished
+imputable
+incite
+incline
+incriminate
+inflame
+inflate
+inflation
+intentional
+involvement
+irradiate
+irritate
+#Part 2 前缀 il-, im-, in-, ir “不，无”
+ignore
+ignorance
+immune
+inevitable
+illegitimate
+illiberal
+indispensable
+illicit
+immature
+immortal
+immortality
+immutable
+impassive
+impersonal
+impossible
+imprecise
+inadequate
+inappropriate
+inaudible
+incompatible
+incongruity
+incongruous
+inconvenient
+incorrectly
+incredible
+indifferent
+indigestible
+indignity
+individuality
+inedible
+inefficient
+inescapable
+inexhaustible
+innocuous
+innumerable
+insecure
+insecurity
+inseparable
+insignificant
+insincerity
+instability
+insufficient
+intangible
+invisible
+irrational
+irreconcilable
+irregularity
+irreparable
+irrespective
+irrevocable
+#Part 2 前缀 il-, im-, in-, ir- “向内，进入”
+impact
+impulse
+illuminate
+impede
+intrigue
+incorporate
+inflammable
+infringe
+ingredient
+install
+intrusion
+invest
+immerse
+illusion
+illustrate
+immigrant
+impel
+imperil
+impetus
+implant
+imprison
+imprisonment
+inaugurate
+inborn
+index
+influx
+inhale
+inherit
+initially
+innate
+input
+inscription
+insert
+instill
+intimidate
+irrigate
+illapse
+#Part 2 前缀 inter- “在......之间，相互”
+interfere
+interact
+interactive
+interpret
+interview
+interweave
+interaction
+interdependent
+intermix
+international
+internationally
+interpersonal
+interplay
+interpreter
+interrogate
+intersect
+intersection
+intertwine
+interval
+intervene
+#Part 2 前缀 intro- “向内，入内”
+introduce
+introduction
+introspection
+introvert
+#Part 2 前缀 mal-, male- “坏”
+malevolent
+malediction
+malefaction
+malnutrition
+maltreat
+#Part 2 前缀 mis- “错误，坏”
+misuse
+misapprehend
+misfortune
+mishap
+misnomer
+mistrust
+#Part 2 前缀 micro- “小，微”
+microscope
+microcosm
+microphone
+microprocessor
+#Part 2 前缀 multi- “多”
+multinational
+multiple
+multiply
+multiform
+multilateral
+multilingual
+#Part 2 前缀 ob-, op- “逆，反，不”
+obstruct
+object
+oppose
+obloquy
+opaque
+opponent
+opposite
+#Part 2 前缀 ob-, op- 表加强
+obligation
+obdurate
+offensive
+obnoxious
+obsess
+obtrude
+#Part 2 前缀 out- “出，外”
+outward
+outcast
+outgoing
+outlaw
+outpost
+outskirts
+outstanding
+#Part 2 前缀 out- “超过，胜过”
+outrage
+outweigh
+outdo
+outnumber
+outrageous
+outsell
+#Part 2 前缀 over- “在......之上；过度”
+overcome
+overall
+overhead
+overweight
+overdose
+overdraft
+overestimate
+overfill
+overgraze
+overlie
+overload
+overlook
+overrate
+oversee
+overshadow
+overview
+overwork
+#Part 2 前缀 para- “类似”
+parallel
+unparalleled
+#Part 2 前缀 para- “超过”
+paramount
+#Part 2 前缀 per- “贯穿，自始至终”
+perpetual
+persuade
+persuasive
+permeate
+perambulate
+percussion
+permit
+perquisite
+persevere
+persistent
+perturb
+#Part 2 前缀 per- “假”
+perfidy
+perjury
+#Part 2 前缀 peri- “周围”
+peripheral
+perimeter
+periphery
+#Part 2 前缀 post- “邮政，邮寄”
+postage
+postcode
+#Part 2 前缀 post- “后，后面”
+postgraduate
+postscript
+#Part 2 前缀 per- “前；预先”
+predominant
+premise
+presume
+prevent
+precisely
+predict
+predispose
+predominance
+predominate
+prefabricate
+prefix
+pregnant
+prehistoric
+prejudice
+premium
+prerogative
+preservation
+prestige
+presuppose
+preventable
+prevention
+previously
+#Part 2 前缀 pro- “向前，在前”
+propel
+profile
+project
+prominent
+propagate
+prosecute
+protect
+provide
+profession
+proficient
+profound
+progress
+progression
+progressive
+prohibit
+prologue
+promote
+pronounce
+proponent
+propose
+prosperity
+protrude
+provenance
+provoke
+reciprocate
+proclivity
+procrastinate
+procure
+#Part 2 前缀 re- “反，回，向后”
+receipt
+reflect
+refund
+repel
+resist
+repatriate
+reveal
+reverse
+revert
+rebel
+recalcitrant
+recipient
+reduction
+refundable
+reflection
+regress
+remove
+repay
+reprobate
+resent
+resonant
+respective
+retire
+retract
+revenge
+revolt
+#Part 2 前缀 re- “一再，重新”
+recover
+resort
+resource
+retard
+reunion
+recruit
+refrain
+relate
+relay
+remind
+reception
+resit
+refresh
+religion
+represent
+reproduce
+reproduction
+review
+recommend
+reaffirm
+reassurance
+reassure
+recall
+receptive
+recharge
+refill
+refrigerator
+regenerate
+reiterate
+rekindle
+relaxation
+remit
+renew
+renovate
+reorient
+repack
+repaint
+repetition
+restate
+resurgence
+reunite
+revegetate
+#Part 2 前缀 re- 表加强
+repertoire
+#Part 2 前缀 sub-, suc-, suf-, sup- “下，接近”
+suffer
+succeed
+succumb
+subconscious
+submarine
+subsequent
+subsidiary
+subsidy
+subsoil
+substance
+subtle
+suburb
+suffix
+supplant
+supplicant
+support
+suppress
+subside
+submission
+#Part 2 前缀 sub-, suc-, suf-, sup- “下级”
+subtropical
+subtitle
+#Part 2 前缀 super- “超级，过多”
+superb
+superlative
+superfluous
+supersonic
+#Part 2 前缀 super- “在......上”
+superior
+supersede
+superstition
+superiority
+#Part 2 前缀 sur- “上，超过”
+surface
+surveillance
+survey
+surmount
+surname
+survival
+#Part 2 前缀 sur- “下”
+surrender
+surround
+surreptitious
+#Part 2 前缀 sym-, syn- “共同；同时”
+sympathy
+symphony
+symptom
+symbiosis
+symmetry
+synchronous
+syndrome
+synonym
+#Part 2 前缀 tele- “远的”
+telescope
+telegraph
+telephone
+#Part 2 前缀 trans- “横过，越过”
+transparent
+transition
+transcend
+transect
+translucent
+transmission
+#Part 2 前缀 trans- “变换；转移”
+transport
+transaction
+transient
+translate
+transcribe
+transplant
+transit
+transmute
+transformation
+#Part 2 前缀 tri- “三”
+trivial
+triangle
+triple
+#Part 2 前缀 un- “不，无，没有”
+unbeatable
+unbiased
+uneasy
+unavailable
+unavoidable
+unaware
+unblemished
+uncertainty
+uncluttered
+unconditional
+undeniable
+undetected
+undisguised
+unexpected
+unexpectedly
+unfeasible
+unforgettable
+unjustifiable
+unobtrusive
+unpredictable
+unreasonable
+unregistered
+unsatisfactory
+unscrupulous
+unshakable
+untrustworthy
+unyielding
+#Part 2 前缀 un- “打开，解开，卸下”
+uncover
+unload
+unveil
+unwrap
+#Part 2 前缀 under- “在......下”
+underground
+underpin
+#Part 2 前缀 under- “副，次”
+underling
+#Part 2 前缀 under- “不足，不够”
+underestimate
+#Part 2 前缀 up- “向上”
+update
+upgrade
+upper
+upset
+uphill
+#Part 2 前缀 with- “向后，相反”
+withstand
+withdraw
+withdrawal
+#Part 3 后缀 -ability “可......性，易......性”
+stability
+variability
+probability
+durability
+availability
+amiability
+#Part 3 前缀 -able, -ible, -acle 表形容词，“能......的；可 ...... 的”
+eligible
+flexible
+profitable
+suitable
+intelligible
+capable
+credible
+desirable
+excusable
+feasible
+liable
+miserable
+predictable
+reasonable
+renewable
+variable
+arable
+acceptable
+accessible
+admirable
+adorable
+advisable
+affordable
+agreeable
+amiable
+considerable
+debatable
+edible
+enjoyable
+exhaustible
+extendable
+foreseeable
+habitable
+inalienable
+inviolable
+irresistible
+irritable
+malleable
+negotiable
+noticeable
+payable
+plausible
+preferable
+probable
+pronounceable
+questionable
+reputable
+sizeable
+tangible
+tillable
+traceable
+tractable
+understandable
+#Part 3 后缀 -able, -ible, -acle 表名词，“物”
+miracle
+#Part 3 后缀 acious 表形容词，“多......的，有......性质的”
+audacious
+rapacious
+veracious
+voracious
+sequacious
+#Part 3 后缀 -acy, -acity 表名词，“性质，状态”
+literacy
+privacy
+intimacy
+accuracy
+legacy
+numeracy
+supremacy
+veracity
+#Part 3 后缀 -ade 表名词，“某些水果制成的饮料，某种材料的制成物”
+lemonade
+barricade
+#Part 3 后缀 -ade 表名词，“某种行动的个人或集体”
+crusade
+renegade
+#Part 3 后缀 -age “总称”
+heritage
+coverage
+package
+beverage
+voltage
+wastage
+#Part 3 后缀 -ade “结果，状态，情况，身份”
+advantage
+damage
+drainage
+shortage
+barrage
+patronage
+percentage
+pillage
+spoilage
+#Part 3 后缀 -al, -eal 表名词，“物”
+animal
+cereal
+journal
+mammal
+mineral
+#Part 3 后缀 -al, -eal 表名词，“人”
+criminal
+aboriginal
+rival
+#Part 3 后缀 -al, -eal 表形容词，“......的，具有......性质的”
+cultural
+natural
+ornamental
+personal
+practical
+radical
+sensational
+moral
+detrimental
+external
+digital
+emotional
+ethical
+mental
+municipal
+additional
+fundamental
+nocturnal
+rational
+regional
+rural
+seasonal
+thermal
+tropical
+verbal
+nominal
+glacial
+herbal
+integral
+colossal
+exceptional
+fatal
+minimal
+anecdotal
+arboreal
+coastal
+congenital
+continental
+crystal
+cylindrical
+departmental
+dimensional
+divisional
+doctoral
+environmental
+federal
+floral
+foundational
+frictional
+functional
+lateral
+lethal
+marital
+maternal
+monumental
+mortal
+neoclassical
+neural
+neutral
+optimal
+orbital
+oriental
+parental
+pedal
+phenomenal
+recreational
+rental
+sceptical
+suicidal
+terminal
+traditional
+tribal
+unilateral
+#Part 3 后缀 -al, -eal 表名词，“行为”
+trial
+arousal
+appraisal
+refusal
+removal
+renewal
+#Part 3 后缀 -ality 表名词，“状态，性质”
+personality
+hospitality
+mortality
+vitality
+nationality
+#Part 3 后缀 -an, -ane, -ain, -ain 表名词，“人”或“物”
+terrain
+veteran
+American
+artisan
+captain
+civilian
+historian
+mountain
+republican
+Roman
+villain
+#Part 3 后缀 -an, -ane, -ain, -ian 表形容词，“属于 ...... 的”
+suburban
+urban
+mundane
+cosmopolitan
+#Part 3 后缀 -ance, -ancy, -ace 表名词，“状态，性质，状况，地点”
+assistance
+allowance
+abundance
+assurance
+attendance
+avalanche
+disturbance
+expectancy
+guidance
+inheritance
+insurance
+terrace
+vigilance
+reliance
+renaissance
+accordance
+accountancy
+ambulance
+ascendancy
+dormancy
+perseverance
+pregnancy
+utterance
+vacancy
+vengeance
+#Part 3 后缀 -ant, -ent 表名词，“......剂，......物，......人”
+applicant
+consultant
+contaminant
+pollutant
+regent
+accountant
+agent
+antecedent
+defendant
+detergent
+informant
+parent
+participant
+patient
+propellant
+reagent
+solvent
+torrent
+#Part 3 后缀 -ant, -ent 表形容词，“具有......性质的，关于......的”
+abundant
+redundant
+dependent
+dominant
+dormant
+efficient
+exuberant
+opulent
+resistant
+triumphant
+tolerant
+apparent
+brilliant
+confident
+decent
+eminent
+errant
+excellent
+fluent
+indolent
+innocent
+intelligent
+lenient
+luxuriant
+obedient
+omnipotent
+prevalent
+pungent
+rampant
+retardant
+sentient
+urgent
+variant
+verdant
+vibrant
+#Part 3 后缀 -ar, -arian 表形容词，“有......性质的”
+lunar
+rectangular
+vulgar
+linear
+#Part 3 后缀 -ar, -arian 表名词，“人，物，场所”
+calendar
+vegetarian
+seminar
+altar
+#Part 3 后缀 -ary 表名词，“人”或“物”
+commentary
+itinerary
+salary
+secretary
+adversary
+documentary
+glossary
+luminary
+#Part 3 后缀 -ary 表名词，“场所”
+sanctuary
+aviary
+boundary
+granary
+library
+#Part 3 后缀 -ary 表形容词，“......的，有......性质 的”
+elementary
+supplementary
+complementary
+voluntary
+dietary
+rudimentary
+sedentary
+#Part 3 后缀 -astic, -istic 表形容词，“......的，有......特性的”；-istic “......主义的”
+enthusiastic
+artistic
+linguistic
+holistic
+humanistic
+individualistic
+materialistic
+naturalistic
+simplistic
+unrealistic
+#Part 3 后缀 -ate, -late, -itate 表动词，“做，造成，使......”
+regulate
+saturate
+deteriorate
+duplicate
+facilitate
+calculate
+fascinate
+cooperate
+segregate
+insulate
+integrate
+mutate
+accumulate
+fluctuate
+culminate
+animate
+attenuate
+celebrate
+commiserate
+contaminate
+contemplate
+infiltrate
+initiate
+inundate
+cultivate
+decorate
+differentiate
+operate
+tolerate
+vibrate
+elucidate
+emulate
+activate
+escalate
+exacerbate
+germinate
+imitate
+incapacitate
+incinerate
+inculcate
+isolate
+legitimate
+liquidate
+meditate
+navigate
+negotiate
+nominate
+orientate
+penetrate
+perpetrate
+pollinate
+radiate
+rehabilitate
+rotate
+separate
+sophisticate
+somnambulate
+stagnate
+stipulate
+ventilate
+annotate
+authenticate
+calibrate
+#Part 3 后缀 -ate, -iate, -ulate, -itate 表形容词，”具有......的，有......性质的”
+accurate
+adequate
+appropriate
+compassionate
+intimate
+passionate
+ultimate
+vertebrate
+considerate
+inanimate
+articulate
+sedate
+#Part 3 后缀 -ate, -iate, -ulate, -itate 表名词，“人，学位”
+candidate
+doctorate
+#Part 3 后缀 -ation, -ition, -faction 表名词，“行为，状况，过程，状态，结果”
+operation
+definition
+admiration
+addition
+anticipation
+assimilation
+administration
+aviation
+civilization
+cognition
+collaboration
+combination
+configuration
+consolidation
+destination
+foundation
+fabrication
+immigration
+insulation
+irrigation
+migration
+moderation
+precipitation
+presentation
+reputation
+revelation
+satisfaction
+sensation
+temptation
+accreditation
+adoration
+adaptation
+aeration
+affirmation
+aggravation
+alienation
+audition
+consolation
+contamination
+conversation
+cultivation
+demolition
+denomination
+dictation
+dissemination
+documentation
+domination
+donation
+elaboration
+elicitation
+exploitation
+federation
+fluctuation
+inclination
+industrialization
+integration
+isolation
+limitation
+meditation
+modification
+motivation
+participation
+petition
+precognition
+preparation
+radiation
+rendition
+requisition
+sterilization
+urbanization
+variation
+verification
+vibration
+violation
+#Part 3 后缀 -ative 表形容词，“有......倾向的，属于......的”
+negative
+generative
+representative
+cumulative
+exploitative
+imperative
+lucrative
+meditative
+preventative
+vegetative
+#Part 3 后缀 -atory, -itory, -ory, -ry 表名词，“场所，地点”
+territory
+dormitory
+laboratory
+laundry
+lavatory
+#Part 3 后缀 -atory, -itory, -ory, -ry 表集合名词
+machinery
+forestry
+poultry
+#Part 3 后缀 -atory, -itory, -ory, -ry 表名词，“物”
+directory
+scenery
+#Part 3 后缀 -atory, -itory, -ory, -ry 表形容词，“有......性质的”
+compulsory
+peremptory
+satisfactory
+exploratory
+mandatory
+transitory
+blurry
+#Part 3 后缀 -ed 表形容词，“有......的，被......的”
+prolonged
+crowded
+congested
+doomed
+frightened
+isolated
+limited
+biased
+contrived
+pulverized
+vested
+begrimed
+#Part 3 后缀 -eer, -ee 表名词，“从事......的人，被......的人”
+volunteer
+refugee
+auctioneer
+#Part 3 后缀 -el, -et, -let, -cule 表名词，“总称”
+personnel
+vessel
+#Part 3 后缀 -el, -et, -let, -cule 表名词，“小的东西”
+molecule
+banquet
+blanket
+booklet
+cabinet
+chapel
+droplet
+gravel
+leaflet
+morsel
+parcel
+trinket
+turret
+#Part 3 后缀 -el, -et, -let, -cule 表名词，“地点，场所”
+channel
+tunnel
+#Part 3 后缀 -en 表动词，“做，使......”
+strengthen
+tighten
+heighten
+fasten
+sharpen
+slacken
+weaken
+#Part 3 后缀 -ence, -(i)ency 表名词，“性质，状态，行为，状况”
+efficiency
+consequence
+emergency
+essence
+existence
+preference
+residence
+sequence
+deficiency
+adolescence
+complacency
+delinquency
+independence
+inference
+innocence
+magnificence
+prominence
+resilience
+#Part 3 后缀 -ery “场所，地点”
+nursery
+#Part 3 后缀 -ery “行为，情况，状态”
+effrontery
+#Part 3 后缀 -ery “行业，......法，......术，身份”
+cookery
+#Part 3 后缀 -ery 表集合名词
+crockery
+#Part 3 后缀 -fic, -ific 表形容词，“使......的，令......的，产生......的”
+scientific
+specific
+terrific
+beatific
+pacific
+#Part 3 后缀 -ful 表形容词，“充满......的，有......的性质的”
+grateful
+awful
+disrespectful
+dreadful
+fruitful
+meaningful
+mindful
+powerful
+slothful
+#Part 3 后缀 -hood 表名词， “性质，状态；身份，资格；时期”
+likelihood
+livelihood
+falsehood
+#Part 3 后缀 -ial, -ual 表形容词，“具有......的，属于......的”
+initial
+crucial
+confidential
+artificial
+commercial
+mutual
+potential
+essential
+facial
+factual
+impartial
+managerial
+sequential
+superficial
+terrestrial
+alluvial
+actual
+celestial
+centennial
+colonial
+congenial
+consequential
+entrepreneurial
+imperial
+instinctual
+judicial
+punctual
+racial
+ritual
+torrential
+#Part 3 后缀 -ic, -ice, -ical, -tic, -atic, -id, -ide, -stic 表形容词，“有......性质的，属于......的，具有......的”
+chemical
+critical
+genetic
+dramatic
+dynamic
+skeptical
+psychological
+electronic
+empirical
+atmospheric
+chronic
+chronological
+biological
+climatic
+comic
+geographical
+pragmatic
+semantic
+systematic
+technical
+toxic
+tropospheric
+valid
+vivid
+caustic
+ceramic
+allergic
+altruistic
+gigantic
+timid
+epidemic
+placid
+arid
+atomic
+barbaric
+botanical
+catastrophic
+chromatic
+clinical
+cosmic
+dogmatic
+drastic
+egocentric
+ethnic
+geological
+geometric
+hypnotic
+idiomatic
+lunatic
+metaphorical
+philosophical
+psychiatric
+robotic
+splendid
+stereoscopic
+sulphuric
+sympathetic
+turbid
+aesthetic
+zoological
+#Part 3 后缀 -ic 表名词，“人”
+critic
+mechanic
+#Part 3 后缀 -ice 表抽象名词
+justice
+#Part 3 后缀 -etic, -ide 表名词，“学科；化合物”
+arithmetic
+oxide
+#Part 3 后缀 -ician 表名词，“（精通某一领域或从事某种职业的）人”
+technician
+musician
+optician
+politician
+#Part 3 后缀 -ify, -fy 表动词，“使......，......化”
+clarify
+amplify
+certify
+exemplify
+classify
+dignify
+diversify
+fortify
+horrify
+humidify
+intensify
+justify
+nullify
+objectify
+purify
+terrify
+liquefy
+magnify
+satisfy
+simplify
+solidify
+specify
+verify
+edify
+ossify
+#Part 3 后缀 -ile 表形容词，“有......性质的，属于......的，易于......的，可......的”
+juvenile
+tensile
+versatile
+ductile
+hostile
+immobile
+senile
+sterile
+#Part 3 后缀 -ile 表名词，“物”
+reptile
+missile
+projectile
+textile
+#Part 3 后缀 -ine 表名词，“性质，状态”
+turbine
+famine
+rapine
+routine
+#Part 3 后缀 -ine 表形容词，“具有......性质的，如......的”
+genuine
+feminine
+marine
+saline
+divine
+#Part 3 后缀 -ing 表形容词，“令人感到......的，......的”
+inspiring
+devastating
+fascinating
+promising
+afflicting
+booming
+bouncing
+crushing
+disappointing
+dispiriting
+frustrating
+incoming
+scorching
+stimulating
+willing
+#Part 3 后缀 -ing 表名词，“行为，行业”
+setting
+healing
+merchandising
+retailing
+understanding
+#Part 3 后缀 -ion, -sion 表名词，“人，物，用品”
+distribution
+mansion
+medication
+possession
+remuneration
+companion
+decoration
+excavation
+irritation
+#Part 3 后缀 -ion, -sion 表名词，“行为”或“状态”
+instruction
+ambition
+comprehension
+creation
+criterion
+erosion
+expansion
+function
+mention
+ration
+relation
+subscription
+deterioration
+direction
+allocation
+region
+sanction
+obsession
+apprehension
+abstraction
+addiction
+combustion
+concession
+confusion
+convection
+conversion
+distraction
+ejection
+elation
+exhibition
+exhilaration
+extrusion
+formulation
+frustration
+fusion
+illustration
+penetration
+precision
+prediction
+pretension
+section
+speculation
+substitution
+supervision
+suspension
+tradition
+transcription
+#Part 3 后缀 -ior 表形容词，“有......性质的，较......的，属于......的”
+inferior
+interior
+exterior
+anterior
+posterior
+ulterior
+#Part 3 后缀 -ior 表名词，“有......特性的人或物”
+senior
+#Part 3 后缀 -ish 表动词，“做......，使......”
+accomplish
+flourish
+nourish
+diminish
+establish
+demolish
+vanish
+abolish
+admonish
+astonish
+banish
+finish
+impoverish
+polish
+#Part 3 后缀 -ish 表形容词，“有......性质的，......的”
+sluttish
+modish
+snobbish
+#Part 3 后缀 -ism 表名词，“......主义，特征，行为，现象”
+criticism
+organism
+feminism
+metabolism
+modernism
+plagiarism
+racism
+absenteeism
+symbolism
+#Part 3 后缀 -ist 表名词，“持某种主义者，从事......的人”
+specialist
+alchemist
+anthropologist
+dentist
+feminist
+internationalist
+journalist
+psychiatrist
+receptionist
+strategist
+agronomist
+botanist
+internist
+protagonist
+#Part 3 后缀 -ise, ize 表动词，“使......，......化”
+summarise
+acclimatize
+fertilise
+minimise
+recognize
+specialise
+authorise
+computerize
+criticise
+crystallize
+emphasize
+epitomize
+familiarize
+generalise
+glamorise
+homogenize
+idealize
+industrialise
+industrialize
+legitimize
+maximize
+memorise
+minimize
+neutralize
+penalize
+personalize
+plagiarise
+pulverise
+socialize
+subsidise
+sympathise
+synchronize
+temporize
+trivialize
+utilise
+victimise
+victimize
+#Part 3 后缀 -ite 表名词，“人”或“物”
+favourite
+granite
+#Part 3 后缀 -itude 表名词，“情况，性质，状态，事物”
+altitude
+gratitude
+ineptitude
+magnitude
+platitude
+#Part 3 后缀 -ive 表形容词，“有......性质的，有......倾向的”
+comprehensive
+incentive
+administrative
+cognitive
+collective
+instructive
+consecutive
+counterproductive
+detective
+digestive
+native
+relative
+aggressive
+elusive
+excessive
+figurative
+inventive
+manipulative
+plaintive
+repulsive
+successive
+supportive
+#Part 3 后缀 -ive 表名词，“人”或“物”
+explosive
+fugitive
+#Part 3 后缀 -le 表动词，“使......”
+settle
+topple
+#Part 3 后缀 -le 表动词，“反复，连续”
+muddle
+#Part 3 后缀 -less 表形容词，“没有......的，无......的，不......的”
+relentless
+stainless
+heartless
+ruthless
+#Part 3 后缀 -logy, -ology 表名词，“......学，......术”
+anthropology
+astrology
+cardiology
+chronology
+ethnology
+geology
+meteorology
+morphology
+pathology
+psychology
+terminology
+theology
+#Part 3 后缀 -ly 表副词，“......地”
+occasionally
+constantly
+extremely
+accordingly
+additionally
+amazingly
+annually
+apparently
+approximately
+barely
+chronically
+compulsively
+continually
+currently
+dramatically
+exclusively
+externally
+fairly
+greatly
+holistically
+immediately
+mainly
+marginally
+mentally
+merely
+meticulously
+moderately
+originally
+personally
+predominantly
+radically
+randomly
+similarly
+simultaneously
+sincerely
+solemnly
+sporadically
+statistically
+tangibly
+ultimately
+undoubtedly
+unfortunately
+virtually
+#Part 3 后缀 -ment 表名词，“行为，结果，具体物，组织机构”
+accomplishment
+statement
+equipment
+fulfillment
+ornament
+enrolment
+increment
+installment
+management
+payment
+refreshment
+torment
+treatment
+advertisement
+ailment
+assessment
+amusement
+announcement
+appointment
+argument
+attachment
+augment
+basement
+disillusionment
+embankment
+excitement
+fragment
+nutriment
+parliament
+pavement
+redevelopment
+refinement
+retrenchment
+sediment
+segment
+shipment
+unemployment
+alignment
+attainment
+disenchantment
+condiment
+embezzlement
+entanglement
+#Part 3 后缀 -ness 表名词，“性质，状态”
+fitness
+weakness
+aggressiveness
+dizziness
+fondness
+industriousness
+#Part 3 后缀 -or, -er, -ier, -ter, -eur 表名词，“人”
+counsellor
+explorer
+enhancer
+administrator
+amateur
+benefactor
+entrepreneur
+camper
+censor
+chancellor
+dealer
+dweller
+emperor
+mentor
+minor
+monitor
+narrator
+pacifier
+processor
+retailer
+shareholder
+sponsor
+treasurer
+tutor
+#Part 3 后缀 -or, -ier, -ter, -eur 表名词，“物，动物，机器”
+filter
+barrier
+cluster
+conditioner
+cylinder
+layer
+predator
+refresher
+sector
+charter
+conductor
+escalator
+extinguisher
+frontier
+horror
+glacier
+liquor
+manor
+marker
+receiver
+roller
+sucker
+tanker
+#Part 3 后缀 -or, -ier, -ter, -eur 表动词，“反复动作，连续动作；拟声动作”
+render
+batter
+flatter
+flutter
+plaster
+#Part 3 后缀 -ous, -eous, -ious, -uous 表形容词，“有......性质的，关于......的”
+indigenous
+advantageous
+rigorous
+analogous
+ambitious
+religious
+tedious
+numerous
+hazardous
+amorphous
+ingenious
+miscellaneous
+scrupulous
+venomous
+tremendous
+various
+ambiguous
+amphibious
+anxious
+luminous
+lustrous
+spacious
+unanimous
+zealous
+courageous
+disastrous
+discourteous
+dubious
+erroneous
+fabulous
+fortuitous
+glamorous
+gregarious
+harmonious
+industrious
+insidious
+jealous
+laborious
+miraculous
+mountainous
+mysterious
+noxious
+omnivorous
+osseous
+perilous
+poisonous
+rebellious
+ridiculous
+righteous
+strenuous
+studious
+sumptuous
+suspicious
+tenuous
+tortuous
+ubiquitous
+vacuous
+virtuous
+arduous
+#Part 3 后缀 -ship 表名词，“状态，性质，情况，身份”
+championship
+internship
+membership
+relationship
+apprenticeship
+assistantship
+courtship
+hardship
+interrelationship
+leadership
+scholarship
+sponsorship
+#Part 3 后缀 -ty, -ity, -icity, -ety, -osity 表名词，“性质，状态”
+equality
+opportunity
+liberty
+variety
+morality
+penalty
+property
+proximity
+charity
+continuity
+humidity
+velocity
+maturity
+adversity
+ambiguity
+anxiety
+aridity
+celebrity
+conformity
+cruelty
+divinity
+electricity
+formality
+generosity
+gravity
+inferiority
+infirmity
+ingenuity
+insularity
+laterality
+minority
+modernity
+obesity
+obscurity
+propriety
+quantity
+rarity
+regularity
+salinity
+serenity
+simplicity
+solidarity
+tranquility
+validity
+vicinity
+#Part 3 后缀 -ure, -ture 表名词，“行为，状态，结果，与行为有关之物”
+pasture
+sculpture
+posture
+furniture
+censure
+agriculture
+exposure
+mixture
+texture
+torture
+aquaculture
+scripture
+#Part 3 后缀 -y 表形容词，“多 ...... 的，有......性质的，属于......的”
+greedy
+thorny
+curly
+curvy
+gloomy
+glossy
+grassy
+greasy
+grimy
+murky
+predatory
+slippery
+starchy
+sticky
+stuffy
+sweaty
+tardy
+thirsty
+thrifty
+#Part 3 后缀 -y 表名词，“状态，行为；物”
+luxury
+discovery
+remedy
+dystrophy
+allergy
+anatomy
+category
+delivery
+dynasty
+galaxy
+inquiry
+mastery
+philosophy
+scrutiny
+#雅思主题分类词汇 日常生活
+afford
+alarm
+and so forth
+as for
+as to
+ash
+at first glance
+at sometime or other
+at the mercy of ...
+bargain
+barrel
+be based on ...
+be in doubt
+be overtaken by
+be presumed to
+bear up
+beneath
+better off
+beyond
+boot
+booth
+bow
+buckle
+bump
+bury
+by degrees
+cable
+cap
+cash
+chain
+chink
+clip
+cloakroom
+comb
+come into play
+cork
+cosy
+counter
+coupon
+cover
+crude
+dash
+dazzle
+deem
+desire
+dress down
+drip out
+emeritus
+ensue
+flock to
+fold
+for the sake of
+forth
+fortnight
+frequent
+frock
+furnish
+gadget
+go off
+good fortune
+grid
+hang on
+hardships of life
+hence
+hose
+in the blink of an eye
+in the light of
+in vogue
+instead of
+iron
+keep the pace with...
+kick off with ...
+kit
+leather
+make an appointment
+make do with
+mall
+meantime
+meanwhile
+mess
+metallic grey
+necessarily
+nightmare
+occasional
+ongoing
+out of bounds
+out of sight
+out of the question
+pair up
+pedestrian
+plastic
+plenty of
+primarily
+promise
+provided
+pull up stakes
+purchase
+push off
+regard
+regarding
+rent
+roam
+rule out ...
+screen
+set aside
+shaft
+shave
+shrug
+slouch
+slumber
+soak
+socialise
+span
+spit
+sprawl
+stab
+stack
+stain
+stitch
+strap
+stripe
+stylish
+surge
+tag
+tan
+therefore
+throughout
+throw into
+trim
+try out
+underneath
+vast
+veil
+wander
+wax
+wedge
+what makes sb. tick
+whistle
+wire
+with certain exceptions
+wrap
+#雅思主题分类词汇 动植物学
+ape
+backbone
+bark
+be resilient to ...
+bind
+bloom
+branch
+brood
+bud
+bunch
+camouflage
+cell
+chamber
+characteristic
+chase
+coral
+crawl
+creep
+cricket
+cruel
+dwell
+earthworm
+era
+fauna
+feature
+fibre
+fickle
+fierce
+flap
+flit
+flora
+fossil
+foster
+gallop
+germ
+glide
+graceful swaying
+grove
+hatch
+herbivore
+hide
+hive
+hover
+hum
+hybrid
+infest
+intake
+larva
+leap
+marsupial
+massive
+mate
+mite
+mushroom
+naked
+organic
+pine
+possess
+prey
+realm
+rear
+regurgitate
+rot
+rove
+scrub
+scrunch
+shell
+shelter
+shrub
+sleek
+stark
+stem
+stride
+swift
+tap
+teem
+trunk
+twist
+uptake
+vegetation
+viscous
+vulnerable
+worm
+#雅思主题分类词汇 地理环境
+acid
+awareness
+bare
+bleak
+breakwater
+breeze
+brunt
+chill
+circulation
+clay
+climate
+comet
+continent
+crater
+crust
+damp
+disposal
+downpour
+drought
+dump
+dusk
+ecliptic
+environment
+estuary
+extreme
+flicker
+foul
+fumes
+flip
+gleam
+glitter
+highland
+hinterland
+horizon
+hurricane
+inlet
+lack
+landfill
+landward
+latitude
+lava
+limestone
+litter
+mantle
+marble
+marsh
+melt
+moist
+mount
+on the brink
+on the brink of
+overwhelm
+ozone
+plateau
+pollution
+pumice
+roll in
+sheer
+silt
+slop over
+slurry
+source
+splash
+spray
+spring
+steep
+stream
+surroundings
+swamp
+thunder
+topsoil
+wipe out
+wondrous area
+zone
+#雅思主题分类词汇 科技能源
+advance
+airtight
+battery
+be intended for ...
+breakthrough
+browse
+charcoal
+chip
+code
+contrive
+conventional
+data
+database
+dearth
+download
+ethereal
+fingerprint
+flash
+fuel
+high-tech
+household
+instrument
+laser
+leak
+modem
+module
+nuclear
+on command
+permanently online
+petrol
+petroleum
+photocopy
+pinprick
+print out
+professional
+pump
+recognition
+scan
+scarce
+seam
+seep
+spacecraft
+stereo
+surf
+theory
+ultraclean
+unsolicited
+up-to-date
+virtual
+waterproof
+#雅思主题分类词汇 医疗健康
+acoustic
+asthma
+attack
+bacterial
+brain circuits
+bring around
+bring round
+bronchitis
+calcium
+cardiovascular
+case
+cervical
+check-up
+chest
+cholesterol
+clench
+clinic
+clot
+colour-blind
+come to life
+cough up
+deliver
+disabled
+dizzy
+dose
+excreta
+fatigue
+foetus
+gland
+groan
+handicap
+heal
+infection
+iris
+jaw
+jerk
+latent
+limb
+liver
+medical
+melatonin
+moribund
+muscle
+nerve
+organ
+quiver
+robust
+scratch
+severe
+shin
+sinew
+skull
+sore
+spasm
+spine
+splint
+sponge
+stammer
+stick
+stiff
+stretch
+stroke
+stumble
+surgeon
+therapy
+thigh
+toxin
+vet
+veterinary
+virus
+vomit
+waist
+water-borne
+wean
+wear off
+wheelchair
+womb
+wrinkle
+#雅思主题分类词汇 工作职场
+a rich bounty
+ability
+achievement
+albeit
+application
+apply
+award
+background
+be on a roll
+bent
+blueprint
+bonus
+calibre
+career
+cease
+challenge
+clerk
+client
+consideration
+cope
+crew
+deal with
+deceptive ease
+deputy
+draft
+enterprise
+extra
+farewell
+female
+flexibility
+flexitime
+forgo
+formidable
+forthcoming
+fulfil
+gather
+hand over
+hassle
+hasty
+headquarters
+in lieu of sth.
+in line with ...
+intern
+jot down
+jump in
+layout
+liaise
+live up to
+long-term
+lose sight of sb.
+lose sight of sth.
+loyalty
+make decisions
+means
+mere
+noble cause
+not add up
+occupancy rate
+organize
+otherwise
+painstaking
+pin sth. down
+presumably
+prowess
+pursuit
+rank
+reward
+schedule
+scheme
+seal
+shift
+short-term
+sift
+slip
+smooth
+sort
+specialty
+split
+staff
+strategy
+stress
+strive
+struggle
+studio
+subjective
+supervisor
+tackle
+teamwork
+terms
+threshold
+undertake
+vary
+vice versa
+vocational
+wade through
+welfare
+workaholic
+workforce
+#雅思主题分类词汇 教育学习
+academic
+adolescent
+advice
+baffle
+basis
+be incentivised to
+be inconsistent with ...
+be proactive in
+be prompted in
+be prompted to
+be receptive to ...
+blank
+bookrest
+card index
+chart
+check
+cite
+commonplace knowledge
+concentration
+conclusion
+consult
+cooperative
+creative
+cue
+dean
+detailed portrait
+diploma
+discipline
+dissertation
+educating psyche
+engage
+esteem
+examine
+faculty
+fall into place
+familiarise
+fancy
+fieldwork
+finish up
+focus
+get off track
+get sb. into shape
+get sth. into shape
+glue
+grant
+grasp
+grip
+have a word with ...
+in earnest
+in vain
+interest
+intrinsic
+investigate
+make generalization
+make sense of ...
+make sense
+make up one's mind
+master
+mechanism
+mend torn pages
+oral task
+pad
+pick sb.'s brains
+point
+pore over
+president
+prodigious
+qualification
+random
+recommendation
+refectory
+restricted loan time
+sail through
+scholar
+score
+secondary
+semester
+series
+set the beat
+shallow
+sink in
+sketch
+skim
+skip
+synchronise
+theoretical
+tick box
+tick off
+tome
+train of thought
+treatise
+truant
+turn off
+undergraduate
+upside down
+vague
+whisper
+worthwhile
+#雅思主题分类词汇 文化建筑
+abode
+adobe
+aisle
+alley
+array
+authentic
+balcony
+baron
+bizarre
+block
+brass
+bungalow
+burrow
+Cantonese
+chorus
+classical
+collection
+collision
+column
+cord
+corridor
+costume
+date back to
+date from ...
+destiny
+doom
+engrave
+enigma
+eternal
+ethnic group
+fade
+fantastic
+fantasy
+fate
+fiction
+flat
+flawed
+flint
+gallery
+gloss
+grand
+half human
+hall
+hallowed
+harridan
+have ... in common with
+historic
+hitherto
+hollow
+homestay
+humanity
+imitation
+intricate
+irony
+keystone
+location
+loop
+make-believe world
+marvel
+masterpiece
+metaphor
+motif
+narrative
+offspring
+overlap
+pedigree
+picturesque
+pitch
+reel
+romance
+shade
+shed
+situated
+spontaneous
+storey
+strand
+string
+suspenseful tension
+technique
+tilt
+trace
+tragic
+tune
+unique
+unquote
+vernacular
+wonder
+#雅思主题分类词汇 专业学科
+average
+binary unit
+centrifugal force
+clockwise
+cube
+dot
+electrical
+element
+flask
+frequency
+friction
+fuse
+gauge
+geometrical
+glutamate
+halve
+helix
+historical
+horizontal
+intensity
+ion
+magnet
+magnetic
+momentum
+odd
+on the same wavelength
+orbit
+particulate
+plus
+polar explanations
+pulley
+qualitative
+radius
+ratio
+rim
+sample
+statistic
+statistical
+sundial
+twofold
+vertical
+volt
+#雅思主题分类词汇 社会生活
+attitude
+back up
+beam
+bet
+blast
+blaze
+blend
+blonde
+bring out
+bulge
+bulletin
+bully
+burgeon
+catastrophe
+champion
+chaos
+come down to
+come to the fore
+convenient
+cosset
+county
+couple
+crack
+despite
+dice with death
+district
+fact sheet
+fake
+fashion
+feedback
+fitting
+flame
+front-line
+glimpse
+grab
+grudge
+guiding spirit
+hand out
+hinder
+honour
+huddle
+ideal
+in store
+in the offing
+invading soldiers
+invoice
+jeopardise
+jostle
+knock down
+large-scale
+libel
+make a contribution
+make a fuss of sb.
+make a fuss over sb.
+mass
+mitigate
+newsletter
+notice board
+onslaught
+out of print
+pamper
+panic
+periodical
+precarious
+printed reproduction
+prone
+prorated system
+punch
+questionnaire
+requirement
+rescue
+resident
+residential
+restore
+rig
+rumour
+scamper
+scatter
+scour
+scout
+scream
+scuffle
+shatter
+skew
+slander
+spill
+spoil
+spouse
+starve
+strike
+swap
+take its toll
+tempt
+tense
+trend
+union
+victim
+wealthy
+wretch
+#雅思主题分类词汇 法律法规
+appeal
+argue
+badge
+be pierced by
+betray
+bound
+brutal
+burglar
+cameral
+cancel
+clue
+compensation
+concealed drug
+counsel
+crime
+defence
+deny
+dismantle
+draw up
+drug detection
+dupe
+entice
+execution
+feeble
+flee
+frame
+fraud
+gang
+gender
+given
+gullibly
+hang
+hazard
+in accordance with
+item
+jargon
+lawsuit
+menace
+murder
+pirate
+pitfall
+plot
+poison
+post-mortem
+proof
+regardless
+responsibility
+retaliate
+sack
+sinister
+smear
+smother
+solicitor
+spite
+spot
+standard
+stash
+strip
+swear
+threaten
+trap
+trick
+venue
+vicious
+vile
+violate
+violence
+witness
+#雅思主题分类词汇 政府政治
+administer
+alert
+ambassador
+authority
+banner
+belief
+bolster
+bureau
+cede
+ceremony
+chief
+civil
+clash
+colony
+come to light
+commence
+commonwealth
+consulate
+cut back
+discharge
+downsize
+drop out of
+effective
+embassy
+encounter
+exile
+favour
+govern
+grope
+guarantee
+harmony
+hierarchy
+highlight
+improve
+improvement
+in opposition to
+initiative
+internal
+interpretation
+issue
+keep an open mind
+lobby
+loose
+make a deal
+manoeuvre
+martial
+outlook
+patriotic
+pave the way for ...
+poll
+premier
+presence
+proposition
+provisional
+realistic
+rigid
+round off
+scandal
+session
+slash
+standpoint
+symbolic
+take action
+target
+the tip of the iceberg
+urge
+vote down
+weigh
+well-being
+#雅思主题分类词汇 商业经济
+add up to
+advertise
+amount
+an alarming turn
+assess
+asset
+balance
+be based in
+behalf
+bid
+bounce
+brand
+bubble
+budget
+coffer
+crisis
+curb
+cut down on
+debt
+discount
+due
+dwindle
+economical
+enhance
+estimate
+fair
+financial
+forum
+free up
+fund
+guinea
+hit back
+interference with
+jumble
+keep pace with
+lag
+lend support to ...
+license
+loan
+make a difference
+make a lot of differences
+margin
+milestone
+monetary value
+nickel
+offset
+opulence
+overdue
+owe
+pay off
+pay the price
+per capita
+pledge
+poverty
+price volatility
+quote
+raise sponsorship money
+real estate
+reckon
+run a business
+shrink
+slide
+slum
+slump
+spiral
+spur
+squeeze
+stabilise
+stake
+steady
+stint
+striking
+swell
+tariff
+thrive
+treasure
+trigger
+turnover
+underlying
+undermine
+warrant
+widespread
+world-wide
+worthy
+#雅思主题分类词汇 农业生产
+agricultural
+barren
+batch
+bead
+blade
+boost
+bore
+brazen
+breakdown
+breed
+brew
+bulk
+burst
+cannon
+cast
+charge
+chunk
+clamp
+coarse
+draw on
+drawback
+dredge
+drill
+equip
+fallow
+feed
+fence off
+figure
+foam
+furnace
+gear
+grind
+gross
+halt
+hamlet
+hamper
+haphazard
+haul
+herdsman
+hinge
+intensive
+knob
+label
+labour
+launch
+livestock
+log
+lull
+mail out
+material
+measure out
+mechanical
+molten
+mould
+necessity
+operational
+outcome
+output
+patent
+pattern
+pile up
+plough
+provision
+quota
+ripe
+scale
+scrap
+screw
+slat
+stock
+stockpile
+sufficient
+supply
+switch
+swivel
+timber
+treadmill
+trench
+tug
+wear and tear
+wear down
+yield
+#雅思主题分类词汇 休闲生活
+a blockbuster film
+athlete
+attraction
+band
+bar
+barbecue
+be renowned for ...
+board
+border
+brochure
+carousel
+carry
+cavalcade of luggage
+cavort
+comedy
+competition
+crossword
+darkroom
+entertainment
+event
+flight
+fountain
+gamble
+glorious
+goal
+goggles
+gorgeous
+guided bushwalk
+guided tour
+harness
+hike
+hook
+ID card
+idyllic
+indulge
+landscape
+lead
+leisure
+magic
+match
+mime
+mimic
+Nordic
+orchestra
+overseas
+pack
+performance
+phenomenon
+plush
+preferential
+programme
+reservation
+route
+scope
+serial
+squash
+stage
+stamp
+stray
+suitcase
+swing
+tease
+tickle
+torch
+townscape
+track and field
+tramp
+trapeze
+trek
+troupe
+visa
+wrestle
+#雅思主题分类词汇 情感性格
+a rush of joy
+amaze
+annoy
+astounding
+be taken aback
+blame
+blunt
+bold
+bother
+brittle
+character
+clumsy
+daunt
+decisive
+dull
+easy-going
+extroverted behaviour
+faith
+flaw
+frank
+fraught
+frown
+frustrate
+furious
+glamor
+goodwill
+grieve
+grim
+grin
+guilty
+harsh
+homesick
+humour
+hurl
+ignorant
+keen
+loath
+logical
+marvellous
+mature
+mild
+mock
+mood
+naive
+nasty
+niggle
+obscene
+perception
+reliable
+reluctant
+revulsion
+seek
+self-esteem
+shrewd
+slender
+slight
+slim
+smart
+snap
+sophisticated
+sorrow
+stare
+stubborn
+taunt
+tender
+thoughtful
+thrill
+triumph
+violent
+virtue
+wary
+#雅思主题分类词汇 饮食烹饪
+a handful of
+bistro
+bit
+cafeteria
+calorie
+carve
+cater
+chew
+chum
+core
+crisp
+cuisine
+curry
+dairy
+flavour
+fragrance
+gorge
+grill
+grocery
+guzzle
+malt
+mandarin
+meagre
+mingle
+odour
+pepper
+pour
+roast
+savour
+sip
+slice
+smell
+snack
+spice
+spin
+stale
+stir
+straw
+stuff
+swallow
+tough
+#雅思主题分类词汇 交通运输
+anchor
+artery
+axle
+barge
+canoe
+clutch
+craft
+crank
+crash
+cruise
+crush
+cut off
+departure
+diesel
+dock
+drop off
+embark
+fare
+fleet
+freight
+harbour
+heap
+highway
+hurdle
+lane
+linger
+link
+load
+lounge
+lower
+maritime
+onwards
+pathway
+pilot
+regulation
+road haulage
+scrape
+shuttle
+slope
+spare
+steam
+steer
+track
+tram
+transportation
+tube
+van
+waterfront
+windscreen

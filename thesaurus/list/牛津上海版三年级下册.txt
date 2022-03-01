@@ -1,0 +1,79 @@
+#Module 1 Unit 1
+aeroplane
+bus
+ship
+car
+#Module 1 Unit 2
+pineapple
+cake
+bread
+glass
+bag
+#Module 1 Unit 3
+sweet
+sweet
+lemon
+sour
+salt
+salty
+coffee
+bitter
+#Module 2 Unit 1
+tiger
+lion
+panda
+monkey
+clever
+strong
+#Module 2 Unit 2
+toy train
+doll
+skateboard
+robot
+lovely
+#Module 2 Unit 3
+hat
+scarf
+jacket
+a pair of gloves
+a pair of socks
+a pair of shoes
+funny
+his
+#Module 3 Unit 1
+circle
+square
+triangle
+star
+rectangle
+house
+#Module 3 Unit 2
+sky
+sea
+mountain
+river
+#Module 3 Unit 3
+plant a tree
+have a picnic
+ice-skate
+ski
+#Module 4 Unit 1
+body
+head
+shoulder
+arm
+finger
+hand
+knee
+leg
+foot
+feet
+#Module 4 Unit 2
+park
+cinema
+zoo
+our
+class
+party
+take a photograph
+parent

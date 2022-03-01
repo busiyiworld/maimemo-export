@@ -1,0 +1,980 @@
+#Lesson 1 - 2
+excuse
+me
+yes
+is
+this
+your
+handbag
+pardon
+it
+thank you
+very much
+pen
+pencil
+book
+watch
+coat
+dress
+skirt
+shirt
+car
+house
+#Lesson 3 - 4
+umbrella
+please
+here
+my
+ticket
+number
+five
+sorry
+sir
+cloakroom
+suit
+school
+teacher
+son
+daughter
+#Lesson 5 - 6
+Mr.
+good
+morning
+Miss
+new
+student
+French
+German
+nice
+meet
+Japanese
+Korean
+Chinese
+too
+make
+Swedish
+English
+American
+Italian
+Volvo
+Peugeot
+Mercedes
+Toyota
+Daewoo
+Mini
+Ford
+Fiat
+#Lesson 7 - 8
+I
+am
+are
+name
+what
+nationality
+job
+keyboard
+operator
+engineer
+policeman
+policewoman
+taxi driver
+air hostess
+postman
+nurse
+mechanic
+hairdresser
+housewife
+milkman
+#Lesson 9 - 10
+hello
+hi
+how
+today
+well
+fine
+thanks
+goodbye
+see
+fat
+woman
+thin
+tall
+short
+dirty
+clean
+hot
+cold
+old
+young
+busy
+lazy
+#Lesson 11 - 12
+whose
+blue
+perhaps
+white
+catch
+father
+mother
+blouse
+sister
+tie
+brother
+his
+her
+#Lesson 13 - 14
+colour
+green
+come
+upstairs
+smart
+hat
+same
+lovely
+case
+carpet
+dog
+#Lesson 15 - 16
+customs
+officer
+girl
+Danish
+friend
+Norwegian
+passport
+brown
+tourist
+Russian
+Dutch
+these
+red
+grey
+yellow
+black
+orange
+#Lesson 17 - 18
+employee
+hard-working
+sales rep
+man
+office
+assistant
+#Lesson 19 - 20
+matter
+children
+tired
+boy
+thirsty
+Mum
+sit down
+right
+ice cream
+big
+small
+open
+shut
+light
+heavy
+long
+shoe
+grandfather
+grandmother
+#Lesson 21 - 22
+give
+one
+which
+empty
+full
+large
+little
+sharp
+small
+big
+blunt
+box
+glass
+cup
+bottle
+tin
+knife
+fork
+spoon
+#Lesson 23 - 24
+on
+shelf
+desk
+table
+plate
+cupboard
+cigarette
+television
+floor
+dressing table
+magazine
+bed
+newspaper
+stereo
+#Lesson 25 - 26
+Mrs.
+kitchen
+refrigerator
+right
+electric
+left
+cooker
+middle
+of
+room
+cup
+where
+in
+#Lesson 27 - 28
+living room
+near
+window
+armchair
+door
+picture
+wall
+trousers
+#Lesson 29 - 30
+shut
+bedroom
+untidy
+must
+open
+air
+put
+clothes
+wardrobe
+dust
+sweep
+empty
+read
+sharpen
+put on
+take off
+turn on
+turn off
+#Lesson 31 - 32
+garden
+under
+tree
+climb
+who
+run
+grass
+after
+across
+cat
+type
+letter
+basket
+eat
+bone
+clean
+tooth
+cook
+milk
+meal
+drink
+tap
+#Lesson 33 - 34
+day
+cloud
+sky
+sun
+shine
+with
+family
+walk
+over
+bridge
+boat
+river
+ship
+aeroplane
+fly
+sleep
+shave
+cry
+wash
+wait
+jump
+#Lesson 35 - 36
+photograph
+village
+valley
+between
+hill
+another
+wife
+along
+bank
+water
+swim
+building
+park
+into
+beside
+off
+#Lesson 37 - 38
+work
+hard
+make
+bookcase
+hammer
+paint
+pink
+favourite
+homework
+listen
+dish
+#Lesson 39 - 40
+front
+in front of
+careful
+vase
+drop
+flower
+show
+send
+take
+#Lesson 41 - 42
+cheese
+bread
+soap
+chocolate
+sugar
+coffee
+tea
+tobacco
+bird
+any
+some
+#Lesson 43 - 44
+of course
+kettle
+behind
+teapot
+now
+find
+boil
+#Lesson 45 - 46
+can
+boss
+minute
+ask
+handwriting
+terrible
+lift
+cake
+biscuit
+#Lesson 47 - 48
+like
+want
+fresh
+egg
+butter
+pure
+honey
+ripe
+banana
+jam
+sweet
+orange
+Scotch whisky
+choice
+apple
+wine
+beer
+blackboard
+#Lesson 49 - 50
+butcher
+meat
+beef
+lamb
+husband
+steak
+mince
+chicken
+tell
+truth
+either
+tomato
+potato
+cabbage
+lettuce
+pea
+bean
+pear
+grape
+peach
+#Lesson 51 - 52
+Greece
+climate
+country
+pleasant
+weather
+spring
+windy
+warm
+rain
+sometimes
+summer
+autumn
+winter
+snow
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+the U.S.
+Brazil
+Holland
+England
+France
+Germany
+Italy
+Norway
+Russia
+Spain
+Sweden
+#Lesson 53 - 54
+mild
+always
+north
+east
+wet
+west
+south
+season
+best
+night
+rise
+early
+set
+late
+interesting
+subject
+conversation
+Australia
+Australian
+Austria
+Austrian
+Canada
+Canadian
+China
+Finland
+Finnish
+India
+Indian
+Japan
+Nigeria
+Nigerian
+Turkey
+Turkish
+Korea
+Polish
+Poland
+Thai
+Thailand
+#Lesson 55 - 56
+live
+stay
+home
+housework
+lunch
+afternoon
+usually
+together
+evening
+arrive
+night
+#Lesson 57 - 58
+o'clock
+shop
+moment
+#Lesson 59 - 60
+envelope
+writing paper
+shop assistant
+size
+pad
+glue
+chalk
+change
+#Lesson 61 - 62
+feel
+look
+must
+call
+doctor
+telephone
+remember
+mouth
+tongue
+bad
+cold
+news
+headache
+aspirin
+earache
+toothache
+dentist
+stomach ache
+medicine
+temperature
+flu
+measles
+mumps
+#Lesson 63 - 64
+better
+certainly
+get up
+yet
+rich
+food
+remain
+play
+match
+talk
+library
+drive
+so
+quickly
+lean out of
+break
+noise
+#Lesson 65 - 66
+Dad
+key
+baby
+hear
+enjoy
+yourself
+ourselves
+mum
+myself
+themselves
+himself
+herself
+#Lesson 67 - 68
+greengrocer
+absent
+Monday
+Tuesday
+Wednesday
+Thursday
+keep
+spend
+weekend
+Friday
+Saturday
+Sunday
+country
+lucky
+church
+dairy
+baker
+grocer
+#Lesson 69 - 70
+year
+race
+town
+crowd
+stand
+exciting
+just
+finish
+winner
+behind
+way
+stationer
+Denmark
+#Lesson 71 - 72
+awful
+telephone
+time
+answer
+last
+phone
+again
+say
+#Lesson 73 - 74
+week
+London
+suddenly
+bus stop
+smile
+pleasantly
+understand
+speak
+hand
+pocket
+phrasebook
+phrase
+slowly
+hurriedly
+cut
+thirstily
+go
+greet
+#Lesson 75 - 76
+ago
+buy
+pair
+fashion
+uncomfortable
+wear
+#Lesson 77 - 78
+appointment
+urgent
+till
+#Lesson 79 - 80
+shopping
+list
+vegetable
+need
+hope
+thing
+money
+groceries
+fruit
+stationery
+newsagent
+chemist
+#Lesson 81 - 82
+bath
+nearly
+ready
+dinner
+restaurant
+roast
+breakfast
+haircut
+party
+holiday
+#Lesson 83 - 84
+mess
+pack
+suitcase
+leave
+already
+#Lesson 85 - 86
+Paris
+cinema
+film
+beautiful
+city
+never
+ever
+#Lesson 87 - 88
+attendant
+bring
+garage
+crash
+lamp-post
+repair
+try
+#Lesson 89 - 90
+believe
+may
+how long
+since
+why
+sell
+because
+retire
+cost
+pound
+worth
+penny
+#Lesson 91 - 92
+still
+move
+miss
+neighbour
+person
+people
+poor
+#Lesson 93 - 94
+pilot
+return
+New York
+Tokyo
+Madrid
+fly
+Athens
+Berlin
+Bombay
+Geneva
+Moscow
+Rome
+Seoul
+Stockholm
+Sydney
+#Lesson 95 - 96
+return
+train
+platform
+plenty
+bar
+station
+porter
+catch
+miss
+#Lesson 97 - 98
+leave
+describe
+zip
+label
+handle
+address
+pence
+belong
+#Lesson 99 - 100
+ow
+slip
+fall
+downstairs
+hurt
+back
+stand up
+help
+at once
+sure
+X-ray
+licence
+#Lesson 101 - 102
+Scotland
+card
+youth
+hostel
+association
+soon
+write
+#Lesson 103 - 104
+exam
+pass
+mathematics
+question
+easy
+enough
+paper
+fail
+answer
+mark
+rest
+difficult
+hate
+low
+cheer
+guy
+top
+clever
+stupid
+cheap
+expensive
+fresh
+stale
+loud
+high
+hard
+sweet
+soft
+sour
+low
+#Lesson 105 - 106
+spell
+intelligent
+mistake
+present
+dictionary
+carry
+keep
+correct
+#Lesson 107 - 108
+madam
+smart
+as well
+suit
+pretty
+#Lesson 109 - 110
+idea
+a little
+teaspoonful
+less
+a few
+pity
+instead
+advice
+most
+least
+best
+worse
+worst
+#Lesson 111 - 112
+model
+afford
+deposit
+instalment
+price
+millionaire
+#Lesson 113 - 114
+conductor
+fare
+change
+note
+passenger
+none
+neither
+get off
+tramp
+except
+#Lesson 115 - 116
+anyone
+knock
+everything
+quiet
+impossible
+invite
+anything
+nothing
+lemonade
+joke
+asleep
+glasses
+#Lesson 117 - 118
+dining room
+coin
+mouth
+swallow
+later
+toilet
+ring
+#Lesson 119 - 120
+story
+happen
+thief
+enter
+dark
+torch
+voice
+parrot
+exercise book
+#Lesson 121 - 122
+customer
+forget
+manager
+serve
+counter
+recognize
+road
+#Lesson 123 - 124
+during
+trip
+travel
+offer
+job
+guess
+grow
+beard
+kitten
+#Lesson 125 - 126
+water
+terribly
+dry
+nuisance
+mean
+surprise
+immediately
+#Lesson 127 - 128
+famous
+actress
+at least
+actor
+read
+#Lesson 129 - 130
+wave
+track
+mile
+overtake
+speed limit
+dream
+sign
+driving
+charge
+darling
+#Lesson 131 - 132
+Egypt
+abroad
+worry
+#Lesson 133 - 134
+reporter
+sensational
+mink coat
+#Lesson 135 - 136
+future
+get married
+hotel
+latest
+introduce
+#Lesson 137 - 138
+football
+pool
+win
+world
+poor
+depend
+#Lesson 139 - 140
+extra
+overseas
+engineering
+company
+line
+#Lesson 141 - 142
+excited
+get on
+middle-aged
+opposite
+curiously
+funny
+powder
+compact
+kindly
+ugly
+amused
+smile
+embarrassed
+worried
+regularly
+#Lesson 143 - 144
+surround
+wood
+beauty spot
+hundred
+city
+through
+visitor
+tidy
+litter
+litter basket
+place
+throw
+rubbish
+count
+cover
+piece
+tyre
+rusty
+among
+prosecute

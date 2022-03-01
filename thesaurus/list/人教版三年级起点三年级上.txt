@@ -1,0 +1,70 @@
+#Unit 1
+ruler
+pencil
+eraser
+crayon
+bag
+pen
+pencil box
+book
+no
+your
+#Unit 2
+red
+green
+yellow
+blue
+black
+brown
+white
+orange
+OK
+mum
+#Unit 3
+face
+ear
+eye
+nose
+mouth
+arm
+hand
+head
+body
+leg
+foot
+school
+#Unit 4
+duck
+pig
+cat
+bear
+dog
+elephant
+monkey
+bird
+tiger
+panda
+zoo
+funny
+#Unit 5
+bread
+juice
+egg
+milk
+water
+cake
+fish
+rice
+#Unit 6
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+brother
+plate

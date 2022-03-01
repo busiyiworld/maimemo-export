@@ -1,0 +1,47 @@
+#Unit 1
+Helen
+Mike
+#Unit 2
+morning
+afternoon
+evening
+#Unit 3
+dad
+mum
+teacher
+#Unit 4
+a book
+a bag
+a pencil
+a pencil box
+#Unit 5
+a banana
+a pear
+a mango
+a peach
+#Unit 6
+a cow
+a duck
+a pig
+a cat
+a dog
+#Unit 7
+a mouth
+a nose
+an ear
+an eye
+#Unit 8
+run
+jump
+sing
+dance
+#Unit 9
+a card
+a doll
+a red packet
+#Unit 10
+red
+green
+blue
+yellow
+brown

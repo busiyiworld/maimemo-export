@@ -1,0 +1,1819 @@
+textbook
+specialty
+academic discipline
+major field
+major course
+minor
+elective
+basis
+introductory course
+overlap
+course description
+syllabus
+class syllabus
+coursework
+exchange program
+class schedule
+room assignment sheet
+drop class
+enroll
+enrollment
+registration
+transfer student
+alumnus
+academic record
+credit
+advanced degree
+advanced study
+take-home exam
+mid-term
+mid-term exam
+final exam
+academic year
+school year
+guesswork
+theoretical
+classic theory
+verification
+advanced seminar
+academia
+term project
+independent study
+independent research project
+group research
+group project
+academic plan
+research topic
+research project
+in-depth research
+waiting list
+field research
+field trip
+field station
+grant
+research fund
+sponsor
+office hours
+assign
+assignment
+class note
+class presentation
+spring break
+summer break
+summer term
+summer school program
+sabbatical
+absence
+due
+due day
+extend
+extension
+paper
+paper topic
+research paper
+term paper
+senior thesis
+thesis seminar
+research journal
+scholarly journal
+journal article
+literature review
+documentation
+supplemental reading
+additional reading
+background reading
+extra reading
+writing style
+academic convention
+logical order
+systematic
+well-developed
+argument
+main argument
+dimension
+controversy
+paradox
+basis
+generalize
+summarize
+conclusion
+synthesize
+synopsis
+outline
+proposal
+reference
+comment
+relevant
+distraction
+off topic
+subjective
+objectively
+original thinking
+critically
+perspective
+point of view
+draft version
+primary source
+revise
+oversee
+rewrite
+redo
+progress report
+check out
+re-shelve
+recall
+retrieve
+borrowing privilege
+loan period
+circulation history
+deadline
+expire
+renew
+on reserve
+reserved book
+buyback
+sell back
+full refund
+authorization
+authorized access
+special permission
+identification
+special collection
+permanent collection
+library holdings
+reference section
+reference stacks
+electronic format
+electronic resource
+microfilm
+duplicate
+print version
+reproduce
+additional copy
+updated edition
+later edition
+manuscript
+rare book
+catalog
+catalogue
+book list
+abstract
+annotation
+commentary
+mark up
+head librarian
+library assistant
+attendant
+database
+keyword search
+video library
+magnifying glass
+photocopy
+administrator
+administration office
+administrative office
+department
+faculty
+graduate school
+student aboard office
+secretary
+dean
+founding director
+department chair
+review committee
+panel
+senior researcher
+guest speaker
+instructor
+advisor
+colleague
+scholar
+custodian
+lecture hall
+auditorium
+cafeteria
+meal plan
+dormitory
+dorm
+roommate
+front desk
+information desk
+main desk
+tutoring center
+sister university
+bulletin board
+school paper
+flyer
+brochure
+desk copy
+poster
+publicity
+guideline
+announcement
+notification
+orientation session
+oral presentation
+newsletter
+vote
+voter
+voting rate
+ballot
+election
+general election
+straw poll
+student government
+participation rates
+student orientation
+campus employment office
+career services center
+career fair
+classroom-to-cooperation career fair
+interview workshop
+resume
+submission
+potential applicant
+candidate
+professional reference
+recommendation
+personal statement
+good standing
+academic interests
+part-time position
+part-timers
+campus job
+internship
+teaching assistant
+janitor
+legwork
+off-campus
+tuition fee
+special circumstance
+work-study program
+financial assistance
+financial aid
+scholarship
+representative
+supervisor
+helpdesk
+human resources
+recruit
+extended hours
+work order
+schedule
+paycheck
+wage
+pay period
+payroll
+payroll office
+payroll department
+advancement
+people skills
+unemployment
+remains
+ruin
+settlement site
+shipwreck
+tomb
+burial sites
+burial places
+grave
+passage graves
+cache
+monument
+prehistory
+pyramid
+ancestor
+ancient society
+ancient history
+ancient civilization
+lost civilization
+artifact
+ceremonial objects
+religious ritual
+archaeological
+archaeological sites
+archaeological record
+archaeological excavation
+archaeologist
+excavate
+excavation
+excavation sites
+clue
+trace back
+fossil fragment
+fossil record
+find
+physical evidence
+customer experience
+customer loyalty
+customer preference
+customer base
+potential customer
+intended audience
+target group
+purchase
+mortgage
+promissory notes
+service standard
+satisfaction
+dissatisfied
+feedback
+compensation
+service recovery
+business management
+business leader
+business owner
+businessman
+business manager
+business representative
+business plan
+manufacture
+manufacturer
+organization
+establishment
+firm
+corporation
+private company
+administration
+administrative
+marketer
+market analyst
+market research
+market place
+market forces
+consumer market
+marketing campaign
+marketing strategy
+strategic marketing
+brand awareness
+brand loyalty
+budget
+annual budget
+cost and benefit
+special promotion
+case study
+beneficiary
+bidder
+bidding
+equitable
+game strategy
+ground rules
+irrational boom
+long-term lease
+asset
+creature
+species
+native species
+invasive species
+threatened species
+fauna
+megafauna
+herd
+mammal
+aquatic mammal
+marine life
+reptile
+amphibian
+herbivore
+grazing animals
+prehistoric animals
+modern animals
+cold-blooded animal
+invertebrate animals
+primate
+seabird
+physical trait
+songbird
+beak
+blowhole
+forehead
+skull
+extremity
+skeletal structure
+tail
+hind feet
+limb
+paw
+fur
+furry
+feather
+organ
+reside
+habitat
+nature habitat
+original habitat
+territory
+territorial
+nesting sites
+burrow
+hibernate
+dormant
+dormant state
+mating
+mating ritual
+newborn
+hatch
+reproduction
+spawn
+lay egg
+breeding
+parenting
+mature
+thrive
+nurture
+chick
+offspring
+descendant
+migration route
+migration pattern
+seasonal migration
+translocate
+trek
+oceangoing
+hop
+dynamic soaring
+echolocation
+forage
+prey
+predator
+predation
+predator-prey relationship
+enemy
+camouflage
+captivity
+capture
+defense mechanism
+swallow
+ingest
+digest
+digestive system
+digestive organ
+metabolism
+exist
+survival
+survival rate
+lifespan
+degrade
+over-hunting
+domestication
+extinct
+extinction
+rescue
+revive
+adaptation
+symbiotic
+evolution
+evolutionary process
+coevolve
+natural selection
+natural variation
+biodiversity
+biological response
+diversification
+conservationist
+conservation biologist
+marine biologist
+genus
+herb
+dominant plant
+vegetation
+shrub
+jungle
+old-growth forest
+prairie
+bulb
+cluster
+root
+stem
+growth ring
+flora
+plant fiber
+bloom
+germinate
+germination
+flowing cycle
+nectar
+scent
+pollen
+pollinate
+pollination
+pollinator
+pollination cycle
+architect
+architectural
+city planner
+functional design
+design principle
+floor plan
+drawing
+dwelling
+residential architecture
+public architecture
+apartment complex
+residential community
+suburb
+downtown
+artist
+artistic
+artist studio
+ancient artists
+individual artist
+master artist
+artistic vision
+artistic style
+artwork
+art fair
+art supply store
+painter
+assistant
+drawing
+pencil drawing
+portrait
+portrait artist
+portrait painting
+portrait sculpture
+portraiture
+painting
+sketch
+manuscript
+depict
+portray
+brushstroke
+canvas
+canvas painting
+pigment
+frame
+salon
+gallery
+mural
+cave drawing
+sculpture
+relief sculpture
+statue
+marble statue
+profile
+life size
+real object
+masterpiece
+artisan
+mason
+sculptor
+carve
+surface treatment
+discolour
+deteriorate
+photographer
+photograph
+subject
+subject matter
+theme
+commission
+color film
+crop
+dimension
+author
+authorship
+biographer
+biography
+illustrator
+journalist
+narrator
+narrative
+novelist
+poet
+storyteller
+science fiction
+dime novel
+comic book
+novella
+poem
+poetry
+essay
+mythology
+anecdote
+tale
+fairy tale
+folktale
+folk legend
+storyline
+plot
+plot development
+fictional
+paraphrase
+standpoint
+tragedy
+dramatic literature
+romantic literature
+realistic literature
+publisher
+press
+penny press
+edition
+literacy
+literate
+phrase
+contemporary review
+musician
+composer
+composition
+compose
+cabaret
+concert
+concert hall
+music venue
+conservatory
+heyday
+genre
+trend
+dominant view
+mainstream
+musical element
+ballad
+blues
+original score
+rock 'n' roll
+jazz
+opera
+Broadway musical
+folk music
+choir
+university choir
+accompaniment
+recital
+orchestra
+jazz orchestra
+acoustic
+acoustic guitar
+acoustics
+acoustical
+acoustical quality
+tone
+tone quality
+bass
+distortion
+rhythm
+lyric
+sheet music
+instrument
+percussion instrument
+string instrument
+drama
+musical drama
+perform
+live performance
+theatrical performance
+performing art
+audition
+audience
+audience members
+live audience
+intended audience
+spectator
+listener
+performance area
+playhouse
+prop
+costume
+gesture
+close-up shot
+scene
+scenery
+background scenery
+theatrical production
+ballerina
+lead dancer
+performer
+practice room
+choreograph
+dance tune
+line-up
+rehearsal
+intermission
+setting
+actor
+main character
+film maker
+producer
+movie theater
+public theater
+editing room
+studio
+studio musician
+projector
+film projector
+projection
+narration
+film music
+soundtrack
+short film
+playwriting
+loose end
+film appreciation
+dramatic element
+Antarctica
+Atlantic Ocean
+arctic circle
+continent
+continental
+continental plates
+continental drift
+tectonic plates
+plate tectonic theory
+oceanic plate
+plate boundary
+crust
+earth crust
+mantle
+ocean floor
+bedrock
+layer
+rock layer
+equator
+equatorial region
+landscape
+topographic
+geographic regions
+peninsula
+basin
+erode
+erosion
+canyon
+valley
+crack
+ridge
+cavern
+bank
+shallow
+shore
+puddle
+waterway
+canal
+clay
+mud
+salt marshes
+soil properties
+soil sample
+fertile
+barren
+acid
+mineralize
+sediment
+sedimentary rock
+rock fragment
+limestone
+crater
+volcano
+volcanic
+volcanic eruption
+melting point
+molten rock
+magma
+lava
+geologic time
+glacier
+solid ice
+harsh winter
+ice crystal
+freezing cold
+crevasse
+anti-freeze
+thaw
+circular
+circulatory system
+aquifer
+vaporize
+evaporate
+water vapor
+moist
+moisture
+condensation
+precipitation
+water current
+salt water
+fresh water
+standing water
+breeze
+dominant wind
+tropical
+subtropical regions
+temperate
+temperate climate
+fossil fuels
+crude oils
+oil field
+petroleum
+gasoline
+refiner
+methane
+natural gas
+natural phenomenon
+anomaly
+deforestation
+landfill
+heavy metal
+land reclamation
+waste water treatment
+water conservation
+micro-organisms
+algae
+bacteria
+bacterium
+fungus
+fungi
+microbe
+organism
+microorganism
+single organism
+solid organism
+organism material
+organic molecule
+inorganic
+tissue
+decomposer
+carbohydrate
+mutation
+cell division
+galaxy
+galaxy clusters
+solar system
+sunspot
+planetary
+terrestrial plants
+gas giant
+Venus
+Saturn
+Jupiter
+Mars
+lunar
+asteroid
+comet
+debris
+meteor
+meteorite
+atmosphere
+extraterrestrial
+outer space
+gravitation
+gravitational
+astronomy
+astronomer
+astronomical
+astronomical units
+astronaut
+space agency
+emit
+light year
+escape velocity
+orbit
+geostationary orbit
+radiation
+optical radiation
+spacecraft
+space shuttle
+satellite
+telescope
+radio telescope
+a head start
+back and forth
+beat-up
+best bet
+blank out
+blow away
+boil down
+box in
+carry away
+clear-cut
+comes to light
+draw the line
+drown out
+ease the pain
+fade away
+far-fetched
+far-between
+flip through
+free rider
+get around
+get-go
+get in the way
+get rid of
+get the picture
+go down the drain
+goof off
+hang around
+hang on
+joke around
+just in case
+last-minute
+long shot
+long story short
+low-key
+novel idea
+over my head
+play it safe
+picky eater
+pile up
+piping hot
+pitch in
+ring off the hook
+rule of thumb
+sell yourself short
+sit back
+skating on thin ice
+start from scratch
+stand a chance
+stay up all night
+sticking out
+take a stab
+take comfort
+the plot thickens
+threw ... for a loop
+tongue in cheek
+toss around
+up and down
+way off
+wander around
+wear and tear
+well-fed
+wind up
+word of mouth
+abandon
+absence
+abundantly
+according
+accumulate
+acquire
+adapt
+adaptive
+adjacent
+allow
+alter
+annual
+apparent
+approach
+approximate
+associate
+assure
+autonomy
+capacity
+cease
+characteristic
+comparative
+complex
+component
+compose
+concentration
+concept
+consequently
+considerable
+constant
+construct
+consumption
+continuous
+contribute
+core
+correspond
+critically
+cultivate
+current
+cycle
+decline
+demand
+dense
+deposit
+derive
+despite
+detect
+differ
+diminish
+disperse
+distinct
+distinctive
+distribute
+diversity
+document
+domestic
+dominate
+dramatic
+dramatically
+drastically
+duration
+effort
+elaboration
+emergence
+enable
+endure
+engage
+enhance
+enormous
+episode
+essential
+estimate
+eventually
+evolve
+exceptional
+exclusive
+exhibit
+expand
+exploit
+extend
+extensive
+extreme
+favorable
+flourish
+flow
+fluctuation
+focus
+fuel
+function
+further
+generate
+giant
+gradual
+harsh
+hence
+impressive
+inevitable
+inhabitant
+inhibit
+initiate
+integrate
+interpret
+investigate
+isolate
+key
+maintain
+marked
+massive
+match
+nevertheless
+notably
+observation
+obtain
+obvious
+occasionally
+overall
+particular
+permanent
+persistent
+phenomenon
+pioneer
+potentially
+practical
+precise
+prediction
+predominant
+preserve
+presumably
+prevail
+principal
+prior
+profound
+promote
+proportion
+propose
+readily
+recognize
+recover
+refine
+reflect
+regard
+relatively
+remarkable
+restrict
+resistance
+retain
+reveal
+ritual
+roughly
+rudimentary
+scale
+scarcity
+scatter
+sequence
+severe
+shallow
+shelter
+slight
+significant
+significantly
+simultaneously
+sophisticate
+sparse
+specific
+spectacular
+speculate
+stationary
+stimulate
+striking
+subsequent
+substantial
+successive
+sufficient
+suitable
+surplus
+sustain
+task
+thereby
+therefore
+traditionally
+transform
+transition
+ultimately
+undoubtedly
+uniformly
+vastly
+virtually
+vital
+vulnerable
+defenseless
+whereas
+widespread
+abound
+abruptly
+accelerate
+accessible
+accidental
+accompany
+accustom
+acute
+adequate
+admire
+admit
+advantageous
+advent
+adverse
+advocate
+afford
+aggregate
+allegedly
+ally
+altogether
+amass
+ambiguous
+analogous
+anticipate
+appealing
+appreciate
+appropriate
+artificial
+assemble
+assess
+assistance
+astonishing
+attain
+attest
+attribute
+augment
+authority
+bare
+beneficial
+beside
+breakthrough
+bulk
+catastrophe
+chaotic
+chronological
+cite
+cluster
+collapse
+collect
+collectively
+coincident
+commonplace
+compact
+compatible
+compelling
+compensate
+compound
+comprehensive
+compression
+comprise
+conceal
+conceivably
+conceive
+conducive
+configuration
+confine
+congestion
+congregate
+considerable
+consistently
+conspicuous
+constituent
+constrain
+context
+continually
+contract
+contradictory
+controversial
+contemporary
+converge
+conventional
+conversely
+convert
+convince
+cope
+counter
+crucial
+crude
+cumulative
+culminate
+curious
+decisive
+decipher
+definite
+deliberation
+delicate
+deplete
+detach
+deteriorate
+devastate
+devise
+devoid
+diffuse
+discard
+dismiss
+disruption
+distortion
+disturb
+divert
+draw
+duty
+dweller
+equivalent
+elevate
+eliminate
+embrace
+embody
+emphasize
+emit
+encompass
+encounter
+enjoy
+ensure
+entirely
+era
+erect
+establish
+excavation
+exceedingly
+excessive
+exclude
+excrete
+exercise
+exhaust
+exotic
+experimental
+explicit
+expose
+extract
+facilitate
+faithful
+feat
+flaw
+flexible
+fluid
+fracture
+fragile
+fragment
+formulate
+fortunately
+foundation
+fulfill
+fundamental
+furnish
+gain
+generally
+gift
+guarantee
+hasten
+hazardous
+heighten
+herbivore
+hierarchy
+hollow
+hostile
+ideally
+identical
+illuminate
+immense
+imminent
+impetus
+implement
+implication
+imply
+improbable
+inadvertently
+incentive
+incredible
+indefinitely
+indicator
+indicative
+indigenous
+induce
+ingenious
+ingenuity
+inhospitable
+insight
+install
+intact
+integral
+intense
+intentional
+intermittently
+interplay
+intimate
+intricate
+invariable
+irritation
+justify
+lateral
+launch
+lethal
+likewise
+lucrative
+manage
+manifestation
+manipulate
+master
+mechanism
+mere
+minute
+modest
+modify
+monumental
+motive
+mutual
+net
+nonetheless
+norm
+notion
+notorious
+novelty
+objective
+oblige
+obscure
+obsolete
+ongoing
+onset
+optimal
+ornament
+oversee
+parallel
+peak
+peculiar
+penetrate
+perceive
+periodically
+periodic
+perspective
+pertinent
+pervasive
+plague
+plausible
+plentiful
+pinpoint
+portable
+portray
+pragmatic
+precede
+precious
+precipitate
+prerequisite
+prime
+prohibit
+prolong
+progressively
+prone
+properly
+proponent
+prosperous
+pursue
+quantifiable
+quest
+radically
+random
+ratio
+reasonable
+rebound
+recur
+regulate
+relentless
+rely
+reinforcement
+remnant
+remote
+renew
+repetitive
+replenish
+resemble
+resolve
+respectively
+retard
+retrospect
+rigid
+rival
+unrivalled
+robust
+routinely
+sacred
+scenario
+scores
+scrutiny
+sculpture
+seek
+secure
+segregate
+seldom
+self-sufficient
+sensitive
+sloping
+signature
+signal
+skeptical
+sought
+sphere
+static
+status
+steadily
+straightforward
+strictly
+subdue
+subtle
+subsistence
+supplement
+suppress
+surely
+surge
+surpass
+susceptible
+suspend
+swift
+tactic
+terrestrial
+temporarily
+threaten
+thus
+ties
+tolerant
+trace
+transparent
+trap
+trapping
+tremendous
+trend
+trigger
+typify
+undergo
+underlying
+unique
+unprecedented
+unpredictable
+unpromising
+vacate
+vanish
+valid
+velocity
+vicinity
+vigorous
+wealthy
+abolish
+absolutely
+accommodate
+acknowledge
+adhesive
+adjoining
+adopt
+albeit
+alliance
+allusion
+aim
+ambitious
+ample
+anarchy
+annihilate
+anonymous
+anxiety
+appraisal
+appreciably
+aptitude
+ardent
+arduous
+ascend
+assimilate
+assorted
+astoundingly
+authenticity
+baffle
+bar
+bizarre
+bombard
+broaden
+burdensome
+burgeoning
+bustling
+champion
+circumstance
+coalesce
+coating
+coexist
+colossal
+compilation
+compile
+compulsorily
+concede
+concern
+conform
+conjunction
+consensus
+consult
+contend
+contention
+convey
+correlate
+courteous
+cramp
+credible
+crisis
+criteria
+cushion
+decay
+deceive
+define
+deficiency
+deflect
+delicately
+dependable
+depict
+designation
+desolate
+detrimental
+determinant
+deviate
+devour
+discern
+discrepancy
+discrete
+discontent
+disguise
+disintegrate
+doctrine
+domain
+dormant
+drawback
+duplicate
+edible
+efficacy
+elusive
+emanate
+embellish
+eminent
+employ
+empirical
+endow
+engrave
+enlist
+enigmatic
+ensuing
+eradicate
+erode
+erratic
+escalate
+essence
+ethic
+evade
+evident
+exert
+expend
+expel
+explicable
+exquisitely
+facet
+feasible
+flee
+fleeting
+friction
+frigid
+fringe
+foremost
+foster
+foul
+founding
+gigantic
+graphically
+gross
+habit
+halt
+harness
+hasty
+heterogeneous
+highlight
+hint
+humble
+identifiable
+imaginative
+imitator
+immobile
+impeded
+impediment
+impervious
+impulse
+inanimate
+incite
+incidence
+inconclusive
+inconspicuous
+indiscriminate
+indispensable
+inflate
+infrequent
+ingestion
+inherent
+innumerable
+inspect
+inspiring
+instigate
+instructive
+integrity
+intercourse
+interlock
+intermediate
+intrinsically
+innumerable
+inventive
+invoke
+involve
+irreversible
+jeopardize
+jointly
+just
+lavishly
+leftover
+legendary
+legible
+legitimately
+logical
+lone
+longevity
+location
+luminous
+magnitude
+maintenance
+mandate
+margin
+marvelously
+meager
+mean
+merge
+methodically
+meticulously
+might
+miniature
+mobilize
+momentous
+momentum
+monotonous
+moral
+moreover
+mortality
+motionless
+mount
+mundane
+mutilate
+needless
+neglect
+option
+originate
+outbreak
+outdated
+outlying
+outweigh
+overlie
+overwhelming
+pale
+painstaking
+paradox
+penchant
+perfect
+perishable
+permeable
+permeate
+perpetuate
+perplex
+persuasively
+pessimistic
+plug
+pointless
+ponder
+pose
+posterity
+postulate
+potent
+preeminent
+prelude
+premise
+preoccupation
+preponderance
+preposterous
+prestige
+pristine
+proclaim
+profusely
+project
+proliferation
+prolifically
+prominent
+prompt
+pronounced
+pronouncement
+propagate
+propulsion
+prospect
+provided
+provoke
+proximate
+rapport
+recall
+reciprocal
+recommend
+reconcile
+redundancy
+regrettably
+regardless
+regime
+reliance
+relic
+reluctant
+rekindle
+renown
+repel
+replicate
+repudiate
+repulse
+restore
+resume
+resultant
+resurgence
+retention
+retirement
+retrieve
+revere
+revise
+rigor
+rugged
+sabotage
+scanty
+sensible
+sentimental
+sever
+shatter
+shift
+shrinkage
+signify
+soar
+sole
+sovereign
+splendid
+sponsor
+spurt
+stagnation
+stamina
+stance
+startle
+strain
+strenuous
+strengthen
+stunning
+submerge
+subtly
+substantiate
+superficially
+supplant
+supersede
+suspicion
+synthesize
+systematically
+tangible
+technically
+term
+tending
+thrill
+timid
+trait
+traumatic
+trivial
+turbulent
+undesirable
+undisputed
+unfavorable
+valuable
+verify
+viable
+viability
+virtue
+vitality
+vocation
+warning
+withstand
+witness
+wrought

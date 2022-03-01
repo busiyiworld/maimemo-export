@@ -1,0 +1,87 @@
+#Unit 7
+fruit
+it
+banana
+nut
+pear
+strawberry
+yes
+lemon
+an
+orange
+#Unit 8
+vegetables
+are
+these
+they
+tomatoes
+those
+beans
+mushrooms
+cabbages
+onions
+potatoes
+carrots
+eggplants
+peppers
+#Unit 9
+number
+bird
+how many
+there
+nest
+too
+egg
+flower
+eleven
+thirteen
+twelve
+small
+crocodile
+big
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+#Unit 10
+color
+butterfly
+beautiful
+red
+yellow
+blue
+green
+brown
+orange
+look at
+all
+white
+black
+pink
+purple
+#Unit 11
+can
+climb
+tree
+see
+house
+catch
+walk
+carry
+listen
+read
+write
+sing
+dance
+talk
+draw
+#Unit 12
+open
+door
+candy bar
+cookie
+monkey
+animal

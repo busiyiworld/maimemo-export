@@ -1,0 +1,87 @@
+#Lesson 1
+supermarket
+meat
+juice
+pay
+#Lesson 2
+English
+difficult
+maths
+subject
+draw
+art
+#Lesson 3
+science
+sheep
+bear
+minute
+put
+#Lesson 5
+must
+brother
+pass
+#Lesson 6
+finish
+homework
+half
+late
+#Lesson 7
+dirty
+ask
+join
+wash
+#Lesson 9
+autumn
+family
+fruit
+#Lesson 10
+climb
+usually
+him
+#Lesson 11
+dress
+night
+as
+#Lesson 15
+tongue
+the U.S.A.
+the United States of America
+east
+#Lesson 16
+morning
+the U.K.
+clock
+river
+#Lesson 17
+city
+afternoon
+map
+Canada
+leaf
+#Lesson 19
+tennis
+golf
+British
+#Lesson 20
+basketball
+with
+friend
+baseball
+#Lesson 21
+team
+ski
+winter
+#Lesson 23
+fast
+panda
+forget
+#Lesson 24
+cousin
+brave
+#Lesson 25
+tall
+driver
+early
+breakfast
+busy
+dinner

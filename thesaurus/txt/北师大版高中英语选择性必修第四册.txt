@@ -1,0 +1,280 @@
+clinic
+gallery
+grocery
+stadium
+bakery
+cafeteria
+canteen
+suburb
+forum
+conflict
+intervention
+disagreement
+envy
+friction
+encouragement
+hang out
+disturb
+apologise
+theory
+chain
+impression
+network
+sociologist
+random
+parcel
+release
+bimonthly
+phrase
+additionally
+closely-knit
+frequently
+household
+outskirts
+bond
+consequence
+gable
+adopt
+stiff
+freeze
+amazement
+clasp
+burst into
+proceed
+reveal
+tear-stained
+orphan
+investigate
+sigh
+despair
+dare
+bare
+faucet
+shiver
+bone
+sob
+pillow
+dive
+frown
+resolutely
+appeal
+emperor
+sorrow
+republic
+loan
+forgiveness
+debt
+interrupt
+legal
+document
+negotiate
+compromise
+inquire
+resolve
+annoying
+inconvenience
+detect
+somewhat
+annoy
+ashamed
+maturity
+monitor
+self-control
+assign
+pack
+tank
+plug
+drummer
+complaint
+drum
+vote
+resolution
+warning
+cease
+property
+chorus
+departure
+prejudiced
+bitter
+anyhow
+remote
+edge
+arrest
+tailor
+pleasant
+violence
+literally
+tolerate
+keen
+balcony
+unsuspecting
+bother
+recall
+violently
+withdraw
+firmly
+soldier
+bomb
+general
+trench
+frontier
+murder
+border
+flee
+weep
+civilian
+machine gun
+panic
+pray
+identification
+pile
+display
+representative
+greet
+mud
+distribute
+temporary
+midnight
+ward
+dozen
+surgeon
+ceremony
+appreciation
+incident
+ban
+tobacco
+cigarette
+alcohol
+fried
+harm
+desirable
+obesity
+tax
+false
+invest
+conclude
+beneficial
+sacred
+permanent
+recovery
+loose
+carpet
+ankle
+greed
+fry
+request
+well-being
+vitamin
+entertainment
+innovation
+gifted
+labour-saving
+productive
+garbage
+device
+scientific
+microscope
+donate
+correspond
+instant
+launch
+satellite
+orbit
+split
+particle
+premier
+outspoken
+subsequently
+relativity
+constant
+finding
+biologist
+mould
+penicillin
+perceive
+million
+humble
+outcome
+navy
+accuracy
+missile
+physicist
+joint
+tube
+circuit
+efficiently
+propose
+emerge
+coincidence
+clueless
+incubation
+evaluation
+theoretical
+overcome
+PhD
+Doctor of Philosophy
+cosmology
+grand
+decline
+in spite of
+bonus
+gravity
+steam
+kettle
+boil
+improvement
+revolution
+availability
+fibre
+explode
+mass
+sailor
+regulate
+illustrate
+mechanical
+preserve
+specifically
+accurate
+electric
+Max
+Frigyes Karinthy
+Stanley Milgram
+Kevin Bacon
+Lucy Maud Montgomery
+Matthew Cuthbert
+Marilla
+Spencer
+Smith
+Jones
+Tim
+James Mckay
+Keith Smith
+Laurene
+Katherine Maguire
+Do Chuc
+Seymour Hersh
+Bill
+Frank Richards
+Susan
+Albert Einstein
+Alexander Fleming
+Eckert
+Mauchly
+Tim Berners-Lee
+Bond
+Stephen Hawking
+Jane Wilde
+Elaine Mason
+Leonard Mlodinow
+James Watt
+Columbia University
+University of Milan
+Roseto
+My Lai
+University of Oxford
+St Albans School
+University of Cambridge
+England
+London
+Canada
+Prince Edward Island

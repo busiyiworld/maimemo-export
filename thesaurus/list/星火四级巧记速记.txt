@@ -1,0 +1,6162 @@
+#Word List 1
+active
+act
+activate
+active
+transact
+actively
+transaction
+activate
+interact
+transact
+interaction
+transaction
+interactive
+interact
+react
+interaction
+reaction
+interactive
+agency
+react
+agent
+reaction
+agenda
+agency
+insect
+agent
+section
+agenda
+sector
+insect
+segment
+section
+contact
+sector
+intact
+segment
+contagion
+contact
+integrate
+intact
+integrity
+contagion
+disintegrate
+integrate
+elect
+integrity
+election
+disintegrate
+collect
+elect
+collective
+election
+select
+collect
+selection
+collection
+delegate
+collective
+delegation
+select
+elegant
+selection
+neglect
+delegate
+negligible
+delegation
+intellect
+elegant
+intellectual
+neglect
+intelligence
+negligible
+intelligent
+intellect
+reflect
+intellectual
+reflection
+intelligence
+flexible
+intelligent
+flexibility
+reflect
+relation
+reflection
+relationship
+flexible
+relate
+flexibility
+relative
+relation
+respond
+relationship
+correspond
+relate
+response
+relative
+responsible
+relativity
+responsibility
+respond
+sponsor
+correspond
+spontaneous
+correspondence
+arrange
+correspondent
+arrangement
+corresponding
+range
+response
+rank
+responsible
+consider
+responsibility
+considerable
+sponsor
+considerate
+spontaneous
+consideration
+arrange
+considering
+rearrange
+produce
+arrangement
+produce
+range
+product
+rank
+production
+consider
+reproduce
+considerable
+productive
+considerably
+productivity
+considerate
+part
+consideration
+participate
+considering
+partial
+produce
+partly
+producer
+particle
+produce
+particular
+product
+particularly
+production
+portion
+reproduce
+proportion
+productive
+apart
+productivity
+apartment
+part
+depart
+participate
+departure
+participant
+department
+participation
+flourish
+participatory
+erode
+partial
+zoology
+partly
+transit
+particle
+suburb
+particular
+rural
+particularly
+episode
+portion
+proverb
+proportion
+protest
+proportional
+military
+apart
+accuse
+apartment
+paradox
+depart
+torture
+departed
+discriminate
+departure
+deprive
+department
+exile
+fragment
+conquer
+supplement
+remedy
+#Word List 2
+way
+#Word List 1 词根记忆法
+flourish
+#Word List 2
+expressway
+#Word List 1 词根记忆法
+erode
+#Word List 2
+freeway
+#Word List 1 词根记忆法
+zoology
+#Word List 2
+convey
+#Word List 1 词根记忆法
+transit
+#Word List 2
+vehicle
+#Word List 1 词根记忆法
+suburb
+#Word List 2
+obvious
+#Word List 1 词根记忆法
+rural
+#Word List 2
+previous
+#Word List 1 词根记忆法
+episode
+#Word List 2
+via
+#Word List 1 词根记忆法
+proverb
+#Word List 2
+want
+#Word List 1 词根记忆法
+protest
+#Word List 2
+vanish
+#Word List 1 词根记忆法
+military
+#Word List 2
+vain
+#Word List 1 词根记忆法
+accuse
+#Word List 2
+vacation
+#Word List 1 词根记忆法
+paradox
+#Word List 2
+vacant
+#Word List 1 词根记忆法
+torture
+#Word List 2
+vacuum
+#Word List 1 词根记忆法
+discriminate
+#Word List 2
+win
+#Word List 1 词根记忆法
+deprive
+#Word List 2
+convince
+#Word List 1 词根记忆法
+exile
+#Word List 2
+victory
+#Word List 1 词根记忆法
+fragment
+#Word List 2
+convict
+#Word List 1 词根记忆法
+conquer
+#Word List 2
+conviction
+#Word List 1 词根记忆法
+supplement
+#Word List 2
+victim
+#Word List 1 词根记忆法
+remedy
+#Word List 2
+employ
+employee
+employer
+employment
+unemployment
+unemployed
+committee
+commit
+commit
+commitment
+commission
+contribute
+contribution
+tribute
+attribute
+distribute
+distribution
+stick
+sticky
+stick
+stake
+stack
+stock
+tend
+tendency
+tender
+attend
+attendance
+attendant
+contend
+contender
+extend
+extension
+extent
+extensive
+intensive
+intend
+intention
+tense
+tense
+tension
+intense
+intensify
+intensity
+defend
+defence
+defense
+defensive
+offend
+offence
+offense
+offensive
+equal
+equality
+adequate
+inadequate
+equate
+equation
+over
+oversee
+oversight
+overall
+overcoat
+overhear
+overseas
+overtake
+overdue
+overtime
+overthrow
+overwhelm
+recognize
+recognise
+recognition
+cognitive
+diagnose
+ignore
+ignorant
+ignorance
+echo
+psychological
+bible
+clue
+audio
+recruit
+resort
+canvas
+kidnap
+recipe
+loophole
+aftermath
+aisle
+#Word List 3
+call
+#Word List 1 熟词生义
+arm
+#Word List 3
+recall
+#Word List 1 熟词生义
+tour
+#Word List 3
+so-called
+#Word List 1 熟词生义
+raise
+#Word List 3
+challenge
+#Word List 1 熟词生义
+modest
+#Word List 3
+reconcile
+#Word List 1 熟词生义
+tailor
+#Word List 3
+council
+#Word List 1 熟词生义
+spot
+#Word List 3
+counsel
+car
+career
+carpenter
+carriage
+cart
+caravan
+van
+cargo
+charge
+discharge
+card
+discard
+cardboard
+postcard
+cartoon
+chart
+charter
+vary
+variation
+variety
+variable
+various
+invariably
+found
+foundation
+fund
+fundamental
+profound
+position
+compose
+composer
+composition
+composure
+deposit
+dispose
+disposition
+disposal
+expose
+exposure
+impose
+oppose
+opposition
+pose
+preposition
+propose
+proposal
+proposition
+purpose
+component
+opponent
+postpone
+compound
+office
+efficient
+efficiency
+proficient
+proficiency
+sufficient
+sufficiency
+deficient
+deficiency
+deficit
+benefit
+beneficial
+profit
+profitable
+feasible
+feature
+depend
+dependent
+dependence
+independent
+independence
+economy
+economist
+economics
+economic
+economical
+maintain
+maintenance
+retain
+retention
+sustain
+sustainable
+religion
+religious
+liable
+oblige
+obligation
+collapse
+collaborate
+context
+confine
+derive
+detail
+decay
+emerge
+exert
+ingredient
+inherit
+innovate
+intrude
+illusion
+infant
+inevitable
+insane
+restore
+retail
+renovate
+#Word List 4
+visit
+#Word List 2
+way
+#Word List 4
+visible
+#Word List 2
+expressway
+#Word List 4
+invisible
+#Word List 2
+freeway
+#Word List 4
+vision
+#Word List 2
+convey
+#Word List 4
+visual
+#Word List 2
+vehicle
+#Word List 4
+revise
+#Word List 2
+obvious
+#Word List 4
+supervise
+#Word List 2
+previous
+#Word List 4
+vision
+#Word List 2
+previously
+#Word List 4
+devise
+#Word List 2
+via
+#Word List 4
+device
+#Word List 2
+want
+#Word List 4
+evident
+#Word List 2
+vanish
+#Word List 4
+evidence
+#Word List 2
+vain
+#Word List 4
+provide
+#Word List 2
+vacation
+#Word List 4
+provision
+#Word List 2
+vacant
+#Word List 4
+provided
+#Word List 2
+vacuum
+#Word List 4
+wise
+#Word List 2
+win
+#Word List 4
+wisdom
+#Word List 2
+convince
+#Word List 4
+wit
+#Word List 2
+victory
+#Word List 4
+witness
+#Word List 2
+convict
+#Word List 4
+expect
+#Word List 2
+conviction
+#Word List 4
+expectation
+#Word List 2
+victim
+#Word List 4
+unexpected
+#Word List 2
+employ
+#Word List 4
+aspect
+#Word List 2
+employee
+#Word List 4
+inspect
+#Word List 2
+employer
+#Word List 4
+perspective
+#Word List 2
+employment
+#Word List 4
+prospect
+#Word List 2
+unemployment
+#Word List 4
+spectacle
+#Word List 2
+unemployed
+#Word List 4
+spectacular
+#Word List 2
+committee
+#Word List 4
+suspect
+#Word List 2
+commit
+#Word List 4
+speculate
+#Word List 2
+commitment
+#Word List 4
+suspicion
+#Word List 2
+commission
+#Word List 4
+sight
+#Word List 2
+contribute
+#Word List 4
+foresight
+#Word List 2
+contributor
+#Word List 4
+insight
+#Word List 2
+contribution
+#Word List 4
+sightseeing
+#Word List 2
+tribute
+#Word List 4
+command
+#Word List 2
+attribute
+#Word List 4
+commander
+#Word List 2
+distribute
+#Word List 4
+demand
+#Word List 2
+distributor
+#Word List 4
+demanding
+#Word List 2
+distribution
+#Word List 4
+form
+#Word List 2
+stick
+#Word List 4
+conform
+#Word List 2
+sticky
+#Word List 4
+formal
+#Word List 2
+stick
+#Word List 4
+format
+#Word List 2
+stake
+#Word List 4
+formation
+#Word List 2
+stack
+#Word List 4
+formula
+#Word List 2
+stock
+#Word List 4
+formulate
+#Word List 2
+tend
+#Word List 4
+perform
+#Word List 2
+tendency
+#Word List 4
+performance
+#Word List 2
+tender
+#Word List 4
+reform
+#Word List 2
+attend
+#Word List 4
+transform
+#Word List 2
+attendance
+#Word List 4
+uniform
+#Word List 2
+attendant
+#Word List 4
+forum
+#Word List 2
+contend
+#Word List 4
+information
+#Word List 2
+contender
+#Word List 4
+inform
+#Word List 2
+extend
+#Word List 4
+strain
+#Word List 2
+extension
+#Word List 4
+constrain
+#Word List 2
+extent
+#Word List 4
+constraint
+#Word List 2
+extensive
+#Word List 4
+restrain
+#Word List 2
+intensive
+#Word List 4
+restraint
+#Word List 2
+intend
+#Word List 4
+strict
+#Word List 2
+intention
+#Word List 4
+restrict
+#Word List 2
+intentionally
+#Word List 4
+restriction
+#Word List 2
+tense
+#Word List 4
+centre
+#Word List 2
+tension
+#Word List 4
+center
+#Word List 2
+intense
+#Word List 4
+central
+#Word List 2
+intensify
+#Word List 4
+concentrate
+#Word List 2
+intensity
+#Word List 4
+concentration
+#Word List 2
+defend
+#Word List 4
+normal
+#Word List 2
+defence
+#Word List 4
+abnormal
+#Word List 2
+defense
+#Word List 4
+norm
+#Word List 2
+defensive
+#Word List 4
+enormous
+#Word List 2
+offend
+#Word List 4
+line
+#Word List 2
+offence
+#Word List 4
+deadline
+#Word List 2
+offense
+#Word List 4
+guideline
+#Word List 2
+offensive
+#Word List 4
+headline
+#Word List 2
+equal
+#Word List 4
+online
+#Word List 2
+equality
+#Word List 4
+outline
+#Word List 2
+adequate
+#Word List 4
+skyline
+#Word List 2
+inadequate
+#Word List 4
+underline
+#Word List 2
+equate
+#Word List 4
+file
+#Word List 2
+equation
+#Word List 4
+profile
+#Word List 2
+over
+#Word List 4
+under
+#Word List 2
+oversee
+#Word List 4
+underestimate
+#Word List 2
+oversight
+#Word List 4
+undergo
+#Word List 2
+overall
+#Word List 4
+undergraduate
+#Word List 2
+overcoat
+#Word List 4
+undermine
+#Word List 2
+overhear
+#Word List 4
+underneath
+#Word List 2
+overseas
+#Word List 4
+undertake
+#Word List 2
+overtake
+#Word List 4
+technique
+#Word List 2
+overdue
+#Word List 4
+technical
+#Word List 2
+overtime
+#Word List 4
+technician
+#Word List 2
+overthrow
+#Word List 4
+technology
+#Word List 2
+overwhelm
+#Word List 4
+technological
+#Word List 2
+overwhelmingly
+#Word List 4
+technologist
+#Word List 2
+recognize
+#Word List 4
+vulnerable
+#Word List 2
+recognise
+#Word List 4
+tangible
+#Word List 2
+recognition
+#Word List 4
+brutal
+#Word List 2
+cognitive
+#Word List 4
+neutral
+#Word List 2
+cognition
+#Word List 4
+allowance
+#Word List 2
+diagnose
+#Word List 4
+alliance
+#Word List 2
+ignore
+#Word List 4
+approximate
+#Word List 2
+ignorant
+#Word List 4
+animate
+#Word List 2
+ignorance
+#Word List 4
+deteriorate
+fraction
+cohesion
+barely
+largely
+manly
+ornament
+document
+lengthy
+faulty
+oily
+#Word List 5
+dictionary
+#Word List 2 词源记忆法
+echo
+#Word List 5
+diction
+#Word List 2 词源记忆法
+psychological
+#Word List 5
+addict
+#Word List 2 词源记忆法
+psychologist
+#Word List 5
+predict
+#Word List 2 词源记忆法
+clue
+#Word List 5
+indicate
+#Word List 2 词源记忆法
+audio
+#Word List 5
+indication
+#Word List 2 词源记忆法
+recruit
+#Word List 5
+index
+#Word List 2 词源记忆法
+resort
+#Word List 5
+dictation
+#Word List 2 词源记忆法
+canvas
+#Word List 5
+dictate
+#Word List 2 词源记忆法
+kidnap
+#Word List 5
+dialog
+#Word List 2 词源记忆法
+recipe
+#Word List 5
+dialogue
+#Word List 2 词源记忆法
+loophole
+#Word List 5
+catalog
+#Word List 2 词源记忆法
+aftermath
+#Word List 5
+catalogue
+#Word List 2 词源记忆法
+aisle
+#Word List 5
+logic
+logical
+professor
+profess
+profession
+professional
+confess
+according to
+accordingly
+accord
+accordance
+use
+abuse
+utile
+utility
+utilize
+utilise
+serve
+servant
+deserve
+conserve
+conservation
+conservative
+preserve
+preservation
+reserve
+reservation
+reservoir
+observe
+observer
+observation
+dessert
+circle
+circular
+circulate
+circulation
+circuit
+circumstance
+mind
+remind
+comment
+commentator
+mental
+imagine
+imaginary
+imagination
+imaginative
+image
+imitate
+sense
+sensible
+sensitive
+sensation
+consensus
+consent
+resent
+scent
+sense
+nonsense
+question
+quest
+request
+acquire
+acquisition
+inquire
+inquiry
+require
+requirement
+just
+justice
+justify
+justification
+adjust
+bump
+bumper
+dump
+lump
+stump
+stump
+compel
+compulsion
+compulsory
+expel
+expulsion
+pulse
+impulse
+domestic
+dome
+dominate
+dominant
+minister
+ministry
+administer
+administration
+administrative
+human
+human being
+humanity
+humankind
+humble
+humid
+humidity
+haste
+heave
+huge
+spray
+spread
+spring
+sway
+sweep
+swipe
+swing
+cracker
+crisp
+blow
+blossom
+bloom
+gloom
+#Word List 6
+assist
+#Word List 2 熟词生义
+skip
+#Word List 6
+consist
+#Word List 2 熟词生义
+chalk
+#Word List 6
+consistent
+#Word List 2 熟词生义
+board
+#Word List 6
+insist
+#Word List 2 熟词生义
+process
+#Word List 6
+persist
+#Word List 2 熟词生义
+check
+#Word List 6
+resist
+#Word List 2 熟词生义
+course
+#Word List 6
+resistance
+#Word List 2 熟词生义
+stream
+#Word List 6
+resistant
+station
+statue
+status
+estate
+static
+stable
+stability
+constant
+establish
+establishment
+instance
+instant
+obstacle
+substance
+statute
+constitute
+constitution
+institute
+institution
+substitute
+stand
+bystander
+outstanding
+standpoint
+withstand
+apply
+appliance
+application
+applicable
+applied
+applicant
+application
+special
+specially
+especially
+specialist
+specialize
+specialise
+speciality
+specialty
+specific
+specifically
+specify
+species
+specimen
+attract
+abstract
+contract
+distract
+retract
+subtract
+trace
+track
+trail
+retreat
+treaty
+prove
+approve
+approval
+disapprove
+improve
+improvement
+slip
+slippery
+slipper
+slope
+camp
+campaign
+campus
+champion
+appear
+appearance
+disappear
+apparent
+transparent
+attack
+tack
+tackle
+attach
+detach
+demonstrate
+verify
+consolidate
+expand
+exaggerate
+enhance
+accelerate
+boost
+surge
+soar
+giant
+tremendous
+miracle
+myth
+legend
+marvel
+marvelous
+marvellous
+prominent
+awe
+awesome
+brilliant
+magnificent
+keen
+#Word List 7
+course
+#Word List 3
+call
+#Word List 7
+curriculum
+#Word List 3
+recall
+#Word List 7
+excursion
+#Word List 3
+so-called
+#Word List 7
+current
+#Word List 3
+challenge
+#Word List 7
+currency
+#Word List 3
+reconcile
+#Word List 7
+occur
+#Word List 3
+council
+#Word List 7
+occurrence
+#Word List 3
+counsel
+#Word List 7
+concur
+#Word List 3
+car
+#Word List 7
+recur
+#Word List 3
+career
+#Word List 7
+proceed
+#Word List 3
+carpenter
+#Word List 7
+procession
+#Word List 3
+carriage
+#Word List 7
+process
+#Word List 3
+cart
+#Word List 7
+procedure
+#Word List 3
+caravan
+#Word List 7
+exceed
+#Word List 3
+van
+#Word List 7
+excess
+#Word List 3
+cargo
+#Word List 7
+excessive
+#Word List 3
+charge
+#Word List 7
+excessively
+#Word List 3
+discharge
+#Word List 7
+exceeding
+#Word List 3
+card
+#Word List 7
+exceedingly
+#Word List 3
+discard
+#Word List 7
+concede
+#Word List 3
+cardboard
+#Word List 7
+concession
+#Word List 3
+postcard
+#Word List 7
+precede
+#Word List 3
+cartoon
+#Word List 7
+preceding
+#Word List 3
+chart
+#Word List 7
+recede
+#Word List 3
+charter
+#Word List 7
+recession
+#Word List 3
+vary
+#Word List 7
+access
+#Word List 3
+variation
+#Word List 7
+accessible
+#Word List 3
+variety
+#Word List 7
+progress
+#Word List 3
+variable
+#Word List 7
+progressive
+#Word List 3
+various
+#Word List 7
+aggressive
+#Word List 3
+invariably
+#Word List 7
+congress
+#Word List 3
+found
+#Word List 7
+divide
+#Word List 3
+foundation
+#Word List 7
+division
+#Word List 3
+fund
+#Word List 7
+individual
+#Word List 3
+fundamental
+#Word List 7
+subdivide
+#Word List 3
+profound
+#Word List 7
+solve
+#Word List 3
+position
+#Word List 7
+solve
+#Word List 3
+compose
+#Word List 7
+solution
+#Word List 3
+composer
+#Word List 7
+dissolve
+#Word List 3
+composition
+#Word List 7
+dissolution
+#Word List 3
+composure
+#Word List 7
+resolve
+#Word List 3
+deposit
+#Word List 7
+resolution
+#Word List 3
+dispose
+#Word List 7
+absolve
+#Word List 3
+disposition
+#Word List 7
+absolute
+#Word List 3
+disposal
+#Word List 7
+absolutely
+#Word List 3
+expose
+#Word List 7
+fact
+#Word List 3
+exposure
+#Word List 7
+factor
+#Word List 3
+impose
+#Word List 7
+facile
+#Word List 3
+oppose
+#Word List 7
+facilitate
+#Word List 3
+opposition
+#Word List 7
+facility
+#Word List 3
+pose
+#Word List 7
+faculty
+#Word List 3
+preposition
+#Word List 7
+affect
+#Word List 3
+propose
+#Word List 7
+affection
+#Word List 3
+proposal
+#Word List 7
+effect
+#Word List 3
+proposition
+#Word List 7
+effective
+#Word List 3
+purpose
+#Word List 7
+perfect
+#Word List 3
+component
+#Word List 7
+perfection
+#Word List 3
+opponent
+#Word List 7
+defect
+#Word List 3
+postpone
+#Word List 7
+infect
+#Word List 3
+postponement
+#Word List 7
+infection
+#Word List 3
+compound
+#Word List 7
+factory
+#Word List 3
+office
+#Word List 7
+manufacture
+#Word List 3
+efficient
+#Word List 7
+manufacturer
+#Word List 3
+efficiency
+#Word List 7
+company
+#Word List 3
+proficient
+#Word List 7
+accompany
+#Word List 3
+proficiency
+#Word List 7
+companion
+#Word List 3
+sufficient
+#Word List 7
+pan
+#Word List 3
+sufficiency
+#Word List 7
+panel
+#Word List 3
+deficient
+#Word List 7
+suggest
+#Word List 3
+deficiency
+#Word List 7
+gesture
+#Word List 3
+deficit
+#Word List 7
+digest
+#Word List 3
+benefit
+#Word List 7
+register
+#Word List 3
+beneficial
+#Word List 7
+registration
+#Word List 3
+profit
+#Word List 7
+second
+#Word List 3
+profitable
+#Word List 7
+secondary
+#Word List 3
+feasible
+#Word List 7
+second
+#Word List 3
+feature
+#Word List 7
+consecutive
+#Word List 3
+depend
+#Word List 7
+execute
+#Word List 3
+dependent
+#Word List 7
+execution
+#Word List 3
+dependence
+#Word List 7
+executive
+#Word List 3
+independent
+#Word List 7
+consequence
+#Word List 3
+independently
+#Word List 7
+consequent
+#Word List 3
+independence
+#Word List 7
+consequently
+#Word List 3
+economy
+#Word List 7
+sequence
+#Word List 3
+economist
+#Word List 7
+subsequence
+#Word List 3
+economics
+#Word List 7
+subsequent
+#Word List 3
+economic
+#Word List 7
+suit
+#Word List 3
+economical
+#Word List 7
+suitable
+#Word List 3
+maintain
+#Word List 7
+suit
+#Word List 3
+maintenance
+#Word List 7
+sue
+#Word List 3
+retain
+#Word List 7
+suit
+#Word List 3
+retention
+#Word List 7
+pursue
+#Word List 3
+sustain
+#Word List 7
+pursuit
+#Word List 3
+sustainable
+#Word List 7
+conceal
+#Word List 3
+religion
+#Word List 7
+disguise
+#Word List 3
+religious
+#Word List 7
+reveal
+#Word List 3
+liable
+#Word List 7
+superior
+#Word List 3
+oblige
+#Word List 7
+supreme
+#Word List 3
+obligation
+#Word List 7
+climax
+inferior
+charm
+absorb
+chore
+shit
+hinder
+stem
+ban
+halt
+curb
+spur
+stimulate
+sting
+prompt
+provoke
+stir
+incentive
+#Word List 8
+revolution
+#Word List 3 前缀记忆法
+collapse
+#Word List 8
+revolutionary
+#Word List 3 前缀记忆法
+collaborate
+#Word List 8
+revolt
+#Word List 3 前缀记忆法
+context
+#Word List 8
+revolve
+#Word List 3 前缀记忆法
+confine
+#Word List 8
+evolve
+#Word List 3 前缀记忆法
+derive
+#Word List 8
+evolution
+#Word List 3 前缀记忆法
+detail
+#Word List 8
+involve
+#Word List 3 前缀记忆法
+decay
+#Word List 8
+involved
+#Word List 3 前缀记忆法
+emerge
+#Word List 8
+volume
+#Word List 3 前缀记忆法
+exert
+#Word List 8
+universe
+#Word List 3 前缀记忆法
+ingredient
+#Word List 8
+universal
+#Word List 3 前缀记忆法
+inherit
+#Word List 8
+advertise
+#Word List 3 前缀记忆法
+innovate
+#Word List 8
+anniversary
+#Word List 3 前缀记忆法
+innovation
+#Word List 8
+convert
+#Word List 3 前缀记忆法
+intrude
+#Word List 8
+reverse
+#Word List 3 前缀记忆法
+illusion
+#Word List 8
+converse
+#Word List 3 前缀记忆法
+infant
+#Word List 8
+conversation
+#Word List 3 前缀记忆法
+inevitable
+#Word List 8
+version
+#Word List 3 前缀记忆法
+inevitably
+#Word List 8
+converse
+#Word List 3 前缀记忆法
+insane
+#Word List 8
+conversely
+#Word List 3 前缀记忆法
+restore
+#Word List 8
+versus
+#Word List 3 前缀记忆法
+retail
+#Word List 8
+diverse
+#Word List 3 前缀记忆法
+renovate
+#Word List 8
+same
+assemble
+assembly
+resemble
+come
+income
+outcome
+overcome
+prevent
+convene
+convention
+conventional
+avenue
+revenue
+compute
+dispute
+deputy
+reputation
+adopt
+opt
+option
+optional
+optimistic
+optimism
+patient
+patience
+patient
+impatient
+inpatient
+compatible
+bar
+barrel
+barrier
+embarrass
+embarrassing
+value
+valuable
+invaluable
+evaluate
+equivalent
+valid
+invalid
+available
+prevail
+press
+pressure
+compress
+compression
+depress
+depression
+impress
+impression
+impressive
+express
+express
+expression
+interrupt
+abrupt
+bankrupt
+bankruptcy
+corrupt
+corruption
+disrupt
+erupt
+cast
+broadcast
+podcast
+webcast
+double
+duple
+diploma
+diplomat
+diplomatic
+multiple
+multiply
+therapy
+dose
+massage
+heal
+couch
+apparatus
+laser
+biotechnology
+sore
+bacteria
+cholesterol
+tumor
+faint
+stiff
+lane
+route
+metro
+tunnel
+wagon
+waggon
+fleet
+trolley
+steer
+deck
+pave
+pitch
+cement
+#Word List 9
+introduce
+#Word List 3 熟词生义
+mass
+#Word List 9
+introduction
+#Word List 3 熟词生义
+post
+#Word List 9
+conduct
+#Word List 3 熟词生义
+tear
+#Word List 9
+conductor
+#Word List 3 熟词生义
+cover
+#Word List 9
+deduct
+#Word List 3 熟词生义
+engage
+#Word List 9
+induce
+#Word List 3 熟词生义
+fare
+#Word List 9
+reduce
+#Word List 3 熟词生义
+tap
+#Word List 9
+reduction
+#Word List 3 熟词生义
+feed
+#Word List 9
+direct
+directly
+direction
+director
+indirect
+erect
+middle
+amid
+midst
+intermediate
+medium
+media
+prince
+princess
+principal
+principle
+rare
+scarce
+rarely
+scarcely
+gene
+genetic
+genius
+gender
+genuine
+generate
+generation
+generator
+generous
+hydrogen
+nitrogen
+oxygen
+pregnant
+radio
+radar
+radiate
+radiation
+radius
+ray
+X-ray
+radical
+migrate
+immigrate
+emigrate
+migrant
+immigrant
+emigrant
+horrible
+horror
+terrible
+terror
+terribly
+terrific
+territory
+dismiss
+missile
+mission
+emit
+emission
+omit
+submit
+submission
+transmit
+set
+outset
+upset
+setback
+setting
+settle
+settlement
+point
+checkpoint
+viewpoint
+appoint
+appointment
+punctual
+punch
+describe
+description
+prescribe
+script
+transcript
+scrape
+case
+briefcase
+cassette
+case
+casual
+occasion
+occasional
+fertile
+paddy
+straw
+plough
+irrigate
+ditch
+bud
+flock
+horn
+dew
+lawn
+rack
+liquor
+tray
+oven
+sauce
+napkin
+lick
+mug
+dairy
+shrimp
+chop
+beverage
+snack
+trash
+#Word List 10
+port
+#Word List 4
+visit
+#Word List 10
+airport
+#Word List 4
+visible
+#Word List 10
+export
+#Word List 4
+invisible
+#Word List 10
+import
+#Word List 4
+vision
+#Word List 10
+opportunity
+#Word List 4
+visual
+#Word List 10
+passport
+#Word List 4
+revise
+#Word List 10
+porter
+#Word List 4
+supervise
+#Word List 10
+portable
+#Word List 4
+vision
+#Word List 10
+porter
+#Word List 4
+devise
+#Word List 10
+transport
+#Word List 4
+device
+#Word List 10
+transportation
+#Word List 4
+evident
+#Word List 10
+offer
+#Word List 4
+evidently
+#Word List 10
+infer
+#Word List 4
+evidence
+#Word List 10
+inference
+#Word List 4
+provide
+#Word List 10
+prefer
+#Word List 4
+provision
+#Word List 10
+preferable
+#Word List 4
+provided
+#Word List 10
+preference
+#Word List 4
+wise
+#Word List 10
+refer
+#Word List 4
+wisdom
+#Word List 10
+reference
+#Word List 4
+wit
+#Word List 10
+referee
+#Word List 4
+witty
+#Word List 10
+suffer
+#Word List 4
+witness
+#Word List 10
+suffering
+#Word List 4
+expect
+#Word List 10
+transfer
+#Word List 4
+expectancy
+#Word List 10
+transference
+#Word List 4
+expectation
+#Word List 10
+notice
+#Word List 4
+unexpected
+#Word List 10
+noticeable
+#Word List 4
+unexpectedly
+#Word List 10
+notify
+#Word List 4
+aspect
+#Word List 10
+notion
+#Word List 4
+inspect
+#Word List 10
+sacred
+#Word List 4
+perspective
+#Word List 10
+sacrifice
+#Word List 4
+prospect
+#Word List 10
+saint
+#Word List 4
+spectacle
+#Word List 10
+ambulance
+#Word List 4
+spectacular
+#Word List 10
+ambition
+#Word List 4
+suspect
+#Word List 10
+ambitious
+#Word List 4
+speculate
+#Word List 10
+ambassador
+#Word List 4
+suspicion
+#Word List 10
+embassy
+#Word List 4
+sight
+#Word List 10
+sum
+#Word List 4
+foresight
+#Word List 10
+summary
+#Word List 4
+insight
+#Word List 10
+summarize
+#Word List 4
+sightseeing
+#Word List 10
+summarise
+#Word List 4
+command
+#Word List 10
+resume
+#Word List 4
+commander
+#Word List 10
+summit
+#Word List 4
+demand
+#Word List 10
+assume
+#Word List 4
+demanding
+#Word List 10
+consume
+#Word List 4
+form
+#Word List 10
+resume
+#Word List 4
+conform
+#Word List 10
+assumption
+#Word List 4
+formal
+#Word List 10
+consumption
+#Word List 4
+format
+#Word List 10
+reply
+#Word List 4
+formation
+#Word List 10
+imply
+#Word List 4
+formula
+#Word List 10
+implication
+#Word List 4
+formulate
+#Word List 10
+implicit
+#Word List 4
+perform
+#Word List 10
+explicate
+#Word List 4
+performer
+#Word List 10
+explication
+#Word List 4
+performance
+#Word List 10
+explicit
+#Word List 4
+reform
+#Word List 10
+simple
+#Word List 4
+transform
+#Word List 10
+simplicity
+#Word List 4
+uniform
+#Word List 10
+simplify
+#Word List 4
+forum
+#Word List 10
+complicated
+#Word List 4
+information
+#Word List 10
+complicate
+#Word List 4
+inform
+#Word List 10
+complex
+#Word List 4
+strain
+#Word List 10
+display
+#Word List 4
+constrain
+#Word List 10
+employ
+#Word List 4
+constraint
+#Word List 10
+ancient
+#Word List 4
+restrain
+#Word List 10
+ancestor
+#Word List 4
+restraint
+#Word List 10
+anticipate
+#Word List 4
+strict
+#Word List 10
+antique
+#Word List 4
+restrict
+#Word List 10
+battle
+#Word List 4
+restricted
+#Word List 10
+bat
+#Word List 4
+restriction
+#Word List 10
+bat
+#Word List 4
+centre
+#Word List 10
+battery
+#Word List 4
+center
+#Word List 10
+combat
+#Word List 4
+central
+#Word List 10
+debate
+#Word List 4
+concentrate
+#Word List 10
+count
+#Word List 4
+concentration
+#Word List 10
+account
+#Word List 4
+normal
+#Word List 10
+accountable
+#Word List 4
+abnormal
+#Word List 10
+countdown
+#Word List 4
+norm
+#Word List 10
+counter
+#Word List 4
+enormous
+#Word List 10
+discount
+#Word List 4
+line
+#Word List 10
+count
+#Word List 4
+deadline
+#Word List 10
+county
+#Word List 4
+guideline
+#Word List 10
+pack
+#Word List 4
+headline
+#Word List 10
+package
+#Word List 4
+online
+#Word List 10
+packet
+#Word List 4
+outline
+#Word List 10
+compact
+#Word List 4
+skyline
+#Word List 10
+impact
+#Word List 4
+underline
+#Word List 10
+face
+#Word List 4
+file
+#Word List 10
+facial
+#Word List 4
+profile
+#Word List 10
+surface
+#Word List 4
+under
+#Word List 10
+superficial
+#Word List 4
+underestimate
+#Word List 10
+semester
+#Word List 4
+undergo
+#Word List 10
+freshman
+#Word List 4
+undergraduate
+#Word List 10
+enrol
+#Word List 4
+undermine
+#Word List 10
+enroll
+#Word List 4
+underneath
+#Word List 10
+discipline
+#Word List 4
+undertake
+#Word List 10
+tuition
+#Word List 4
+technique
+#Word List 10
+statistic
+#Word List 4
+technical
+#Word List 10
+aviation
+#Word List 4
+technician
+#Word List 10
+geology
+#Word List 4
+technology
+#Word List 10
+cultivate
+#Word List 4
+technological
+#Word List 10
+dean
+#Word List 4
+technologist
+#Word List 10
+minor
+laboratory
+chemical
+aluminium
+nourish
+#Word List 11
+flow
+#Word List 4 后缀记忆法
+vulnerable
+#Word List 11
+affluent
+#Word List 4 后缀记忆法
+tangible
+#Word List 11
+fluent
+#Word List 4 后缀记忆法
+brutal
+#Word List 11
+fluid
+#Word List 4 后缀记忆法
+neutral
+#Word List 11
+influenza
+#Word List 4 后缀记忆法
+allowance
+#Word List 11
+flu
+#Word List 4 后缀记忆法
+alliance
+#Word List 11
+influence
+#Word List 4 后缀记忆法
+approximate
+#Word List 11
+influential
+#Word List 4 后缀记忆法
+animate
+#Word List 11
+fluctuate
+#Word List 4 后缀记忆法
+deteriorate
+#Word List 11
+refuse
+#Word List 4 后缀记忆法
+fraction
+#Word List 11
+refuse
+#Word List 4 后缀记忆法
+cohesion
+#Word List 11
+refusal
+#Word List 4 后缀记忆法
+barely
+#Word List 11
+confuse
+#Word List 4 后缀记忆法
+largely
+#Word List 11
+confusion
+#Word List 4 后缀记忆法
+manly
+#Word List 11
+hard
+#Word List 4 后缀记忆法
+ornament
+#Word List 11
+harden
+#Word List 4 后缀记忆法
+document
+#Word List 11
+hardware
+#Word List 4 后缀记忆法
+documentary
+#Word List 11
+hardship
+#Word List 4 后缀记忆法
+lengthy
+#Word List 11
+measure
+#Word List 4 后缀记忆法
+faulty
+#Word List 11
+measurement
+#Word List 4 后缀记忆法
+oily
+#Word List 11
+dimension
+immense
+metre
+meter
+centimetre
+centimeter
+kilometre
+kilometer
+millimetre
+millimeter
+metric
+arithmetic
+diameter
+geometry
+meter
+thermometer
+country
+counter
+counterpart
+encounter
+contradict
+contrary
+contrast
+controversy
+band
+band
+bandage
+bind
+bond
+bound
+boundary
+bundle
+bound
+bounce
+class
+classic
+classical
+classify
+classification
+decide
+decision
+suicide
+precise
+precision
+during
+durable
+duration
+endure
+endurance
+grace
+graceful
+disgraceful
+grateful
+gratitude
+sure
+assure
+ensure
+insure
+assurance
+insurance
+moral
+morality
+virtue
+virtual
+virtually
+proper
+proper
+propriety
+appropriate
+property
+appropriate
+raise
+rise
+arise
+rouse
+arouse
+own
+owner
+ownership
+owe
+owing
+communicate
+communicable
+communication
+telecommunications
+immune
+immunize
+immunise
+commune
+machine
+machinery
+mechanic
+mechanical
+mechanize
+mechanise
+mechanism
+panic
+avoid
+release
+survey
+estimate
+shed
+launch
+knot
+evil
+eternal
+crisis
+pirate
+drama
+intangible
+heritage
+staple
+cereal
+thrive
+spoil
+render
+mortgage
+#Word List 12
+sign
+#Word List 4 熟词生义
+secure
+#Word List 12
+signal
+#Word List 4 熟词生义
+bar
+#Word List 12
+signify
+#Word List 4 熟词生义
+impression
+#Word List 12
+significant
+#Word List 4 熟词生义
+employ
+#Word List 12
+significance
+#Word List 4 熟词生义
+fashion
+#Word List 12
+assign
+#Word List 4 熟词生义
+develop
+#Word List 12
+assignment
+#Word List 4 熟词生义
+trap
+#Word List 12
+resign
+signature
+mark
+remark
+remarkable
+margin
+marginal
+explode
+explosion
+explosive
+applaud
+plausible
+light
+daylight
+sunlight
+highlight
+lighten
+lightning
+enlighten
+glory
+glorious
+glow
+glance
+glimpse
+hand
+beforehand
+handicap
+left-handed
+right-handed
+second-hand
+handful
+handle
+handy
+manipulate
+manoeuvre
+manual
+comprehend
+comprehension
+comprehensive
+commend
+recommend
+recommendation
+claim
+exclaim
+proclaim
+society
+associate
+association
+social
+sociology
+receive
+receiver
+receipt
+recipient
+reception
+receptionist
+accept
+acceptable
+acceptance
+conceive
+concept
+conception
+deceive
+deception
+perceive
+perception
+force
+force
+forceful
+enforce
+forcible
+enforce
+reinforce
+land
+inland
+mainland
+landlord
+landscape
+letter
+literal
+literally
+literacy
+literary
+literature
+in
+out
+inner
+outer
+inward
+outward
+interior
+exterior
+intimate
+intimate
+extreme
+internal
+external
+outbreak
+outdated
+outdoors
+outlet
+outlook
+output
+outsider
+utter
+utter
+utmost
+groan
+whisper
+howl
+roar
+bang
+blast
+boom
+bubble
+grind
+hack
+scratch
+smash
+splash
+soda
+vitamin
+volt
+yoga
+calorie
+pizza
+pudding
+whisky
+heroin
+Valentine
+nylon
+watt
+#Word List 13
+term
+#Word List 5
+dictionary
+#Word List 13
+short-term
+#Word List 5
+diction
+#Word List 13
+determine
+#Word List 5
+addict
+#Word List 13
+determination
+#Word List 5
+predict
+#Word List 13
+terminal
+#Word List 5
+indicate
+#Word List 13
+terminate
+#Word List 5
+indicator
+#Word List 13
+final
+#Word List 5
+indication
+#Word List 13
+define
+#Word List 5
+index
+#Word List 13
+definition
+#Word List 5
+dictation
+#Word List 13
+definite
+#Word List 5
+dictate
+#Word List 13
+definitely
+#Word List 5
+dialog
+#Word List 13
+infinite
+#Word List 5
+dialogue
+#Word List 13
+infinitely
+#Word List 5
+catalog
+#Word List 13
+limit
+#Word List 5
+catalogue
+#Word List 13
+limitation
+#Word List 5
+logic
+#Word List 13
+limited
+#Word List 5
+logical
+#Word List 13
+eliminate
+#Word List 5
+professor
+#Word List 13
+preliminary
+#Word List 5
+profess
+#Word List 13
+regular
+#Word List 5
+profession
+#Word List 13
+irregular
+#Word List 5
+professional
+#Word List 13
+regulate
+#Word List 5
+professionally
+#Word List 13
+regulation
+#Word List 5
+confess
+#Word List 13
+regal
+#Word List 5
+according to
+#Word List 13
+region
+#Word List 5
+accordingly
+#Word List 13
+realm
+#Word List 5
+accord
+#Word List 13
+royal
+#Word List 5
+accordance
+#Word List 13
+royalty
+#Word List 5
+use
+#Word List 13
+crack
+#Word List 5
+abuse
+#Word List 13
+clash
+#Word List 5
+utile
+#Word List 13
+crash
+#Word List 5
+utility
+#Word List 13
+crush
+#Word List 5
+utilize
+#Word List 13
+order
+#Word List 5
+utilise
+#Word List 13
+disorder
+#Word List 5
+serve
+#Word List 13
+orderly
+#Word List 5
+servant
+#Word List 13
+coordinate
+#Word List 5
+deserve
+#Word List 13
+scale
+#Word List 5
+conserve
+#Word List 13
+ascend
+#Word List 5
+conservation
+#Word List 13
+descend
+#Word List 5
+conservative
+#Word List 13
+side
+#Word List 5
+preserve
+#Word List 13
+seaside
+#Word List 5
+preservation
+#Word List 13
+sidewalk
+#Word List 5
+reserve
+#Word List 13
+sideways
+#Word List 5
+reservation
+#Word List 13
+wayside
+#Word List 5
+reservoir
+#Word List 13
+construct
+#Word List 5
+observe
+#Word List 13
+construction
+#Word List 5
+observer
+#Word List 13
+destruction
+#Word List 5
+observation
+#Word List 13
+destructive
+#Word List 5
+dessert
+#Word List 13
+structure
+#Word List 5
+circle
+#Word List 13
+infrastructure
+#Word List 5
+circular
+#Word List 13
+instruct
+#Word List 5
+circulate
+#Word List 13
+instruction
+#Word List 5
+circulation
+#Word List 13
+liberation
+#Word List 5
+circuit
+#Word List 13
+liberate
+#Word List 5
+circumstance
+#Word List 13
+liberal
+#Word List 5
+mind
+#Word List 13
+liberty
+#Word List 5
+mindless
+#Word List 13
+deliver
+#Word List 5
+remind
+#Word List 13
+delivery
+#Word List 5
+comment
+#Word List 13
+deliberate
+#Word List 5
+commentator
+#Word List 13
+spirit
+#Word List 5
+mental
+#Word List 13
+spiritual
+#Word List 5
+imagine
+#Word List 13
+aspire
+#Word List 5
+imaginary
+#Word List 13
+aspiration
+#Word List 5
+imagination
+#Word List 13
+inspirit
+#Word List 5
+imaginative
+#Word List 13
+inspire
+#Word List 5
+image
+#Word List 13
+inspiration
+#Word List 5
+imitate
+#Word List 13
+dispirit
+#Word List 5
+sense
+#Word List 13
+despair
+#Word List 5
+sensible
+#Word List 13
+desperate
+#Word List 5
+sensitive
+#Word List 13
+prosper
+#Word List 5
+sensitivity
+#Word List 13
+prosperity
+#Word List 5
+sensation
+#Word List 13
+prosperous
+#Word List 5
+consensus
+#Word List 13
+sole
+#Word List 5
+consent
+#Word List 13
+solitary
+#Word List 5
+resent
+#Word List 13
+island
+#Word List 5
+resentful
+#Word List 13
+isolate
+#Word List 5
+scent
+#Word List 13
+isle
+#Word List 5
+sense
+#Word List 13
+peninsula
+#Word List 5
+nonsense
+#Word List 13
+drive
+#Word List 5
+question
+#Word List 13
+driver
+#Word List 5
+quest
+#Word List 13
+drift
+#Word List 5
+request
+#Word List 13
+draw
+#Word List 5
+acquire
+#Word List 13
+withdraw
+#Word List 5
+acquisition
+#Word List 13
+draw
+#Word List 5
+inquire
+#Word List 13
+draft
+#Word List 5
+inquiry
+#Word List 13
+overdraw
+#Word List 5
+require
+#Word List 13
+overdraft
+#Word List 5
+requirement
+#Word List 13
+lay
+#Word List 5
+just
+#Word List 13
+lay
+#Word List 5
+justice
+#Word List 13
+layer
+#Word List 5
+justify
+#Word List 13
+layman
+#Word List 5
+justification
+#Word List 13
+layoff
+#Word List 5
+adjust
+#Word List 13
+layout
+#Word List 5
+adjustment
+#Word List 13
+delay
+#Word List 5
+bump
+#Word List 13
+relay
+#Word List 5
+bumper
+#Word List 13
+still
+#Word List 5
+dump
+#Word List 13
+still
+#Word List 5
+lump
+#Word List 13
+stale
+#Word List 5
+stump
+#Word List 13
+instal
+#Word List 5
+compel
+#Word List 13
+install
+#Word List 5
+compulsion
+#Word List 13
+installation
+#Word List 5
+compulsory
+#Word List 13
+instalment
+#Word List 5
+expel
+#Word List 13
+installment
+#Word List 5
+expulsion
+#Word List 13
+buck
+#Word List 5
+pulse
+#Word List 13
+bucket
+#Word List 5
+impulse
+#Word List 13
+buckle
+#Word List 5
+domestic
+#Word List 13
+pledge
+#Word List 5
+domestically
+#Word List 13
+plunge
+#Word List 5
+dome
+#Word List 13
+spark
+#Word List 5
+dominate
+#Word List 13
+sparkle
+#Word List 5
+dominant
+#Word List 13
+strip
+#Word List 5
+dominance
+#Word List 13
+strap
+#Word List 5
+minister
+#Word List 13
+stripe
+#Word List 5
+ministry
+#Word List 13
+breeze
+#Word List 5
+administer
+#Word List 13
+browse
+#Word List 5
+administrator
+#Word List 13
+alert
+#Word List 5
+administration
+#Word List 13
+alter
+#Word List 5
+administrative
+#Word List 13
+dime
+#Word List 5
+human
+#Word List 13
+dine
+#Word List 5
+human being
+#Word List 13
+hail
+#Word List 5
+humanity
+#Word List 13
+hail
+#Word List 5
+humankind
+#Word List 13
+haul
+#Word List 5
+humble
+#Word List 13
+hell
+#Word List 5
+humid
+#Word List 13
+seminar
+#Word List 5
+humidity
+#Word List 13
+senator
+chip
+clip
+#Word List 14
+before
+#Word List 5 联觉音组记忆法
+haste
+#Word List 14
+fore
+#Word List 5 联觉音组记忆法
+hasten
+#Word List 14
+former
+#Word List 5 联觉音组记忆法
+heave
+#Word List 14
+foremost
+#Word List 5 联觉音组记忆法
+huge
+#Word List 14
+forehead
+#Word List 5 联觉音组记忆法
+spray
+#Word List 14
+forecast
+#Word List 5 联觉音组记忆法
+spread
+#Word List 14
+forth
+#Word List 5 联觉音组记忆法
+spring
+#Word List 14
+forthcoming
+#Word List 5 联觉音组记忆法
+sway
+#Word List 14
+forward
+#Word List 5 联觉音组记忆法
+sweep
+#Word List 14
+pre-
+#Word List 5 联觉音组记忆法
+swipe
+#Word List 14
+prior
+#Word List 5 联觉音组记忆法
+swing
+#Word List 14
+priority
+#Word List 5 联觉音组记忆法
+cracker
+#Word List 14
+primary
+#Word List 5 联觉音组记忆法
+crisp
+#Word List 14
+primarily
+#Word List 5 联觉音组记忆法
+blow
+#Word List 14
+prime
+#Word List 5 联觉音组记忆法
+blossom
+#Word List 14
+primitive
+#Word List 5 联觉音组记忆法
+bloom
+#Word List 14
+move
+#Word List 5 联觉音组记忆法
+gloom
+#Word List 14
+remove
+removal
+motor
+motorbike
+motorway
+motel
+emotion
+emotional
+motion
+motive
+motivate
+motivated
+promote
+remote
+automate
+automatic
+mobile
+automobile
+protect
+protection
+protective
+detect
+detection
+detective
+architect
+architecture
+clear
+clear-cut
+clarify
+clarity
+declare
+declaration
+model
+mode
+modern
+modernize
+modernise
+mold
+mould
+mold
+mould
+mood
+moderate
+modest
+modesty
+modify
+accommodate
+accommodation
+commodity
+reject
+eject
+ejection
+inject
+injection
+subject
+object
+subjective
+objective
+objection
+project
+jet
+jetlag
+spend
+expend
+expenditure
+expense
+dispense
+indispensable
+compensate
+compensation
+pension
+suspend
+suspension
+dispense
+old
+older
+elder
+elderly
+adolescent
+abolish
+sheer
+drown
+moist
+odds
+slap
+thrust
+sphere
+bet
+cue
+phase
+cope
+grab
+gross
+leap
+melt
+mere
+nasty
+rod
+soak
+#Word List 15
+capital
+#Word List 5 熟词生义
+applaud
+#Word List 15
+capital
+#Word List 5 熟词生义
+fix
+#Word List 15
+cape
+#Word List 5 熟词生义
+fire
+#Word List 15
+captain
+#Word List 5 熟词生义
+shoot
+#Word List 15
+caption
+#Word List 5 熟词生义
+meet
+#Word List 15
+escape
+#Word List 5 熟词生义
+sharp
+#Word List 15
+capture
+#Word List 5 熟词生义
+academic
+#Word List 15
+capable
+#Word List 5 熟词生义
+bitter
+#Word List 15
+capacity
+cabin
+cabinet
+prison
+prisoner
+comprise
+enterprise
+distinguish
+distinction
+distinct
+distinctive
+extinguish
+extinct
+succeed
+succeed
+success
+successful
+success
+succession
+successive
+successor
+work
+workforce
+workman
+workmate
+workplace
+workshop
+artwork
+framework
+network
+workout
+unite
+reunite
+union
+reunion
+unify
+unification
+reunify
+reunification
+unity
+unique
+close
+closet
+disclose
+enclose
+include
+inclusion
+inclusive
+exclude
+exclusion
+exclusive
+conclude
+conclusion
+conclusive
+sit
+site
+website
+situate
+situation
+reside
+residence
+resident
+saddle
+lift
+elevate
+elevator
+alleviate
+relieve
+relief
+grave
+grave
+gravity
+gravitation
+element
+shift
+grant
+spill
+cling
+reap
+spite
+gaze
+penetrate
+jail
+reckon
+ultimate
+harsh
+triumph
+innocent
+#附录 新课标直通四级词汇
+board
+#Word List 6
+assist
+#附录 新课标直通四级词汇
+aboard
+#Word List 6
+assistance
+#附录 新课标直通四级词汇
+brace
+#Word List 6
+assistant
+#附录 新课标直通四级词汇
+embrace
+#Word List 6
+consist
+#附录 新课标直通四级词汇
+broad
+#Word List 6
+consistent
+#附录 新课标直通四级词汇
+broaden
+#Word List 6
+consistency
+#附录 新课标直通四级词汇
+call
+#Word List 6
+insist
+#附录 新课标直通四级词汇
+calling
+#Word List 6
+insistence
+#附录 新课标直通四级词汇
+change
+#Word List 6
+insistent
+#附录 新课标直通四级词汇
+exchange
+#Word List 6
+persist
+#附录 新课标直通四级词汇
+character
+#Word List 6
+persistence
+#附录 新课标直通四级词汇
+characterize
+#Word List 6
+persistent
+#附录 新课标直通四级词汇
+characterise
+#Word List 6
+resist
+#附录 新课标直通四级词汇
+clock
+#Word List 6
+resistance
+#附录 新课标直通四级词汇
+clockwise
+#Word List 6
+resistant
+#附录 新课标直通四级词汇
+coast
+#Word List 6
+station
+#附录 新课标直通四级词汇
+coastal
+#Word List 6
+statue
+#附录 新课标直通四级词汇
+combine
+#Word List 6
+status
+#附录 新课标直通四级词汇
+combination
+#Word List 6
+estate
+#附录 新课标直通四级词汇
+commerce
+#Word List 6
+static
+#附录 新课标直通四级词汇
+commercial
+#Word List 6
+statics
+#附录 新课标直通四级词汇
+compete
+#Word List 6
+stable
+#附录 新课标直通四级词汇
+competitive
+#Word List 6
+stability
+#附录 新课标直通四级词汇
+complain
+#Word List 6
+constant
+#附录 新课标直通四级词汇
+complaint
+#Word List 6
+constantly
+#附录 新课标直通四级词汇
+confirm
+#Word List 6
+establish
+#附录 新课标直通四级词汇
+confirmation
+#Word List 6
+establishment
+#附录 新课标直通四级词汇
+continue
+#Word List 6
+instance
+#附录 新课标直通四级词汇
+continual
+#Word List 6
+instant
+#附录 新课标直通四级词汇
+cost
+#Word List 6
+instantly
+#附录 新课标直通四级词汇
+costly
+#Word List 6
+obstacle
+#附录 新课标直通四级词汇
+cover
+#Word List 6
+substance
+#附录 新课标直通四级词汇
+uncover
+#Word List 6
+statute
+#附录 新课标直通四级词汇
+create
+#Word List 6
+constitute
+#附录 新课标直通四级词汇
+creative
+#Word List 6
+constitution
+#附录 新课标直通四级词汇
+creation
+#Word List 6
+institute
+#附录 新课标直通四级词汇
+credible
+#Word List 6
+institution
+#附录 新课标直通四级词汇
+incredible
+#Word List 6
+substitute
+#附录 新课标直通四级词汇
+criticize
+#Word List 6
+stand
+#附录 新课标直通四级词汇
+criticise
+#Word List 6
+bystander
+#附录 新课标直通四级词汇
+criticism
+#Word List 6
+outstanding
+#附录 新课标直通四级词汇
+cruel
+#Word List 6
+standpoint
+#附录 新课标直通四级词汇
+cruelty
+#Word List 6
+withstand
+#附录 新课标直通四级词汇
+culture
+#Word List 6
+apply
+#附录 新课标直通四级词汇
+cultural
+#Word List 6
+appliance
+#附录 新课标直通四级词汇
+curious
+#Word List 6
+application
+#附录 新课标直通四级词汇
+curiosity
+#Word List 6
+applicable
+#附录 新课标直通四级词汇
+custom
+#Word List 6
+applied
+#附录 新课标直通四级词汇
+accustom
+#Word List 6
+applicant
+#附录 新课标直通四级词汇
+danger
+#Word List 6
+application
+#附录 新课标直通四级词汇
+endanger
+#Word List 6
+special
+#附录 新课标直通四级词汇
+dead
+#Word List 6
+specially
+#附录 新课标直通四级词汇
+deadly
+#Word List 6
+especially
+#附录 新课标直通四级词汇
+delight
+#Word List 6
+specialist
+#附录 新课标直通四级词汇
+delightful
+#Word List 6
+specialize
+#附录 新课标直通四级词汇
+democracy
+#Word List 6
+specialise
+#附录 新课标直通四级词汇
+democratic
+#Word List 6
+speciality
+#附录 新课标直通四级词汇
+dense
+#Word List 6
+specialty
+#附录 新课标直通四级词汇
+density
+#Word List 6
+specific
+#附录 新课标直通四级词汇
+condense
+#Word List 6
+specifically
+#附录 新课标直通四级词汇
+desire
+#Word List 6
+specify
+#附录 新课标直通四级词汇
+desirable
+#Word List 6
+species
+#附录 新课标直通四级词汇
+different
+#Word List 6
+specimen
+#附录 新课标直通四级词汇
+indifferent
+#Word List 6
+attract
+#附录 新课标直通四级词汇
+disappoint
+#Word List 6
+attraction
+#附录 新课标直通四级词汇
+disappointing
+#Word List 6
+abstract
+#附录 新课标直通四级词汇
+do
+#Word List 6
+contract
+#附录 新课标直通四级词汇
+undo
+#Word List 6
+distract
+#附录 新课标直通四级词汇
+donate
+#Word List 6
+retract
+#附录 新课标直通四级词汇
+donation
+#Word List 6
+subtract
+#附录 新课标直通四级词汇
+doubt
+#Word List 6
+trace
+#附录 新课标直通四级词汇
+doubtful
+#Word List 6
+track
+#附录 新课标直通四级词汇
+undoubtedly
+#Word List 6
+trail
+#附录 新课标直通四级词汇
+drama
+#Word List 6
+trailer
+#附录 新课标直通四级词汇
+dramatic
+#Word List 6
+retreat
+#附录 新课标直通四级词汇
+dry
+#Word List 6
+treaty
+#附录 新课标直通四级词汇
+dryer
+#Word List 6
+prove
+#附录 新课标直通四级词汇
+drought
+#Word List 6
+approve
+#附录 新课标直通四级词汇
+easy
+#Word List 6
+approval
+#附录 新课标直通四级词汇
+uneasy
+#Word List 6
+disapprove
+#附录 新课标直通四级词汇
+ease
+#Word List 6
+disapproval
+#附录 新课标直通四级词汇
+editor
+#Word List 6
+improve
+#附录 新课标直通四级词汇
+edit
+#Word List 6
+improvement
+#附录 新课标直通四级词汇
+editorial
+#Word List 6
+slip
+#附录 新课标直通四级词汇
+element
+#Word List 6
+slippery
+#附录 新课标直通四级词汇
+elementary
+#Word List 6
+slipper
+#附录 新课标直通四级词汇
+emphasis
+#Word List 6
+slope
+#附录 新课标直通四级词汇
+emphasize
+#Word List 6
+camp
+#附录 新课标直通四级词汇
+emphasise
+#Word List 6
+campaign
+#附录 新课标直通四级词汇
+encourage
+#Word List 6
+campus
+#附录 新课标直通四级词汇
+encouragement
+#Word List 6
+champion
+#附录 新课标直通四级词汇
+engage
+#Word List 6
+appear
+#附录 新课标直通四级词汇
+engagement
+#Word List 6
+appearance
+#附录 新课标直通四级词汇
+entertain
+#Word List 6
+disappear
+#附录 新课标直通四级词汇
+entertainment
+#Word List 6
+apparent
+#附录 新课标直通四级词汇
+envy
+#Word List 6
+transparent
+#附录 新课标直通四级词汇
+enviable
+#Word List 6
+attack
+#附录 新课标直通四级词汇
+envious
+#Word List 6
+tack
+#附录 新课标直通四级词汇
+eraser
+#Word List 6
+tackle
+#附录 新课标直通四级词汇
+erase
+#Word List 6
+attach
+#附录 新课标直通四级词汇
+erode
+#Word List 6
+detach
+#附录 新课标直通四级词汇
+erosion
+essence
+essential
+evil
+devil
+example
+exemplify
+excellence
+excel
+except
+exception
+exhaust
+exhausted
+exhausting
+exhaustive
+exhibition
+exhibit
+experiment
+experimental
+expert
+expertise
+fair
+fairly
+faith
+faithful
+famous
+fame
+fascinate
+fascinating
+fashion
+fashionable
+fate
+fatal
+federal
+federation
+finance
+financial
+fortune
+misfortune
+frighten
+frightened
+frightening
+front
+confront
+fruit
+fruitful
+furniture
+furnish
+game
+gamble
+globe
+global
+govern
+governor
+guide
+guidance
+guilty
+guilt
+habit
+habitual
+habitat
+inhabit
+inhabitant
+history
+historical
+house
+housing
+idea
+ideal
+illustrate
+illustration
+incident
+incidence
+increase
+increasingly
+industry
+industrial
+industrious
+inflate
+inflation
+initiate
+initiative
+interfere
+interference
+interpret
+interpretation
+invade
+invasion
+invest
+investment
+large
+enlarge
+lead
+leader
+leadership
+mislead
+legal
+illegal
+legislate
+legislation
+locate
+location
+loose
+loosen
+love
+beloved
+low
+lower
+loyal
+loyalty
+manage
+management
+mass
+massive
+misery
+miserable
+miserably
+most
+mostly
+mountain
+mount
+mystery
+name
+namely
+surname
+narrative
+narrate
+necessary
+necessarily
+necessity
+negative
+negate
+negotiate
+negotiation
+nervous
+nerve
+new
+anew
+renew
+normal
+normally
+noun
+pronoun
+number
+numerous
+operate
+operation
+operational
+cooperate
+cooperation
+organ
+organic
+organism
+organize
+organise
+pay
+payment
+repay
+philosophy
+philosopher
+physical
+physicist
+plant
+plantation
+transplant
+plenty
+plentiful
+abundant
+poem
+poetry
+popular
+popularity
+possible
+possibly
+possibility
+present
+presence
+presently
+probable
+probably
+public
+publicize
+publicise
+publicity
+publish
+publication
+punish
+punishment
+qualify
+qualification
+quote
+quotation
+rational
+irrational
+ready
+readily
+real
+realistic
+realize
+realise
+realization
+realisation
+recover
+recovery
+refresh
+refreshment
+reluctant
+reluctance
+replace
+replacement
+represent
+representation
+respect
+respective
+respectively
+rich
+enrich
+romance
+romantic
+round
+surround
+surroundings
+satisfy
+satisfactory
+shore
+ashore
+similar
+similarly
+single
+singular
+skill
+skilled
+smell
+smelly
+source
+resource
+start
+startle
+strategy
+strategic
+substance
+substantial
+surgery
+surgeon
+symbol
+symbolic
+sympathy
+sympathetic
+test
+contest
+contestant
+thought
+thoughtful
+threat
+threaten
+title
+entitle
+understand
+misunderstand
+up
+upper
+use
+usage
+verb
+adverb
+view
+viewer
+vigor
+vigour
+vigorous
+whole
+wholly
+wild
+wilderness
+wire
+wireless
+young
+youngster
+air
+condition
+craft
+plane
+back
+up
+yard
+best
+seller
+blue
+finger
+foot
+print
+break
+down
+by
+pass
+word
+common
+place
+down
+load
+air-conditioning
+aircraft
+airplane
+backup
+backyard
+best-seller
+blueprint
+fingerprint
+footprint
+breakdown
+bypass
+password
+commonplace
+download
+drop
+out
+easy
+go
+feed
+back
+full
+fill
+further
+more
+green
+house
+hand
+book
+writing
+honey
+moon
+power
+horse
+will
+house
+hold
+dropout
+easy-going
+feedback
+fulfil
+fulfill
+furthermore
+greenhouse
+handbook
+handwriting
+honeymoon
+horsepower
+willpower
+household
+in
+take
+main
+stream
+master
+piece
+middle
+class
+more
+over
+old
+fashion
+out
+skirt
+pass
+time
+pay
+roll
+some
+what
+sun
+set
+take
+off
+intake
+mainstream
+masterpiece
+middle-class
+moreover
+old-fashioned
+outskirts
+pastime
+payroll
+somewhat
+sunset
+takeoff
+there
+by
+trade
+mark
+under
+develop
+up
+date
+grade
+right
+to
+water
+proof
+tight
+well
+being
+know
+where
+as
+else
+who
+ever
+thereby
+trademark
+underdeveloped
+update
+upgrade
+upright
+up-to-date
+waterproof
+watertight
+well-being
+well-known
+whereas
+elsewhere
+whoever
+#Word List 6 同义记忆法
+demonstrate
+verify
+consolidate
+expand
+exaggerate
+enhance
+accelerate
+boost
+surge
+soar
+giant
+tremendous
+miracle
+myth
+legend
+marvel
+marvelous
+marvellous
+prominent
+awe
+awesome
+brilliant
+magnificent
+keen
+#Word List 6 熟词生义
+train
+file
+hit
+field
+degree
+firm
+free
+#Word List 7
+course
+curriculum
+excursion
+current
+currently
+currency
+occur
+occurrence
+concur
+recur
+proceed
+procession
+process
+microprocessor
+procedure
+exceed
+excess
+excessive
+excessively
+exceeding
+exceedingly
+concede
+concession
+precede
+preceding
+recede
+recession
+access
+accessible
+progress
+progressive
+aggressive
+congress
+divide
+division
+individual
+individualized
+subdivide
+solve
+solution
+dissolve
+dissolution
+resolve
+resolution
+absolve
+absolute
+absolutely
+fact
+factor
+facile
+facilitate
+facility
+faculty
+affect
+affection
+effect
+effective
+effectiveness
+perfect
+perfection
+defect
+defection
+infect
+infection
+factory
+manufacture
+manufacturer
+company
+accompany
+companion
+pan
+panel
+suggest
+gesture
+digest
+register
+registered
+registration
+second
+secondary
+second
+consecutive
+execute
+execution
+executive
+consequence
+consequent
+consequently
+sequence
+subsequence
+subsequent
+subsequently
+suit
+suitable
+suit
+sue
+suit
+pursue
+pursuit
+#Word List 7 反义记忆法
+conceal
+disguise
+reveal
+superior
+supreme
+climax
+inferior
+charm
+absorb
+absorbing
+absorbed
+chore
+shit
+hinder
+stem
+ban
+halt
+curb
+spur
+stimulate
+sting
+prompt
+provoke
+stir
+incentive
+#Word List 7 熟词生义
+flat
+fence
+progress
+company
+meet
+author
+film
+flag
+#Word List 8
+revolution
+revolutionize
+revolutionise
+revolutionary
+revolt
+revolve
+evolve
+evolution
+involve
+involvement
+involved
+volume
+universe
+universal
+advertise
+advertisement
+anniversary
+convert
+reverse
+converse
+conversation
+version
+converse
+conversely
+versus
+diverse
+same
+assemble
+assembly
+resemble
+resemblance
+come
+income
+outcome
+overcome
+prevent
+convene
+convention
+conventional
+avenue
+revenue
+compute
+dispute
+deputy
+reputation
+adopt
+opt
+option
+optional
+optimistic
+optimism
+patient
+patience
+impatient
+inpatient
+compatible
+bar
+barrel
+barrier
+embarrass
+embarrassment
+embarrassing
+value
+valuable
+invaluable
+evaluate
+equivalent
+valid
+invalid
+available
+prevail
+press
+pressure
+compress
+compression
+depress
+depression
+impress
+impression
+impressive
+express
+expression
+interrupt
+abrupt
+bankrupt
+bankruptcy
+corrupt
+corruption
+disrupt
+disruption
+disruptive
+erupt
+eruption
+cast
+broadcast
+podcast
+webcast
+double
+duple
+diploma
+diplomat
+diplomatic
+multiple
+multiply
+#Word List 8 主题记忆法
+therapy
+therapist
+dose
+massage
+heal
+couch
+apparatus
+laser
+biotechnology
+sore
+bacteria
+cholesterol
+tumor
+tumour
+faint
+stiff
+lane
+route
+metro
+tunnel
+wagon
+waggon
+fleet
+trolley
+steer
+deck
+pave
+pitch
+cement
+#Word List 8 熟词生义
+character
+value
+work
+text
+work
+stick
+flood
+present
+#Word List 9
+introduce
+introduction
+conduct
+misconduct
+conductor
+semiconductor
+deduct
+induce
+reduce
+reduction
+direct
+directly
+direction
+director
+indirect
+erect
+middle
+amid
+midst
+intermediate
+medium
+media
+prince
+princess
+principal
+principle
+rare
+scarce
+scarcity
+rarely
+scarcely
+gene
+genetic
+genius
+gender
+genuine
+generate
+generation
+generator
+generous
+hydrogen
+nitrogen
+oxygen
+pregnant
+radio
+radar
+radiate
+radiation
+radius
+ray
+X-ray
+radical
+migrate
+immigrate
+emigrate
+migrant
+immigrant
+emigrant
+horrible
+horror
+terrible
+terror
+terrorist
+terribly
+terrific
+territory
+dismiss
+missile
+mission
+emit
+emission
+omit
+omission
+submit
+submission
+transmit
+transmission
+set
+outset
+upset
+setback
+setting
+settle
+settlement
+point
+checkpoint
+viewpoint
+appoint
+appointment
+punctual
+punch
+describe
+description
+prescribe
+script
+transcript
+scrape
+case
+briefcase
+cassette
+case
+casual
+occasion
+occasional
+#Word List 9 图解记忆法
+fertile
+paddy
+straw
+plough
+irrigate
+ditch
+bud
+flock
+horn
+dew
+lawn
+rack
+liquor
+tray
+oven
+sauce
+napkin
+lick
+mug
+dairy
+shrimp
+chop
+beverage
+snack
+trash
+#Word List 9 熟词生义
+address
+point
+fish
+pond
+check
+attraction
+draw
+#Word List 10
+port
+airport
+export
+exporter
+import
+opportunity
+passport
+porter
+portable
+porter
+transport
+transportation
+offer
+infer
+inference
+prefer
+preferable
+preference
+refer
+reference
+referee
+suffer
+suffering
+transfer
+transference
+notice
+noticeable
+notify
+notion
+sacred
+sacrifice
+saint
+ambulance
+ambition
+ambitious
+ambassador
+embassy
+sum
+summary
+summarize
+summarise
+resume
+summit
+assume
+consume
+consumer
+resume
+assumption
+consumption
+reply
+imply
+implication
+implicit
+explicate
+explication
+explicit
+simple
+simplicity
+simplify
+complicated
+complicate
+complex
+display
+employ
+ancient
+ancestor
+anticipate
+antique
+battle
+bat
+battery
+combat
+debate
+count
+account
+accountant
+accountable
+countdown
+counter
+discount
+count
+county
+pack
+package
+packet
+compact
+impact
+face
+facial
+surface
+superficial
+#Word List 10 英汉记忆法
+semester
+freshman
+enrol
+enroll
+enrolment
+enrollment
+discipline
+tuition
+statistic
+aviation
+geology
+geologist
+cultivate
+dean
+minor
+laboratory
+chemical
+aluminium
+nourish
+#Word List 10 熟词生义
+unit
+control
+coach
+frequent
+bug
+load
+paper
+deal
+#Word List 11
+flow
+affluent
+fluent
+fluid
+influenza
+flu
+influence
+influential
+fluctuate
+refuse
+refusal
+confuse
+confusion
+hard
+harden
+hardware
+hardship
+measure
+measurement
+dimension
+dimensional
+immense
+metre
+meter
+centimetre
+centimeter
+kilometre
+kilometer
+millimetre
+millimeter
+metric
+arithmetic
+diameter
+geometry
+meter
+thermometer
+country
+counter
+counterpart
+encounter
+contradict
+contradiction
+contrary
+contrast
+controversy
+controversial
+band
+bandage
+bind
+bond
+bound
+boundary
+bundle
+bound
+bounce
+class
+classic
+classical
+classify
+classification
+decide
+decision
+suicide
+precise
+precision
+during
+durable
+duration
+endure
+endurance
+grace
+graceful
+disgraceful
+grateful
+gratitude
+sure
+assure
+ensure
+insure
+assurance
+insurance
+moral
+morality
+virtue
+virtual
+virtually
+proper
+propriety
+property
+appropriate
+appropriate
+raise
+rise
+arise
+rouse
+arouse
+own
+owner
+ownership
+owe
+owing
+communicate
+communicable
+communication
+telecommunications
+immune
+immunity
+immunize
+immunise
+commune
+machine
+machinery
+mechanic
+mechanical
+mechanize
+mechanise
+mechanism
+#Word List 11 语境记忆法
+panic
+avoid
+release
+survey
+estimate
+shed
+launch
+knot
+evil
+eternal
+crisis
+pirate
+drama
+intangible
+heritage
+staple
+cereal
+thrive
+spoil
+render
+mortgage
+#Word List 11 熟词生义
+fit
+function
+shot
+factor
+set
+post
+#Word List 12
+sign
+signal
+signify
+significant
+significantly
+significance
+assign
+assignment
+resign
+resignation
+signature
+mark
+remark
+remarkable
+margin
+marginal
+explode
+explosion
+explosive
+applaud
+applause
+plausible
+light
+daylight
+sunlight
+highlight
+lighten
+lightning
+enlighten
+glory
+glorious
+glow
+glance
+glimpse
+hand
+beforehand
+handicap
+left-handed
+right-handed
+second-hand
+handful
+handle
+handy
+manipulate
+manoeuvre
+manual
+comprehend
+comprehension
+comprehensive
+commend
+recommend
+recommendation
+claim
+exclaim
+proclaim
+society
+associate
+association
+social
+socialism
+socialist
+sociology
+sociologist
+receive
+receiver
+receipt
+recipient
+reception
+receptionist
+accept
+acceptable
+acceptance
+conceive
+concept
+conception
+misconception
+deceive
+deception
+perceive
+perception
+force
+forceful
+forcible
+enforce
+reinforce
+land
+inland
+mainland
+landlord
+landscape
+letter
+literal
+literally
+literacy
+literary
+literature
+in
+out
+inner
+outer
+inward
+outward
+interior
+exterior
+intimate
+extreme
+internal
+external
+outbreak
+outdated
+outdoors
+outlet
+outlook
+output
+outsider
+utter
+utmost
+#Word List 12 拟声、音译记忆法
+groan
+whisper
+howl
+roar
+bang
+blast
+boom
+bubble
+grind
+hack
+scratch
+smash
+soda
+vitamin
+volt
+yoga
+calorie
+pizza
+splash
+pudding
+whisky
+heroin
+nylon
+watt
+#Word List 12 熟词生义
+fuel
+document
+line
+quarter
+project
+weather
+#Word List 13
+term
+short-term
+determine
+determination
+terminal
+terminate
+final
+define
+definition
+definite
+definitely
+infinite
+infinitely
+limit
+limitation
+limited
+eliminate
+preliminary
+regular
+irregular
+regulate
+regulation
+regal
+region
+realm
+royal
+royalty
+crack
+clash
+crash
+crush
+order
+disorder
+orderly
+coordinate
+scale
+ascend
+descend
+side
+seaside
+sidewalk
+sideways
+wayside
+construct
+construction
+destruction
+destructive
+structure
+structural
+infrastructure
+instruct
+instructor
+instruction
+liberation
+liberate
+liberal
+liberty
+deliver
+delivery
+deliberate
+deliberately
+spirit
+spiritual
+aspire
+aspiration
+inspirit
+inspire
+inspiration
+inspirational
+dispirit
+despair
+desperate
+prosper
+prosperity
+prosperous
+sole
+solitary
+island
+isolate
+isolation
+isle
+peninsula
+drive
+driver
+drift
+draw
+withdraw
+draw
+draft
+overdraw
+overdraft
+lay
+layer
+layman
+layoff
+layout
+delay
+relay
+still
+stale
+install
+installation
+instalment
+installment
+#Word List 13 形近记忆法
+buck
+bucket
+buckle
+pledge
+plunge
+spark
+sparkle
+strip
+strap
+stripe
+breeze
+browse
+alert
+alter
+dime
+dine
+hail
+hail
+haul
+hell
+seminar
+senator
+chip
+clip
+#Word List 13 熟词生义
+upper
+run
+pioneer
+average
+key
+bit
+empty
+#Word List 14
+before
+fore
+former
+formerly
+foremost
+forehead
+forecast
+forth
+forthcoming
+forward
+pre-
+prior
+priority
+prioritize
+prioritise
+primary
+primarily
+prime
+primitive
+move
+remove
+removal
+motor
+motorbike
+motorway
+motel
+emotion
+emotional
+motion
+motive
+motivate
+motivation
+motivated
+promote
+promotion
+remote
+automate
+automated
+automatic
+mobile
+automobile
+protect
+protection
+protective
+detect
+detection
+detective
+architect
+architecture
+clear
+clearly
+clear-cut
+clarify
+clarity
+declare
+declaration
+model
+mode
+modern
+modernize
+modernise
+mold
+mould
+mood
+moderate
+modest
+modesty
+modify
+accommodate
+accommodation
+commodity
+reject
+eject
+ejection
+inject
+injection
+subject
+object
+subjective
+objective
+objection
+project
+jet
+jet lag
+spend
+expend
+expenditure
+expense
+dispense
+indispensable
+compensate
+compensation
+pension
+suspend
+suspension
+dispense
+old
+older
+elder
+elderly
+adolescent
+abolish
+abolition
+#Word List 14 字母组记忆法
+sheer
+drown
+moist
+moisture
+odds
+slap
+thrust
+sphere
+bet
+cue
+phase
+cope
+grab
+gross
+leap
+melt
+mere
+nasty
+rod
+soak
+#Word List 14 熟词生义
+industry
+break
+drive
+head
+wake
+rank
+wake
+hold
+#Word List 15
+capital
+cape
+captain
+caption
+escape
+capture
+capable
+capability
+capacity
+cabin
+cabinet
+prison
+prisoner
+comprise
+enterprise
+distinguish
+distinction
+distinct
+distinctive
+extinguish
+extinct
+succeed
+success
+succession
+successful
+successive
+success
+successor
+work
+workforce
+workman
+workmate
+workplace
+workshop
+artwork
+framework
+network
+workout
+unite
+reunite
+union
+reunion
+unify
+unification
+reunify
+reunification
+unity
+unique
+close
+closure
+closet
+disclose
+enclose
+include
+inclusion
+inclusive
+exclude
+exclusion
+exclusive
+conclude
+conclusion
+conclusive
+inconclusive
+sit
+site
+website
+situate
+situation
+reside
+residence
+resident
+residential
+saddle
+lift
+elevate
+elevator
+alleviate
+relieve
+relief
+grave
+gravity
+gravitation
+#Word List 15 联想记忆法
+element
+shift
+grant
+spill
+cling
+reap
+spite
+gaze
+penetrate
+jail
+reckon
+ultimate
+ultimately
+harsh
+triumph
+innocent
+#Word List 15 熟词生义
+tie
+means
+monitor
+fashion
+cross
+bill
+tip
+dive
+#附录 新课标直通四级词汇
+achieve
+achievement
+addition
+additional
+advance
+advanced
+adventure
+venture
+agree
+agreeable
+appeal
+appealing
+art
+artistic
+atom
+atomic
+author
+authorize
+authorise
+aware
+awareness
+base
+basement
+basic
+basically
+board
+aboard
+brace
+embrace
+broad
+broadly
+broaden
+call
+calling
+change
+exchange
+character
+characterize
+characterise
+clock
+clockwise
+coast
+coastal
+combine
+combination
+commerce
+commercial
+compete
+competition
+competitive
+competitiveness
+complain
+complaint
+confirm
+confirmation
+continue
+continual
+cost
+costly
+cover
+uncover
+create
+creative
+creativity
+creation
+credible
+incredible
+criticize
+criticise
+criticism
+cruel
+cruelty
+culture
+cultural
+curious
+curiosity
+custom
+accustom
+danger
+endanger
+dead
+deadly
+delight
+delightful
+democracy
+democratic
+dense
+density
+condense
+desire
+desirable
+different
+indifferent
+disappoint
+disappointing
+do
+undo
+donate
+donation
+doubt
+doubtful
+undoubtedly
+drama
+dramatic
+dry
+dryer
+drought
+easy
+uneasy
+ease
+editor
+edit
+editorial
+element
+elementary
+emphasis
+emphases
+emphasize
+emphasise
+encourage
+encouragement
+engage
+engagement
+entertain
+entertainment
+envy
+enviable
+envious
+eraser
+erase
+erode
+erosion
+essence
+essential
+evil
+devil
+example
+exemplify
+excellence
+excel
+except
+exception
+exhaust
+exhausted
+exhausting
+exhaustive
+exhibition
+exhibit
+experiment
+experimental
+expert
+expertise
+fair
+fairly
+faith
+faithful
+famous
+fame
+fascinate
+fascinating
+fashion
+fashionable
+fate
+fatal
+federal
+federation
+finance
+financial
+fortune
+misfortune
+frighten
+frightened
+frightening
+front
+confront
+fruit
+fruitful
+furniture
+furnish
+game
+gamble
+globe
+global
+govern
+governor
+guide
+guidance
+guilty
+guilt
+habit
+habitual
+habitat
+inhabit
+inhabitant
+history
+historical
+house
+housing
+idea
+ideal
+illustrate
+illustration
+incident
+incidence
+increase
+increasingly
+industry
+industrial
+industrious
+inflate
+inflation
+initiate
+initiative
+interfere
+interference
+interpret
+interpretation
+invade
+invasion
+invest
+investment
+large
+enlarge
+lead
+leader
+leadership
+mislead
+legal
+illegal
+legislate
+legislation
+locate
+location
+loose
+loosen
+love
+beloved
+low
+lower
+loyal
+loyalty
+manage
+management
+mass
+massive
+misery
+miserable
+miserably
+most
+mostly
+mountain
+mount
+mystery
+mysterious
+name
+namely
+surname
+narrative
+narrate
+necessary
+necessarily
+necessity
+negative
+negate
+negotiate
+negotiation
+nervous
+nerve
+new
+anew
+renew
+normal
+normally
+noun
+pronoun
+number
+numerous
+operate
+operation
+operational
+cooperate
+cooperation
+organ
+organic
+organism
+organize
+organise
+pay
+payment
+repay
+philosophy
+philosopher
+physical
+physicist
+plant
+plantation
+transplant
+plenty
+plentiful
+poem
+poetry
+popular
+popularity
+possible
+possibly
+possibility
+present
+presence
+presently
+probable
+probably
+public
+publicize
+publicise
+publicity
+publish
+publication
+punish
+punishment
+qualify
+qualification
+quote
+quotation
+rational
+irrational
+ready
+readily
+real
+realistic
+realize
+realise
+realization
+realisation
+recover
+recovery
+refresh
+refreshment
+reluctant
+reluctance
+replace
+replacement
+represent
+representation
+respect
+respective
+respectively
+rich
+enrich
+romance
+romantic
+round
+surround
+surroundings
+satisfy
+satisfactory
+shore
+ashore
+similar
+similarly
+single
+singular
+skill
+skilled
+smell
+smelly
+source
+resource
+start
+startle
+strategy
+strategic
+substance
+substantial
+surgery
+surgeon
+symbol
+symbolic
+sympathy
+sympathetic
+test
+contest
+contestant
+thought
+thoughtful
+threat
+threaten
+title
+entitle
+understand
+misunderstand
+up
+upper
+use
+usage
+verb
+adverb
+view
+viewer
+vigor
+vigour
+vigorous
+whole
+wholly
+wild
+wilderness
+wire
+wireless
+young
+youngster
+#附录 四级生词
+air
+condition
+craft
+plane
+back
+up
+yard
+best
+seller
+blue
+finger
+foot
+print
+break
+down
+by
+pass
+word
+common
+place
+down
+load
+air-conditioning
+aircraft
+airplane
+backup
+backyard
+best-seller
+blueprint
+fingerprint
+footprint
+breakdown
+bypass
+password
+commonplace
+download
+drop
+out
+easy
+go
+feed
+back
+full
+fill
+further
+more
+green
+house
+hand
+book
+writing
+honey
+moon
+power
+horse
+will
+house
+hold
+dropout
+easy-going
+feedback
+fulfil
+fulfill
+furthermore
+greenhouse
+handbook
+handwriting
+honeymoon
+horsepower
+willpower
+household
+in
+take
+main
+stream
+master
+piece
+middle
+class
+more
+over
+old
+fashion
+out
+skirt
+pass
+time
+pay
+roll
+some
+what
+sun
+set
+take
+off
+intake
+mainstream
+masterpiece
+middle-class
+moreover
+old-fashioned
+outskirts
+pastime
+payroll
+somewhat
+sunset
+takeoff
+there
+by
+trade
+mark
+under
+develop
+up
+date
+grade
+right
+to
+water
+proof
+tight
+well
+being
+know
+where
+as
+else
+who
+ever
+thereby
+trademark
+underdeveloped
+update
+upgrade
+upright
+up-to-date
+waterproof
+watertight
+well-being
+well-known
+whereas
+elsewhere
+whoever

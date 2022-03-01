@@ -1,0 +1,43 @@
+spring
+summer
+autumn
+winter
+a monkey
+a tiger
+a panda
+a bear
+a lion
+a plane
+a train
+a jeep
+a boat
+a doll
+a puzzle
+a yo-yo
+a puppet
+Chinese
+Music
+English
+Maths
+PE
+Art
+seven
+eight
+nine
+ten
+eleven
+twelve
+a jacket
+a dress
+a shirt
+a blouse
+a bottle
+a box
+a can
+on
+in
+a bed
+a TV
+go to school
+go home
+go to bed

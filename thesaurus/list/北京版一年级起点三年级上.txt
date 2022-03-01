@@ -1,0 +1,109 @@
+#Lesson 1
+boy
+girl
+Miss
+first
+September
+second
+third
+fourth
+#Lesson 2
+pupil
+hi
+name
+meet
+fifth
+sixth
+seventh
+#Lesson 3
+teacher
+card
+tenth
+eighth
+ninth
+#Lesson 5
+month
+October
+eleventh
+November
+right
+twelfth
+December
+#Lesson 6
+date
+today
+thirteenth
+football
+seventeenth
+eighteenth
+#Lesson 7
+nineteenth
+sport
+run
+race
+high
+jump
+#Lesson 9
+January
+March
+February
+every
+April
+August
+#Lesson 10
+born
+May
+June
+fifteenth
+fourteenth
+#Lesson 11
+How old ...?
+July
+#Lesson 15
+weather
+like
+sunny
+warm
+hot
+cool
+#Lesson 16
+rainy
+can
+windy
+cloudy
+#Lesson 17
+over
+snowy
+rain
+#Lesson 19
+borrow
+marker
+pencil
+#Lesson 20
+eraser
+sixty
+ruler
+forty
+#Lesson 21
+blackboard
+seventy
+eighty
+ninety
+hundred
+#Lesson 23
+holiday
+Christmas
+know
+Chinese
+#Lesson 24
+ball
+gold
+gift
+pink
+star
+bell
+#Lesson 25
+together
+bright
+house
+same

@@ -1,0 +1,1090 @@
+#第一章 Group 1 有关skill“技巧”的词汇
+apprentice
+aptitude
+craftsman
+dexterity
+adroit
+maladroit
+inept
+ambidextrous
+versatile
+#第一章 Group 2 有关poverty“贫穷”的词汇
+indigence
+economize
+impoverish
+destitute
+frugal
+#第一章 Group 3 有关wealth“财富”的词汇
+avarice
+dowry
+means
+opulence
+covet
+fleece
+hoard
+affluent
+financial
+lavish
+lucrative
+#第一章 Group 4 有关fear“恐惧”的词汇
+craven
+trepidation
+cower
+intimidate
+apprehensive
+dastardly
+timid
+#第一章 Group 5 有关courage“勇气”的词汇
+exploit
+fortitude
+audacious
+dauntless
+indomitable
+plucky
+rash
+#第一章 Group 6 有关concealment“隐藏”的词汇
+alias
+enigma
+lurk
+seclude
+clandestine
+latent
+stealthy
+#第一章 Group 7 有关disclosure“揭发”的词汇
+avowal
+apprise
+divulge
+elicit
+enlighten
+manifest
+overt
+#第一章 Group 8 有关agreement“一致”的词汇
+accord
+compact
+compromise
+accede
+conform
+correspond
+dovetail
+reconcile
+relent
+compatible
+consistent
+#第一章 Group 9 有关disagreement“不一致”的词汇
+altercation
+cleavage
+discord
+discrepancy
+friction
+litigation
+antagonize
+dissent
+embroil
+estrange
+wrangle
+irreconcilable
+at variance
+#第一章 Group 10 有关eating“吃”的词汇
+condiment
+glutton
+devour
+slake
+edible
+luscious
+palatable
+succulent
+voracious
+#第一章 Group 11 有关size,quantity“大小，数量”的词汇
+gamut
+iota
+magnitude
+pittance
+superabundance
+inflate
+colossal
+commodious
+infinite
+infinitesimal
+inordinate
+picayune
+puny
+#第一章 Group 12 有关weakness“衰弱”的词汇
+infirmity
+debilitate
+enervate
+incapacitate
+decadent
+decrepit
+dilapidated
+flimsy
+frail
+#第一章 Group 13 有关strength“强壮”的词汇
+bulwark
+citadel
+forte
+vigor
+invigorate
+cogent
+dynamic
+formidable
+impregnable
+robust
+tenacious
+vehement
+#第一章 Group 14 有关neglect“忽视”的词汇
+default
+ignore
+neglect
+heedless
+inadvertent
+remiss
+slovenly
+#第一章 Group 15 有关care“谨慎”的词汇
+solicitude
+vigilance
+heed
+scrutinize
+discreet
+meticulous
+scrupulous
+wary
+#第一章 Group 16 有关residence“居住”的词汇
+denizen
+domicile
+inmate
+native
+nomad
+sojourn
+commute
+migrate
+nomadic
+abroad
+#第一章 Group 17 有关disobedience“违抗”的词汇
+defiance
+infraction
+insurgent
+insurrection
+malcontent
+sedition
+transgress
+trespass
+insubordinate
+perverse
+#第一章 Group 18 有关obedience“顺从”的词汇
+allegiance
+acquiesce
+defer
+discipline
+submit
+docile
+meek
+pliable
+tractable
+#第一章 Group 19 有关time“时间”的词汇
+dawdle
+procrastinate
+protract
+chronic
+concurrent
+imminent
+incipient
+intermittent
+perennial
+sporadic
+#第一章 Group 20 有关necessity“必要”的词汇
+essence
+prerequisite
+entail
+necessitate
+oblige
+obviate
+compulsory
+gratuitous
+imperative
+incumbent
+indispensable
+pressing
+superfluous
+#第二章 Group 1 aut,auto—self“自己”
+autobiography
+autocrat
+autograph
+automation
+automaton
+autonomy
+autopsy
+authentic
+automatic
+autonomous
+#第二章 Group 2 cracy—government“政府；政体”
+aristocracy
+autocracy
+bureaucracy
+democracy
+plutocracy
+technocracy
+aristocrat
+Democrat
+#第二章 Group 3 dem,demo—people“人民”
+demagogue
+epidemic
+democratize
+democratic
+#第二章 Group 4 pan,panto—complete“全部”
+panacea
+pandemonium
+panoply
+panorama
+pantomime
+Pan-American
+#第二章 Group 5 chron,chrono—time“时间”
+anachronism
+chronicle
+chronology
+chronological
+synchronize
+#第二章 Group 6 mania—madness“疯狂”
+kleptomania
+mania
+maniac
+pyromania
+maniacal
+#第二章 Group 7 ped—child“小孩”
+encyclopedia
+orthopedic
+pedagogue
+pedagogy
+pediatrician
+pediatrics
+#第二章 Group 8 ortho—correct“正确的”
+orthodontist
+orthography
+orthopedist
+orthodox
+unorthodox
+#第二章 Group 9 gen,genea—race“种族”
+genealogy
+genesis
+homogenize
+heterogeneous
+homogeneous
+#第二章 Group 10 meter,metr—measure“度量”
+barometer
+chronometer
+diameter
+meter
+odometer
+photometer
+speedometer
+symmetry
+#第二章 Group 11 ant,anti—against“反抗”
+antagonist
+antibiotic
+antibody
+antidote
+antipathy
+antiseptic
+antitoxin
+antonym
+#第二章 Group 12 onym,onomato—word“词”
+acronym
+homonym
+onomatopoeia
+pseudonym
+synonym
+anonymous
+#第二章 Group 13 derm,dermato—skin“皮肤”
+dermatologist
+dermis
+epidermis
+taxidermist
+hypodermic
+#第二章 Group 14 nom,nem—management“管理”
+agronomy
+gastronome
+nemesis
+astronomical
+economic
+economical
+#第二章 Group 15 phan,phen—show“显示”
+cellophane
+fancy
+fantasy
+phantom
+phenomenon
+phenomenal
+fantastic
+#第二章 Group 16 therm,thermo—heat“热”
+diathermy
+thermometer
+thermostat
+thermal
+thermonuclear
+#第二章 Group 17 prot,proto—first“第一”
+protagonist
+protocol
+protoplasm
+prototype
+protozoan
+#第二章 Group 18 thesis,thet—set“放置”
+antithesis
+epithet
+hypothesis
+synthesis
+thesis
+synthetic
+#第二章 Group 19 aster,astr,astro—tttttttttttttttttttttttttttttttttttttttttttttttttttttt
+aster
+asterisk
+asteroid
+astrologer
+astronaut
+astronomer
+disaster
+#第二章 Group 20 gram,graph—letter,writing“字母；书写”
+anagram
+cartographer
+cryptogram
+electrocardiogram
+epigram
+graphite
+monogram
+monograph
+stenographer
+graphic
+typographical
+#第三章 Group 1 ab,a,abs—from,off“从；离开”
+abrasion
+avocation
+abdicate
+abduct
+abhor
+abscond
+absolve
+abstain
+avert
+abnormal
+abrupt
+absorbing
+averse
+#第三章 Group 2 ad—to“去”
+adherent
+advent
+adversary
+adapt
+adjoin
+adjourn
+addicted
+adequate
+adjacent
+adverse
+#第三章 Group 4 post—after“之后”
+antecedents
+anteroom
+postmortem
+postscript
+antedate
+postdate
+ante meridiem
+post meridiem
+postgraduate
+#第三章 Group 6 semi—half“一半”
+bicentennial
+semicircle
+bisect
+bicameral
+biennial
+bimonthly
+semiannual
+semimonthly
+bilateral
+bilingual
+bipartisan
+semiconscious
+semidetached
+semiskilled
+#第三章 Group 8 in,im—in,against“向内；对抗”
+insurgent
+erosion
+emigrate
+immigrate
+evoke
+invoke
+excise
+incise
+exhibit
+inhibit
+expel
+impel
+enervate
+implicate
+impugn
+incarcerate
+inscribe
+eminent
+imminent
+exclusive
+inclusive
+#第三章 Group 10 intra—within“在内”
+extracurricular
+extraneous
+extravagant
+intramural
+intraparty
+intrastate
+intravenous
+#第三章 Group 11 contra,contro,counter—against“对抗”
+con
+contraband
+controversy
+contravene
+countermand
+counter
+incontrovertible
+#第三章 Group 12 inter—between“在……之间”
+interlude
+intermediary
+intermission
+intercede
+intercept
+intersect
+intervene
+interlinear
+interurban
+#第三章 Group 13 in,il,im,ir—not,un“不；非”
+impunity
+ingratitude
+illegible
+illiterate
+illogical
+immaculate
+immature
+inaccessible
+incessant
+inflexible
+inhospitable
+insoluble
+irreconcilable
+irrelevant
+irrevocable
+#第三章 Group 15 mal—evil“恶”
+benediction
+malediction
+benefactor
+malefactor
+beneficiary
+malice
+malnutrition
+maltreat
+beneficial
+benevolent
+malevolent
+maladjusted
+#第三章 Group 16 de—down,opposite of“向下；相反”
+demolish
+demote
+depreciate
+despise
+deviate
+devour
+decadent
+deciduous
+demented
+dependent
+#第三章 Group 17 dis—opposite of“相反”
+discrepancy
+disrepair
+discredit
+disintegrate
+dissent
+distract
+discontent
+dispassionate
+dissident
+#第三章 Group 18 se—apart“分离”
+secession
+sedition
+secede
+seclude
+segregate
+secure
+#第三章 Group 19 circum—round“周围”
+circumference
+circumlocution
+circumnavigate
+circumscribe
+circumvent
+circumspect
+#第三章 Group 20 con,co,col,cor—together“一起”
+collusion
+concord
+coalesce
+collaborate
+convene
+correspond
+coherent
+congenital
+#第三章 Group 21 ob—against,over“对抗；超越”
+obstacle
+obliterate
+obsess
+obstruct
+obtrude
+obviate
+#第三章 Group 22 per—through,thoroughly“贯穿；彻底地”
+perforate
+permeate
+perplex
+persist
+perturb
+perennial
+pertinent
+#第三章 Group 23 pre—before“先前”
+preface
+preview
+precede
+preclude
+preconceive
+prefabricate
+premeditate
+presume
+precocious
+#第三章 Group 24 pro—forward“向前”
+proponent
+prospect
+procrastinate
+project
+propel
+protract
+protrude
+provoke
+proficient
+profuse
+prominent
+#第三章 Group 1 am,amor—love,liking“爱；喜欢”
+amateur
+amity
+amiable
+amicable
+amorous
+enamored
+#第三章 Group 2 anim—mind,will“精神；意志”
+animosity
+animus
+equanimity
+unanimity
+magnanimous
+unanimous
+#第三章 Group 3 fin—end,boundary“结束；界限”
+affinity
+finale
+finis
+confine
+definitive
+#第三章 Group 4 flu,fluc,flux—flow“流”
+fluid
+flux
+influx
+fluctuate
+fluent
+#第三章 Group 5 gen,gener,genit—birth,class“生；种类”
+genre
+progenitor
+degenerate
+engender
+regenerate
+#第三章 Group 6 greg—gather“聚集”
+aggregation
+congregation
+segregation
+aggregate
+gregarious
+#第三章 Group 7 here,hes—stick“附着”
+coherence
+cohesion
+adhere
+cohere
+inherent
+#第三章 Group 8 lateral—side“边”
+quadrilateral
+collateral
+equilateral
+lateral
+multilateral
+unilateral
+#第三章 Group 9 litera—letter“字面”
+alliteration
+literacy
+literal
+literary
+literate
+#第三章 Group 10 luc,lum—light“光”
+luminary
+elucidate
+lucid
+luminous
+translucent
+#第三章 Group 11 man,manu—hand“手”
+manacle
+mandate
+manual
+manuscript
+emancipate
+manipulate
+#第三章 Group 12 pend,pens—hang“悬挂”
+appendix
+pendant
+suspense
+append
+suspend
+impending
+pending
+#第三章 Group 13 pon,pos—put“放置”
+depose
+impose
+postpone
+superimpose
+transpose
+#第三章 Group 14 scrib,script—write“写”
+inscription
+scribe
+script
+subscriber
+conscript
+prescribe
+#第三章 Group 15 simil,simul—similar“相似”
+similarity
+simile
+assimilate
+simulate
+dissimilar
+simultaneous
+#第三章 Group 16 sol,soli—single“单一”
+soliloquy
+solitude
+solo
+desolate
+sole
+solitary
+#第三章 Group 17 solv,solu,solut—loosen“松开”
+dissolution
+dissolve
+resolution
+resolve
+absolute
+soluble
+solvent
+#第三章 Group 18 und,unda—wave,flow“波浪；流”
+abound
+inundate
+redound
+abundant
+redundant
+#第三章 Group 19 ver,vera,veri—true,truth“真的；真实”
+veracity
+verdict
+verity
+aver
+verify
+veritable
+#第三章 Group 20 vid,vis—see“看”
+visibility
+envision
+improvise
+revise
+invisible
+video
+visual
+#第四章 Group 1 fore—before“在……前”
+forearm
+forebear
+foreboding
+forecast
+forefront
+foresight
+foreword
+foreshadow
+foregoing
+foremost
+#第四章 Group 2 mis—bad(ly),wrong(ly)“坏的（地）；错的（地）”
+misbelief
+misdeed
+misgiving
+mishap
+misstep
+misfire
+mislay
+mislead
+#第四章 Group 3 out—beyond,more than“超过；比……更”
+outlook
+output
+outgrow
+outlast
+outrun
+outwit
+outlandish
+outspoken
+#第四章 Group 4 over—too,over“太；超过”
+overdose
+oversupply
+overburden
+overestimate
+overshadow
+overwhelm
+overbearing
+overconfident
+overgenerous
+#第四章 Group 5 un—not“非”
+unconcern
+undeceive
+unnerve
+unscramble
+unshackle
+unabridged
+unbiased
+unquenchable
+unwary
+#第四章 Group 6 under—beneath,insufficient(ly)“在……下；不足的（地）”
+underbrush
+undergraduate
+underpayment
+undersigned
+understatement
+understudy
+underscore
+undersell
+underdeveloped
+underprivileged
+#第四章 Group 7 up—up,upward“上；向上”
+upheaval
+upkeep
+upstart
+upturn
+update
+upgrade
+uproot
+upcoming
+upright
+#第四章 Group 8 with—back,away,against“向后；离开；对抗”
+withdraw
+withdrawal
+withdrawn
+withhold
+withholding
+withstand
+notwithstanding
+#第五章 出自希腊罗马神话的词汇
+Adonis
+aegis
+amazon
+ambrosial
+atlas
+auroral
+bacchanalian
+chimerical
+draconian
+Elysian
+hector
+herculean
+hermetic
+iridescent
+jovial
+labyrinthine
+laconic
+lethargic
+Lucullan
+martial
+mentor
+mercurial
+myrmidon
+nemesis
+odyssey
+paean
+palladium
+panic
+philippic
+plutocratic
+procrustean
+protean
+Pyrrhic
+saturnine
+siren
+solon
+stentorian
+Stygian
+tantalize
+terpsichorean
+thespian
+titanic
+#第六章 Group 1 描述人的词
+au courant
+blasé
+chic
+debonair
+maladroit
+naive
+nonchalant
+#第六章 Group 2 表示人的词
+attaché
+bourgeoisie
+chargé d'affaires
+connoisseur
+coterie
+debutante
+devotee
+elite
+émigré
+entrepreneur
+envoy
+fiancé
+gendarme
+ingenue
+maitre d'hôtel
+martinet
+nouveaux riches
+protégé
+raconteur
+#第六章 Group 3 与人的特性或情感有关的词
+éclat
+élan
+ennui
+esprit de corps
+finesse
+legerdemain
+malaise
+noblesse oblige
+rapport
+sangfroid
+savoir faire
+#第六章 Group 4 与说和写有关的词
+adieu
+au revoir
+billet-doux
+bon mot
+brochure
+canard
+cliché
+entre nous
+mot juste
+précis
+repartee
+résumé
+riposte
+tête-à-tête
+#第六章 Group 5 与情势有关的词
+bête noire
+carte blanche
+cause célèbre
+cul-de-sac
+debacle
+fait accompli
+faux pas
+impasse
+liaison
+mélange
+mirage
+#第六章 Group 6 与历史和政府有关的词
+coup d'état
+démarche
+détente
+entente
+laissez-faire
+lettre de cachet
+rapprochement
+régime
+#第六章 Group 7 与艺术有关的词
+avant-garde
+bas-relief
+baton
+chef d'oeuvre
+dénouement
+encore
+genre
+musicale
+palette
+repertoire
+vignette
+#第六章 Group 8 与食物有关的词
+a la carte
+aperitif
+bonbon
+cuisine
+demitasse
+entree
+filet
+hors d'oeuvres
+pièce de résistance
+table d'hôte
+#第六章 Group 9 与穿着有关的词
+bouffant
+chemise
+coiffure
+corsage
+cravat
+flamboyant
+toupee
+vogue
+#第六章 Group 10 各方面的词
+avoirdupois
+bagatelle
+coup de grâce
+facade
+fête
+foyer
+milieu
+parasol
+par excellence
+pince-nez
+raison d'être
+rendezvous
+silhouette
+sobriquet
+souvenir
+tour de force
+vis-à-vis
+#第七章 Group 1 有关歌声的词
+basso
+baritone
+tenor
+alto
+contralto
+mezzo-soprano
+soprano
+coloratura
+falsetto
+#第七章 Group 2 有关音乐作品速度节拍的词
+grave
+largo
+adagio
+lento
+andante
+moderato
+allegro
+vivace
+presto
+prestissimo
+#第七章 Group 3 有关强弱的词
+crescendo
+decrescendo
+dolce
+forte
+fortissimo
+pianissimo
+piano
+sforzando
+#第七章 Group 4 有关音乐效果的词
+a cappella
+arpeggio
+legato
+pizzicato
+staccato
+tremolo
+vibrato
+#第七章 Group 5 有关作曲的词
+aria
+bravura
+cantata
+concerto
+duet
+finale
+intermezzo
+libretto
+opera
+oratorio
+scherzo
+solo
+sonata
+trio
+#第七章 Group 6 与艺术有关的词
+cameo
+campanile
+canto
+chiaroscuro
+cupola
+fresco
+intaglio
+majolica
+mezzanine
+mezzotint
+patina
+portico
+rotunda
+stucco
+tempera
+terra cotta
+torso
+#第七章 Group 7 有关人的词
+cognoscente
+dilettante
+maestro
+virtuoso
+#第七章 Group 8 描述人处境的词
+dolce far niente
+fiasco
+imbroglio
+incognito
+vendetta
+#第七章 Group 9 有关食物的词
+antipasto
+Chianti
+gusto
+pizza
+#第七章 Group 10 一般的词
+gondola
+grotto
+piazza
+portfolio
+salvo
+sotto voce
+#第八章 Group 1 有关人的词
+aficionado
+caballero
+conquistador
+desperado
+duenna
+gaucho
+grandee
+hidalgo
+junta
+junto
+matador
+mestizo
+peon
+picador
+picaro
+renegade
+señor
+señora
+señorita
+toreador
+torero
+vaquero
+#第八章 Group 2 有关建筑、穿着等的词
+adobe
+bolero
+bonanza
+bravado
+cabana
+castanets
+fiesta
+flotilla
+hacienda
+incommunicado
+mantilla
+olio
+peccadillo
+poncho
+pueblo
+siesta
+tortilla
+#第八章 Group 3 有关地方、动物等的词
+arroyo
+bronco
+burro
+canyon
+indigo
+mañana
+mesa
+mustang
+pampas
+sierra
