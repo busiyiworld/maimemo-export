@@ -13,7 +13,7 @@ cd maimemo-export
 pnpm i
 ```
 #### Get Database
-1. 下载词典数据库，[点击下载](ecdict-ultimate-sqlite.zip)，解压得到 `ultimate.db`，放入 `database` 文件夹中。
+1. 下载词典数据库，[点击下载](ecdict-ultimate-sqlite.zip)，解压得到 `ultimate.db`，放入 `database` 文件夹中（没有就自己新建）。
 2. 获取手机上的数据库文件，连接好手机，打开 USB 调试，命令行输入
     ```shell
     pnpm adb
