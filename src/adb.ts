@@ -1,4 +1,4 @@
-import { $ } from "@cspotcode/zx"
+import { $ } from "zx"
 import path from "path"
 // windows 上有 bug
 $.quote = k => k
