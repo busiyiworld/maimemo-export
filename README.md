@@ -7,6 +7,7 @@
 > 必须使用 Android 手机，并且必须 Root，小白勿试。后面有导出好的，直接下载。没有想要的可以去知乎付费咨询。
 
 #### Install
+> 需要 node v14
 ```shell
 git clone https://github.com/ourongxing/maimemo-export.git
 cd maimemo-export
