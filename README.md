@@ -84,11 +84,3 @@ pnpm dev
 
 ## License
 MIT © ourongxing
-
-## Sponsors
-如果我所做的事对你有所帮助，欢迎给小猫买点吃的。也可以去 [这篇回答](https://www.zhihu.com/question/392654371/answer/1808941219) 下点点赞。
-
-<details><summary>点击显示二维码</summary>
-
-![donate](assets/donate.gif)
-</details>
