@@ -1,0 +1,1623 @@
+#前缀 ab(s)-: away
+absent
+#前缀 ad-: to,intensive
+advertise
+#前缀 con-(com-): together, with
+conference
+contain
+#前缀 con-(com-): intensive
+concise
+#前缀 de-: down
+despise
+#前缀 de-: away
+detract
+#前缀 de-: intensive
+declare
+#前缀 dis-: apart,away
+discard
+#前缀 dis-: not, opposite of
+disagree
+#前缀 en-(em-): to make
+enlarge
+#前缀 ex-: out
+expose
+#前缀 in-(im-): in, into, upon
+inject
+#前缀 in-(im-): not
+incorrect
+#前缀 inter-: between
+international
+#前缀 ob-: toward
+observe
+#前缀 ob-: against
+object
+#前缀 para-: beside
+paraphrase
+#前缀 per-: through
+perspective
+#前缀 per-: thoroughly
+perfect
+#前缀 pre-: before
+president
+#前缀 pro-: forth, forward
+prospective
+#前缀 re-: back
+reject
+#前缀 re-: again
+reuse
+#前缀 re-: against
+resist
+#前缀 se-: apart, away
+segregate
+#前缀 sub-: under
+subject
+#前缀 super-: over, above
+superman
+#前缀 trans-: across, through
+transport
+#前缀 un-: not, opposite of
+unknown
+#形容词后缀 -able/-ible
+changeable
+visible
+#形容词后缀 -ful
+careful
+#形容词后缀 -less
+careless
+#形容词后缀 -al
+national
+#形容词后缀 -ant/-ent
+important
+different
+#形容词后缀 -ar
+familiar
+#形容词后缀 -ary
+primary
+#形容词后缀 -ed
+gifted
+#形容词后缀 -ic
+basic
+#形容词后缀 -ish
+foolish
+#形容词后缀 -ive
+attractive
+#形容词后缀 -ory
+satisfactory
+#形容词后缀 -ous
+dangerous
+#形容词后缀 -y
+sleepy
+#动词后缀 -ate
+appreciate
+#动词后缀 -en
+strengthen
+#动词后缀 -(i)fy
+terrify
+#动词后缀 -ize/-ise
+apologize
+advertise
+#名词后缀 -er/-or
+farmer
+actor
+#名词后缀 -ery
+bakery
+#名词后缀 -ism
+communism
+tourism
+#名词后缀 -logy
+biology
+#名词后缀 -age
+shortage
+#名词后缀 -ance/-ence
+importance
+difference
+#名词后缀 -(s)ion/-(t)ion
+decision
+addition
+#名词后缀 -ity
+activity
+#名词后缀 -ment
+arrangement
+#名词后缀 -ness
+happiness
+#名词后缀 -ure
+failure
+#第一部分 词根记忆法 List 1 说(1) dic,dict
+abdicate
+addict
+indict
+interdict
+valediction
+vindicate
+contradict
+dictate
+#第一部分 词根记忆法 List 1 说(1) log
+eulogize
+monologue
+prologue
+grandiloquent
+loquacious
+obloquy
+soliloquy
+terminology
+circumlocution
+#第一部分 词根记忆法 List 1 说(1) rog
+abrogate
+arrogance
+interrogate
+prerogative
+surrogate
+#第一部分 词根记忆法 List 1 说(1) voc, vok
+advocate
+equivocate
+vociferous
+vocation
+convoke
+evoke
+invoke
+provoke
+revoke
+#第一部分 词根记忆法 List 1 说(1) n(o)unc
+denounce
+renounce
+enunciate
+#第一部分 词根记忆法 List 1 说(1) verb
+verbatim
+verbose
+reverberate
+#第一部分 词根记忆法 List 1 说(1) or
+adore
+inexorable
+oration
+peroration
+#第一部分 词根记忆法 List 1 说(1) fa
+fable
+fabulous
+affable
+ineffable
+infamous
+preface
+#第一部分 词根记忆法 List 2 说(2) son,ton,phon
+consonant
+dissonance
+resonant
+monotonous
+attune
+cacophony
+euphonious
+#第一部分 词根记忆法 List 2 说(2) vow,claim
+avowal
+disavow
+claim
+clamor
+acclaim
+proclaim
+disclaim
+declaim
+reclaim
+#第一部分 词根记忆法 List 2 说(2) mand,ord
+countermand
+mandatory
+demanding
+subordinate
+insubordinate
+primordial
+#第一部分 词根记忆法 List 2 说(2) cant
+incantation
+recant
+disenchant
+incentive
+#第一部分 词根记忆法 List 2 说(2) doc(t),dox
+doctrinaire
+indoctrinate
+heterodox
+orthodox
+paradox
+#第一部分 词根记忆法 List 2 说(2) 其他
+vindictive
+decry
+prophetic
+euphemism
+sound
+absurd
+atone
+#第一部分 词根记忆法 List 3 抓、拿 cap,capt,cept,cip,cup
+captious
+captivate
+inception
+exceptional
+unexceptionable
+perceptible
+perceptive
+susceptibility
+disciple
+emancipate
+incipient
+principal
+preoccupation
+recuperate
+#第一部分 词根记忆法 List 3 抓、拿 emp(t),sum(pt)
+exemplary
+exempt
+peremptory
+preempt
+presumptuous
+sumptuous
+#第一部分 词根记忆法 List 3 抓、拿 prehend,prehens
+comprehend
+apprehension
+misapprehension
+reprehend
+apprise
+comprise
+#第一部分 词根记忆法 List 3 抓、拿 rap(t),rave,rept
+rapt
+rapacious
+ravenous
+surreptitious
+#第一部分 词根记忆法 List 4 拉、伸、持 tract
+abstract
+contract
+detract
+distract
+distraught
+extract
+extraction
+protract
+retract
+tractable
+#第一部分 词根记忆法 List 4 拉、伸、持 tend,tens,tent
+tendentious
+contend
+contentious
+distend
+intensify
+pretense
+unpretentious
+ostensible
+ostentatious
+portentous
+tenuous
+attenuate
+extenuate
+#第一部分 词根记忆法 List 4 拉、伸、持 tain,tin,ten(t)
+abstain
+detain
+pertain
+retainer
+content
+malcontent
+countenance
+retentive
+tenable
+untenable
+tenacious
+pertinent
+impertinent
+pertinacious
+retinue
+#第一部分 词根记忆法 List 5 放 pos(t)
+apposite
+apropos
+compose
+depose
+deposit
+discompose
+imposing
+poseur
+posit
+superimpose
+supposition
+repose
+impostor
+postulate
+posture
+#第一部分 词根记忆法 List 5 放 pon
+exponent
+proponent
+compound
+#第一部分 词根记忆法 List 5 放 thes,thet
+parenthesis
+synthesis
+antithetical
+epithet
+hypothetical
+#第一部分 词根记忆法 List 5 放 post,po(u)n 的其他含义
+preposterous
+ponderable
+ponderous
+preponderant
+#第一部分 词根记忆法 List 6 走、跑、跳 ced,cess
+accede
+accessory
+accessible
+intercessor
+precedent
+predecessor
+recessive
+secede
+#第一部分 词根记忆法 List 6 走、跑、跳 gress
+aggressive
+digress
+regress
+transgress
+retrograde
+#第一部分 词根记忆法 List 6 走、跑、跳 amb,err
+amble
+ramble
+perambulate
+aberrant
+errant
+erratic
+erroneous
+#第一部分 词根记忆法 List 6 走、跑、跳 ven(t)
+contravene
+convene
+convenience
+adventitious
+convention
+circumvent
+inventory
+#第一部分 词根记忆法 List 6 走、跑、跳 cur(s)
+concur
+excursive
+incursion
+precursor
+cursory
+discursive
+#第一部分 词根记忆法 List 6 走、跑、跳 sul(t)
+desultory
+exult
+resilience
+salient
+#第一部分 词根记忆法 List 6 走、跑、跳 其他
+pervade
+evasive
+extravagant
+vague
+cessation
+incessant
+#第一部分 词根记忆法 List 7 坐、站、躺 sid,sed,sess
+assiduous
+residue
+subside
+subsidiary
+subsidy
+supersede
+sedate
+sedentary
+sedulous
+obsess
+#第一部分 词根记忆法 List 7 坐、站、躺 stit(ut)
+constitute
+institute
+substitute
+reconstitute
+restitution
+#第一部分 词根记忆法 List 7 坐、站、躺 stas,stat
+ecstasy
+stasis
+apostasy
+static
+stature
+instate
+understate
+#第一部分 词根记忆法 List 7 坐、站、躺 cu(m)b
+incubate
+incumbent
+recumbent
+succumb
+cumbersome
+encumber
+#第一部分 词根记忆法 List 8 倒、流 fus
+diffuse
+effusive
+infuse
+profuse
+suffuse
+#第一部分 词根记忆法 List 8 倒、流 flu
+affluent
+confluence
+effluvium
+fluctuate
+fluent
+influx
+superfluous
+mellifluous
+flush
+#第一部分 词根记忆法 List 9 切分、部分 cis,tom,sect
+concise
+incisive
+dichotomy
+epitomize
+dissect
+segment
+#第一部分 词根记忆法 List 9 切分、部分 fract
+fracture
+infraction
+fragile
+frail
+#第一部分 词根记忆法 List 9 切分、部分 part
+counterpart
+partial
+particularize
+partisan
+partition
+jeopardy
+#第一部分 词根记忆法 List 9 切分、部分 其他与“切”和“裂”有关的词根或单词
+scission
+rescind
+debris
+sunder
+asunder
+curtail
+retrench
+trenchant
+#第一部分 词根记忆法 List 10 感觉、感情 sens,sent
+commonsensical
+consensus
+dissension
+insensible
+insensitive
+sensation
+assent
+consent
+dissent
+insentient
+sentinel
+#第一部分 词根记忆法 List 10 感觉、感情 path,pass
+antipathy
+apathy
+dispassionate
+impassive
+compatible
+#第一部分 词根记忆法 List 10 感觉、感情 pass
+surpass
+trespass
+encompass
+#第一部分 词根记忆法 List 11 弯、折、扭 pli
+compliant
+compliment
+pliable
+pliant
+pleat
+comply
+supple
+#第一部分 词根记忆法 List 11 弯、折、扭 plic
+complicate
+duplicate
+duplicity
+explicate
+explicit
+replicate
+supplicate
+#第一部分 词根记忆法 List 11 弯、折、扭 tort
+contort
+distort
+extort
+retort
+tortuous
+#第一部分 词根记忆法 List 11 弯、折、扭 其他
+crook
+crouch
+crumple
+deflect
+reflect
+flexible
+sinuous
+sinew
+#第一部分 词根记忆法 List 12 转 vers
+adversary
+adversity
+aversion
+conversant
+diversity
+versatile
+verse
+traverse
+#第一部分 词根记忆法 List 12 转 vert
+advert
+convert
+divert
+inadvertent
+incontrovertible
+subvert
+vertigo
+#第一部分 词根记忆法 List 12 转 其他表示“转”的词根
+converge
+diverge
+convoluted
+voluble
+revolt
+shiftless
+shifty
+#第一部分 词根记忆法 List 13 看 spec(t),spic
+aspect
+auspicious
+conspicuous
+circumspect
+despicable
+despise
+prospect
+perspicacious
+perspicuous
+retrospective
+specious
+speculate
+spectator
+spectrum
+#第一部分 词根记忆法 List 13 看 vis,vid
+improvise
+provisional
+provisory
+revise
+visionary
+invidious
+provident
+providential
+wit
+unwitting
+#第一部分 词根记忆法 List 13 看 其他与“看”相关的单词
+insight
+surveillance
+panoramic
+scruple
+scrupulous
+scrutable
+scrutinize
+#第一部分 词根记忆法 List 14 （使）做、引导 ag=act
+agility
+agitate
+coagulate
+cogent
+demagogue
+pedagogue
+agog
+react
+reactionary
+#第一部分 词根记忆法 List 14 （使）做、引导 duc(t)
+conducive
+inducement
+irreducible
+seduce
+counterproductive
+ductile
+#第一部分 词根记忆法 List 14 （使）做、引导 fac(t),fect,feit
+facilitate
+faction
+affectation
+disaffected
+disinfect
+feckless
+counterfeit
+surfeit
+forfeit
+#第一部分 词根记忆法 List 14 （使）做、引导 fic
+beneficent
+deficiency
+efficacious
+gasification
+magnificent
+nullification
+officious
+proficient
+soporific
+specific
+#第一部分 词根记忆法 List 14 （使）做、引导 其他
+compelling
+repel
+repulse
+dissuade
+#第一部分 词根记忆法 List 15 发送、给予 mis(s),mit
+manumit
+submissive
+surmise
+commitment
+committed
+intermittent
+remiss
+unremitting
+compromise
+#第一部分 词根记忆法 List 15 发送、给予 don,dot
+donor
+condone
+anecdote
+#第一部分 词根记忆法 List 16 写 scrib
+circumscribe
+nondescript
+proscribe
+prescription
+scribble
+#第一部分 词根记忆法 List 16 写 sign
+consign
+designate
+resign
+signal
+#第一部分 词根记忆法 List 17 身体部位 cap,cip
+madcap
+precipitate
+precipitous
+precipice
+headlong
+levelheaded
+wrongheaded
+#第一部分 词根记忆法 List 17 身体部位 ped
+expedite
+impede
+pedestrian
+footloose
+#第一部分 词根记忆法 List 17 身体部位 man
+maneuver
+manipulate
+mannered
+manuscript
+outmaneuver
+backhanded
+ham-handed
+offhand
+#第一部分 词根记忆法 List 17 身体部位 cord
+accord
+chord
+concord
+discord
+cardinal
+hearten
+dishearten
+halfhearted
+heartrending
+stouthearted
+#第一部分 词根记忆法 List 17 身体部位 其他与身体部位有关的单词
+barefaced
+efface
+facetious
+facile
+superficial
+hearken
+supercilious
+#第一部分 词根记忆法 List 18 尖、刺、小 ac
+acerbic
+acme
+acrid
+acrimonious
+exacerbate
+acumen
+acute
+#第一部分 词根记忆法 List 18 尖、刺、小 min
+diminish
+eminent
+menace
+menial
+minatory
+mince
+minimize
+miniscule
+minute
+preeminent
+#第一部分 词根记忆法 List 18 尖、刺、小 pin,point,punct
+compunction
+pinnacle
+pinpoint
+pointer
+punctilious
+pungent
+#第一部分 词根记忆法 List 18 尖、刺、小 sti,sti(n)g
+distinctive
+extinguish
+instigate
+prestige
+stickler
+stiff
+stifle
+stigma
+stingy
+stipple
+stipulate
+stitch
+#第一部分 词根记忆法 List 18 尖、刺、小 其他与“尖、刺”有关的单词
+oxymoron
+paroxysm
+peck
+pique
+antagonize
+paragon
+#第一部分 词根记忆法 List 19 高低、轻重、长短 lev
+alleviate
+elevate
+leaven
+levity
+relevant
+aloft
+aloof
+lofty
+#第一部分 词根记忆法 List 19 高低、轻重、长短 grav
+aggravate
+aggrieve
+#第一部分 词根记忆法 List 19 高低、轻重、长短 短与长（brev VS long)
+brevity
+abbreviate
+abridge
+prolong
+linger
+#第一部分 词根记忆法 List 20 松开、拉紧 solv,solut
+absolute
+absolve
+dissolute
+dissolve
+resolute
+solvent
+#第一部分 词根记忆法 List 20 松开、拉紧 strain,string,strict
+constrain
+restrain
+constrict
+stricture
+stringent
+constringe
+hamstring
+#第一部分 词根记忆法 List 21 同、不同 equ
+egalitarian
+equable
+equilibrium
+equity
+iniquity
+#第一部分 词根记忆法 List 21 同、不同 par
+parity
+disparate
+#第一部分 词根记忆法 List 21 同、不同 sim
+simile
+simulate
+#第一部分 词根记忆法 List 21 同、不同 ali
+alienate
+inalienable
+alibi
+#第一部分 词根记忆法 List 21 同、不同 alter
+altruism
+adulterate
+#第一部分 词根记忆法 List 21 同、不同 neg
+abnegate
+negation
+negligent
+renege
+#第一部分 词根记忆法 List 22 触摸、边界 ta(n)g
+intangible
+tangent
+contagious
+integral
+contiguous
+#第一部分 词根记忆法 List 22 触摸、边界 fin
+affinity
+confine
+finale
+infinite
+#第一部分 词根记忆法 List 23 大自然 anim
+animate
+inanimate
+unanimous
+#第一部分 词根记忆法 List 23 大自然 umbr
+adumbrate
+umbrage
+shadow
+overshadow
+#第一部分 词根记忆法 List 23 大自然 und
+abundant
+redundant
+inundate
+#第一部分 词根记忆法 List 23 大自然 luc
+elucidate
+lucid
+pellucid
+translucent
+#第一部分 词根记忆法 List 23 大自然 lumin
+illuminate
+illuminati
+luminary
+luminous
+#第一部分 词根记忆法 List 23 大自然 lust(r)
+illustrious
+lackluster
+lustrous
+#第一部分 词根记忆法 List 23 大自然 anthrop
+misanthropic
+philanthropic
+#第一部分 词根记忆法 List 23 大自然 chrome
+chromatic
+monochromatic
+#第一部分 词根记忆法 List 23 大自然 chron
+anachronistic
+chronic
+synchronous
+#第一部分 词根记忆法 List 23 大自然 fulg
+effulgent
+refulgent
+#第一部分 词根记忆法 List 23 大自然 flam,flagr
+flamboyant
+conflagration
+#第一部分 词根记忆法 List 24 正能量 am
+amiable
+amicable
+amity
+enamored
+#第一部分 词根记忆法 List 24 正能量
+bravado
+bravura
+candor
+incandescent
+kindle
+#第一部分 词根记忆法 List 24 正能量 bon
+boon
+bonhomie
+#第一部分 词根记忆法 List 24 正能量 ferv
+effervesce
+fervent
+fervid
+fervor
+perfervid
+#第一部分 词根记忆法 List 24 正能量 lib(er)
+libertine
+liberal
+ad-lib
+#第一部分 词根记忆法 List 24 正能量 nov
+innovative
+novel
+novice
+renovate
+#第一部分 词根记忆法 List 24 正能量 pi
+expiate
+impious
+pious
+#第一部分 词根记忆法 List 24 正能量 rect
+rectitude
+resurrect
+incorrigible
+#第一部分 词根记忆法 List 24 正能量 cred
+credence
+credible
+credit
+credulous
+discredit
+#第一部分 词根记忆法 List 24 正能量 fid
+confident
+diffident
+fidelity
+perfidy
+#第一部分 词根记忆法 List 25 负能量 base
+abase
+debase
+self-abasement
+abysmal
+#第一部分 词根记忆法 List 25 负能量 culp
+culpable
+exculpate
+inculpate
+#第一部分 词根记忆法 List 25 负能量
+contumacious
+tumult
+annoy
+noisome
+extricate
+treacherous
+damn
+condemn
+indemnity
+#第一部分 词根记忆法 List 25 负能量 noc,nox
+innocuous
+noxious
+pernicious
+#第一部分 词根记忆法 List 25 负能量 turb
+perturb
+imperturbable
+turbid
+turbulent
+#第一部分 词根记忆法 List 25 负能量 tim
+timorous
+intimidate
+#第一部分 词根记忆法 List 26 以字母J开头 ject
+abject
+conjecture
+deject
+project
+subject
+jettison
+#第一部分 词根记忆法 List 26 以字母J开头 欢乐与喜悦
+jocular
+jocund
+jovial
+rejoice
+#第一部分 词根记忆法 List 26 以字母J开头 其他
+abjure
+conjure
+adjunct
+disjunctive
+disjointed
+judicious
+adjudicate
+#第一部分 词根记忆法 List 27 以字母V开头 vac,van
+evacuate
+vacuous
+evanescent
+#第一部分 词根记忆法 List 27 以字母V开头 val
+ambivalent
+convalesce
+equivalent
+prevail
+unavailing
+valiant
+valid
+#第一部分 词根记忆法 List 27 以字母V开头 ver(i)
+veracious
+verify
+verisimilar
+veritable
+#第一部分 词根记忆法 List 27 以字母V开头 vol
+volition
+malevolent
+#第一部分 词根记忆法 List 28 词根1（表示动作的词根） cid,cad,cas
+accidental
+recidivate
+cascade
+decadent
+#第一部分 词根记忆法 List 28 词根1（表示动作的词根）laps
+lapse
+collapse
+relapse
+#第一部分 词根记忆法 List 28 词根1（表示动作的词根）fall
+fallacious
+fallible
+felony
+#第一部分 词根记忆法 List 28 词根1（表示动作的词根）scend
+ascendant
+crescendo
+descend
+condescending
+transcend
+#第一部分 词根记忆法 List 28 词根1（表示动作的词根）surg,cit
+insurgent
+resurgence
+incite
+resuscitate
+solicitous
+#第一部分 词根记忆法 List 29 词根2（表示动作的词根） mot
+commotion
+demote
+motile
+motivate
+automatic
+#第一部分 词根记忆法 List 29 词根2（表示动作的词根）lud,lus
+allude
+collude
+elude
+ludicrous
+delusion
+illusory
+#第一部分 词根记忆法 List 29 词根2（表示动作的词根）fer
+defer
+indifferent
+proffer
+referee
+peripheral
+fertilize
+euphoria
+aphorism
+belligerent
+#第一部分 词根记忆法 List 29 词根2（表示动作的词根）port
+importune
+deportation
+opportune
+rapport
+#第一部分 词根记忆法 List 29 词根2（表示动作的词根）quir,quis
+acquire
+exquisite
+inquisitive
+perquisite
+requisite
+prerequisite
+#第一部分 词根记忆法 List 30 词根3（表示动作的词根） gen
+engender
+indigenous
+ingenious
+ingenuous
+homogenize
+regenerate
+genial
+genteel
+benign
+malign
+pregnant
+#第一部分 词根记忆法 List 30 词根3（表示动作的词根） pend,pens
+compendium
+dependable
+indispensable
+impending
+propensity
+suspend
+pensive
+#第一部分 词根记忆法 List 30 词根3（表示动作的词根） ple
+complementary
+deplete
+implement
+replenish
+replete
+plebeian
+plentitude
+#第一部分 词根记忆法 List 30 词根3（表示动作的词根） prob,prov
+approbation
+disprove
+probe
+probity
+reprobate
+reprove
+proofread
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根） secu,sequ
+consequence
+obsequious
+prosecution
+persecute
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根）serv
+conserve
+conservatory
+conservative
+observant
+preservative
+reserved
+servile
+subservient
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根） plac
+complacent
+implacable
+placate
+placid
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根） grat
+ingratiating
+gratify
+gratuitous
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根） lect
+eclectic
+predilection
+intelligible
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根） sci
+omniscient
+prescience
+conscientious
+#第一部分 词根记忆法 List 31 词根4（表示动作的词根） cond
+abscond
+ensconce
+recondite
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） qui(et)
+acquiesce
+quiescent
+tranquility
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） rest
+restless
+arrest
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） beat
+abate
+browbeat
+offbeat
+upbeat
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） press
+compress
+depressed
+repress
+suppress
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） use
+abuse
+disabuse
+peruse
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） labor
+belabor
+collaborate
+elaborate
+laborious
+#第一部分 词根记忆法 List 32 词根5（表示动作的词根） test
+attest
+testimony
+testy
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） rod,mord
+erode
+corrosive
+mordant
+remorse
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） her,hes
+adhere
+inherent
+cohesive
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） lig
+obligatory
+obliging
+religion
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） imper
+imperative
+imperious
+imperial
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） dom,domin
+domicile
+dominant
+domineer
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） termin
+terminus
+interminable
+exterminate
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） clus
+preclude
+recluse
+seclude
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） struct
+construct
+obstruct
+misconstrue
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） dol
+dolorous
+condole
+indolent
+#第一部分 词根记忆法 List 33 词根6（表示动作的词根） sol
+solace
+console
+#第一部分 词根记忆法 List 34 词根7（其他） pall
+appall
+pall
+palliate
+pallid
+#第一部分 词根记忆法 List 34 词根7（其他） pot
+impotent
+potentate
+potentiate
+#第一部分 词根记忆法 List 34 词根7（其他） sacr,sanct
+sacrosanct
+desecrate
+execrate
+sanction
+sanctify
+sanctimonious
+sanctuary
+#第一部分 词根记忆法 List 34 词根7（其他） patr
+patrician
+patronize
+patriot
+repatriate
+#第一部分 词根记忆法 List 34 词根7（其他） dem
+demotic
+endemic
+pandemic
+#第一部分 词根记忆法 List 34 词根7（其他） grand
+aggrandize
+grandeur
+grandiose
+#第一部分 词根记忆法 List 34 词根7（其他） spir
+aspirant
+conspire
+expire
+respire
+#第二部分 其他记忆法 List 35 一词多义
+balloon
+husband
+meet
+patent
+plastic
+rider
+want
+#第二部分 其他记忆法 List 35 “经典”后缀
+noisome
+winsome
+wholesome
+fulsome
+willful
+playful
+exacting
+offish
+worldly
+needy
+windy
+#第二部分 其他记忆法 List 35 名词+名词
+windbag
+stonewall
+faultfinder
+shipshape
+#第二部分 其他记忆法 List 35 形容词+名词，名词+形容词
+deadlock
+deadpan
+daredevil
+blueprint
+blackmail
+airtight
+carefree
+foolproof
+threadbare
+#第二部分 其他记忆法 List 35 …+分词
+outmoded
+shopworn
+timeworn
+careworn
+ill-bred
+ironclad
+ironfisted
+tightfisted
+thick-skinned
+half-baked
+hard-bitten
+painstaking
+everlasting
+#第二部分 其他记忆法 List 35 介词/副词+…
+downplay
+downpour
+interlock
+forthright
+onset
+off-key
+outgrowth
+outlandish
+overlap
+override
+upbraid
+undermine
+underscore
+understate
+understudy
+#第二部分 其他记忆法 List 35 名词/形容词+动词
+safeguard
+watershed
+cloudburst
+pitfall
+waylay
+windfall
+wiretap
+#第二部分 其他记忆法 List 35 其他
+eavesdrop
+turncoat
+steadfast
+diehard
+hidebound
+dated
+antedate
+forebode
+foreground
+fail-safe
+#第二部分 其他记忆法 List 36 与动物有关的单词 上半部分
+elephantine
+lionize
+bully
+ebullient
+cower
+impecunious
+bellwether
+buck
+jaded
+coltish
+restive
+spur
+cynic
+dogged
+hangdog
+underdog
+abet
+bait
+#第二部分 其他记忆法 List 36 与动物有关的单词 下半部分
+serpentine
+chameleon
+gossamer
+gull
+parrot
+coquette
+coop
+crestfallen
+callow
+fledgling
+preen
+molt
+badger
+toady
+sloth
+sluggard
+moth-eaten
+gadfly
+goad
+nitpick
+#第二部分 其他记忆法 List 37 联想助记法 Unit 1
+abstemious
+boisterous
+conundrum
+eleemosynary
+enfranchise
+meretricious
+parsimonious
+procrastinate
+proselytize
+pulchritude
+#第二部分 其他记忆法 List 37 联想助记法 Unit 2
+hallucination
+humdrum
+hubris
+hurricane
+idiosyncrasy
+maelstrom
+prairie
+purloin
+#第二部分 其他记忆法 List 37 联想助记法 Unit 3
+connoisseur
+decrepit
+eternal
+indigent
+ostracize
+reticent
+syllabus
+precarious
+#第二部分 其他记忆法 List 37 联想助记法 Unit 4
+blast
+bluster
+brittle
+drivel
+fluky
+random
+sermon
+strident
+topsy-turvy
+willy-nilly
+#第二部分 其他记忆法 List 37 联想助记法 Unit 5
+abash
+abstruse
+assert
+congeal
+excrete
+forsake
+inane
+secrete
+perilous
+perish
+opaque
+#第二部分 其他记忆法 List 37 联想助记法 Unit 6
+arduous
+amalgamate
+barren
+laudatory
+largesse
+machination
+maculate
+meager
+puerile
+#第二部分 其他记忆法 List 37 联想助记法 Unit 7
+puissance
+revelry
+stoic
+snobbish
+striate
+serried
+trifle
+zenith
+#第二部分 其他记忆法 List 37 联想助记法 Unit 8
+chaos
+dart
+filibuster
+languid
+morbid
+obtuse
+quaff
+shun
+soothe
+#第二部分 其他记忆法 List 37 联想助记法 Unit 9
+lacerate
+morose
+tentative
+mosaic
+respite
+solemnity
+insolent
+taciturn
+#第二部分 其他记忆法 List 37 联想助记法 Unit 10
+cavil
+debonair
+flit
+fleet
+hoodwink
+nuance
+pilfer
+turgid
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 1
+disregard
+disinterested
+immaterial
+immature
+immemorial
+anesthetic
+malicious
+misbehaving
+misfortune
+mishap
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 2
+decode
+discharge
+surcharge
+affirm
+infirm
+reassure
+infuriate
+affix
+bifurcate
+delineate
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 3
+abandon
+assuage
+abrade
+amorphous
+metamorphose
+beholden
+exorbitant
+requite
+rehabilitate
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 4
+rudimentary
+erudite
+unlettered
+illiteracy
+obliterate
+decorum
+insouciant
+solid
+consolidate
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 5
+enervate
+emigrate
+escalate
+estrange
+eccentric
+concentrate
+effrontery
+confront
+exalt
+extol
+expurgate
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 6
+embolden
+enact
+ennoble
+entrap
+entreat
+adamant
+awash
+align
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 7
+debark
+denigrate
+denude
+dehydrate
+deprecate
+depreciate
+appreciable
+deracinate
+irradicable
+detour
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 8
+annotate
+notoriety
+canny
+uncanny
+indelible
+deleterious
+retouch
+refreshing
+conform
+correlate
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 9
+abhor
+belie
+hypocritical
+ingest
+untoward
+overbearing
+forbearance
+remonstrance
+#第二部分 其他记忆法 List 38 以熟词记生词（1） Unit 10
+pitiless
+monopolize
+nonentity
+full-bodied
+dramatic
+melodramatic
+lopsided
+sidestep
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 1
+natty
+clarion
+clarity
+snare
+opine
+flag
+flaccid
+mentor
+mirage
+bliss
+distal
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 2
+authority
+bombast
+entrance
+fortify
+favorable
+favoritism
+periodical
+remnant
+stratagem
+worship
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 3
+concerted
+disconcert
+estimable
+torrential
+camaraderie
+ratiocination
+masquerade
+matriculate
+malleable
+resourceful
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 4
+knit
+knotty
+idolatrize
+fanatic
+fanciful
+inimical
+copious
+cornucopia
+dearth
+rarefy
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 5
+complaisance
+obeisance
+obedient
+glacial
+meteoric
+glutinous
+provincial
+chorale
+mastery
+reckless
+derivative
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 6
+articulate
+ceremonious
+certitude
+considerable
+cosmopolitan
+fabricate
+fetter
+polarize
+politic
+proprietary
+rampant
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 7
+antiquated
+dormant
+neutralize
+pacify
+pigment
+pragmatic
+practitioner
+rupture
+terror
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 8
+aver
+awe
+bash
+bore
+carp
+coy
+crux
+dent
+don
+doff
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 9
+etch
+fast
+glib
+lax
+nil
+annul
+pan
+peer
+pen
+#第二部分 其他记忆法 List 39 以熟词记生词（2） Unit 10
+rash
+raze
+sate
+sip
+wane
+wax
+wry
+zeal

@@ -1,0 +1,1714 @@
+#二级词汇表 A
+a
+#A
+a
+#二级词汇表 A
+an
+#A
+an
+#二级词汇表 A
+about
+#A
+about
+#二级词汇表 A
+afraid
+#A
+after
+#二级词汇表 A
+after
+#A
+afternoon
+#二级词汇表 A
+afternoon
+#A
+again
+#二级词汇表 A
+again
+#A
+age
+#二级词汇表 A
+all
+#A
+ago
+#二级词汇表 A
+also
+#A
+air
+#二级词汇表 A
+always
+#A
+all
+#二级词汇表 A
+and
+#A
+also
+#二级词汇表 A
+angry
+#A
+always
+#二级词汇表 A
+animal
+#A
+and
+#二级词汇表 A
+answer
+#A
+angry
+#二级词汇表 A
+any
+#A
+animal
+#二级词汇表 A
+apple
+#A
+answer
+#二级词汇表 A
+arm
+#A
+any
+#二级词汇表 A
+art
+#A
+apple
+#二级词汇表 A
+ask
+#A
+arm
+#二级词汇表 A
+at
+#A
+art
+#二级词汇表 A
+aunt
+#A
+ask
+#二级词汇表 A
+autumn
+#A
+astronaut
+at
+aunt
+autumn
+#二级词汇表 B
+baby
+#B
+baby
+#二级词汇表 B
+back
+#B
+back
+#二级词汇表 B
+bad
+#B
+bad
+#二级词汇表 B
+bag
+#B
+bag
+#二级词汇表 B
+ball
+#B
+ball
+#二级词汇表 B
+banana
+#B
+banana
+#二级词汇表 B
+basketball
+#B
+basketball
+#二级词汇表 B
+be
+#B
+be
+#二级词汇表 B
+am
+#B
+am
+#二级词汇表 B
+is
+#B
+is
+#二级词汇表 B
+are
+#B
+are
+#二级词汇表 B
+bear
+#B
+beach
+#二级词汇表 B
+beautiful
+#B
+bear
+#二级词汇表 B
+bed
+#B
+beautiful
+#二级词汇表 B
+before
+#B
+because
+#二级词汇表 B
+begin
+#B
+bed
+#二级词汇表 B
+behind
+#B
+bee
+#二级词汇表 B
+beside
+#B
+before
+#二级词汇表 B
+between
+#B
+begin
+#二级词汇表 B
+big
+#B
+behind
+#二级词汇表 B
+bike
+#B
+beside
+#二级词汇表 B
+bicycle
+#B
+best
+#二级词汇表 B
+bird
+#B
+between
+#二级词汇表 B
+birthday
+#B
+big
+#二级词汇表 B
+black
+#B
+bike
+#二级词汇表 B
+blackboard
+#B
+bicycle
+#二级词汇表 B
+blue
+#B
+bird
+#二级词汇表 B
+boat
+#B
+birthday
+#二级词汇表 B
+body
+#B
+black
+#二级词汇表 B
+book
+#B
+blackboard
+#二级词汇表 B
+box
+#B
+blue
+#二级词汇表 B
+boy
+#B
+boat
+#二级词汇表 B
+bread
+#B
+body
+#二级词汇表 B
+breakfast
+#B
+book
+#二级词汇表 B
+bring
+#B
+box
+#二级词汇表 B
+brother
+#B
+boy
+#二级词汇表 B
+brown
+#B
+bread
+#二级词汇表 B
+bus
+#B
+breakfast
+#二级词汇表 B
+busy
+#B
+bring
+#二级词汇表 B
+but
+#B
+brother
+#二级词汇表 B
+buy
+#B
+brown
+#二级词汇表 B
+by
+#B
+bus
+busy
+but
+buy
+by
+#二级词汇表 C
+cake
+#C
+cake
+#二级词汇表 C
+call
+#C
+call
+#二级词汇表 C
+can
+#C
+can
+#二级词汇表 C
+candy
+#C
+candle
+#二级词汇表 C
+cap
+#C
+candy
+#二级词汇表 C
+car
+#C
+cap
+#二级词汇表 C
+card
+#C
+car
+#二级词汇表 C
+cat
+#C
+card
+#二级词汇表 C
+chair
+#C
+careful
+#二级词汇表 C
+chicken
+#C
+cat
+#二级词汇表 C
+child
+#C
+catch
+#二级词汇表 C
+children
+#C
+chair
+#二级词汇表 C
+China
+#C
+chicken
+#二级词汇表 C
+Chinese
+#C
+child
+#二级词汇表 C
+cinema
+#C
+children
+#二级词汇表 C
+city
+#C
+China
+#二级词汇表 C
+class
+#C
+Chinese
+#二级词汇表 C
+clean
+#C
+chore
+#二级词汇表 C
+clever
+#C
+cinema
+#二级词汇表 C
+clock
+#C
+city
+#二级词汇表 C
+close
+#C
+class
+#二级词汇表 C
+clothes
+#C
+classroom
+#二级词汇表 C
+cloudy
+#C
+clean
+#二级词汇表 C
+coat
+#C
+clever
+#二级词汇表 C
+cold
+#C
+clock
+#二级词汇表 C
+colour
+#C
+close
+#二级词汇表 C
+color
+#C
+clothes
+#二级词汇表 C
+come
+#C
+cloudy
+#二级词汇表 C
+computer
+#C
+coat
+#二级词汇表 C
+cook
+#C
+cold
+#二级词汇表 C
+cool
+#C
+colour
+#二级词汇表 C
+cousin
+#C
+color
+#二级词汇表 C
+cow
+#C
+come
+#二级词汇表 C
+crayon
+#C
+computer
+#二级词汇表 C
+cry
+#C
+cook
+cool
+cousin
+cow
+cry
+cup
+cut
+cute
+#二级词汇表 D
+dad
+#D
+dance
+#二级词汇表 D
+dance
+#D
+day
+#二级词汇表 D
+day
+#D
+dear
+#二级词汇表 D
+dear
+#D
+desk
+#二级词汇表 D
+desk
+#D
+difficult
+#二级词汇表 D
+difficult
+#D
+dinner
+#二级词汇表 D
+dinner
+#D
+dirty
+#二级词汇表 D
+dirty
+#D
+do
+#二级词汇表 D
+do
+#D
+doctor
+#二级词汇表 D
+doctor
+#D
+dog
+#二级词汇表 D
+dog
+#D
+doll
+#二级词汇表 D
+door
+#D
+door
+#二级词汇表 D
+down
+#D
+down
+#二级词汇表 D
+draw
+#D
+draw
+#二级词汇表 D
+dress
+#D
+dress
+#二级词汇表 D
+drink
+#D
+drink
+#二级词汇表 D
+driver
+#D
+driver
+#二级词汇表 D
+duck
+#D
+duck
+#二级词汇表 E
+ear
+#E
+ear
+#二级词汇表 E
+early
+#E
+early
+#二级词汇表 E
+easy
+#E
+earth
+#二级词汇表 E
+eat
+#E
+easy
+#二级词汇表 E
+egg
+#E
+eat
+#二级词汇表 E
+elephant
+#E
+egg
+#二级词汇表 E
+email
+#E
+elephant
+#二级词汇表 E
+English
+#E
+email
+#二级词汇表 E
+evening
+#E
+English
+#二级词汇表 E
+every
+#E
+evening
+#二级词汇表 E
+exercise
+#E
+every
+#二级词汇表 E
+eye
+#E
+excited
+exercise
+eye
+#二级词汇表 F
+face
+#F
+face
+#二级词汇表 F
+family
+#F
+family
+#二级词汇表 F
+fan
+#F
+famous
+#二级词汇表 F
+far
+#F
+fan
+#二级词汇表 F
+farm
+#F
+far
+#二级词汇表 F
+farmer
+#F
+farm
+#二级词汇表 F
+fast
+#F
+farmer
+#二级词汇表 F
+father
+#F
+fast
+#二级词汇表 F
+favourite
+#F
+father
+#二级词汇表 F
+favorite
+#F
+dad
+#二级词汇表 F
+feel
+#F
+favourite
+#二级词汇表 F
+film
+#F
+favorite
+#二级词汇表 F
+find
+#F
+feel
+#二级词汇表 F
+fine
+#F
+film
+#二级词汇表 F
+fish
+#F
+find
+#二级词汇表 F
+floor
+#F
+fine
+#二级词汇表 F
+flower
+#F
+fire
+#二级词汇表 F
+fly
+#F
+fish
+#二级词汇表 F
+food
+#F
+floor
+#二级词汇表 F
+foot
+#F
+flower
+#二级词汇表 F
+feet
+#F
+fly
+#二级词汇表 F
+football
+#F
+food
+#二级词汇表 F
+for
+#F
+foot
+#二级词汇表 F
+friend
+#F
+feet
+#二级词汇表 F
+from
+#F
+football
+#二级词汇表 F
+fruit
+#F
+for
+free
+friend
+from
+front
+fruit
+#二级词汇表 G
+game
+#G
+game
+#二级词汇表 G
+get
+#G
+garden
+#二级词汇表 G
+girl
+#G
+get
+#二级词汇表 G
+give
+#G
+gift
+#二级词汇表 G
+go
+#G
+girl
+#二级词汇表 G
+good
+#G
+give
+#二级词汇表 G
+goodbye
+#G
+glass
+#二级词汇表 G
+bye
+#G
+go
+#二级词汇表 G
+grandfather
+#G
+good
+#二级词汇表 G
+grandpa
+#G
+goodbye
+#二级词汇表 G
+grandmother
+#G
+bye
+#二级词汇表 G
+grandma
+#G
+grandfather
+#二级词汇表 G
+grass
+#G
+grandpa
+#二级词汇表 G
+great
+#G
+grandmother
+#二级词汇表 G
+green
+#G
+grandma
+grape
+grass
+great
+green
+#二级词汇表 H
+hair
+#H
+hair
+#二级词汇表 H
+half
+#H
+half
+#二级词汇表 H
+hand
+#H
+hand
+#二级词汇表 H
+happy
+#H
+happy
+#二级词汇表 H
+have
+#H
+hard
+#二级词汇表 H
+has
+#H
+have
+#二级词汇表 H
+he
+#H
+has
+#二级词汇表 H
+head
+#H
+he
+#二级词汇表 H
+healthy
+#H
+head
+#二级词汇表 H
+hear
+#H
+healthy
+#二级词汇表 H
+heavy
+#H
+hear
+#二级词汇表 H
+hello
+#H
+heavy
+#二级词汇表 H
+help
+#H
+hello
+#二级词汇表 H
+her
+#H
+help
+#二级词汇表 H
+here
+#H
+helpful
+#二级词汇表 H
+hi
+#H
+her
+#二级词汇表 H
+high
+#H
+here
+#二级词汇表 H
+him
+#H
+hi
+#二级词汇表 H
+his
+#H
+hill
+#二级词汇表 H
+holiday
+#H
+him
+#二级词汇表 H
+home
+#H
+his
+#二级词汇表 H
+horse
+#H
+holiday
+#二级词汇表 H
+hospital
+#H
+home
+#二级词汇表 H
+hot
+#H
+hometown
+#二级词汇表 H
+hour
+#H
+horse
+#二级词汇表 H
+house
+#H
+hospital
+#二级词汇表 H
+how
+#H
+hot
+#二级词汇表 H
+hungry
+#H
+hour
+house
+how
+hungry
+hurry
+hurt
+#二级词汇表 I
+I
+#I
+I
+#二级词汇表 I
+ice cream
+#I
+ice
+#二级词汇表 I
+idea
+#I
+ice cream
+#二级词汇表 I
+ill
+#I
+idea
+#二级词汇表 I
+in
+#I
+ill
+#二级词汇表 I
+interesting
+#I
+in
+#二级词汇表 I
+it
+#I
+interesting
+#二级词汇表 I
+its
+#I
+Internet
+it
+its
+#二级词汇表 J
+juice
+#J
+job
+#二级词汇表 J
+jump
+#J
+juice
+jump
+#二级词汇表 K
+kid
+#K
+keep
+#二级词汇表 K
+kind
+#K
+kid
+#二级词汇表 K
+kitchen
+#K
+kind
+#二级词汇表 K
+kite
+#K
+kitchen
+#二级词汇表 K
+know
+#K
+kite
+know
+#二级词汇表 L
+lake
+#L
+lake
+#二级词汇表 L
+late
+#L
+last
+#二级词汇表 L
+left
+#L
+late
+#二级词汇表 L
+leg
+#L
+learn
+#二级词汇表 L
+lesson
+#L
+left
+#二级词汇表 L
+let
+#L
+leg
+#二级词汇表 L
+library
+#L
+lesson
+#二级词汇表 L
+light
+#L
+let
+#二级词汇表 L
+like
+#L
+letter
+#二级词汇表 L
+listen
+#L
+library
+#二级词汇表 L
+little
+#L
+light
+#二级词汇表 L
+live
+#L
+like
+#二级词汇表 L
+long
+#L
+lion
+#二级词汇表 L
+look
+#L
+listen
+#二级词汇表 L
+love
+#L
+little
+#二级词汇表 L
+lunch
+#L
+live
+long
+look
+lot
+love
+lovely
+lunch
+#二级词汇表 M
+make
+#M
+make
+#二级词汇表 M
+man
+#M
+man
+#二级词汇表 M
+men
+#M
+men
+#二级词汇表 M
+many
+#M
+many
+#二级词汇表 M
+map
+#M
+map
+#二级词汇表 M
+maths
+#M
+maths
+#二级词汇表 M
+math
+#M
+mathematics
+#二级词汇表 M
+me
+#M
+math
+#二级词汇表 M
+meet
+#M
+may
+#二级词汇表 M
+milk
+#M
+me
+#二级词汇表 M
+minute
+#M
+meat
+#二级词汇表 M
+Miss
+#M
+meet
+#二级词汇表 M
+monkey
+#M
+middle
+#二级词汇表 M
+month
+#M
+milk
+#二级词汇表 M
+moon
+#M
+minute
+#二级词汇表 M
+morning
+#M
+Miss
+#二级词汇表 M
+mother
+#M
+money
+#二级词汇表 M
+mouth
+#M
+monkey
+#二级词汇表 M
+Mr
+#M
+month
+#二级词汇表 M
+Mrs
+#M
+moon
+#二级词汇表 M
+Ms
+#M
+morning
+#二级词汇表 M
+much
+#M
+mother
+#二级词汇表 M
+mum
+#M
+mum
+#二级词汇表 M
+mom
+#M
+mom
+#二级词汇表 M
+music
+#M
+mouse
+#二级词汇表 M
+my
+#M
+mice
+mouth
+move
+Mr
+Mr.
+Mrs
+Mrs.
+Ms
+Ms.
+much
+music
+must
+my
+#二级词汇表 N
+name
+#N
+name
+#二级词汇表 N
+near
+#N
+near
+#二级词汇表 N
+new
+#N
+never
+#二级词汇表 N
+next
+#N
+new
+#二级词汇表 N
+nice
+#N
+next
+#二级词汇表 N
+night
+#N
+nice
+#二级词汇表 N
+no
+#N
+night
+#二级词汇表 N
+noodle
+#N
+no
+#二级词汇表 N
+nose
+#N
+noodle
+#二级词汇表 N
+not
+#N
+nose
+#二级词汇表 N
+now
+#N
+not
+#二级词汇表 N
+nurse
+#N
+now
+nurse
+#二级词汇表 O
+of
+#O
+o'clock
+#二级词汇表 O
+often
+#O
+of
+#二级词汇表 O
+old
+#O
+off
+#二级词汇表 O
+on
+#O
+often
+#二级词汇表 O
+open
+#O
+OK
+#二级词汇表 O
+or
+#O
+old
+#二级词汇表 O
+orange
+#O
+on
+#二级词汇表 O
+our
+#O
+open
+or
+orange
+our
+out
+over
+#二级词汇表 P
+panda
+#P
+pair
+#二级词汇表 P
+parent
+#P
+panda
+#二级词汇表 P
+park
+#P
+paper
+#二级词汇表 P
+party
+#P
+parent
+#二级词汇表 P
+PE
+#P
+park
+#二级词汇表 P
+physical education
+#P
+party
+#二级词汇表 P
+pen
+#P
+PE
+#二级词汇表 P
+pencil
+#P
+physical education
+#二级词汇表 P
+people
+#P
+pen
+#二级词汇表 P
+photo
+#P
+pencil
+#二级词汇表 P
+picture
+#P
+people
+#二级词汇表 P
+pig
+#P
+pet
+#二级词汇表 P
+place
+#P
+phone
+#二级词汇表 P
+plane
+#P
+photo
+#二级词汇表 P
+plant
+#P
+photograph
+#二级词汇表 P
+play
+#P
+piano
+#二级词汇表 P
+playground
+#P
+picture
+#二级词汇表 P
+please
+#P
+pig
+#二级词汇表 P
+police
+#P
+ping-pong
+#二级词汇表 P
+potato
+#P
+pink
+#二级词汇表 P
+pupil
+#P
+place
+#二级词汇表 P
+put
+#P
+plane
+plant
+play
+playground
+please
+police
+potato
+put
+#二级词汇表 R
+rain
+#Q
+question
+#二级词汇表 R
+read
+#Q
+quiet
+#二级词汇表 R
+red
+rice
+right
+river
+room
+ruler
+run
+#二级词汇表 S
+sad
+#R
+rabbit
+#二级词汇表 S
+say
+#R
+rain
+#二级词汇表 S
+school
+#R
+read
+#二级词汇表 S
+schoolbag
+#R
+red
+#二级词汇表 S
+science
+#R
+rice
+#二级词汇表 S
+season
+#R
+right
+#二级词汇表 S
+see
+#R
+river
+#二级词汇表 S
+she
+#R
+robot
+#二级词汇表 S
+sheep
+#R
+room
+#二级词汇表 S
+ship
+#R
+ruler
+#二级词汇表 S
+shirt
+#R
+run
+#二级词汇表 S
+shoe
+shop
+short
+shorts
+sing
+sister
+sit
+skirt
+sleep
+slow
+small
+snow
+sock
+some
+sometimes
+song
+sorry
+soup
+speak
+sport
+spring
+stand
+star
+stop
+story
+street
+strong
+study
+subject
+summer
+sun
+sunny
+supermarket
+sweater
+swim
+#二级词汇表 T
+table
+#S
+sad
+#二级词汇表 T
+take
+#S
+safe
+#二级词汇表 T
+talk
+#S
+say
+#二级词汇表 T
+tall
+#S
+school
+#二级词汇表 T
+taxi
+#S
+schoolbag
+#二级词汇表 T
+tea
+#S
+science
+#二级词汇表 T
+teacher
+#S
+sea
+#二级词汇表 T
+tell
+#S
+season
+#二级词汇表 T
+thank
+#S
+see
+#二级词汇表 T
+that
+#S
+sell
+#二级词汇表 T
+the
+#S
+share
+#二级词汇表 T
+their
+#S
+she
+#二级词汇表 T
+them
+#S
+sheep
+#二级词汇表 T
+then
+#S
+sheep
+#二级词汇表 T
+there
+#S
+ship
+#二级词汇表 T
+these
+#S
+shirt
+#二级词汇表 T
+they
+#S
+shoe
+#二级词汇表 T
+thin
+#S
+shop
+#二级词汇表 T
+think
+#S
+short
+#二级词汇表 T
+this
+#S
+shorts
+#二级词汇表 T
+those
+#S
+should
+#二级词汇表 T
+tiger
+#S
+show
+#二级词汇表 T
+time
+#S
+sing
+#二级词汇表 T
+tired
+#S
+sister
+#二级词汇表 T
+to
+#S
+sit
+#二级词汇表 T
+today
+#S
+skirt
+#二级词汇表 T
+toilet
+#S
+sleep
+#二级词汇表 T
+tomato
+#S
+slow
+#二级词汇表 T
+tomorrow
+#S
+small
+#二级词汇表 T
+too
+#S
+snow
+#二级词汇表 T
+toy
+#S
+so
+#二级词汇表 T
+train
+#S
+sock
+#二级词汇表 T
+travel
+#S
+some
+#二级词汇表 T
+tree
+#S
+sometimes
+#二级词汇表 T
+trousers
+#S
+song
+#二级词汇表 T
+try
+#S
+sorry
+#二级词汇表 T
+turn
+#S
+soup
+#二级词汇表 T
+TV
+#S
+space
+speak
+sport
+spring
+stand
+star
+stop
+story
+street
+strong
+student
+study
+subject
+summer
+sun
+sunny
+supermarket
+sure
+sweater
+sweep
+swim
+#二级词汇表 U
+umbrella
+#T
+table
+#二级词汇表 U
+uncle
+#T
+tail
+#二级词汇表 U
+under
+#T
+take
+#二级词汇表 U
+up
+#T
+talk
+#二级词汇表 U
+us
+#T
+tall
+#二级词汇表 U
+use
+#T
+taxi
+tea
+teacher
+tell
+thank
+that
+the
+their
+them
+then
+there
+these
+they
+thin
+think
+this
+those
+tidy
+tiger
+time
+tired
+to
+today
+toilet
+tomato
+tomorrow
+too
+top
+toy
+train
+travel
+tree
+trousers
+try
+turn
+TV
+television
+#二级词汇表 V
+vegetable
+#U
+umbrella
+#二级词汇表 V
+very
+#U
+uncle
+#二级词汇表 V
+visit
+#U
+under
+up
+us
+use
+#二级词汇表 W
+wait
+#V
+vegetable
+#二级词汇表 W
+walk
+#V
+very
+#二级词汇表 W
+want
+#V
+visit
+#二级词汇表 W
+warm
+wash
+watch
+water
+way
+we
+wear
+weather
+week
+welcome
+well
+what
+when
+where
+white
+who
+whose
+why
+window
+windy
+winter
+with
+woman
+women
+wonderful
+word
+work
+worker
+worry
+write
+wrong
+#二级词汇表 Y
+year
+#W
+wait
+#二级词汇表 Y
+yellow
+#W
+wake
+#二级词汇表 Y
+yes
+#W
+walk
+#二级词汇表 Y
+yesterday
+#W
+wall
+#二级词汇表 Y
+you
+#W
+want
+#二级词汇表 Y
+young
+#W
+warm
+#二级词汇表 Y
+your
+#W
+wash
+watch
+water
+way
+we
+wear
+weather
+week
+welcome
+well
+what
+when
+where
+which
+white
+who
+whose
+why
+will
+win
+window
+windy
+winter
+wish
+with
+woman
+women
+wonderful
+word
+work
+worker
+world
+worry
+write
+wrong
+#二级词汇表 Z
+zoo
+#Y
+year
+yellow
+yes
+yesterday
+you
+young
+your
+#Z
+zoo
