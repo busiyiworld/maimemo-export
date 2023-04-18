@@ -12,10 +12,10 @@ export class NotePad {
     this.maimemo = maimemo
   }
   getAllBookName() {
-    const res = this.notepad.prepare("SELECT ub_name FROM UB_TB").all() as {
-      ub_name: string
+    const res = this.notepad.prepare("SELECT title FROM notepad").all() as {
+      title: string
     }[]
-    return res.map(k => k.ub_name)
+    return res.map(k => k.title)
   }
   getAllWordsInfo(book: string, option?: BookOption): Word[] {
     try {
@@ -23,40 +23,40 @@ export class NotePad {
       const _ = this.notepad
         .prepare(
           `
-        SELECT ubv_voc_id, ubv_tag
-        FROM UB_TB INNER JOIN UB_VOC_TB ON ub_id = ubv_userbook_id
-        WHERE ub_name = '${book}'
-        ORDER BY ubv_order
+        SELECT voc_id, voc_tag, voc_order
+        FROM notepad INNER JOIN (
+            SELECT tag as voc_tag, "order" as voc_order, voc_id, notepad_id
+            FROM notepad_voc
+            ) as tmp ON id = tmp.notepad_id
+        WHERE title = '${book}'
+        ORDER by voc_order
         `
         )
         .all() as {
-        ubv_voc_id: string
-        ubv_tag: string
+        voc_id: string
+        voc_tag: string
       }[]
-      const res = _.map(k =>
-        Object.assign(
-          this.maimemo
-            .prepare(`SELECT * FROM VOC_TB WHERE vc_id = '${k.ubv_voc_id}'`)
-            .get(),
-          { list: k.ubv_tag }
-        )
-      ) as Word[]
-
+      const res = _.map(k => ({
+        ...(this.maimemo
+          .prepare(
+            `SELECT spelling as word FROM VOC_TB WHERE id = '${k.voc_id}'`
+          )
+          .get() as Word),
+        list: k.voc_tag
+      })) as Word[]
       const defaultOpt = {
         order: "book",
         reverse: false
       }
 
       const { order, reverse } = option
-        ? Object.assign(defaultOpt, option)
+        ? { ...defaultOpt, ...option }
         : defaultOpt
 
       const sorted = (() => {
         switch (order) {
           case "initials":
-            return res.sort((x, y) =>
-              x.vc_vocabulary > y.vc_vocabulary ? 1 : -1
-            )
+            return res.sort((x, y) => (x.word > y.word ? 1 : -1))
           case "book":
             return res
           default:
@@ -64,8 +64,8 @@ export class NotePad {
         }
       })()
       return reverse ? sorted.reverse() : sorted
-    } catch {
-      console.error("没找到这本书")
+    } catch (e) {
+      console.log(e)
       return []
     }
   }

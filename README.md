@@ -4,10 +4,10 @@
 用于导出墨墨背单词的词库，并生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
 
 ## Usage
-> 必须使用 Android 手机，并且必须 Root，小白勿试。后面有导出好的，直接下载。没有想要的可以去知乎付费咨询。
+> 必须使用 Android 手机，并且必须 Root，小白勿试。release 中有已经导出好的词库，可以直接下载使用。
 
 #### Install
-> 需要 node v14
+> 需要 node v18+
 ```shell
 git clone https://github.com/ourongxing/maimemo-export.git
 cd maimemo-export
@@ -71,7 +71,7 @@ pnpm dev
 ```
 
 ## Download
-仓库内已经导出墨墨背单词所有本地词库，包括联网更新的词库，不包括云词库，多达上千种词库，可以在仓库中选择需要的下载（[下载单个文件的方法](https://blog.csdn.net/u010801439/article/details/81478592)），也可以去 [蓝奏云](https://busiyi.lanzoux.com/b00ogbelc) 下载打包好的文件。
+仓库内已经导出墨墨背单词所有本地词库，包括联网更新的词库，不包括云词库，多达上千种词库，可以在仓库中选择需要的下载（[下载单个文件的方法](https://blog.csdn.net/u010801439/article/details/81478592)）。
 
 - csv：带有中文含义，可导入 List 背单词。
 - list：带有 List 分组，可导入欧陆词典。

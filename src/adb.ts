@@ -11,13 +11,12 @@ export const getDatabaseFromPhone = async () => {
       throw "请安装 ADB，连接好手机，打开手机上的 USB 调试选项"
     const databaseFolder = path.resolve(__dirname, "..", "database")
     const cpMaimemo = async () => {
-      await $`adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/maimemo.v*.db /sdcard"`
-      await $`adb shell mv /sdcard/maimemo.v*.db /sdcard/maimemo.db`
+      await $`adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/momo.v*.db /sdcard/maimemo.db"`
       await $`adb pull /sdcard/maimemo.db ${databaseFolder}`
       await $`adb shell rm /sdcard/maimemo.db`
     }
     const cpNotePad = async () => {
-      await $`adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/notepad.db /sdcard"`
+      await $`adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/notepad.db /sdcard/notepad.db"`
       await $`adb pull /sdcard/notepad.db ${databaseFolder}`
       await $`adb shell rm /sdcard/notepad.db`
     }

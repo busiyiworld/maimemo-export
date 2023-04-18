@@ -13,8 +13,12 @@ const maimemoDB = new Database("./database/maimemo.db", dbOpt)
 const notepadDB = new Database("./database/notepad.db", dbOpt)
 const maimemo = new MaimemoDB(maimemoDB)
 const notepad = new NotePad(notepadDB, maimemoDB)
-const memorizedWords = maimemo.getAllWordsInfo().map(k => k.vc_vocabulary)
+const memorizedWords = maimemo.getAllWordsInfo().map(k => k.word)
 
-exportThesaurus(maimemo.getAllBookName(), maimemo, {
-  override: false
-})
+// exportThesaurus(maimemo.getAllBookName(), maimemo, {
+//   dir: "所有词库"
+// })
+
+// exportThesaurus(notepad.getAllBookName(), notepad, {
+//   dir: "云词库"
+// })

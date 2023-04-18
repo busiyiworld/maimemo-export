@@ -1,5 +1,5 @@
 export type Word = {
-  vc_vocabulary: string
+  word: string
   list?: string
   order?: number
 }

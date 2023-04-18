@@ -52,7 +52,7 @@ export const exportThesaurus = async (
   for (let i = 0; i < books.length; i++) {
     const book = books[i]
     const defaultOpt: Required<ExportOpt> = {
-      dir: "./thesaurus",
+      dir: "/thesaurus",
       types: ["txt", "list", "csv"],
       override: false,
       memorized: false,
@@ -67,7 +67,11 @@ export const exportThesaurus = async (
       : defaultOpt
 
     const files = types.map(type =>
-      path.resolve(dir, type, `${book}.${type === "list" ? "txt" : type}`)
+      path.resolve(
+        dir,
+        type,
+        `${book.replace(/\\|\//g, "|")}.${type === "list" ? "txt" : type}`
+      )
     )
     if (files.every(k => fs.pathExistsSync(k)) && !override) {
       bar.render(`${"● ".repeat(files.length)} ${book}`, {
@@ -79,7 +83,7 @@ export const exportThesaurus = async (
       const data = (() => {
         try {
           return db.getAllWordsInfo(book, bookOpt).reduce((acc, cur) => {
-            const { vc_vocabulary, list } = cur
+            const { word: vc_vocabulary, list } = cur
             if (memorized) {
               const opt = Array.isArray(memorized)
                 ? {

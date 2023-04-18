@@ -20,20 +20,20 @@ export class MaimemoDB {
         .prepare(
           book
             ? `
-        SELECT *
-        FROM VOC_TB
-        INNER JOIN (
-            SELECT title as list, voc_id, chapter_id, "order"
-            FROM BK_VOC_TB AS V
-                INNER JOIN BK_CHAPTER_TB AS C ON V.chapter_id = C.id
-                AND V.book_id IN ( SELECT original_id FROM BK_TB WHERE name = '${book}' )
-            ) AS tmp ON VOC_TB.original_id = tmp.voc_id
-        ORDER BY "order"
+            SELECT spelling as word, list, "order"
+            FROM VOC_TB
+            INNER JOIN(
+                SELECT title as list, voc_origin_id, chapter_origin_id, "order"
+                FROM BK_VOC_TB AS V
+                  INNER JOIN BK_CHAPTER_TB AS C ON V.chapter_origin_id = C.id
+                  AND V.book_origin_id IN ( SELECT origin_id FROM BK_TB WHERE name = '${book}' )
+                ) AS tmp ON VOC_TB.origin_id = tmp.voc_origin_id
+            ORDER BY "order"
         `
             : `
-        SELECT *
-        FROM LSR_TB AS LT INNER JOIN VOC_TB AS VT ON LT.lsr_new_voc_id = VT.vc_id
-        ORDER BY vc_vocabulary
+        SELECT spelling as word
+        FROM LSR_TB AS LT INNER JOIN VOC_TB AS VT ON LT.lsr_new_voc_id = VT.id
+        ORDER BY word
         `
         )
         .all() as Word[]
@@ -50,9 +50,7 @@ export class MaimemoDB {
       const sorted = (() => {
         switch (order) {
           case "initials":
-            return res.sort((x, y) =>
-              x.vc_vocabulary > y.vc_vocabulary ? 1 : -1
-            )
+            return res.sort((x, y) => (x.word > y.word ? 1 : -1))
           case "book":
             return res
           default:
