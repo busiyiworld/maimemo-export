@@ -1,5 +1,5 @@
 import Database from "better-sqlite3"
-import { exportThesaurus } from "export"
+import { exportLibrary } from "export"
 import { MaimemoDB } from "maimemo"
 import { NotePad } from "notepad"
 
@@ -15,10 +15,8 @@ const maimemo = new MaimemoDB(maimemoDB)
 const notepad = new NotePad(notepadDB, maimemoDB)
 const memorizedWords = maimemo.getAllWordsInfo().map(k => k.word)
 
-// exportThesaurus(maimemo.getAllBookName(), maimemo, {
-//   dir: "所有词库"
-// })
+exportLibrary(maimemo.getAllBookName(), maimemo)
 
-// exportThesaurus(notepad.getAllBookName(), notepad, {
+// exportLibrary(notepad.getAllBookName(), notepad, {
 //   dir: "云词库"
 // })

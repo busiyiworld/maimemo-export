@@ -1,0 +1,3716 @@
+abnormal
+anonymous
+delete
+desert
+defeat
+destroy
+desperate
+deprive
+destruction
+destructive
+desolate
+disagree
+disable
+discard
+disclose
+disgrace
+displace
+discount
+disregard
+disapproval
+discontinue
+disorder
+disability
+discharge
+discourage
+dislike
+discover
+disappear
+disintegrate
+impossible
+imbalance
+immoral
+impartial
+impatient
+immense
+immediate
+immune
+illiterate
+irrespective
+illegal
+irregular
+irrelative
+inability
+invalid
+inevitable
+indignant
+infinite
+independent
+innocent
+injure
+intact
+integrity
+incredible
+integral
+innumerable
+nowhere
+nonprofit
+negative
+neglect
+negligence
+negligible
+unable
+unemployment
+undoubtedly
+unnecessary
+unavoidable
+unfold
+uncover
+unlike
+unexpected
+undo
+uneasy
+unload
+unusual
+malfunction
+malignant
+mislead
+misbehave
+misinterpret
+misfortune
+misunderstand
+deteriorate
+degenerate
+antithesis
+antibody
+antipathy
+contrary
+controversial
+controversy
+counter
+counteract
+counterpart
+oppose
+opposite
+opponent
+object
+withhold
+withdraw
+reveal
+reverse
+aboard
+overlook
+overall
+overwhelm
+overhear
+oversee
+overcome
+overlap
+overtake
+superb
+superior
+superiority
+superstructure
+superficial
+surrender
+midst
+intermediary
+meddle
+mediation
+deduct
+decline
+descend
+descendant
+deposit
+devalue
+devaluation
+definite
+decrease
+depress
+decay
+derive
+degrade
+underground
+underestimate
+undergo
+undergraduate
+underlie
+undermine
+subway
+subscribe
+subject
+submarine
+submerge
+infrastructure
+inferior
+infrared
+forehead
+foreshadow
+foremost
+forecast
+foresee
+forefather
+fore
+forward
+forth
+preface
+prevalent
+preposition
+pretend
+protest
+protect
+procreate
+profile
+project
+prosecute
+proclaim
+profound
+prominent
+prolong
+pronounce
+promote
+provoke
+postpone
+return
+retrograde
+revolution
+revolt
+refuge
+remote
+retort
+recall
+reclaim
+respond
+revenge
+resign
+release
+intense
+inhabitant
+inherent
+insight
+internal
+interior
+invert
+innate
+intricate
+intensive
+involve
+inverse
+inward
+indoor
+inland
+interval
+incentive
+incorporate
+ingenious
+inhale
+initial
+inject
+input
+inside
+install
+instinct
+intrude
+invade
+invest
+introduce
+impact
+impart
+import
+illuminate
+illusion
+illustrate
+irrigate
+exit
+export
+exterior
+external
+expose
+experiment
+explore
+exploit
+excursion
+expedition
+exhibit
+expend
+exert
+extent
+extinguish
+eccentric
+exclaim
+exempt
+exotic
+explode
+explosion
+extension
+extensive
+outline
+outlook
+outset
+outward
+outer
+outdoor
+outbreak
+outskirts
+contemporary
+confer
+conscious
+conscience
+consolidate
+constituent
+consistent
+condemn
+confuse
+conjunction
+conquest
+conspiracy
+contagious
+contend
+contest
+convene
+convey
+convention
+conspire
+conflict
+confront
+converse
+common
+companion
+comply
+comprise
+commerce
+community
+compete
+commute
+communicate
+compare
+compass
+component
+compile
+composite
+compound
+compatible
+coincide
+cooperate
+coordinate
+correlate
+correspond
+collapse
+collaborate
+synthesis
+synthetic
+symphony
+sympathy
+sympathetic
+symposium
+symmetry
+syndrome
+dispatch
+dissolve
+bypass
+circumstance
+circuit
+circulate
+circus
+interact
+interaction
+intermediate
+interview
+interrupt
+intervene
+interpersonal
+intercourse
+intersection
+interface
+transcend
+transition
+transparent
+overvalue
+overseas
+supersonic
+anticipate
+previous
+precise
+prejudice
+prepare
+prescribe
+prescription
+preserve
+presume
+pretext
+prevail
+prevent
+predominant
+pregnant
+preliminary
+precaution
+procedure
+prohibit
+prosper
+prosperity
+prosperous
+program
+ex-soldier
+postwar
+postgraduate
+reassure
+recollect
+reconcile
+reproduce
+request
+recommend
+recompense
+restrain
+retail
+revolve
+refresh
+remark
+remarkable
+recite
+renaissance
+recount
+renovation
+reinforce
+renew
+resume
+require
+replace
+register
+resemble
+resemblance
+remain
+restrict
+byproduct
+hyperactive
+hypercritical
+overestimate
+overwork
+overfund
+overflow
+overreact
+superfluous
+hypothesis
+hypocrisy
+subordinate
+surround
+vice-chairman
+ultraviolet
+monotonous
+unify
+unite
+unique
+universe
+unanimous
+multiple
+multitude
+panorama
+cyberspace
+ecology
+ecosystem
+economic
+parameter
+paraphrase
+paralyze
+epigram
+overturn
+overhaul
+overthrow
+overnight
+progress
+congress
+progressive
+access
+concession
+process
+procession
+excess
+accessory
+predecessor
+successor
+successive
+concede
+precede
+preceding
+recede
+precedent
+unprecedented
+exceed
+exceedingly
+succeed
+proceed
+invent
+event
+intervene
+convenient
+convenience
+adventure
+withstand
+standard
+standpoint
+understand
+bystander
+standby
+standout
+notwithstanding
+constant
+distant
+instant
+substantial
+superstition
+prestige
+station
+stationary
+stationery
+status
+statue
+statement
+static
+statute
+estate
+substitute
+constitute
+constitution
+institute
+institution
+substance
+assist
+consist
+insist
+persist
+resist
+consider
+considerate
+consideration
+preside
+president
+reside
+residence
+resident
+subside
+insidious
+subsidy
+sedate
+aspect
+inspect
+prospect
+prospective
+respect
+retrospect
+spectacle
+spectator
+suspect
+respective
+respectable
+perspective
+spectacular
+conspicuous
+despise
+suspicion
+suspicious
+evidence
+evident
+provide
+video
+advise
+envisage
+revise
+supervise
+television
+visible
+vision
+visual
+audience
+audio
+audit
+auditorium
+fame
+famous
+infant
+fable
+fabulous
+predict
+verdict
+addict
+contradict
+contradiction
+dictate
+dictation
+dictionary
+jurisdiction
+indict
+diction
+edict
+indicate
+indication
+indicative
+dialect
+lecture
+legend
+allege
+legible
+apologize
+dialogue
+monologue
+logic
+logical
+illogical
+eloquent
+captain
+captive
+capture
+caption
+capable
+recipe
+participate
+conceive
+deceive
+perceive
+receive
+concept
+except
+exception
+exceptional
+susceptible
+accept
+acceptable
+acceptance
+content
+maintenance
+retention
+tenant
+attain
+contain
+container
+detain
+obtain
+retain
+sustain
+entertain
+maintain
+conference
+defer
+differ
+ferry
+fertile
+infer
+interfere
+offer
+prefer
+refer
+suffer
+transfer
+contract
+distract
+extract
+subtract
+tractor
+abstract
+attract
+attractive
+train
+portrait
+compel
+expel
+propel
+repel
+impel
+precision
+suicide
+commission
+dismiss
+missile
+mission
+missionary
+transmission
+permission
+promise
+compromise
+admit
+commit
+emit
+intermittent
+permit
+submit
+transmit
+produce
+conduct
+product
+productive
+introduction
+agency
+agenda
+agitate
+navigation
+actor
+action
+active
+activate
+affect
+defect
+defective
+effect
+infect
+perfect
+artificial
+deficient
+deficiency
+difficult
+efficiency
+sacrifice
+significance
+suffice
+profit
+conform
+formal
+formation
+formulate
+inform
+platform
+reform
+transform
+uniform
+comply
+imply
+reply
+complicate
+explicit
+implication
+implicit
+carry
+carrier
+carriage
+cargo
+career
+carpenter
+discharge
+caricature
+conclude
+conclusive
+include
+inclusive
+exclude
+exclusive
+preclude
+domain
+domination
+dominant
+predominate
+predominant
+meditation
+money
+monetary
+monster
+monitor
+pose
+positive
+oppose
+opposite
+component
+exposure
+expound
+proposal
+purpose
+disposal
+theme
+thesis
+antithesis
+synthesis
+victory
+conviction
+invincible
+province
+voice
+vocal
+vocation
+vocabulary
+provoke
+provocation
+invoke
+invocation
+evolve
+evolution
+anthropology
+mankind
+epidemic
+democracy
+demography
+humor
+humanity
+animal
+animate
+biotic
+biography
+autobiography
+biology
+vivid
+survive
+revive
+vitamin
+vital
+rebel
+rebellion
+consent
+resent
+resentment
+sentiment
+consensus
+sense
+nonsense
+sensation
+sensible
+sensitive
+finance
+financial
+definition
+definite
+finite
+infinite
+confine
+affinity
+lunar
+lunatic
+geography
+geology
+geometry
+bonus
+bounty
+benediction
+convict
+bureau
+doctrine
+neutral
+initiative
+deputy
+secretary
+stem
+regulate
+abolish
+embassy
+charter
+attorney
+republic
+abide
+liberal
+exile
+bribe
+unanimity
+campaign
+legislate
+testify
+dominate
+impose
+utilize
+tort
+tactic
+announce
+treason
+coalition
+rally
+mandate
+valid
+reign
+culprit
+judiciary
+federation
+corrupt
+harassment
+jail
+deploy
+fraud
+chamber
+bail
+violate
+robust
+imperial
+kidnap
+arbitrary
+communism
+plea
+committee
+persecute
+federal
+accuse
+breach
+resort
+entitle
+treaty
+banner
+uphold
+testimony
+assassinate
+ballot
+guardian
+leverage
+assault
+whip
+propagate
+liberate
+plaintiff
+enforce
+defy
+warrant
+curb
+felon
+enact
+throne
+pact
+statesman
+feudal
+liable
+summon
+eligible
+implement
+authorize
+legitimate
+investigate
+autonomy
+commonwealth
+segregate
+hurdle
+senate
+legacy
+guideline
+delegate
+paralysis
+cabinet
+slogan
+hierarchy
+smuggle
+rein
+poll
+sovereign
+conservation
+municipal
+council
+sanction
+blackmail
+distribute
+penetrate
+reciprocal
+vicious
+bilateral
+rival
+commodity
+coupon
+venture
+auction
+segment
+fiscal
+revenue
+franchise
+feasible
+hedge
+payout
+reap
+maneuver
+trademark
+inflate
+patron
+deficit
+boycott
+fluctuate
+stake
+integrate
+stagnation
+lucrative
+recession
+float
+portfolio
+levy
+sluggish
+merchant
+slash
+dividend
+depression
+memorandum
+surplus
+token
+asset
+mortgage
+equivalent
+manipulate
+offset
+transaction
+plateau
+vibrate
+telegraph
+broadcast
+optical
+refine
+portage
+lubricate
+database
+cable
+dilute
+compress
+fabricate
+hack
+ventilate
+browse
+streamline
+crude
+mechanical
+retrieve
+condense
+insulate
+aviation
+probe
+waterproof
+assemble
+academy
+doctorate
+distort
+leaflet
+esthetic
+philosophy
+specimen
+tutor
+prose
+genre
+cite
+refrain
+linguistic
+coach
+diploma
+script
+botany
+vulgar
+statistic
+artifact
+bachelor
+terminology
+psychology
+exaggerate
+arithmetic
+forum
+sketch
+irony
+heritage
+satire
+verse
+cognitive
+centigrade
+tide
+pest
+longitude
+torrent
+flora
+contaminate
+radiate
+conserve
+landscape
+cascade
+moist
+stale
+thermal
+mainland
+inlet
+fauna
+peninsula
+erode
+isle
+latitude
+equator
+ridge
+tropic
+stagnant
+sight
+marine
+altitude
+continent
+tornado
+species
+smog
+humid
+highland
+mist
+eclipse
+crust
+hemisphere
+cyclone
+cape
+edible
+extravagant
+episode
+ornament
+renovate
+durable
+furnish
+decorate
+exquisite
+ornate
+luxury
+scent
+vehicle
+perfume
+appetite
+delicate
+ingenious
+route
+fragrant
+track
+recreation
+expire
+trail
+gymnasium
+ambulance
+diagnose
+nutrition
+hygiene
+chronic
+dose
+latent
+artery
+clinical
+marathon
+vaccine
+nourish
+obese
+diabetes
+therapy
+disinfect
+ward
+vein
+wholesome
+remedy
+hazard
+symptom
+aural
+parasite
+bacterium
+pharmacy
+germ
+massacre
+uproar
+retreat
+riot
+drill
+combat
+veteran
+military
+turmoil
+aftermath
+casualty
+warfare
+siege
+slaughter
+colonel
+ally
+sweep
+hostage
+wreck
+triumph
+turbulent
+namely
+spray
+deem
+flatter
+medieval
+imperative
+homogeneous
+scorn
+session
+scrutinize
+vanish
+lapse
+shift
+praise
+swing
+fabric
+scatter
+dormant
+gorgeous
+thereafter
+delusion
+toss
+experience
+hatch
+capacity
+ethos
+indeed
+lenient
+genuine
+constrain
+indulge
+sarcastic
+stimulate
+rustle
+orient
+modify
+far-reaching
+nevertheless
+bundle
+pervasive
+permeate
+commence
+contemplate
+conceit
+absurd
+roundabout
+alleviate
+reckless
+tolerate
+confirm
+plummet
+notify
+plentiful
+poke
+chunk
+stab
+heave
+intrinsic
+beware
+henceforth
+thorough
+pessimistic
+notion
+comment
+reckon
+array
+tilt
+puzzle
+escalate
+obsolete
+nonetheless
+tow
+routine
+advocate
+diligent
+scramble
+humorous
+courtesy
+handicap
+cursory
+align
+salient
+relish
+assign
+tedious
+underlying
+rub
+indifferent
+forbid
+ridiculous
+district
+diminish
+relevant
+slack
+deserve
+minimal
+zigzag
+dignity
+gut
+stumble
+intend
+shrink
+magnitude
+analyze
+pinch
+allow
+radical
+assert
+envision
+motivate
+cordial
+worthwhile
+sturdy
+ascend
+thrust
+domestic
+switch
+earnest
+beloved
+perpetual
+extraordinary
+radius
+moan
+gravitate
+pierce
+discrepancy
+approximate
+mental
+whirl
+moral
+comprehensive
+setback
+outcome
+radiant
+weary
+arrogant
+manifest
+stockpile
+shield
+numerical
+upheaval
+detect
+blaze
+posture
+duration
+refute
+allegiance
+thrift
+perish
+formidable
+dub
+complain
+hesitate
+shatter
+disguise
+volume
+patriotic
+brittle
+trumpet
+transient
+sheer
+affirm
+hurl
+delay
+glow
+whereas
+downtown
+eliminate
+consult
+futile
+anyhow
+temporary
+nominate
+succession
+amiable
+terminate
+pledge
+emphasis
+distinct
+propose
+stagger
+adverse
+rigid
+cardinal
+embed
+tumble
+navigate
+lengthy
+trivial
+denote
+estimate
+identical
+stubborn
+sway
+suppose
+tempt
+epoch
+evaluate
+stiff
+diverse
+avert
+tentative
+paste
+magnificent
+talkative
+diameter
+rot
+lest
+endure
+coarse
+ascertain
+persevere
+maximal
+scold
+reluctant
+brutal
+wrench
+bewilder
+despite
+discern
+essence
+plausible
+whine
+aggravate
+incline
+clutch
+instead
+solitary
+eminent
+questionable
+prudent
+trait
+discreet
+elapse
+elaborate
+merit
+elastic
+appraise
+accomplish
+hollow
+notable
+far-off
+entail
+buzz
+endeavor
+ambiguous
+trifle
+instance
+ethic
+crawl
+pitch
+apparent
+blame
+define
+miniature
+applaud
+tramp
+ample
+gauge
+frame
+reliant
+render
+disperse
+urge
+monumental
+flare
+endorse
+dissipate
+continuous
+impartial
+feeble
+vicinity
+agree
+bounce
+brilliant
+designate
+glitter
+tender
+pursue
+fragment
+imitate
+complement
+blunt
+lopsided
+denounce
+virtue
+brag
+pathetic
+fling
+punctual
+bizarre
+rigorous
+spontaneous
+incite
+versus
+intuition
+cosmic
+rust
+amplify
+ponder
+impatient
+speculate
+tug
+consequence
+obscure
+slit
+scratch
+authentic
+spike
+impetus
+omit
+corrode
+tremendous
+vulnerable
+hoist
+character
+vigorous
+deplore
+illusion
+contrast
+benign
+amateur
+slight
+aspire
+accumulate
+facilitate
+cluster
+menace
+rational
+privilege
+flexible
+precious
+shiver
+spectrum
+simulate
+moreover
+splendid
+sufficient
+entrenched
+stack
+represent
+majestic
+bump
+dazzle
+immerse
+concrete
+wrap
+disposition
+veto
+deliberate
+tame
+inherit
+frugal
+altogether
+gallop
+solemn
+detach
+discriminate
+meditate
+versatile
+deduce
+quiver
+queer
+hint
+peculiar
+sparkle
+eradicate
+responsible
+construct
+contempt
+slender
+creep
+batch
+scrape
+evade
+obstruct
+efficient
+shove
+fracture
+augment
+devise
+affluent
+drastic
+converge
+sophisticated
+tremble
+adequate
+competent
+tense
+portion
+random
+heap
+illuminate
+bias
+haul
+cohesive
+torment
+distinguish
+span
+simultaneous
+eject
+potential
+immense
+vague
+boast
+gigantic
+hitherto
+convince
+negate
+continual
+twinkle
+consecutive
+divert
+apparent
+plain
+contrive
+sting
+magnify
+convert
+frown
+dimension
+advent
+favor
+fragile
+locality
+tangible
+torture
+applicable
+snobbish
+dubious
+mindset
+sprinkle
+numerous
+bunch
+jealous
+strain
+starve
+allot
+endow
+bourgeois
+evacuate
+surge
+seal
+barren
+empirical
+agony
+astonish
+hospitality
+anguish
+chaos
+evoke
+fascinate
+upset
+clash
+intimate
+harsh
+metropolitan
+personnel
+allocate
+preach
+acquaint
+ritual
+fierce
+unstoppable
+severe
+isolate
+dedicate
+watershed
+duplicate
+grim
+notorious
+criticize
+hysterical
+pension
+nostalgic
+jargon
+redeem
+reproach
+appall
+recruit
+obsess
+tension
+commemorate
+repress
+herald
+oppress
+impoverish
+juvenile
+dwell
+staff
+cultivate
+divine
+manual
+tempo
+stun
+offspring
+tangle
+dilemma
+sponsor
+strife
+mingle
+template
+census
+suppress
+empathy
+vacant
+tribe
+momentum
+anecdote
+backfire
+motive
+adolescent
+dismal
+headhunt
+slam
+enclose
+conceal
+trigger
+alienate
+catastrophe
+premium
+temper
+inspire
+inexorable
+rouse
+lay off
+compliment
+stall
+aristocrat
+ignite
+havoc
+assimilate
+youngster
+salvation
+console
+credentials
+compassion
+humiliate
+encounter
+tribute
+intrigue
+about
+abroad
+air
+accept
+account
+actually
+act
+amount
+advance
+against
+address
+argue
+article
+art
+assume
+attach
+author
+average
+balance
+base
+benefit
+become
+body
+board
+business
+charge
+claim
+climate
+code
+commission
+commit
+company
+complex
+conclusion
+concern
+confidence
+contain
+contribute
+content
+course
+court
+cover
+create
+critical
+debt
+department
+develop
+difficult
+draw
+economy
+employ
+encourage
+end
+enterprise
+entertain
+even
+estate
+exact
+exercise
+express
+eye
+field
+fail
+fashion
+feature
+figure
+fine
+flow
+free
+function
+game
+given
+ground
+hold
+identify
+industry
+intelligence
+interest
+intellectual
+invent
+issue
+just
+justice
+land
+lot
+level
+manner
+mean
+note
+paper
+particular
+physical
+policy
+position
+practice
+press
+range
+report
+rate
+rest
+run
+reason
+review
+say
+school
+story
+term
+train
+very
+will
+absence
+accident
+advise
+appreciate
+appeal
+attribute
+aware
+automatic
+attack
+blind
+bargain
+brand
+block
+budget
+command
+channel
+complaint
+concentrate
+concert
+contend
+conservative
+core
+context
+corner
+credit
+couple
+correct
+craft
+cry
+count
+crop
+cross
+crowd
+demonstrate
+discipline
+dramatic
+device
+deliver
+element
+embrace
+emerge
+establish
+excite
+extend
+facility
+familiar
+feed
+fairly
+file
+fix
+foreign
+capital
+fuel
+grain
+gross
+hit
+ill
+implication
+inform
+institute
+institution
+invite
+jump
+option
+lift
+lobby
+parallel
+map
+mass
+means
+peak
+profession
+provision
+reflect
+regard
+remember
+second
+shape
+sound
+spare
+spite
+stem
+strike
+stock
+tie
+uniform
+weigh
+weight
+weather
+wind
+yield
+secure
+abrupt
+absolute
+absorb
+accent
+accommodate
+accommodation
+accomplished
+accompany
+accord
+acute
+acid
+adhere
+administer
+agent
+agreeable
+aggressive
+alien
+alive
+anchor
+allowance
+angle
+appropriate
+apt
+army
+arrest
+avenue
+axe
+attendant
+backward
+badly
+bald
+beam
+bearing
+belt
+beside
+bend
+bid
+bind
+bitter
+blast
+bleed
+blossom
+bond
+boss
+breed
+bread
+blue
+breakdown
+bubble
+breath
+brush
+bull
+bury
+bug
+cancer
+cap
+carrier
+carrot
+carve
+ceiling
+cement
+chair
+click
+champion
+cling
+cloud
+coin
+coincidence
+collide
+colony
+column
+comfort
+compact
+compose
+composition
+cook
+compromise
+cop
+couch
+counsel
+cow
+cradle
+cream
+crown
+cruise
+crush
+crystal
+currency
+custom
+damp
+dash
+dawn
+declare
+descend
+discount
+distinction
+diversion
+drain
+drug
+drift
+dump
+dwarf
+economical
+elect
+elevate
+elegant
+engagement
+embark
+embody
+engineer
+erupt
+essay
+establishment
+execute
+exhaust
+exit
+fare
+feast
+fancy
+feather
+fertile
+fetch
+fever
+filter
+flag
+flash
+flesh
+forge
+floor
+flood
+forgive
+formula
+freeze
+friction
+frontier
+hammer
+hamper
+harbour
+harness
+hawk
+headline
+horizon
+humour
+idiom
+ingredient
+lame
+instrument
+keen
+lay
+lecture
+lever
+manufacture
+margin
+mine
+milk
+mechanism
+minute
+minister
+modest
+mount
+mushroom
+narrow
+negotiate
+nerve
+nobody
+novel
+nurse
+observe
+obtain
+odds
+opening
+odd
+outstanding
+occupation
+parade
+pedestrian
+phase
+persuasion
+phenomenon
+platform
+plunge
+polish
+pool
+post
+proof
+property
+province
+rage
+raid
+reflection
+register
+reserve
+rocket
+satisfaction
+scene
+screen
+sequence
+scheme
+seize
+shadow
+sphere
+spark
+spell
+stage
+spoil
+spring
+suit
+suspend
+swallow
+swamp
+tap
+translate
+taste
+touch
+trip
+tuition
+utility
+intellect
+abandon
+abdomen
+aboard
+abound
+abroad
+abrupt
+absorb
+absurd
+abstract
+abuse
+accent
+accept
+access
+assess
+adjacent
+adjective
+adjust
+adapt
+adopt
+adore
+advice
+advocate
+adverse
+advent
+aircraft
+airline
+airport
+alien
+align
+alike
+alive
+allege
+ambassador
+ambiguous
+ambitious
+appeal
+appear
+appendix
+appetite
+applaud
+applause
+appliance
+applicable
+application
+astonish
+astronaut
+astronomy
+avoid
+void
+background
+backward
+barrel
+barren
+barrier
+beard
+beam
+beast
+behalf
+behave
+bleed
+blend
+blind
+bomb
+bond
+bone
+bride
+brick
+bribe
+brief
+brisk
+bulb
+bulk
+bull
+bully
+clarify
+clarity
+calculate
+circulate
+speculate
+articulate
+click
+clerk
+commence
+commerce
+commend
+comment
+communism
+community
+compress
+comprise
+compose
+conceal
+concede
+conceive
+confine
+confirm
+constant
+constrain
+contend
+content
+contest
+context
+contract
+contrary
+contrast
+convene
+convenient
+convention
+conversation
+conservation
+conversion
+corporate
+cooperate
+crane
+crawl
+crash
+deaf
+deal
+dean
+deed
+deem
+deep
+deer
+defeat
+defect
+defend
+deprive
+derive
+desperate
+despise
+despite
+detach
+detail
+detain
+digest
+digital
+dignity
+disguise
+disgust
+draft
+drag
+captain
+certain
+contain
+curtain
+attain
+eager
+eagle
+embarrass
+embassy
+embody
+embrace
+embryo
+endorse
+endow
+engine
+engage
+entire
+entitle
+entity
+equip
+equity
+ethic
+ethnic
+excerpt
+except
+expectation
+expedition
+explode
+exploit
+explore
+factor
+factory
+faculty
+possess
+process
+progress
+power
+powder
+precious
+precise
+premier
+premise
+premium
+persevere
+preserve
+reserve
+severe
+pray
+prey
+principal
+principle
+precede
+proceed
+recede
+promise
+propose
+purpose
+promote
+propel
+proper
+prosper
+property
+prose
+prize
+project
+protect
+protest
+provide
+province
+provision
+pure
+purse
+pursue
+qualify
+quality
+quantity
+quantify
+quit
+quilt
+guilt
+quota
+quote
+radiant
+radiate
+rear
+reap
+recipe
+receipt
+recite
+receive
+redundant
+abundant
+reed
+reel
+refuse
+refute
+refuge
+rein
+reign
+resign
+reject
+eject
+remedy
+comedy
+remote
+remove
+repel
+expel
+resident
+president
+retort
+resort
+restore
+restrain
+constrain
+revolt
+revolve
+rib
+rid
+rim
+rip
+rob
+rod
+rot
+row
+rug
+sample
+simple
+salute
+saturate
+situate
+scar
+scarce
+scare
+scale
+scene
+scent
+score
+scope
+scold
+scout
+scorn
+scrap
+seam
+ream
+sequence
+sentence
+shove
+shore
+shutter
+shuttle
+sigh
+sign
+slave
+sleeve
+slide
+slice
+slum
+slump
+solo
+sole
+sow
+tow
+squirrel
+quarrel
+stare
+stale
+state
+statue
+status
+statute
+stature
+steal
+steel
+steep
+steer
+stream
+scream
+stretch
+scratch
+stride
+strife
+strike
+stroke
+stripe
+strive
+stiff
+stuff
+suppose
+suppress
+surge
+urge
+tempt
+temper
+temple
+thrift
+thrill
+trail
+trait
+trifle
+rifle
+veil
+vein
+virtual
+virtue
+virus
+vote
+veto
+whale
+wheel
+weed
+weep
+feast
+feat
+feminine
+famine
+fume
+fame
+flame
+frame
+flee
+fleet
+flesh
+flash
+fraction
+fracture
+freight
+fright
+furnish
+finish
+futile
+fertile
+goal
+gaol
+gas
+gasp
+glow
+grow
+gown
+grave
+graze
+grim
+grin
+grind
+grass
+gross
+guide
+guild
+guilt
+golf
+gulf
+gun
+gum
+habit
+inhabit
+habitat
+habitant
+inhabitant
+hail
+hall
+hill
+halt
+haul
+haste
+hasten
+heap
+heal
+heat
+heave
+heavy
+heir
+hair
+hire
+herb
+herd
+heroic
+heroin
+hormone
+harmony
+hostage
+heritage
+immense
+immerse
+impact
+impair
+impart
+implicit
+explicit
+impetus
+impulse
+inject
+insect
+intact
+insert
+insult
+insulate
+integral
+integrate
+integrity
+interface
+interfere
+interim
+interior
+interpret
+interrupt
+inverse
+invest
+invert
+invite
+invent
+irrigate
+irritate
+imitate
+kit
+kin
+knee
+kneel
+knit
+hint
+knob
+knot
+lamp
+numb
+lamb
+lame
+limp
+limb
+lane
+line
+liner
+linger
+lap
+lapse
+lace
+laser
+latter
+later
+lateral
+less
+lest
+lever
+level
+liquid
+liquor
+litter
+little
+live
+liver
+loaf
+loan
+load
+hobby
+lobby
+lorry
+local
+locate
+magnitude
+longitude
+latitude
+altitude
+attitude
+mediate
+meditate
+mass
+mess
+immigrate
+migrate
+emigrate
+mild
+wild
+mill
+mile
+mentor
+mental
+marine
+mineral
+nominal
+mine
+minor
+minority
+majority
+module
+mould
+model
+motel
+motor
+mist
+moist
+monetary
+momentary
+motion
+notion
+moan
+mourn
+mud
+mug
+muscular
+massacre
+mute
+mutter
+mutual
+navy
+envy
+flourish
+nourish
+oak
+oar
+ore
+oath
+apt
+opt
+omit
+orbit
+oval
+over
+overt
+owe
+owl
+paddle
+peddle
+practice
+particle
+practical
+particular
+past
+paste
+pasture
+posture
+patch
+match
+catch
+patent
+pattern
+patrol
+patron
+petrol
+pistol
+peel
+pearl
+perform
+perfume
+perish
+cherish
+permanent
+permeate
+persecute
+prosecute
+personal
+personnel
+panorama
+pharmacy
+pace
+phase
+phrase
+piece
+pierce
+pile
+file
+plunge
+lounge
+pneumonia
+phenomenon
+phenomena
+poison
+prison
+poke
+port
+porter
+porch
+poll
+pull
+pop
+pope
+premier
+premise
+promise
+premium
+preparation
+preposition
+proposition
+pump
+bump
+dump
+lump
+jump
+slump
+field
+handle
+solve
+manage
+address
+approach
+cope with
+work through
+deal with
+sort out
+figure out
+settle
+in terms of
+for that matter
+with respect to
+in matters of
+in the case of
+with regard to
+constitute
+compose
+form
+consist of ...
+make up
+comprise
+reinforce
+enhance
+cement
+beef up
+sharpen
+strengthen
+intensify
+amplify
+magnify
+enlarge
+augment
+compound
+aggravate
+exacerbate
+sharpen
+worthwhile
+crucial
+important
+noteworthy
+critical
+significant
+momentous
+primary
+principal
+overarching
+foremost
+dominating
+prime
+indispensable
+essential
+vital
+imperative
+consequence
+result
+implication
+fallout
+influence
+effect
+impact
+affect
+work against
+resist
+reject
+boycott
+block
+obstruct
+corporation
+company
+firm
+enterprise
+trustworthy
+reliable
+credible
+dependable
+outlook
+viewpoint
+opinion
+perspective
+sentiment
+standpoint
+possibility
+prospect
+likelihood
+probability
+odds
+chance
+bias
+prejudice
+stereotype
+hamper
+obstacle
+block
+curb
+obstruct
+barrier
+hinder
+hindrance
+take advantage of
+make use of
+exploit
+leverage
+utilize
+indifferent
+unconcerned
+unbending
+tempt
+attract
+appeal to
+thriving
+flourishing
+flourish
+prosper
+prosperous
+prosperity
+booming
+boom
+striking
+prominent
+remarkable
+outstanding
+distinct
+noteworthy
+notable
+marked
+conspicuous
+pointed
+apparent
+obvious
+pronounced
+glaring
+overt
+confused
+puzzled
+perplexed
+bewildered
+skeptical
+suspicious
+doubtful
+incredulous
+dubious
+feed
+supply
+accommodate
+provide
+ponder
+contemplate
+meditate
+meditation
+deliberate
+consider
+reflect
+chew over
+think over
+grievance
+dissatisfied
+discontented
+potential
+underlying
+latent
+implicit
+show
+reveal
+uncover
+indicate
+suggest
+display
+imply
+denote
+disclose
+unfold
+expose
+stem from
+derive from
+originate from
+come from
+component
+factor
+element
+ingredient
+spell
+induce
+invite
+incur
+cause
+result in
+bring about
+render
+generate
+contribute to
+lead to
+give rise to
+arouse
+spark
+stir up
+evoke
+illustrate
+elaborate
+state
+declare
+practical
+functional
+pragmatic
+economic
+indignation
+outrage
+stir
+rage
+townsfolk
+citizen
+resident
+support
+in favor of
+endorse
+back up
+applaud
+approval
+suffer
+sustain
+undergo
+endure
+stand
+experience
+be subjected to
+suffer from
+go through
+sue
+charge
+accuse
+indict
+prosecute
+implead
+complaint
+foster
+promote
+facilitate
+boost
+accelerate
+cultivate
+expedite
+motivate
+stimulate
+inspire
+impetus
+incentive
+confirm
+identify
+testify
+verify
+certify
+note
+point out
+indicate
+indication
+argue
+suspect
+suppose
+assume
+speculate
+infer
+constrain
+restrain
+curb
+restrict
+confine
+hamper
+distinctive
+unique
+distinct
+particular
+peculiar to
+mock
+deride
+laugh at
+make fun of ...
+inclination
+tendency
+preference
+be inclined to
+tend to
+prone to
+be apt to
+squint towards
+oblige
+force
+coerce
+compel
+compulsory
+mandatory
+obligatory
+coercive
+envisage
+image
+assume
+fancy
+launch
+issue
+publish
+release
+assure
+guarantee
+ensure
+pledge
+claim
+affirm
+allege
+pronouncement
+assert
+assertion
+declare
+declaration
+in effect
+in fact
+in essence
+as a matter of fact
+authorize
+approve
+mandate
+confirm
+permit
+permission
+well-informed
+knowledgeable
+broad-minded
+acclaim
+praise
+compliment
+cloak
+cover
+conceal
+obscure
+probe
+explore
+exploration
+eligible
+qualified
+entitled
+zeal
+passion
+warmth
+enthusiasm
+disputation
+argument
+row
+controversy
+debate
+dispute
+objection
+opposition
+disapproval
+push back
+unsettling
+disturbing
+disconcerting
+worrisome
+implement
+execute
+carry out
+institute
+conduct
+enact
+enforce
+enforcement
+put into effect
+put into practice
+sanction
+punishment
+penalty
+suspend
+discontinue
+cease
+break off
+respect
+esteem
+honour
+reverence
+rely on
+depend on
+bank on
+rest on
+incentive
+motivation
+stimulus
+spur
+comprehensive
+sweeping
+rounded
+overall
+thoroughly
+standard
+norm
+measure
+criteria
+criterion
+touchstone
+code
+ethics
+incite
+fan
+agitate
+stir up
+evoke
+instigate
+underline
+emphasize
+highlight
+stress
+stand out
+lay stress on
+leakage
+filter
+divulge
+verdict
+sentence
+judge
+judgement
+adjudication
+rule
+ruling
+decision
+vague
+obscure
+ambiguous
+non-committal
+blurred
+blurry
+blurring
+defer
+delay
+postpone
+put off
+fascinated
+obsessed
+rapt
+enchanted
+captivate
+overrule
+overturn
+topple
+feature
+characteristic
+trait
+peculiarity
+speciality
+routine
+convention
+tradition
+ritual
+bear
+endure
+tolerate
+absorb
+undertake
+put up with
+assume
+suffer
+undergo
+intervene
+meddle
+interfere
+interference
+wade into
+confess
+acknowledge
+accept
+admit
+recognize
+reasonable
+sound
+logical
+rational
+sensible
+justified
+legitimate
+enhance
+increase
+improve
+advance
+raise
+boost
+impartial
+just
+righteous
+unbiased
+fair-minded
+stripe
+genre
+category
+kind
+type
+sort
+variety
+species
+compensate
+remedy
+make up
+make up for
+offset
+susceptible
+vulnerable
+clause
+item
+term
+provision
+treaty
+downturn
+fall
+drop
+decline
+descend
+decrease
+recession
+slump
+crash
+plummet
+nose dive
+steep fall
+prohibit
+forbid
+ban
+rectify
+modify
+modification
+revise
+amend
+alter
+revamp
+recompose
+mandate
+instruction
+order
+indication
+dictate
+command
+control
+dominate
+predominate
+dictate
+command
+govern
+fever
+mania
+enthusiasm
+fanaticism
+craze
+interim
+temporary
+transient
+transitory
+provisional
+impermanent
+monitor
+oversee
+supervise
+supervision
+urgent
+desperate
+pressing
+immediate
+impending
+token
+represent
+stand for
+symbolize
+symbolic
+modest
+mild
+moderate
+temperate
+appropriate
+acquire
+obtain
+draw
+reap
+attain
+achieve
+bargain
+agreement
+protocol
+treaty
+division
+distribute
+distribution
+allocation
+allot
+allotment
+apportion
+overlook
+neglect
+ignore
+look down upon
+distinction
+difference
+disparity
+promise
+pledge
+commitment
+condemn
+denounce
+censure
+lessen
+soften
+cushion
+relieve
+lighten
+mitigate
+combat
+assuage
+ease
+alleviate
+diffuse
+acclimation
+adjustment
+adaption
+accommodation
+deem
+view ... as
+regard as
+treat ... as
+perceive ... as
+take ... as ...
+hazard
+danger
+risk
+jeopardy
+momentum
+tendency
+situation
+picture
+complexion
+circumstance
+detailed
+elaborate
+exhaustive
+thorough
+deprivation
+deficiency
+shortfall
+be short of
+attuned
+alert
+acute
+keen
+confirm
+justify
+testify
+prove
+demonstrate
+bear out
+secure
+stable
+steady
+stabilized
+forecast
+predict
+expect
+anticipate
+presuppose
+foresee
+caveat
+warn
+caution
+admonish
+tactic
+strategy
+method
+means
+prudent
+scrupulous
+discreet
+cautious
+alert
+wary
+conscious
+acute
+subsidy
+pension
+allowance
+bonus
+premium
+wage
+benefit
+subvention
+ahead of
+answer for
+a matter of course
+as a matter of course
+account for
+adhere to
+along with
+associated with
+at the sight of
+at the thought of
+attend to
+agree with
+a storm of
+a flash of
+a flare of
+as a result
+act on
+act out
+act up
+at length
+amount to
+access to
+at the cost of
+at the risk of
+at the height of
+at that point
+at that moment
+at that time
+adapt to
+attribute to
+assign sb. to do sth.
+aside from
+approval of
+be absorbed in
+be authorized to do
+be conscious of
+be content with
+be content to do sth.
+be critical of
+be eager for
+be entitled to sth.
+be qualified to do
+be qualified for
+be subjected to
+behind one's back
+blame sb. for sth.
+blame sth. on sb.
+bring back
+better than
+be credited to sb.
+be credited to sth.
+bring about
+by means of
+by contrast
+be selected to do
+bring around
+bring forth
+bring in
+bring out
+bring through
+bring up
+bring sb. sth.
+by this means
+beat ... into ...
+bring into
+call in
+carry off
+center one's attention on
+cling to
+come to sb's notice
+confirm sb. in
+comply with
+center on
+come to
+close to
+carry on
+carry away
+carry out
+crop up
+chain sb. to sth.
+chain sth. to sth.
+compare to
+compare with
+call for
+call at
+call back
+call on
+call up
+call off
+cover up
+deprive sb. of sth.
+deviate from
+differ from ... in
+direct sb. to sth.
+distinguish ... from
+dominate over sb.
+dominate over sth.
+devoted to
+direct sth. at sth.
+direct sth. towards sth.
+economize on
+emerge from
+encourage sb. with sth.
+encourage sb. in sth.
+expose sb. to sth.
+expose sth. to sth.
+even if
+even though
+fall back
+famous for
+fight against
+follow from
+follow through
+for certain
+for the better
+from the outset
+get along
+get down to
+get off
+get through
+give out
+give sb. an account of
+go into effect
+gather up
+give thought to
+give sb. an idea of
+give sb. some idea of
+give opinions to sb.
+give opinions on sth.
+get away
+get back
+get down
+get in
+get on
+get on with
+get rid of
+get up
+ground on
+guide into
+give in
+give away
+give off
+give up
+have an ear for
+have an effect on
+have the advantage of
+have sth. to do with
+hide sth. from sb.
+hide sb. from sb.
+hint at
+hold onto
+hostile to
+hand out
+hand in
+immune to
+in out of condition
+in accord with
+in accordance with
+in all
+in any case
+in case
+in case of
+in bulk
+in comparison with
+in essence
+in favor of
+in the presence of
+in the process of
+in the company of
+in the light of
+in the form of
+in terms of
+in line with
+in effect
+in a sense
+if only
+in return for
+in reply to
+in reference to
+in response to
+in general
+in short
+in turn
+in question
+in need
+in progress
+in respect of
+in contrast
+in part
+interact with
+in return
+in conclusion
+in particular
+in the absence of
+in the face of
+in the course of
+in the height of
+jump at
+keep company with
+keep in mind
+last but one
+lead off
+lead out
+lead to
+lean towards
+lean to
+leave behind
+let alone
+linger on
+lead on
+let off
+let down
+let out
+limit sb. to sth.
+link to
+make an attempt at doing sth.
+make an attempt to do sth.
+make ends meet
+make out
+make up for
+make for
+make up
+make a difference
+make fun of
+make use of
+make it
+make sense
+now that
+of one's own accord
+on account of
+on behalf of
+on business
+on earth
+on no account
+on one's own account
+once and for all
+out of breath
+other than
+on the average
+on the contrary
+on the whole
+pass down
+plug into
+pray for
+push sb. too far
+put down to sth.
+put sb. at his ease
+put sb. at her ease
+puzzle over
+perfect for
+point to
+qualify as
+rather than
+relate to
+resistant to
+round the clock
+run on
+rest on
+rip off
+retire as
+run across
+set aside
+set back
+set forth
+settle with
+shift ... from ...
+start as
+stay aware of ...
+stick out
+strike at
+sure enough
+sweep across
+side with
+share with
+sooner than
+speed up
+stimulated by
+so that
+sensitive to
+subject to
+succession to
+set in
+set up
+set out
+set about
+set to
+set off
+set down
+switch to
+take delight in
+take a delight in
+take apart
+take charge of
+take in
+take off
+take on
+take over
+take place
+take up
+take a chance
+take a hand in
+take to
+take ... into account
+tear away from
+thrive off
+throw off
+throw one's weight behind
+throw ... against
+throw into
+to one's delight
+to one's heart's content
+treat sb. to sth.
+turn around
+turn one's back on sb.
+turn out
+turn on
+turn up
+turn over
+turn about
+turn against
+turn away
+turn down
+turn in
+turn off
+turn to
+turn back
+tuck in
+transfer from ... to ...
+under consideration
+under control
+unfamiliar to
+unfamiliar with
+up against
+with ease
+with one accord
+work against
+work for
+work with
+work on

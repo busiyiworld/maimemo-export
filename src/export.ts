@@ -44,7 +44,7 @@ export const export2file = async (
   await fs.outputFile(file, res)
 }
 
-export const exportThesaurus = async (
+export const exportLibrary = async (
   books: string[],
   db: MaimemoDB | NotePad,
   option?: ExportOpt
@@ -52,7 +52,7 @@ export const exportThesaurus = async (
   for (let i = 0; i < books.length; i++) {
     const book = books[i]
     const defaultOpt: Required<ExportOpt> = {
-      dir: "/thesaurus",
+      dir: "libraries",
       types: ["txt", "list", "csv"],
       override: false,
       memorized: false,
