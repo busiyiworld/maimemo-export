@@ -1,9 +1,9 @@
-import type BetterSqlite3 from "better-sqlite3"
+import { type Database } from "libsql"
 import { BookOption, Word } from "typings"
 // 本地词库
 export class MaimemoDB {
-  private db: BetterSqlite3.Database
-  constructor(db: BetterSqlite3.Database) {
+  private db: Database
+  constructor(db: Database) {
     this.db = db
   }
   // 获取所有书名

@@ -1,0 +1,3334 @@
+#Part 1 核心词汇 Unit 1 dislike
+dislike
+like
+likely
+possible
+potential
+chance
+opportunity
+challenge
+discount
+count
+encounter
+confront
+account
+disappoint
+appoint
+disappear
+appear
+surface
+disadvantage
+weakness
+defect
+perfect
+ideal
+real
+realize
+affect
+influence
+impact
+effect
+effort
+attempt
+infect
+advantage
+strength
+virtue
+disease
+cancer
+cancel
+disaster
+earthquake
+crisis
+die
+survive
+exist
+fortunate
+#Part 1 核心词汇 Unit 2 divide
+divide
+section
+separate
+isolate
+alone
+apart
+except
+besides
+addition
+extra
+unite
+union
+uniform
+unique
+universe
+global
+spread
+popular
+university
+college
+academy
+campus
+dormitory
+apartment
+department
+primary
+chief
+main
+principle
+primitive
+element
+factor
+ingredient
+grade
+graduate
+faculty
+staff
+personnel
+personal
+individual
+private
+public
+educate
+divorce
+marry
+annual
+distribute
+contribute
+distinguish
+outstanding
+excellent
+bright
+wise
+intelligence
+artificial
+diligent
+distinct
+#Part 1 核心词汇 Unit 3 suppose
+suppose
+position
+site
+postpone
+delay
+purpose
+aim
+goal
+target
+intention
+motive
+ambition
+pursue
+chase
+expose
+bare
+rare
+scarce
+lack
+sufficient
+adequate
+propose
+advise
+suggest
+recommend
+praise
+admire
+dispose
+arrange
+prepare
+organize
+agency
+oppose
+contrary
+contrast
+contract
+article
+item
+passage
+passenger
+attract
+tempt
+charm
+appeal
+addict
+contact
+object
+subject
+positive
+neutral
+optimistic
+attitude
+appreciate
+topic
+project
+system
+schedule
+reject
+refuse
+deny
+contradict
+protest
+agree
+approve
+support
+favor
+#Part 1 核心词汇 Unit 4 produce
+produce
+product
+commerce
+trade
+fair
+business
+affair
+event
+matter
+problem
+issue
+manufacture
+create
+generation
+general
+normal
+standard
+ordinary
+average
+common
+progress
+process
+access
+available
+enter
+approach
+excess
+succeed
+fail
+error
+fault
+mistake
+profit
+benefit
+reduce
+fall
+decline
+increase
+rise
+raise
+arise
+arouse
+awake
+occur
+happen
+introduce
+#Part 1 核心词汇 Unit 5 connect
+connect
+relate
+associate
+negotiate
+attach
+content
+satisfy
+congratulate
+celebrate
+celebrity
+ceremony
+invite
+consequence
+result
+outcome
+concentrate
+focus
+absorb
+conscious
+aware
+sense
+sound
+conform
+reply
+apply
+imply
+infer
+inferior
+superior
+prefer
+refer
+mention
+suffer
+confer
+offer
+supply
+provide
+furniture
+differ
+different
+difficult
+similar
+familiar
+mean
+means
+method
+manner
+obey
+observe
+notice
+witness
+evidence
+prove
+demonstrate
+stare
+glance
+concept
+context
+conversation
+speech
+lecture
+#Part 1 核心词汇 Unit 6 enable
+enable
+able
+disable
+capable
+encourage
+courage
+foster
+cultivate
+rear
+nutrition
+enclose
+close
+reveal
+near
+intimate
+imitate
+initial
+ensure
+sure
+assure
+guarantee
+insure
+endure
+stand
+bear
+endanger
+danger
+threat
+entitle
+title
+underline
+emphasize
+stress
+engage
+occupy
+possess
+enrich
+rich
+wealth
+health
+enforce
+force
+hesitate
+enroll
+register
+enlarge
+#Part 1 核心词汇 Unit 7 compete
+compete
+match
+fit
+contest
+prize
+award
+reward
+medal
+rank
+pride
+race
+moral
+religious
+prejudice
+equal
+pace
+speed
+step
+rate
+percent
+trace
+compare
+complete
+total
+whole
+entire
+absolute
+finish
+company
+firm
+confirm
+enterprise
+corporation
+cooperate
+operate
+function
+surgery
+patient
+communicate
+complain
+combine
+comprehend
+#Part 1 核心词汇 Unit 8 include
+include
+eliminate
+expand
+explode
+explore
+adventure
+risk
+export
+impulse
+improve
+further
+develop
+enhance
+boost
+advance
+promote
+report
+transport
+expert
+professional
+technical
+master
+conclude
+intend
+tend
+lean
+pretend
+attend
+extend
+extent
+degree
+level
+diploma
+certificate
+license
+scale
+range
+indicate
+invent
+involve
+evolve
+theory
+practice
+exercise
+inspire
+thirsty
+eager
+stimulate
+#Part 1 核心词汇 Unit 9 invest
+invest
+inspect
+check
+examine
+respect
+honor
+expect
+anticipate
+forecast
+predict
+participate
+aspect
+prospect
+inhabit
+habit
+custom
+accustom
+locate
+live
+insert
+desert
+abandon
+waste
+save
+environment
+nature
+circumstance
+condition
+situation
+occasion
+pollute
+exhaust
+atmosphere
+investigate
+research
+search
+seek
+experiment
+experience
+survey
+poll
+vote
+elect
+select
+choose
+collect
+gather
+electric
+fund
+capital
+social
+civil
+property
+poverty
+proper
+suitable
+appropriate
+#Part 1 核心词汇 Unit 10 review
+review
+reserve
+conserve
+preserve
+deserve
+worth
+value
+serve
+revise
+correct
+precise
+accurate
+exact
+specific
+particular
+special
+especially
+edit
+supervise
+view
+opinion
+scene
+scenery
+travel
+guide
+lead
+navigate
+route
+routine
+tour
+trip
+journey
+journal
+expedition
+voyage
+landscape
+sight
+insight
+horizon
+interview
+#Part 1 核心词汇 Unit 11 remark
+remark
+significant
+important
+major
+minor
+vital
+urgent
+emergency
+essential
+fundamental
+foundation
+base
+basin
+necessary
+key
+crucial
+critical
+comment
+relieve
+believe
+confidence
+faith
+trust
+doubt
+suspect
+convince
+persuade
+recognize
+identify
+classify
+clear
+definite
+obvious
+apparent
+visible
+qualify
+quality
+character
+quantity
+sum
+release
+dismiss
+remove
+employ
+career
+#Part 1 核心词汇 Unit 12 receive
+receive
+accept
+consider
+regard
+ignore
+neglect
+cheat
+trick
+repeat
+resume
+assume
+imagine
+fiction
+novel
+consume
+spend
+expense
+expensive
+cost
+income
+wage
+salary
+earn
+pay
+afford
+purchase
+fee
+fare
+reform
+perform
+inform
+informal
+official
+resource
+original
+energy
+nuclear
+solar
+heat
+#Part 1 核心词汇 Unit 13 consist
+consist
+compose
+comprise
+insist
+persist
+resist
+assist
+consistent
+constant
+continue
+permanent
+temporary
+steady
+stable
+secure
+safe
+conflict
+crash
+collapse
+injure
+hurt
+wound
+pain
+argue
+debate
+quarrel
+struggle
+campaign
+fight
+battle
+construct
+destruction
+destroy
+damage
+harm
+ruin
+spoil
+build
+instruct
+direct
+honest
+loyal
+conduct
+structure
+constitute
+form
+kind
+sort
+resort
+shape
+former
+previous
+priority
+latter
+establish
+found
+institute
+#Part 1 核心词汇 Unit 14 deliver
+deliver
+convey
+carry
+barrier
+bar
+stick
+defend
+protect
+shelter
+guard
+attack
+hit
+strike
+beat
+offend
+depend
+rely
+define
+dedicate
+devote
+sacrifice
+declare
+announce
+claim
+describe
+despite
+decide
+determine
+resolve
+solve
+handle
+settle
+design
+sign
+resign
+quit
+assign
+symbol
+derive
+deprive
+#Part 1 核心词汇 Unit 15 emotion
+emotion
+mood
+temper
+moderate
+modern
+model
+example
+pattern
+sample
+soft
+strict
+mild
+tough
+rough
+spirit
+mental
+physical
+chemical
+mind
+reason
+excuse
+cause
+material
+substance
+please
+pleasure
+delight
+laugh
+amuse
+amaze
+astonish
+surprise
+excite
+annoy
+angry
+mad
+worry
+anxious
+nervous
+concern
+depress
+miserable
+press
+impress
+express
+frustrate
+upset
+fear
+terrible
+confuse
+regret
+embarrass
+shame
+#Part 1 核心词汇 Unit 16 state
+state
+nation
+domestic
+internal
+foreign
+interfere
+interpret
+translate
+explain
+illustrate
+elaborate
+interact
+interrupt
+disturb
+bother
+break
+policy
+economy
+culture
+literature
+technology
+finance
+industry
+machine
+equipment
+device
+instrument
+tool
+engine
+military
+launch
+mission
+statue
+figure
+analyze
+estimate
+measure
+evaluate
+ultimate
+eventually
+climate
+government
+authority
+regulate
+rule
+discipline
+adjust
+adapt
+modify
+adopt
+accommodate
+control
+limit
+boundary
+restrict
+strict
+district
+area
+field
+region
+territory
+administration
+president
+candidate
+premier
+minister
+#Part 1 核心词汇 Unit 17 law
+law
+punish
+publish
+arrest
+seize
+grab
+grasp
+capture
+catch
+hold
+prison
+penalty
+executive
+abuse
+guilty
+court
+judge
+justify
+legal
+valid
+responsible
+duty
+compulsory
+volunteer
+crime
+steal
+murder
+victim
+accuse
+charge
+change
+exchange
+alter
+vary
+blame
+warn
+commit
+admit
+acknowledge
+knowledge
+allow
+pension
+permit
+forbid
+ban
+prohibit
+prevent
+avoid
+inevitable
+escape
+block
+submit
+peak
+yield
+committee
+#Part 1 核心词汇 Unit 18 obtain
+obtain
+gain
+lose
+harvest
+acquire
+require
+demand
+command
+order
+request
+inquire
+entertain
+certain
+sustain
+maintain
+attain
+achieve
+reach
+fulfill
+contain
+retain
+remain
+replace
+represent
+remember
+forget
+forgive
+apology
+remind
+memory
+recycle
+refresh
+cure
+heal
+treat
+restore
+repair
+fix
+react
+respond
+act
+behave
+actual
+present
+absent
+current
+practical
+virtual
+recover
+discover
+detect
+cover
+hide
+reflect
+#Part 2 基础词汇 Unit 1
+spot
+woman
+toward
+century
+as
+net
+superstar
+fireplace
+clothes
+wire
+chair
+date
+tyre
+restroom
+birth
+grey
+torch
+pray
+white
+motherland
+million
+soy
+soybean
+forefather
+sale
+alcohol
+sauce
+several
+hall
+together
+madam
+label
+swim
+bookstore
+festival
+beach
+over
+large
+again
+ash
+shine
+neck
+noodle
+sunglasses
+satellite
+dense
+startup
+camera
+wave
+guess
+comedy
+#Part 2 基础词汇 Unit 2
+zero
+station
+might
+bathroom
+craft
+taxi
+hunt
+handwriting
+whale
+bind
+makeup
+tissue
+middle
+greenhouse
+soccer
+ever
+map
+classmate
+person
+ground
+glove
+dear
+plant
+bike
+series
+secret
+honeymoon
+jaw
+rest
+stay
+seldom
+button
+dry
+corner
+thousand
+path
+pile
+ink
+upper
+care
+radio
+gate
+hallway
+else
+teen
+teenager
+forehead
+#Part 2 基础词汇 Unit 3
+freedom
+black
+try
+airport
+hotel
+number
+loud
+kite
+dollar
+angel
+tale
+jelly
+sugar
+paint
+bed
+studio
+weapon
+code
+shall
+dare
+dictionary
+sheep
+candy
+ancient
+refrigerator
+shoulder
+decade
+horse
+rice
+score
+rock
+past
+cow
+inch
+peanut
+sake
+pill
+autumn
+purse
+stop
+always
+bungee
+blackboard
+hometown
+bake
+what
+cheer
+coin
+somewhat
+video
+#Part 2 基础词汇 Unit 4
+strange
+parcel
+pathway
+raincoat
+overtime
+balcony
+river
+vivid
+mate
+medium
+play
+why
+wait
+compass
+flame
+telescope
+police
+newspaper
+money
+study
+end
+belt
+mate
+hundred
+museum
+class
+language
+year
+undersea
+Easter
+through
+or
+tax
+fireman
+library
+bus
+cafe
+row
+south
+broadcast
+ticket
+handbook
+only
+waiter
+youth
+homesick
+dragon
+feed
+automobile
+#Part 2 基础词汇 Unit 5
+soon
+cola
+jungle
+fact
+talk
+rocket
+wet
+sidewalk
+point
+naughty
+cinema
+cute
+card
+body
+umbrella
+boss
+solid
+carrot
+grain
+understand
+sportsman
+bond
+worm
+bell
+after
+rat
+moreover
+bite
+software
+leg
+interest
+ant
+wild
+moon
+follow
+wolf
+couch
+sore
+tiger
+pass
+devil
+billion
+use
+sister
+tunnel
+before
+sport
+monkey
+badminton
+#Part 2 基础词汇 Unit 6
+cheerleader
+almost
+sex
+seat
+pale
+gun
+sudden
+opera
+adult
+lazy
+jacket
+slave
+return
+inside
+mystery
+tag
+name
+poison
+classroom
+tooth
+lifestyle
+bulb
+jump
+ago
+fisherman
+winter
+soda
+tomato
+straight
+browse
+barber
+shade
+fool
+fashion
+landlord
+lifeboat
+young
+tin
+backup
+smile
+mud
+offline
+fine
+wasteland
+thanksgiving
+throat
+pour
+humour
+sorry
+#Part 2 基础词汇 Unit 7
+metre
+meter
+mobile
+still
+ready
+human
+dial
+earth
+blow
+backyard
+program
+programme
+western
+sell
+blanket
+ray
+cake
+hell
+lamb
+west
+lamp
+show
+vocabulary
+switch
+spider
+bad
+fun
+emperor
+underground
+visit
+busy
+log
+dumpling
+idea
+bat
+shop
+breeze
+poet
+deadline
+even
+supper
+party
+game
+second
+tide
+god
+whereas
+front
+meanwhile
+washroom
+easy
+firework
+#Part 2 基础词汇 Unit 8
+sole
+keep
+yoga
+cloth
+rent
+dance
+square
+kick
+flow
+typewrite
+nothing
+hang
+chip
+song
+bench
+part
+wonderful
+camp
+borrow
+petrol
+brick
+eve
+homemade
+mark
+friend
+pair
+summer
+tomorrow
+wine
+luck
+board
+farm
+heaven
+therefore
+behind
+nap
+mouse
+knife
+elder
+nowhere
+volleyball
+spaceship
+mountain
+first
+film
+slight
+could
+bleed
+#Part 2 基础词汇 Unit 9
+polite
+seatbelt
+doll
+deer
+advertise
+speak
+community
+numerous
+eyebrow
+text
+golf
+locker
+dream
+noon
+another
+snow
+soul
+bird
+daughter
+wide
+kiss
+railway
+some
+postcard
+silly
+superpower
+dairy
+toothache
+lie
+concert
+butterfly
+pig
+nut
+sink
+asleep
+bitter
+pupil
+insect
+family
+ride
+though
+logo
+hen
+final
+policemen
+policeman
+if
+brand
+round
+maybe
+#Part 2 基础词汇 Unit 10
+answer
+curious
+nail
+zone
+workmate
+learn
+sweater
+lip
+penny
+dolphin
+now
+upward
+doctor
+headache
+beam
+either
+dental
+astronaut
+boil
+yogurt
+yoghurt
+greet
+cook
+pea
+quarter
+document
+wildlife
+draw
+nevertheless
+life
+nursery
+eyelid
+swallow
+shallow
+tall
+platform
+pity
+chocolate
+steam
+puzzle
+hospital
+evening
+out
+relax
+war
+desk
+today
+milk
+tell
+while
+shoe
+#Part 2 基础词汇 Unit 11
+database
+deed
+plenty
+dumb
+often
+price
+theatre
+theater
+floor
+haste
+school
+newborn
+holiday
+snack
+good
+hairdresser
+should
+southern
+below
+watchdog
+telephone
+mankind
+cave
+sky
+thin
+sing
+housework
+unless
+purple
+season
+super
+gap
+beg
+go
+hard
+cent
+finger
+beer
+fur
+afternoon
+workload
+heart
+footprint
+man
+here
+father
+shout
+fire
+textbook
+need
+motorbike
+#Part 2 基础词汇 Unit 12
+pot
+gene
+host
+northwestern
+oral
+skin
+worldwide
+factory
+eye
+turn
+climb
+enjoy
+folk
+wall
+strawberry
+box
+hill
+bandage
+world
+across
+cheese
+village
+enemy
+hike
+crystal
+any
+wrong
+dress
+morning
+deaf
+yard
+roof
+fat
+postman
+win
+avenue
+bit
+sit
+nose
+clue
+visa
+group
+diamond
+angle
+bow
+lottery
+highway
+think
+supermarket
+evil
+#Part 2 基础词汇 Unit 13
+weekend
+dive
+dinner
+laptop
+see
+sun
+background
+many
+upon
+cowboy
+dresser
+chain
+red
+mushroom
+stone
+work
+tip
+oversleep
+ski
+colleague
+breath
+grass
+leap
+metro
+ocean
+nurse
+housewife
+stepmother
+lantern
+drive
+niece
+palm
+hot
+quite
+give
+fill
+phenomenon
+table
+free
+bet
+drum
+coffee
+hat
+thief
+art
+broad
+brunch
+airways
+champion
+nod
+#Part 2 基础词汇 Unit 14
+fork
+kilometre
+kilometer
+leave
+deep
+join
+buy
+secretary
+lake
+multimedia
+swan
+make
+web
+onion
+garage
+pronounce
+wonder
+sleep
+coat
+shadow
+although
+drop
+southeast
+Halloween
+side
+sand
+smog
+tailor
+pasta
+bag
+news
+nice
+aside
+sunrise
+vacation
+such
+media
+medium
+bold
+town
+however
+ill
+husband
+iceberg
+burn
+soil
+vase
+happy
+then
+rope
+mail
+surround
+#Part 2 基础词汇 Unit 15
+spell
+fly
+fast
+ring
+drink
+help
+frog
+hobby
+open
+flight
+quiet
+chess
+among
+online
+light
+sweet
+case
+hire
+castle
+author
+lot
+have
+same
+grammar
+tie
+dull
+hunger
+tonight
+where
+breakfast
+cousin
+weight
+outline
+chairman
+movie
+kindergarten
+bread
+who
+paradise
+wrist
+wing
+page
+television
+fold
+hairstyle
+#Part 2 基础词汇 Unit 16
+rabbit
+album
+age
+nest
+trap
+drawer
+straw
+start
+small
+altogether
+seed
+barbecue
+fade
+lifelong
+teamwork
+skateboard
+taste
+week
+king
+bee
+genius
+meet
+bubble
+destination
+pear
+soap
+yell
+list
+head
+low
+land
+pub
+store
+roast
+prince
+heavy
+but
+nor
+pipe
+full
+until
+mile
+ball
+stamp
+garden
+role
+tone
+forever
+#Part 2 基础词汇 Unit 17
+collar
+dean
+rather
+away
+bridge
+story
+mere
+balance
+mouth
+worse
+indeed
+bill
+heel
+club
+according
+hurry
+shoot
+letter
+link
+instead
+fellow
+never
+tennis
+spring
+blouse
+article
+dynasty
+flower
+born
+teapot
+back
+sock
+message
+honey
+guest
+orange
+fond
+magic
+sick
+hillside
+network
+beneath
+lock
+train
+memo
+napkin
+facial
+robot
+#Part 2 基础词汇 Unit 18
+diet
+print
+old
+pure
+belong
+grandfather
+continent
+brush
+mess
+cast
+usual
+island
+slow
+detail
+stubborn
+cheek
+toe
+mailbox
+blueprint
+logic
+best
+sharp
+downtown
+all
+find
+breed
+power
+mineral
+sentence
+rail
+vain
+dig
+lawn
+apple
+also
+wipe
+room
+know
+day
+shower
+smell
+warm
+neighbour
+neighbor
+underwater
+nightclub
+air
+book
+#Part 2 基础词汇 Unit 19
+pull
+shy
+ice
+juice
+chat
+peace
+pizza
+knock
+plus
+football
+pond
+paper
+midnight
+hour
+fox
+helmet
+miner
+baseball
+toothpaste
+bull
+shift
+way
+birthday
+coach
+tear
+corn
+overwork
+gold
+versus
+how
+watch
+cigarette
+pork
+brother
+envelope
+pencil
+once
+clock
+foot
+fingerprint
+push
+short
+pearl
+north
+lemon
+fuel
+motor
+till
+ask
+#Part 2 基础词汇 Unit 20
+welcome
+people
+since
+egg
+tight
+sail
+solo
+silver
+other
+line
+bath
+landmark
+closet
+dinosaur
+pioneer
+otherwise
+rush
+against
+wonderland
+delicious
+come
+self
+course
+feather
+photograph
+minute
+violin
+computer
+nobody
+dozen
+magazine
+sin
+subway
+chopstick
+big
+hear
+soldier
+pack
+office
+food
+eyeball
+suitcase
+data
+freeze
+elephant
+skip
+flash
+poem
+#Part 2 基础词汇 Unit 21
+sea
+leaf
+fever
+lend
+during
+distance
+follow
+hero
+walk
+ear
+month
+crowd
+noise
+window
+coal
+twin
+soup
+city
+tobacco
+dove
+meantime
+cap
+gas
+hardware
+fountain
+hammer
+carpet
+bicycle
+pigeon
+meat
+orphan
+sheet
+teach
+picture
+chef
+read
+wheel
+right
+cream
+stream
+pumpkin
+eastern
+night
+file
+better
+fan
+favorite
+none
+#Part 2 基础词汇 Unit 22
+shut
+waterfall
+password
+biscuit
+rude
+thing
+grassland
+loose
+team
+superman
+load
+word
+dust
+water
+run
+wish
+knee
+new
+cloud
+spacecraft
+tire
+labor
+labour
+band
+drama
+backpack
+cookie
+leisure
+skim
+talent
+railroad
+add
+tower
+toy
+diary
+share
+because
+stair
+say
+both
+along
+touch
+dirty
+must
+get
+flock
+well
+animal
+champagne
+yesterday
+#Part 2 基础词汇 Unit 23
+piano
+seem
+kilogram
+long
+melt
+question
+length
+polar
+bomb
+bedroom
+pop
+trouble
+kid
+country
+tongue
+tree
+clever
+countryside
+home
+skirt
+ship
+throw
+stock
+basketball
+thick
+brown
+period
+bowl
+shell
+less
+nightmare
+height
+door
+surf
+cabbage
+cold
+restaurant
+era
+rain
+ahead
+aloud
+handbag
+potato
+beast
+coastline
+plan
+send
+crown
+become
+#Part 2 基础词汇 Unit 24
+snake
+up
+muscle
+dentist
+cage
+meal
+pregnant
+pilot
+listen
+luggage
+legend
+vitamin
+beyond
+exam
+great
+lunch
+begin
+clean
+wheat
+wash
+spoon
+oil
+towel
+passport
+just
+narrow
+would
+toast
+zoo
+weekday
+most
+between
+child
+write
+bamboo
+chest
+beauty
+perhaps
+space
+far
+jeans
+pool
+athlete
+each
+click
+wool
+neither
+hungry
+#Part 2 基础词汇 Unit 25
+goose
+marketplace
+bottle
+sweep
+male
+brain
+love
+miracle
+this
+own
+job
+kitchen
+romance
+butter
+east
+chicken
+shock
+plane
+sweat
+poster
+duck
+piece
+necklace
+color
+colour
+pound
+dog
+airline
+cry
+afraid
+tape
+Christmas
+pretty
+spare
+earring
+eat
+cough
+urban
+hence
+mall
+mainstream
+motel
+son
+cat
+handsome
+whether
+peach
+aircraft
+due
+#Part 2 基础词汇 Unit 26
+blind
+internet
+workplace
+thumb
+queen
+update
+music
+calm
+face
+wind
+core
+zebra
+stupid
+note
+boat
+root
+packet
+mainland
+forward
+stage
+voice
+pink
+crayon
+trousers
+pastime
+lady
+ceiling
+nephew
+tail
+sleepwalk
+green
+that
+lay
+ambulance
+let
+partner
+basket
+fluent
+hug
+teammate
+ancestor
+student
+want
+plate
+lesson
+armchair
+pen
+salt
+#Part 2 基础词汇 Unit 27
+loudspeaker
+chore
+early
+canal
+dark
+tea
+banana
+cross
+feel
+chart
+guitar
+science
+clap
+shelf
+accent
+shark
+every
+roommate
+boring
+high
+centre
+center
+cut
+geography
+miss
+boast
+bush
+species
+hair
+mill
+northern
+really
+sad
+clerk
+overnight
+pause
+salad
+cupboard
+hope
+crop
+style
+tiny
+thus
+pocket
+retire
+cup
+monk
+snowman
+#Part 2 基础词汇 Unit 28
+monster
+yellow
+paragraph
+look
+needle
+left
+eagle
+nowadays
+pants
+bone
+toilet
+scream
+blood
+scan
+Olympic
+website
+parent
+queue
+quick
+homework
+seafood
+already
+wear
+arm
+rose
+gentleman
+joke
+sincere
+star
+rainfall
+bend
+feast
+household
+wink
+market
+workshop
+blog
+little
+put
+yet
+next
+tutor
+pet
+fish
+house
+audience
+future
+dawn
+spokesman
+menu
+#Part 2 基础词汇 Unit 29
+tap
+time
+forest
+skate
+empire
+ugly
+expo
+hamburger
+chin
+member
+smoke
+call
+mirror
+cell
+shirt
+someday
+helicopter
+cattle
+place
+owe
+tank
+street
+dish
+cartoon
+skill
+battery
+candle
+smooth
+fry
+liquid
+suit
+captain
+goat
+screen
+under
+salesman
+stockbroker
+bring
+there
+cellphone
+test
+bottom
+jog
+lovely
+harmony
+lipstick
+brake
+#Part 2 基础词汇 Unit 30
+hand
+laundry
+thank
+rapid
+road
+sofa
+spy
+fruit
+rainforest
+history
+cycle
+hole
+size
+when
+sandwich
+lion
+pick
+vegetable
+park
+car
+copy
+which
+take
+wife
+around
+blue
+grow
+cool
+record
+seashore
+tent
+difficult
+female
+moment
+bank
+term
+rainbow
+half
+notebook
+headquarter
+beef
+copyright
+flag
+teenage
+ghost
+airplane
+pillow
+picnic
+palace
+#Part 3 生僻词汇 Unit 1
+dictate
+consent
+pole
+submerge
+diagnose
+aspirin
+punctual
+fancy
+gender
+Bible
+prevalent
+wander
+tractor
+skyrocket
+subsequent
+fragile
+acquaint
+omit
+lever
+introvert
+pedestrian
+insult
+rim
+fax
+tender
+column
+retail
+cargo
+vehicle
+hatred
+#Part 3 生僻词汇 Unit 2
+setback
+pest
+formula
+spray
+drone
+depict
+fragment
+catalogue
+hospitality
+storefront
+cater
+gossip
+bark
+trigger
+sue
+subscribe
+worship
+earnest
+humid
+pine
+fuzzy
+curve
+idle
+forum
+sculpt
+hostile
+tumour
+quote
+glue
+marine
+#Part 3 生僻词汇 Unit 3
+gravity
+valentine
+bridesmaid
+fossil
+poultry
+rigid
+hereafter
+luxury
+coincide
+peasant
+carnation
+squeeze
+leaflet
+marathon
+tribe
+dismantle
+fairy
+weed
+polish
+perfume
+verbal
+glamour
+sigh
+spill
+concord
+widow
+dash
+mechanism
+volume
+demon
+#Part 3 生僻词汇 Unit 4
+cube
+infinite
+jealous
+extreme
+refund
+satire
+utter
+scandal
+toss
+evacuate
+random
+spam
+premature
+graveyard
+sly
+whisper
+lunar
+vague
+ballot
+honeycomb
+convert
+crossword
+crossword puzzle
+linguistic
+reckless
+transparent
+approximate
+reverse
+stain
+vapour
+vapor
+legacy
+#Part 3 生僻词汇 Unit 5
+insulate
+layer
+cruel
+pedal
+volcano
+index
+diagram
+trust
+shuffle
+fence
+bracket
+severe
+quarantine
+install
+flesh
+shiver
+dine
+cite
+nonetheless
+inquest
+wrest
+bid
+glimmer
+anecdote
+corps
+torture
+vocal
+firefight
+abrupt
+#Part 3 生僻词汇 Unit 6
+chill
+caveman
+carriage
+evenly
+cafeteria
+toddle
+harsh
+sniff
+illusion
+cable
+antenna
+wavelength
+subtlety
+architect
+dump
+embrace
+criteria
+curriculum
+odd
+beforehand
+powder
+shorthand
+brochure
+bilingual
+compound
+livelihood
+comb
+subordinate
+buddha
+carpenter
+#Part 3 生僻词汇 Unit 7
+manipulate
+prose
+split
+stadium
+rhythm
+pinpoint
+epidemic
+freight
+influenza
+flu
+tube
+infant
+communist
+lettuce
+calorie
+souvenir
+prolong
+needy
+gymnastics
+slash
+lame
+conquer
+recruit
+counterpart
+turtle
+workaholic
+exert
+component
+rack
+warship
+canteen
+#Part 3 生僻词汇 Unit 8
+span
+greed
+colony
+profound
+spice
+perish
+prevail
+contort
+manual
+layout
+scrawl
+idiom
+hazard
+telegram
+outing
+drown
+devise
+acid
+tremendous
+genetic
+Confucius
+gross
+biotechnology
+intervene
+vibrate
+cease
+absurd
+retard
+holy
+slice
+#Part 3 生僻词汇 Unit 9
+phase
+compensate
+trail
+accessory
+protein
+longevity
+overdose
+flavour
+compartment
+fleet
+patrol
+damp
+fatal
+leftover
+innovative
+glitter
+lane
+sacred
+parade
+seal
+beverage
+clone
+slide
+architecture
+rumour
+foreman
+pardon
+calendar
+#Part 3 生僻词汇 Unit 10
+oblige
+reinforce
+charter
+provision
+tomb
+feasible
+ironic
+nonsense
+fluid
+millionaire
+portable
+milestone
+heatstroke
+slipper
+handrail
+tactic
+supplement
+melody
+skinny
+surpass
+condense
+controversy
+blacksmith
+midst
+amidst
+refuge
+divine
+massage
+transcript
+swift
+#Part 3 生僻词汇 Unit 11
+echo
+utility
+dynamic
+oxygen
+shuttle
+exposition
+symptom
+pistol
+float
+vulnerable
+sneeze
+divert
+swing
+outlet
+submarine
+weep
+veil
+inflate
+waist
+slip
+oriental
+erase
+stroke
+revenge
+superstition
+breast
+exaggerate
+emit
+steep
+prey
+#Part 3 生僻词汇 Unit 12
+piracy
+ridiculous
+elastic
+tame
+adolescent
+slogan
+refine
+sparse
+meditate
+delete
+stiff
+swap
+gymnasium
+diverge
+proportion
+shave
+mosquito
+commence
+steer
+twilight
+sophisticated
+spark
+bump
+rational
+implement
+irritate
+humble
+revolution
+cuisine
+decent
+#Part 3 生僻词汇 Unit 13
+stuff
+biography
+freeway
+atom
+sunbathe
+gasoline
+blush
+distort
+spin
+wrinkle
+solemn
+skid
+noble
+flexible
+gallery
+complement
+expire
+apposite
+lease
+weary
+irony
+surname
+offspring
+stationer
+reclaim
+optical
+exempt
+rage
+disintegrate
+#Part 3 生僻词汇 Unit 14
+collaborate
+utilise
+utilize
+disguise
+deficiency
+magnificent
+implicate
+succession
+aptitude
+departure
+induce
+trivial
+republic
+deputy
+bribery
+deliberate
+liberty
+liberate
+literary
+speculate
+heritage
+inherit
+delegate
+merge
+extinguish
+nickname
+ego
+cushion
+radiance
+aggressive
+#Part 3 生僻词汇 Unit 15
+subtract
+devastate
+utmost
+radical
+immune
+violate
+immigrant
+fascinate
+supreme
+expedition
+solitary
+partial
+semester
+rival
+envy
+tragedy
+elevate
+sketch
+mercy
+joint
+carbon
+silent
+cosy
+undergo
+exploit
+discard
+questionnaire
+intern
+excursion
+vice
+tiresome
+blossom
+appetite
+#附录 1 短语搭配 Unit 1
+put in
+put on
+put down
+put away
+put up
+put out
+put into
+put off
+put back
+put forward
+put an end to
+put up with
+make after
+make up
+make up for
+make up from
+make up of
+make for
+make out
+make friends with
+make use of
+make an apology to sb. for sth.
+make up one's mind
+make fun of
+make room for
+make comments on
+take in
+take on
+take after
+take down
+take away
+take apart
+take up
+take out
+take off
+take over
+take back
+take sth. for granted
+take notice of
+pay attention to
+take pride in
+take the place of
+take part in
+set down
+set up
+set about
+set aside
+set out
+set off
+set fire to
+set an example to sb.
+#附录 1 短语搭配 Unit 2
+give in
+give away
+give up
+give out
+give off
+give way to
+go in for
+go on
+go after
+go against
+go along
+go through
+go away
+go with
+go up
+go out
+go into
+go over
+go by
+go back
+come in
+come on
+come about
+come along
+come to
+come across
+come up with
+come out
+come back
+come up to
+come from
+turn in
+turn on
+turn down
+turn against
+turn to
+turn up
+turn out
+turn into
+turn off
+turn over
+turn back
+keep on
+keep down
+keep up with
+keep pace with
+keep a record of
+keep an eye on
+keep in touch with
+run down
+run away
+run out
+#附录 1 短语搭配 Unit 3
+bring about
+bring back
+bring forward
+bring in
+bring out
+bring up
+bring home to
+think about
+think of
+think over
+think highly of
+hand in
+hand out
+hand up
+hand off
+hand over
+hand over to
+carry away
+carry back
+carry forward
+carry on
+carry out
+stick out
+stick to
+stick up for
+stick with
+look after
+look at
+look back
+look for
+look into
+look on
+look out
+look over
+look through
+look up
+look down upon
+look down on
+look down
+look forward to
+break away
+break down
+break in
+break into
+break off
+break out
+break through
+break up
+get above
+get across
+get away
+get back
+#附录 1 短语搭配 Unit 4
+get on
+get on with
+get out
+get out of
+get through
+get close to
+get along with
+get up
+get in touch with
+get down to
+fall behind
+fall off
+call on
+call for
+call out
+call in
+call up
+call off
+find out
+find fault with
+agree with sb.
+agree on sth.
+die off
+die down
+die from
+die of
+die away
+cut off
+cut down
+fight for
+fight with
+fight against
+pay for
+pay off
+pay a visit to
+pay attention to
+stand for
+stand up
+send sb. for
+send out
+have something to do with
+have nothing to do with
+have a day off
+have an effect on
+have an influence on
+have an impact on
+have access to ...
+have an advantage over
+have a talk with sb.
+leave for
+leave out
+leave alone
+leave behind
+hear of
+hear from
+#附录 1 短语搭配 Unit 5
+lose weight
+lose sight of
+lose touch with
+pick up
+pick out
+see into
+see through
+see sb. off
+see to it
+result in
+lead to
+result from
+because of
+check in
+check out
+work out
+figure out
+work on
+work as
+catch sight of
+catch up with
+in return for
+at the risk of
+at the danger of
+in exchange for
+in favor of
+in need of
+in respect of
+in possession of
+in honor of
+in charge of
+regardless of
+in response to
+in reply to
+in return
+be curious about
+apart from
+as well as
+at intervals
+at least
+by accident
+by chance
+at present
+at sb.'s disposal
+at the cost of
+at the mercy of
+at the moment
+by means of
+by mistake
+by virtue of
+in a hurry
+in case of
+in a word
+in accordance with
+in addition to
+#附录 1 短语搭配 Unit 6
+in advance
+in brief
+in common
+in debt
+in detail
+in general
+in line with
+in memory of
+in particular
+in proportion to
+in spite of
+in the course of
+in light of
+in the light of
+in turn
+in vain
+on account of
+on average
+on an average
+on the average
+on behalf of
+on business
+on condition that
+on fire
+on purpose
+on sale
+on schedule
+on the contrary
+on one hand
+on the one hand
+on the other hand
+on the point of
+be involved in
+be able to
+be accustomed to
+be aware of
+be linked to
+be linked with
+base on
+attribute ... to
+be committed to
+be confined to
+be dedicated to
+be devoted to
+be exposed to
+be fond of
+be full of
+be limited to
+be proud of
+be referred to
+be related to
+be subject to
+be suitable for
+be sure of
+#附录 1 短语搭配 Unit 7
+about to
+be about to
+approve of
+be in favor of
+but for
+by way of
+for lack of
+for life
+for the good of
+for the purpose of
+for the sake of
+by the name of
+in the name of
+in all
+at all
+above all
+in the end
+at the end
+by the end
+use up
+stay up
+clear up
+bond with
+free from
+combine ... with ...
+replace ... with ...
+differ in ...
+emerge from ...
+concentrate on ...
+focus on
+distinguish ... from ...
+communicate with ...
+differ from ...
+divide ... into ...
+confront with ...
+wait for
+rather than
+sooner or later
+add ... to
+after all
+amount to
+apply for
+aside from
+associate ... with ...
+complain about
+complain of
+comply with
+conceive of
+congratulate on
+consist of
+consult with
+contribute to
+convert to
+#附录 1 短语搭配 Unit 8
+convince of
+cope with
+deal with
+deduce from
+define ... as ...
+depend on
+depend upon
+derive from
+discharge from ...
+dispose of
+distinguish from
+do away with
+engage in
+equip with
+exchange for
+identify with
+impose on
+inform of
+learn from
+major in
+lie in
+object to
+originate in
+originate from
+take advantage of
+be busy with
+be capable of
+account for
+be absorbed in
+be accused of
+be charged with
+adapt to
+adhere to
+benefit from
+be used to doing sth.
+be used to do
+be used for doing sth.
+because of
+due to
+thanks to
+according to
+along with
+as for
+as to
+instead of
+in place of
+together with
+up to
+inform sb. of sth.
+insure against
+play a joke on

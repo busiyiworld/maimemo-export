@@ -1,0 +1,3658 @@
+#Unit 1 List 1 base类
+base
+bass
+basis
+bottom
+basic
+basically
+basement
+based
+baseball
+found
+#Unit 1 List 2 find类
+find
+explore
+make
+#Unit 1 List 3 duce-lead类
+produce
+production
+product
+yield
+productive
+productivity
+reproduce
+#Unit 1 List 4 just类
+just
+justice
+adjust
+coordinate
+justify
+fair
+fairness
+affair
+consistency
+judge
+prejudice
+bias
+discrimination
+guilty
+#Unit 1 List 5 job类
+job
+jobless
+cause
+vocation
+career
+calling
+recall
+up-to-date
+modern
+contemporary
+temporary
+temper
+date
+lately
+early
+late
+later
+punctual
+prompt
+recent
+#Unit 1 List 6 new类
+news
+renew
+novel
+innovate
+innovation
+renovate
+create
+creation
+creature
+generation
+generate
+generator
+gene
+genius
+general
+generally
+#Unit 1 List 7 person类
+person
+personal
+personnel
+personality
+character
+characteristic
+staff
+clerk
+panel
+companion
+company
+colleague
+league
+federal
+relate
+relation
+relative
+relativity
+relevant
+#Unit 1 List 8 university类
+graduate
+undergraduate
+paper
+theory
+theoretical
+paragraph
+essay
+culture
+cultivate
+polite
+nurture
+foster
+#Unit 1 List 9 mov-mob-mot-move类
+move
+touching
+movement
+touched
+remove
+removal
+movie
+automobile
+robot
+vehicle
+automatic
+mobile
+emotion
+emotional
+promote
+motor
+motivate
+motion
+remote
+motive
+movable
+loose
+loosen
+unfasten
+swift
+rapid
+#Unit 2 List 1 feel类
+feeling
+#Unit 2 List 2 sci-know类
+science
+scientific
+conscious
+consciousness
+unconscious
+programmable
+conscience
+moral
+#Unit 2 List 3 manu-hand类
+manual
+manufacture
+manufacturer
+#Unit 2 List 4 -man类
+sportsman
+chairman
+workman
+postman
+policeman
+roman
+fireman
+fisherman
+gentleman
+German
+mankind
+gentle
+kindness
+command
+commander
+manage
+manager
+management
+romantic
+romance
+#Unit 2 List 5 mun-man类
+communication
+communicate
+contact
+community
+communism
+communist
+common
+mutual
+normal
+normally
+ordinary
+usual
+available
+idle
+faulty
+error
+erroneous
+false
+commit
+accurate
+inaccurate
+accuracy
+right
+entitle
+upright
+vertical
+#Unit 2 List 6 log类
+logical
+psychology
+psychologic
+biology
+#Unit 2 List 7 log=speak类
+dialogue
+catalogue
+apologize
+apology
+regret
+divide
+division
+individual
+split
+low
+pale
+fall
+descend
+inferior
+superior
+follow
+fellow
+lower
+#Unit 2 List 8 life-live类
+live
+lively
+liver
+deliver
+delivery
+living
+livelihood
+liveliness
+below
+pillow
+life
+lifetime
+being
+alive
+lonely
+loneliness
+alone
+#Unit 2 List 9 public类
+public
+republic
+publication
+release
+publish
+print
+blueprint
+fingerprint
+issue
+air
+aircraft
+oxygen
+#Unit 2 List 10 fin-end类
+final
+finally
+ultimately
+extreme
+extremely
+eventually
+lastly
+last
+least
+endless
+ending
+fine
+define
+definition
+finish
+refine
+confine
+definite
+definitely
+finite
+infinite
+#Unit 2 List 11 term类
+term
+terminal
+terminate
+#Unit 2 List 12 tect-hide类
+protect
+protection
+protective
+detect
+detection
+#Unit 2 List 13 need类
+need
+indispensable
+needle
+demand
+#Unit 2 List 14 quire-seek获得类
+require
+requirement
+request
+call for
+acquire
+inquire
+inquiry
+#Unit 2 List 15 letter-liter文学
+letter
+literature
+literary
+illiterate
+poetry
+#Unit 3 List 1 over-超过/高
+overall
+overseas
+moreover
+overtake
+overcome
+triumph
+champion
+beat
+conquest
+conquer
+defeat
+overnight
+overcoat
+overlook
+overhead
+overestimate
+overrate
+overstate
+exaggerate
+boast
+ready
+reluctant
+dread
+dreadful
+fear
+fearless
+terrible
+frighten
+terror
+horror
+distress
+stress
+misery
+miserable
+unhappiness
+tragedy
+sorrow
+bitter
+sadness
+#Unit 3 List 2 popu-pop-peopl类
+people
+popular
+population
+pop
+popularity
+current
+currency
+#Unit 3 List 3 sec-sex-cut类
+section
+fraction
+second
+secondary
+insect
+sex
+sexual
+sector
+branch
+#Unit 3 List 4 know类
+know
+knowledge
+unknown
+well-known
+famous
+fame
+reputation
+prominent
+eminent
+#Unit 3 List 5 单调、无聊类
+monotonous
+dull
+tedious
+boring
+bore
+satire
+interest
+uninteresting
+benefit
+behalf
+beneficial
+welfare
+profit
+profitable
+#Unit 3 List 6 serv-keep类
+serve
+reserve
+observe
+observation
+observer
+preserve
+deserve
+conserve
+conservative
+conservation
+reservoir
+#Unit 3 List 7 use使用类
+used
+useless
+vain
+usage
+abuse
+#Unit 3 List 8 use-uti类
+utilize
+utility
+exploit
+exert
+#Unit 3 List 9 custom习惯类
+custom
+customer
+accustomed
+convention
+conventional
+habit
+habitual
+inhabitant
+#Unit 3 List 10 place类
+place
+homeless
+displace
+replace
+#Unit 3 List 11 form=形状类
+form
+information
+former
+transform
+transformation
+transformer
+formula
+uniform
+formation
+perform
+performance
+behave
+formal
+reform
+platform
+conformity
+#Unit 3 List 12 duc-lead类
+education
+educate
+campus
+#Unit 3 List 13 civil-cultivate类
+civilize
+civilization
+tuition
+scholar
+scholarship
+tutor
+#Unit 3 List 14 经济；商业类
+business
+businessman
+economy
+economic
+economical
+economically
+economics
+commerce
+commercial
+goods
+goodness
+trade
+market
+marketing
+mercy
+merciful
+merchant
+monetary
+fiscal
+financial
+finance
+fiance
+dollar
+pound
+loan
+fee
+tip
+#Unit 4 List 1 leg-law类
+legal
+illegal
+legitimate
+private
+privilege
+legacy
+inherit
+heritage
+legislate
+legislation
+law
+lawsuit
+lawyer
+court
+prison
+prisoner
+jury
+council
+#Unit 4 List 2 full-complete类
+full
+fully
+occupied
+occupy
+occupation
+complete
+completely
+tidy
+total
+utter
+gross
+absolutely
+absolute
+#Unit 4 List 3 负责类
+pond
+respond
+response
+corresponding
+correspond
+responsible
+responsibility
+feedback
+liable
+liability
+accountable
+account
+consider
+consideration
+considerable
+considerate
+thoughtful
+handsome
+counter
+counterbalance
+#Unit 4 List 4 contra-反类
+contrary
+contradict
+contrast
+count
+encounter
+quantity
+countryside
+metropolis
+metropolitan
+urban
+rural
+downtown
+#Unit 4 List 5 公司类
+company
+accompany
+corporation
+incorporate
+firm
+confirm
+#Unit 4 List 6 cas-fall类
+occasion
+occasional
+opportunity
+casual
+casualty
+possible
+possibility
+probable
+probability
+feasible
+#Unit 4 List 7 number数量类
+numerous
+plentiful
+plenty
+generous
+abundant
+abandon
+#Unit 4 List 8 blank类
+blank
+blanket
+empty
+bare
+rare
+hardly
+scarcely
+seldom
+naked
+#Unit 4 List 9 vac-empty类
+vacant
+vacation
+vacuum
+spare
+#Unit 4 List 10 control类
+control
+curb
+block
+ban
+check
+consult
+exam
+examination
+survey
+question
+#Unit 4 List 11 怀疑类
+questionable
+doubt
+doubtful
+distrust
+doubtless
+#Unit 4 List 12 转换类
+change
+roll
+enroll
+enrollment
+register
+shift
+switch
+alter
+vary
+variation
+variety
+variable
+various
+countless
+exchange
+bargain
+beg
+modify
+choice
+optional
+option
+alternative
+choose
+decision
+#Unit 4 List 13 clu-close类
+conclude
+conclusion
+exclude
+include
+embrace
+preclude
+#Unit 4 List 14 short类
+shortage
+shortly
+lack
+dearth
+famine
+starvation
+flood
+earthquake
+#Unit 4 List 15 sent-send类
+present
+represent
+representative
+presently
+consent
+#Unit 5 List 1 great类
+great
+fantasy
+awesome
+excellent
+brilliant
+college
+university
+master
+doctor
+bachelor
+degree
+#Unit 5 List 2 down, up, out, ex, in类
+downward
+upward
+inward
+outward
+outdoors
+indoors
+inside
+internal
+external
+exterior
+interior
+inner
+afterward
+forward
+downstairs
+upstairs
+backward
+#Unit 5 List 3 高度类
+altitude
+highway
+highly
+#Unit 5 List 4 archy=rule类
+hierarchy
+archetype
+architecture
+huge
+gigantic
+giant
+maximum
+minimum
+#Unit 5 List 5 health类
+health
+healthy
+wealth
+wealthy
+fit
+fitness
+sound
+absurd
+strong
+strength
+strengthen
+reinforce
+enforce
+force
+oblige
+asset
+virtue
+disadvantage
+advantage
+merit
+percent
+decade
+dozen
+fortnight
+gap
+crack
+ditch
+interval
+#Unit 5 List 6 pay类
+pay
+payment
+afford
+render
+surrender
+provide
+provided
+provision
+#Unit 5 List 7 fer-to take 拿；带来
+different
+indifferent
+differ
+offer
+inference
+confer
+refer
+reference
+preference
+defer
+suffering
+transfer
+convert
+interfere
+fertile
+circumference
+#Unit 5 List 8 rupt-break类
+bank
+bankrupt
+interrupt
+corruption
+decay
+#Unit 5 List 9 learn, lead类
+learn
+learning
+learned
+academic
+academy
+lead
+leader
+leading
+mislead
+#Unit 5 List 10 pri, pre- 在……之前类
+prime
+primary
+primarily
+primitive
+elementary
+preliminary
+chief
+main
+principal
+principle
+mainland
+remain
+maintain
+breed
+bring
+seed
+sow
+#Unit 5 List 11 hum-soil类
+human
+humane
+humanity
+humble
+humor
+humorous
+#Unit 5 List 12 par, pair=double类
+parent
+transparent
+apparent
+obvious
+pardon
+pair
+repair
+despair
+prepare
+preparation
+compare
+comparative
+comparison
+separate
+isolate
+island
+#Unit 5 List 13 hard类
+hard
+stiff
+ease
+simplify
+simple
+brief
+hardware
+harden
+#Unit 5 List 14 -ship类
+hardship
+friendship
+mate
+relationship
+leadership
+ownership
+membership
+remember
+memory
+monument
+#Unit 6 List 1 like类
+like
+likely
+unlikely
+unlike
+dislike
+hate
+hatred
+spite
+envy
+envious
+jealous
+likewise
+likelihood
+chance
+childhood
+neighborhood
+#Unit 6 List 2 duct-lead类
+conduct
+conductor
+semiconductor
+introduce
+introduction
+recommend
+recommendation
+reduce
+reduction
+#Unit 6 List 3 ver-turn类
+conversation
+discussion
+converse
+conversion
+diverse
+reverse
+universal
+version
+adverse
+adversity
+#Unit 6 List 4 believe类
+believe
+belief
+convince
+unbelievable
+#Unit 6 List 5 trust类
+trustworthy
+reliability
+credible
+credit
+concrete
+#Unit 6 List 6 lect-choose/speak类
+elect
+election
+collect
+collection
+collective
+intellectual
+intelligent
+intelligence
+wit
+witness
+smart
+clever
+bright
+lecture
+dialect
+neglect
+ignore
+ignorant
+#Unit 6 List 7 mean, nasty类
+mean
+nasty
+disgust
+dirty
+pollute
+pollution
+contaminate
+soil
+cruel
+meanwhile
+#Unit 6 List 8 rect-right/straight类
+direction
+direct
+directly
+horizon
+horizontal
+immediate
+director
+lead
+guide
+guidance
+correct
+erect
+rectify
+#Unit 6 List 9 idea类
+idea
+remind
+mood
+ideal
+idol
+fetish
+idealist
+idealism
+spiritualism
+material
+materialism
+stuff
+#Unit 6 List 10 part类
+part
+particle
+partial
+depart
+department
+bureau
+apart
+farewell
+partner
+participate
+port
+porter
+passport
+portion
+import
+important
+importance
+key
+core
+nuclear
+report
+reporter
+export
+transport
+transportation
+traffic
+portable
+proportional
+experience
+inexperienced
+undergo
+undertake
+tolerate
+tolerance
+bear
+patience
+patient
+impatient
+#Unit 6 List 11 dur=to undergo or suffer类
+endure
+duration
+durable
+#Unit 6 List 12 dom-hom;-domn类
+dome
+domestic
+domain
+kingdom
+dominate
+freedom
+emperor
+#Unit 6 List 13 come类
+income
+salary
+earning
+outcome
+#Unit 6 List 14 sum-to take类
+consume
+consumption
+resume
+assume
+assumption
+sum
+summarize
+#Unit 6 List 15 price类
+priceless
+cost
+costly
+fee
+toll
+charge
+discharge
+#Unit 6 List 16 govern-rule类
+government
+govern
+governor
+administration
+administrative
+congress
+parliament
+principle
+code
+oversee
+#Unit 7 List 1 gram-to write类
+program
+grammar
+diagram
+#Unit 7 List 2 tele-far类
+telegram
+telephone
+telescope
+microphone
+#Unit 7 List 3 计算类
+computer
+compute
+figure
+calculate
+calculator
+#Unit 7 List 4 depend类
+depend
+dependent
+independent
+independence
+rely
+lean
+#Unit 7 List 5 呼吸-spir类
+breathe
+breath
+conspiracy
+plot
+inspire
+inspiration
+cheer
+desperate
+#Unit 7 List 6 sti, sting-prick刺类
+stimulus
+stimulation
+stimulate
+spur
+bite
+sting
+instinct
+#Unit 7 List 7 cover类
+cover
+recover
+recovery
+discover
+discovery
+uncover
+unveil
+disclose
+reveal
+conceal
+hide
+bury
+#Unit 7 List 8 liber-free类
+free
+freedom
+liberate
+liberal
+liberalism
+liberty
+deliberate
+#Unit 7 List 9 fact, fect,fec-do类
+fact
+factor
+factory
+facility
+facilitate
+infect
+perfect
+perfection
+affect
+affection
+effect
+effective
+efficient
+efficiency
+fiction
+artificial
+certificate
+superficial
+officer
+official
+authority
+sufficient
+#Unit 7 List 10 op, oper-work类
+operate
+operation
+operator
+operational
+opera
+cooperate
+collaboration
+elaborate
+laboratory
+labor
+#Unit 7 List 11 cand-white类
+candle
+candidate
+candid
+kindle
+lamp
+lighten
+enlighten
+delight
+lighting
+solar
+lunar
+calendar
+#Unit 7 List 12 care类
+careful
+careless
+#Unit 7 List 13 press类
+press
+pressure
+emphasize
+emphasis
+express
+expression
+depress
+impress
+impression
+impressive
+period
+session
+#Unit 7 List 14 reason类
+reason
+reasonable
+sake
+rational
+sensible
+sensitive
+sensitivity
+nonsense
+#Unit 7 List 15 real类
+real
+realize
+reality
+actually
+genuine
+sincere
+ruth
+fake
+imitate
+realm
+realty
+property
+proper
+improper
+suitable
+suit
+quality
+qualify
+#Unit 7 List 16 equ-same类
+equal
+equation
+equality
+equivalent
+minor
+multiply
+multiple
+rarely
+input
+output
+order
+orderly
+#Unit 7 List 17 诚实类
+honest
+earnest
+loyal
+loyalty
+royal
+faithful
+confidence
+confident
+#Unit 7 List 18 empt, em-to take, to buy类
+example
+list
+ample
+sample
+exemplify
+instance
+special
+specify
+specification
+particular
+#Unit 8 List 1 plan类
+plan
+schedule
+timetable
+trick
+tricky
+magic
+trap
+strategy
+design
+layout
+sign
+signature
+symbol
+label
+brand
+significant
+resign
+#Unit 8 List 2 loc-place类
+local
+location
+locate
+site
+sightseeing
+allocate
+distribute
+distribution
+attribute
+attribution
+contribute
+devote
+sacrifice
+vote
+ballot
+bullet
+ballet
+#Unit 8 List 3 round类
+surroundings
+situation
+environment
+setting
+ground
+background
+condition
+phenomenon
+#Unit 8 List 4 never类
+ever
+never
+nevertheless
+forever
+everlasting
+permanent
+future
+constant
+constancy
+#Unit 8 List 5 evil, devil类
+devil
+evil
+#Unit 8 List 6 vis-see类
+vision
+visible
+revise
+visual
+devise
+supervise
+monitor
+advisable
+imagination
+imaginary
+previous
+prior
+preceding
+#Unit 8 List 7 pect, spect,pis, pic,vis, vid-see类
+expect
+anticipate
+await
+unexpected
+expectation
+suspect
+suspicion
+despise
+perspective
+aspect
+prospect
+prosperous
+prosperity
+flourish
+thrive
+harmony
+inspect
+respective
+respectively
+respect
+#Unit 8 List 8 regard类
+regard
+regardless
+worship
+honour
+dishonour
+honourable
+esteem
+evidence
+evident
+#Unit 8 List 9 build, struct-建造类
+build
+building
+construct
+construction
+structural
+destruction
+instruct
+instructor
+instruction
+train
+training
+practice
+#Unit 8 List 10 energy, power类
+energy
+power
+horsepower
+vigorous
+dynamic
+#Unit 8 List 11 st, sist, stitute-stand类
+stand
+obstacle
+steady
+stage
+phase
+understand
+misunderstand
+withstand
+substance
+outstanding
+stable
+stability
+distant
+distance
+insist
+insistence
+persist
+consist
+consistent
+assist
+assistance
+helpful
+resort
+resist
+resistance
+resistant
+revolt
+substitute
+constitution
+institute
+status
+static
+carpenter
+#Unit 8 List 12 please, joy类
+please
+pleasure
+displease
+joy
+cheerful
+gay
+merry
+exciting
+excite
+comfort
+comfortable
+content
+satisfactory
+satisfy
+awful
+#Unit 8 List 13 language, lingual类
+language
+blind
+#Unit 8 List 14 抱怨类
+complain
+complaint
+blame
+#Unit 8 List 15 employ类
+employ
+employee
+employer
+employment
+unemployment
+hire
+rent
+guest
+host
+landlord
+engage
+enthusiasm
+enthusiastic
+passion
+passionate
+fire
+#Unit 8 List 16 post类
+post
+postage
+postpone
+pause
+quit
+cease
+suspend
+delay
+postgraduate
+#Unit 9 List 1 old类
+ancient
+veteran
+aging
+elder
+elderly
+ancestor
+ancestry
+young
+youth
+mature
+ripe
+innocent
+naive
+childish
+infant
+item
+article
+statement
+piece
+element
+#Unit 9 List 2 love类
+fond
+fancy
+hobby
+lovely
+favourite
+favour
+favourable
+#Unit 9 List 3 save类
+store
+restore
+restoration
+cash
+withdraw
+cancel
+delete
+grade
+upgrade
+degrade
+class
+classify
+classification
+classmate
+classroom
+classical
+#Unit 9 List 4 risk, danger类
+risk
+danger
+dangerous
+hazard
+threat
+threaten
+poison
+poisonous
+#Unit 9 List 5 病；伤害类
+disease
+bacteria
+illness
+harm
+damage
+injure
+spoil
+#Unit 9 List 6 point类
+point
+outlook
+appoint
+appointment
+disappoint
+mark
+marker
+remark
+comment
+remarkable
+noticeable
+focus
+concentrate
+concentration
+centre
+central
+enter
+#Unit 9 List 7 ject-throw类
+project
+reject
+objective
+object
+objection
+enemy
+rival
+opponent
+hostile
+matter
+#Unit 9 List 8 flow-flu类
+flow
+tide
+liquid
+liquor
+solid
+influence
+impact
+fluent
+drift
+#Unit 9 List 9 level类
+level
+elevator
+lift
+lever
+alleviate
+parallel
+#Unit 9 List 10 same类
+similar
+similarity
+resemble
+assemble
+assembly
+similarly
+familiar
+familiarity
+#Unit 9 List 11 fault类
+fault
+weakness
+weaken
+defect
+defection
+#Unit 9 List 12 game类
+race
+racial
+competition
+score
+match
+compete
+#Unit 9 List 13 act类
+deed
+exact
+contract
+treaty
+interaction
+interactive
+action
+reaction
+active
+trade
+transact
+#Unit 9 List 14 tra, tract-to draw类
+trail
+track
+trace
+subtract
+tractor
+abstract
+attractive
+glamorous
+charm
+eloquent
+fascinate
+appeal
+magnetic
+magnet
+fossil
+#Unit 9 List 15 pull, pel-pull类
+pull
+push
+pushing
+compel
+urge
+hurry
+accelerate
+haste
+impel
+expel
+retreat
+#Unit 9 List 16 cur-to take care类
+cure
+remedy
+secure
+curious
+#Unit 9 List 17 cur-to run类
+excursion
+occur
+happen
+encounter
+meet
+meeting
+occurrence
+#Unit 9 List 18 fess-speak类
+professor
+profession
+occupation
+function
+confess
+data
+statistics
+million
+billion
+quote
+quotation
+#Unit 9 List 19 rich, poor类
+poverty
+rich
+luxury
+extravagant
+#Unit 10 List 1 nat-born类
+natural
+#Unit 10 List 2 dust, industry类
+industry
+industrial
+industrialize
+diligent
+hardworking
+#Unit 10 List 3 sid-sit类
+resident
+residence
+civil
+citizen
+folk
+president
+beside
+besides
+hillside
+sideway
+#Unit 10 List 4 cid-cut类
+incident
+accidental
+event
+campaign
+crisis
+#Unit 10 List 5 merg浸类
+emerge
+emergency
+submerge
+#Unit 10 List 6 冲突类
+conflict
+quarrel
+argue
+argument
+annoy
+insult
+#Unit 10 List 7 bar, bat木头类
+bar
+barrier
+battery
+debate
+dispute
+combat
+battle
+embarrass
+ashamed
+#Unit 10 List 8 water类
+waterproof
+cement
+dam
+juice
+pool
+fruit
+drain
+#Unit 10 List 9 sure类
+measure
+ensure
+treasure
+leisure
+insure
+insurance
+assure
+#Unit 10 List 10 大，mass, major类
+major
+majority
+grand
+tremendous
+largely
+vast
+expand
+#Unit 10 List 11 tend-延伸类
+extend
+extension
+extensive
+extent
+range
+stretch
+enlarge
+enormous
+immense
+supreme
+#Unit 10 List 12 hold类
+hold
+reach
+spread
+grasp
+scratch
+catch
+#Unit 10 List 13 poss-capable of类
+possess
+impossible
+household
+housewife
+accommodate
+accommodation
+dwelling
+dormitory
+dorm
+#Unit 10 List 14 tain-hold类
+retain
+attain
+contain
+container
+sustain
+certain
+certainly
+entertain
+entertainment
+stain
+spotless
+pure
+purify
+#Unit 10 List 15 buy购买类
+buy
+purchase
+deal
+settle
+settlement
+handle
+cope
+pursue
+pursuit
+#Unit 10 List 16 寻找hunt, look for类
+hunt
+seek
+look
+scan
+skim
+glimpse
+glance
+view
+interview
+interviewer
+review
+opinion
+assessment
+interpret
+interpretation
+#Unit 10 List 17 strange, weird类
+strange
+stranger
+odd
+foreign
+European
+neighbour
+unconventional
+peculiar
+bizarre
+amaze
+marvellous
+miracle
+#Unit 11 List 1 tend-to stretch类
+tend
+tension
+tendency
+tender
+trend
+attend
+intend
+intention
+pretend
+mask
+disguise
+shelter
+#Unit 11 List 2 name类
+name
+namely
+ornament
+decorate
+#Unit 11 List 3 pose类
+position
+positive
+proposal
+propose
+suppose
+guess
+purpose
+goal
+fate
+destiny
+oppose
+compose
+composition
+expose
+exposure
+impose
+dispose
+component
+#Unit 11 List 4 骄傲类
+pride
+proud
+glory
+#Unit 11 List 5 model, type类
+model
+type
+typist
+typical
+mode
+pattern
+#Unit 11 List 6 courage, brave类
+courage
+encourage
+discourage
+nerve
+brave
+dare
+#Unit 11 List 7 machine类
+mechanic
+mechanics
+mechanical
+machine
+mechanism
+appliance
+furniture
+instrument
+equipment
+equip
+device
+engine
+engineering
+engineer
+#Unit 11 List 8 贴，增加类
+attach
+belong
+sticky
+addition
+tag
+fashion
+fashionable
+#Unit 11 List 9 gress-go类
+progress
+advance
+advancement
+aggressive
+ambition
+advanced
+#Unit 11 List 10 digital, electricity类
+digital
+electron
+electronic
+radio
+radioactive
+radiation
+electrical
+electric
+electricity
+#Unit 11 List 11 circle类
+circuit
+circumstance
+circle
+circulate
+circular
+column
+sphere
+#Unit 11 List 12 uni-one类
+unit
+unite
+unique
+union
+unity
+#Unit 11 List 13 practice类
+practical
+exercise
+repetition
+#Unit 11 List 14 head类
+head
+headquarter
+forehead
+headache
+heading
+forecast
+broadcast
+broad
+world-wide
+widen
+#Unit 11 List 15 line类
+line
+outline
+discipline
+incline
+underline
+headline
+coastline
+channel
+canal
+beach
+gasoline
+gas
+fuel
+petrol
+#Unit 11 List 16 effort类
+effort
+struggle
+strain
+restrain
+limited
+limitation
+bind
+#Unit 11 List 17 test类
+challenge
+contest
+protest
+#Unit 11 List 18 过程类
+course
+procedure
+process
+procession
+access
+excessive
+spill
+succession
+successive
+success
+exceed
+proceed
+failure
+fail
+#Unit 11 List 19 special类
+especially
+specialize
+specialist
+specific
+extraordinary
+feature
+model
+specimen
+#Unit 11 List 20 mid, med类
+middle
+medium
+modest
+moderate
+intermediate
+neutral
+#Unit 11 List 21 exist, present类
+presence
+present
+absent
+existence
+institution
+establish
+instant
+#Unit 11 List 22 strict严格的类
+strict
+restrict
+district
+severe
+harsh
+intense
+fierce
+#Unit 12 List 1 organ类
+tissue
+organ
+organize
+organization
+#Unit 12 List 2 id类
+identify
+identity
+identical
+#Unit 12 List 3 cogn-realize类
+recognize
+recognition
+cognitive
+#Unit 12 List 4 cid-cut类
+decide
+determine
+determination
+fix
+mend
+precise
+precision
+scissors
+plead
+explain
+explanation
+#Unit 12 List 5 scribe-write类
+describe
+prescribe
+#Unit 12 List 6 desire, eager类
+desire
+desirable
+voluntary
+long
+appetite
+eager
+keen
+hungry
+#Unit 12 List 7 dict-speak类
+dictate
+predict
+indict
+addict
+plunge
+#Unit 12 List 8 say, claim类
+declare
+claim
+exclaim
+address
+mention
+illustrate
+#Unit 12 List 9 重复类
+repeat
+echo
+hesitate
+persuade
+tale
+#Unit 12 List 10 demo-民主类
+demonstrate
+democratic
+democracy
+#Unit 12 List 11 批评类
+condemn
+sentence
+trial
+criticize
+critical
+criticism
+critic
+brain
+mind
+mental
+aware
+awareness
+attention
+#Unit 12 List 12 fee, fare类
+fee
+fare
+fund
+fundamental
+loan
+owe
+debt
+sponsor
+expensive
+expense
+#Unit 12 List 13 双类
+couple
+double
+bicycle
+cycle
+twin
+combine
+synthetic
+conjunction
+rid
+avoid
+evade
+inevitable
+forbid
+prohibit
+prevent
+exhibition
+exhibit
+strip
+#Unit 12 List 14 far类
+far
+further
+furthermore
+#Unit 12 List 15 范围类
+field
+province
+territory
+frontier
+region
+zone
+#Unit 12 List 16 start类
+begin
+launch
+outset
+dawn
+dusk
+derive
+#Unit 12 List 17 ori-起源类
+origin
+original
+painful
+hurt
+sore
+wound
+experimental
+expert
+expertise
+skilled
+skillful
+#Unit 12 List 18 center类
+center
+absorb
+#Unit 12 List 19 性别类
+female
+male
+muscle
+#Unit 12 List 20 preci-value/price类
+precious
+appreciate
+grateful
+gratitude
+#Unit 12 List 21 排名类
+rate
+rank
+scale
+estimate
+#Unit 12 List 22 val-value类
+value
+invaluable
+valueless
+evaluate
+valid
+prevail
+warn
+precaution
+#Unit 12 List 23 nect, neck-link类
+necklace
+connect
+connection
+bond
+link
+joint
+join
+#Unit 12 List 24 吃惊类
+astonish
+alarm
+adventure
+venture
+#Unit 12 List 25 image, appearance类
+appear
+appearance
+image
+disappear
+vanish
+#Unit 13 List 1 stinct-prick类
+distinct
+extinct
+distinguish
+#Unit 13 List 2 beauty类
+beauty
+beautiful
+pretty
+grace
+elegance
+decent
+#Unit 13 List 3 own类
+owner
+ownership
+frown
+drown
+#Unit 13 List 4 实现类
+accomplish
+fulfill
+achieve
+#Unit 13 List 5 频繁类
+regular
+frequent
+regulation
+regulate
+#Unit 13 List 6 tail-cut类
+detail
+thorough
+tailor
+retail
+wholesale
+worthwhile
+worthless
+worthy
+#Unit 13 List 7 tech-科技类
+technology
+technical
+technician
+technique
+#Unit 13 List 8 cap-seize/head类
+capital
+escape
+capacity
+volume
+captain
+cap
+capture
+capable
+capability
+faculty
+cabinet
+cabin
+competent
+adequate
+#Unit 13 List 9 nounce-speak类
+announce
+pronounce
+#Unit 13 List 10 prove类
+prove
+verify
+approve
+approval
+nod
+#Unit 13 List 11 path-way类
+sympathy
+sympathetic
+pathetic
+#Unit 13 List 12 mis, mit-send类
+mission
+missile
+transmit
+permit
+license
+admit
+submit
+committee
+emit
+dismiss
+discard
+promise
+potential
+guarantee
+swear
+hopeful
+hopeless
+surrender
+#Unit 13 List 13 pass, optimistic类
+passive
+negative
+optimistic
+compass
+#Unit 13 List 15 in类
+insert
+invade
+#Unit 13 List 14 神秘类
+mystery
+mysterious
+secret
+secretary
+minister
+#Unit 13 List 16 poli-政治类
+politics
+policy
+politician
+political
+#Unit 13 List 17 tire-disturb类
+tire
+retire
+retirement
+exhaust
+fatigue
+#Unit 13 List 18 luck类
+lucky
+disaster
+fortune
+fortunately
+misfortune
+#Unit 13 List 19 sense-感觉类
+essence
+essential
+#Unit 13 List 20 ceive, cept-take类
+receive
+receipt
+deceive
+reception
+perceive
+concept
+exception
+#Unit 13 List 21 graph-write类
+graph
+geography
+#Unit 13 List 22 常规类
+daily
+routine
+stereotype
+#Unit 13 List 23 way类
+manner
+means
+method
+#Unit 13 List 24 solu, solv-deal with类
+solution
+resolution
+resolve
+dissolve
+sway
+swing
+subway
+#Unit 14 List 1 lig-lect类
+religion
+religious
+#Unit 14 List 2 limit类
+limit
+eliminate
+#Unit 14 List 3 year类
+yearly
+annual
+#Unit 14 List 4 marry类
+bride
+marry
+#Unit 14 List 5 gest-bring类
+digest
+gesture
+#Unit 14 List 6 guard, protect类
+guard
+nurse
+#Unit 14 List 7 fence类
+fence
+defense
+defend
+offend
+#Unit 14 List 8 arm, soldier类
+navy
+voyage
+soldier
+military
+marine
+peace
+peaceful
+pacific
+Atlantic
+mild
+wild
+rough
+tough
+rigid
+#Unit 14 List 9 prox-near类
+approximate
+#Unit 14 List 10 ven-go类
+avenue
+handy
+convenient
+convenience
+inventor
+invent
+invention
+#Unit 14 List 11 -sh类
+rush
+brush
+crash
+collapse
+hush
+flesh
+flash
+dash
+trash
+#Unit 14 List 12 fresh类
+fresh
+refresh
+freshman
+sophomore
+sophisticated
+philosophy
+junior
+senior
+invite
+#Unit 14 List 13 it-go类
+initial
+visit
+exit
+outlet
+#Unit 14 List 14 dry类
+dry
+humid
+damp
+moist
+bathe
+#Unit 14 List 15 flex, flect类
+mirror
+reflect
+reflection
+bend
+flexible
+wind
+adopt
+rear
+adapt
+analyze
+analysis
+#Unit 14 List 16 ply-叠类
+reply
+imply
+implication
+clue
+hint
+hindsight
+apply
+application
+applicable
+supple
+#Unit 14 List 17 work类
+workshop
+network
+framework
+frame
+frank
+straightforward
+#Unit 14 List 18 rude, fool类
+rude
+crude
+foolish
+silly
+lie
+cheat
+#Unit 14 List 19 arch-rule类
+architecture
+archives
+monarchy
+#Unit 14 List 20 gift类
+award
+grant
+reward
+gift
+talent
+stake
+#Unit 14 List 21 fus-pour/melt类
+refuse
+refusal
+confuse
+confused
+complex
+complicated
+puzzled
+mix
+mixture
+blend
+crazy
+mad
+ridiculous
+fever
+amuse
+#Unit 14 List 22 gather类
+accumulate
+pile
+gather
+#Unit 15 List 1 journal类
+journalist
+journal
+magazine
+journey
+tour
+#Unit 15 List 2 grave类
+funeral
+grave
+tomb
+solemn
+forget
+forgive
+#Unit 15 List 3 draw类
+draw
+painting
+painter
+paint
+portrait
+chart
+#Unit 15 List 4 pack类
+luggage
+package
+pack
+gamble
+bet
+#Unit 15 List 5 tempt类
+attempt
+temptation
+tempt
+contempt
+#Unit 15 List 6 live, viv, vit-life类
+survive
+vivid
+vital
+#Unit 15 List 7 模糊类
+ambiguous
+vague
+#Unit 15 List 8 不安类
+uneasy
+worried
+anxious
+nervous
+troublesome
+upset
+#Unit 15 List 9 viol-strength暴力类
+violate
+violent
+board
+aboard
+shareholder
+stock
+heavy
+fat
+fatal
+execute
+executive
+#Unit 15 List 10 edit编辑类
+editor
+edition
+#Unit 15 List 11 migr-move类
+immigrant
+migrant
+emigrant
+note
+notebook
+notorious
+#Unit 15 List 12 art类
+artist
+artistic
+musical
+musician
+#Unit 15 List 13 打击类
+knock
+strike
+murder
+hit
+fight
+punch
+punish
+#Unit 15 List 14 tort-to twist类
+torture
+#Unit 15 List 15 clar, clear类
+clear
+clean
+clarify
+plain
+flat
+#Unit 15 List 16 cold,冷类
+chill
+freeze
+refrigerator
+#Unit 15 List 17 ceremony类
+ceremony
+celebrate
+congratulate
+#Unit 15 List 18 carry类
+carry
+carriage
+burden
+convey
+#Unit 15 List 19 打扰类
+disturb
+bother
+#Unit 15 List 20 宫殿类
+palace
+castle
+bridge
+mine
+silk
+#Unit 15 List 21 silent类
+silence
+silent
+quiet
+calm
+slide
+slippery
+tone
+whisper
+#Unit 15 List 22 soci-社会类
+society
+social
+socialism
+associate
+association
+#Unit 15 List 23 边缘类
+border
+margin
+marginalize
+#Unit 15 List 24 医疗类
+medicine
+medical
+hospitality
+rescue
+relieve
+relief
+drug
+physician
+surgery
+physical
+physics
+physicist
+#Unit 15 List 25 理解类
+comprehension
+comprehensive
+apprehensive
+concern
+#Unit 15 List 26 audi-听类
+audience
+auditorium
+rehearse
+#Unit 15 List 27 nation-country类
+nation
+national
+international
+nationality
+native
+#Unit 15 List 28 patri-father类
+patriotism
+patriot
+#Unit 15 List 29 增加类
+increase
+enhance
+gain
+develop
+improve
+grow
+growing
+growth
+decrease
+dim
+diminish
+relax
+relaxation
+#Unit 15 List 30 play类
+display
+player
+playground
+drama
+dramatic
+show
+#Unit 15 List 31 raise类
+raise
+praise
+arise
+arouse
+rouse
+swell
+boom
+burst
+explode
+explosion
+#Unit 15 List 32 vest类
+vest
+invest
+harvest
+investigate
+#Unit 15 List 33 volve-turn类
+evolve
+evolution
+revolve
+revolution
+involve
+#Unit 15 List 34 close类
+close
+slam
+intimate
+acquaintance
+#Unit 15 List 35 clude类
+include
+comprise
+#Unit 15 List 36 continue类
+continue
+chain
+continuous
+#Unit 15 List 37 sequ-follow类
+consequence
+consequently
+subsequent
+sequence
+series
+record
+#Unit 15 List 38 break类
+break
+divorce
+destroy
+wreck
+#附录 四级固定搭配500
+a lot of
+above all
+according to
+account for
+achieve one's purpose
+achieve success
+act on
+act as
+add up to
+add ... to
+after all
+agree on
+agree to
+agree with sb.
+allow for
+along with
+amount to
+and yet
+anything but
+anything like
+anywhere near
+apart from
+appeal to
+apply to
+appreciation of
+arrive at
+as a result of
+as a result
+as a whole
+as for
+as if
+as soon as
+as though
+as to
+as well
+as yet
+aside from
+ask for
+associate ... with ...
+at a loss
+at a time
+at all
+at any moment
+at first
+at large
+at last
+at least
+at length
+at most
+at no time
+at one time
+at the cost of
+at the least
+at times
+at ... speed
+attach to
+attend on
+attribute ... to
+back up
+base on
+be able to
+be about to
+be accustomed to
+be associated with
+be aware of
+be capable of
+be caught
+be committed to
+be confined to
+be confined
+be dedicated to
+be devoted to
+be directed to
+be drawn to
+be due to
+be exposed to
+be fond of
+be full of
+be in order
+be involved in
+be involved with
+be left to
+be limited to
+be on
+be proud of
+be referred to
+be related to
+be sick of
+be subject to
+be suitable for
+be sure of
+be through with
+be tied by
+be tied to
+be tired of
+begin with
+behind time
+belief in
+better than
+beyond question
+break away
+break down
+break in
+break off
+break out
+break through
+break up
+bring about
+bring forward
+bring out
+bring up
+by accident
+by all means
+by chance
+by choice
+by contrast
+by convention
+by means of
+by mistake
+by the way
+by virtue of
+by way of
+call forth
+call for
+call off
+call on
+care for
+carry out
+cast light on
+catch up with
+catch sight of
+center on
+center around
+cheat on
+choose for
+choose to do
+choose from ...
+choose optimism
+come from
+come off
+come on
+come out
+come to
+come under attack
+come under
+come up
+comment on
+commit to
+comply with
+conform to
+consider to do
+consist of
+consistent with
+contribute to
+copy out
+correlate with
+count on
+cut away
+cut down
+cut off
+cut out
+dedicate ... to
+depend on
+die back
+die from
+die off
+die out
+difference in
+do something for
+do without
+doubt about
+draw apart
+draw away
+draw in
+draw up
+dress up
+drop in
+drop off
+drop out
+dry out
+dry up
+due to
+enter for
+enter into
+entertain a proposal
+entertain an idea
+even if
+even though
+ever since
+faithful to
+fall from
+far from
+favor of
+figure out
+fill in
+find out
+focus on
+follow up
+for all
+for example
+for instance
+for the purpose of
+for the sake of
+frankly speaking
+freedom from
+from all sides
+from now on
+from all accounts
+gather up
+generally speaking
+get along with
+get away
+get down
+get down to
+get in
+get on
+give in
+give off
+give out
+give something away
+give up
+give way
+go beyond
+go by
+go for
+go in
+go on
+go through
+hand on
+hand out
+hand over
+have a bearing on
+have difficulty with
+hold back
+hold down
+hold on to
+hold on
+hold out
+hold up
+hurry up
+if only
+in use
+in a sense
+in a state of
+in a way
+in accord with
+in addition to
+in all
+in any case
+in case
+in circles
+in consequence
+in doubt
+in effect
+in essence
+in fact
+in firm voice
+in front of
+in future
+in general
+in line with
+in mind
+in need of
+in no way
+in one's opinion
+in one's terms
+in one's view
+in order to
+in order
+in particular
+in perspective
+in point of
+in question
+in reference to
+in regard to
+in relation to
+in reply to
+in response to
+in return for
+in short
+in spite of
+in terms of
+in the analysis of
+in the case of
+in the company of
+in the course of
+in the end
+in the event
+in the form of
+in the front of
+in the light of
+in the long run
+in the process of
+in the way
+in time
+in turn
+in vain
+in whole
+infuse ... into
+influence on
+insist on
+instead of
+interest in
+interference in
+interference with
+introduction to
+irrespective of
+isolate ... from
+it used to be
+join in
+lay on
+lay blame on
+lead off
+lead on
+lead out
+lead to
+less than
+light on
+link together
+long before
+look on
+loyal to
+make a step
+make for
+make out
+make sure
+make towards
+make up
+make way
+mean by
+mean to
+more than
+much as
+no less ... than
+no more ... than
+not ... but ...
+now that
+object to
+of course
+on a large scale
+on a national scale
+on account of
+on average
+on behalf of
+on occasion
+on offer
+on radio
+on the basis of
+on the contrary
+on the grounds of
+on the occasion of
+on the other hand
+on the radio
+on the road
+on the side
+on the side of
+on the whole
+on time
+one another
+one or other
+only if
+other than
+out of step
+out of the question
+out of use
+owe ... to ...
+pass out
+pass off
+pass on
+pass out
+pass through
+pay attention to
+pay by check
+pay cash
+pay off
+persist in
+pick up
+plan for
+point to
+put on
+put together
+put up with
+quite a few
+quite a little
+quite other
+rather than
+refer to
+refer to as
+regard ... as ...
+regret doing sth.
+regret to do sth.
+reflect discredit on
+reflect on
+rely on
+remember to do sth.
+remember doing sth.
+remove ... from ...
+responsible for
+result from
+result in
+return sth. to sb.
+reply to sb.
+require to do sth.
+right away
+ring back
+ring off
+ring up
+ripe for
+rise up
+root out
+run a risk
+run a fever
+run after
+run away
+run for
+run into
+run out of
+run short of
+run a risk
+run across
+run after
+run against
+run ahead of
+run around
+run at
+run away with
+run over
+run through
+run up
+run upon
+run over
+run off
+rush out
+sacrifice to
+set about
+set aside
+set back
+set down
+set forth
+set off
+set out
+share with
+shoot a film
+side with
+similar to
+since then
+something like
+sooner than
+speed up
+spread on
+stand for
+step up
+stick to
+stir up
+such as
+support for
+sure enough
+take away
+take a chance
+take a step
+take advantage of
+take care of
+take for
+take in
+take on
+take over
+take to
+take up with
+take up
+thanks to
+to extend
+to some extent
+to such an extent that
+to the extent
+together with
+turn something into
+turn away
+turn off
+turn into
+turn on
+turn out
+turn over
+turn round
+turn to
+wait for
+what is more
+with regard to
+with ... speed
+without question
+what if
+word for word
+work away
+work out
+work up
+worse than
+write back
+write in
+write off
+write on
+#附录 四级500词
+ability
+abroad
+accept
+across
+act
+admire
+admit
+advantage
+afford
+afraid
+against
+agree
+almost
+another
+apologize
+appreciate
+area
+attention
+bear
+beat
+beautiful
+because
+become
+beg
+behind
+believe
+belong
+benefit
+between
+blame
+boring
+borrow
+both
+break
+bring
+build
+business
+cage
+call
+cancel
+capital
+care
+careful
+cartoon
+cash
+cause
+century
+chance
+change
+charge
+cheat
+check
+cheer
+choice
+circle
+clean
+clear
+collect
+college
+comfort
+common
+compare
+confuse
+connect
+country
+cover
+credit
+damage
+dead
+decide
+deep
+depend
+destroy
+dictionary
+different
+difficult
+discuss
+down
+drive
+drug
+dry
+each
+education
+either
+end
+enjoy
+enough
+example
+exercise
+expensive
+experience
+explain
+extra
+fact
+fail
+fair
+family
+famous
+fear
+feeling
+festival
+final
+finish
+firework
+fix
+floor
+focus
+follow
+foreigner
+forest
+forward
+free
+friendship
+garbage
+gas
+get
+gift
+give
+glad
+glass
+gold
+government
+graduate
+great
+greet
+ground
+group
+grow
+growth
+guilty
+gun
+habit
+handsome
+hang
+happen
+happily
+happiness
+happy
+hard
+hat
+hate
+health
+healthy
+hear
+heart
+heavy
+help
+hero
+high
+history
+hobby
+holiday
+honest
+hope
+hopeful
+hospital
+hotel
+house
+housework
+how
+human
+hurry
+idea
+ill
+illness
+imagine
+important
+information
+instead
+interesting
+internet
+interview
+introduce
+invite
+join
+journey
+joy
+jump
+just
+justice
+keep
+kind
+knife
+knock
+know
+knowledge
+land
+language
+large
+last
+late
+lately
+later
+latest
+laugh
+law
+lay
+lazy
+lead
+learn
+leave
+lend
+less
+lesson
+level
+like
+local
+lock
+lose
+loudly
+love
+lucky
+lunch
+machine
+magazine
+magic
+main
+major
+make
+male
+many
+map
+mark
+market
+marriage
+marry
+mass
+maybe
+meal
+mean
+meaning
+media
+medical
+medicine
+meet
+memory
+message
+middle
+million
+mind
+minute
+miss
+mistake
+mobile
+model
+modern
+mountain
+move
+movement
+nation
+national
+nature
+necessary
+nervous
+noisy
+none
+normal
+nowadays
+obey
+object
+obtain
+once
+opinion
+ordinary
+outline
+pain
+particular
+pass
+passenger
+passport
+patient
+pause
+pay
+percent
+perfect
+perhaps
+pity
+place
+plan
+pleasant
+please
+pleasure
+plenty
+plus
+point
+poor
+popular
+possible
+postcard
+power
+pray
+prefer
+prepare
+press
+pretend
+pride
+prize
+problem
+process
+produce
+professor
+promise
+protect
+proud
+prove
+province
+public
+pull
+punish
+pure
+purpose
+quake
+quarter
+quiet
+quit
+quiz
+raise
+rather
+reach
+read
+ready
+real
+really
+reason
+receive
+recent
+refuse
+regret
+relationship
+rely
+remember
+repair
+repeat
+reply
+report
+require
+research
+respect
+result
+review
+ride
+river
+road
+room
+rude
+rule
+sacred
+sad
+safe
+safety
+sale
+same
+save
+scare
+science
+score
+scream
+search
+secret
+see
+seem
+self
+sell
+send
+serious
+serve
+set
+several
+shade
+shadow
+shame
+share
+sharp
+shine
+shock
+shot
+shout
+shower
+sick
+side
+sight
+sign
+silence
+simple
+single
+size
+skill
+skin
+slow
+small
+smart
+smile
+smoke
+snake
+sometimes
+soon
+soul
+sound
+sour
+space
+special
+spend
+spoon
+stage
+start
+station
+stay
+step
+still
+stone
+stop
+store
+storm
+story
+strange
+strength
+stress
+strong
+study
+style
+sudden
+suggest
+supper
+sure
+surprise
+sweet
+symbol
+system
+take
+taste
+tear
+tell
+terrible
+test
+therefore
+thief
+thin
+thing
+think
+through
+throw
+tie
+till
+tired
+together
+topic
+touch
+traditional
+traffic
+train
+travel
+treat
+trip
+trouble
+true
+trust
+truth
+turn
+twice
+under
+universe
+university
+until
+use
+usual
+vacation
+value
+very
+video
+view
+village
+visa
+visit
+vocabulary
+voice
+volunteer
+vote
+wait
+wallet
+war
+warm
+weak
+weather
+wedding
+week
+weight
+welcome
+win
+wish
+without
+wonder
+worry
+worse
+worth
+write
+wrong
+yet
+youth
+zebra
+zero

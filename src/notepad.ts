@@ -1,13 +1,10 @@
-import type BetterSqlite3 from "better-sqlite3"
+import { type Database } from "libsql"
 import { BookOption, Word } from "typings"
 // 云词库
 export class NotePad {
-  private notepad: BetterSqlite3.Database
-  private maimemo: BetterSqlite3.Database
-  constructor(
-    notepad: BetterSqlite3.Database,
-    maimemo: BetterSqlite3.Database
-  ) {
+  private notepad: Database
+  private maimemo: Database
+  constructor(notepad: Database, maimemo: Database) {
     this.notepad = notepad
     this.maimemo = maimemo
   }

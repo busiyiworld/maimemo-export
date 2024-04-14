@@ -1,4 +1,4 @@
-import Database from "better-sqlite3"
+import Database from "libsql"
 const db = new Database("./database/ultimate.db", {
   fileMustExist: true,
   readonly: true
