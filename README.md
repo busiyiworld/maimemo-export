@@ -7,7 +7,7 @@
 > 必须使用 Android 手机，并且必须 Root，小白勿试。release 中有已经导出好的词库，可以直接下载使用。
 
 #### Install
-> 需要 node v18+
+> 需要安装 [bun](https://bun.sh/)
 ```shell
 git clone https://github.com/ourongxing/maimemo-export.git
 cd maimemo-export

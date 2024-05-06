@@ -1,4 +1,4 @@
-import { type Database } from "libsql"
+import { type Database } from "bun:sqlite"
 import { BookOption, Word } from "typings"
 // 本地词库
 export class MaimemoDB {

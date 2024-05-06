@@ -1,12 +1,17 @@
-import fs from "fs-extra"
 import * as csv from "csv-stringify/sync"
 import { MaimemoDB } from "maimemo"
 import { NotePad } from "notepad"
-import path from "path"
 import { translateByDict } from "translater"
 import ProgressBar from "progressbar"
 import { ExportOpt } from "typings"
+import path from "node:path"
 const bar = new ProgressBar(30)
+
+async function checkFilesExist(files: string[]) {
+  const checks = files.map(file => Bun.file(file).exists())
+  const results = await Promise.all(checks)
+  return results.every(result => result)
+}
 
 export const export2file = async (
   data: { word: string; translation: string; list?: string }[],
@@ -41,7 +46,7 @@ export const export2file = async (
           .join("\n")
     }
   })()
-  await fs.outputFile(file, res)
+  await Bun.write(file, res)
 }
 
 export const exportLibrary = async (
@@ -73,7 +78,7 @@ export const exportLibrary = async (
         `${book.replace(/\\|\//g, "|")}.${type === "list" ? "txt" : type}`
       )
     )
-    if (files.every(k => fs.pathExistsSync(k)) && !override) {
+    if ((await checkFilesExist(files)) && !override) {
       bar.render(`${"● ".repeat(files.length)} ${book}`, {
         completed: i + 1,
         total: books.length
@@ -118,7 +123,7 @@ export const exportLibrary = async (
       for (let i = 0; i < files.length; i++) {
         const file = files[i]
         const type = types[i]
-        if (fs.pathExistsSync(file) && !override) {
+        if ((await Bun.file(file).exists()) && !override) {
           res.push("●")
           continue
         }

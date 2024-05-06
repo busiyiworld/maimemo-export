@@ -1,27 +1,15 @@
 {
   "scripts": {
-    "dev": "tsx src/index.ts",
-    "adb": "tsx src/adb.ts",
-    "build": "tsup src/index.ts --minify"
+    "dev": "bun run src/index.ts",
+    "adb": "bun run src/adb.ts"
   },
   "devDependencies": {
-    "@types/fs-extra": "^11.0.4",
-    "@types/node": "^18.19.31",
-    "@types/single-line-log": "^1.1.2",
-    "@types/yargs": "^17.0.32",
-    "tslib": "^2.6.2",
-    "tsx": "^3.14.0",
-    "typescript": "^5.4.5"
+    "@types/bun": "^1.1.1",
+    "@types/single-line-log": "^1.1.2"
   },
   "dependencies": {
     "@cspotcode/zx": "^6.1.2",
     "csv-stringify": "^6.4.6",
-    "fs-extra": "^11.2.0",
-    "libsql": "^0.3.11",
-    "single-line-log": "^1.1.2",
-    "yargs": "^17.7.2"
-  },
-  "engines": {
-    "node": ">20"
+    "single-line-log": "^1.1.2"
   }
 }

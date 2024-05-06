@@ -1,9 +1,9 @@
-import Database from "libsql"
+import { Database } from "bun:sqlite"
 const db = new Database("./database/ultimate.db", {
-  fileMustExist: true,
   readonly: true
   //  verbose: console.log
 })
+
 export const translateByDict = (word: string) => {
   // 缩写
   word = word.replace(/sb\.|sth\./g, "...")
