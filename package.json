@@ -1,14 +1,13 @@
 {
   "scripts": {
     "dev": "bun run src/index.ts",
-    "adb": "bun run src/adb.ts"
+    "adb": "bun scripts/adb.sh"
   },
   "devDependencies": {
     "@types/bun": "^1.1.1",
     "@types/single-line-log": "^1.1.2"
   },
   "dependencies": {
-    "@cspotcode/zx": "^6.1.2",
     "csv-stringify": "^6.4.6",
     "single-line-log": "^1.1.2"
   }
