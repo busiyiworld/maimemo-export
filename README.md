@@ -8,16 +8,13 @@
 
 ## 下载已导出的词库
 
-> [!IMPORTANT]
-> 获取最新数据库必须使用 Android 手机，并且 Root，小白勿试。
-
 仓库内已经导出墨墨背单词所有本地词库，包括联网更新的词库，但不包括云词库，多达上千种词库。
 
 预览+下载：[词库列表](./词库.md)
 
 ## 使用
 > [!NOTE]
-> 需要安装 Node v20 及以上。只在 macOS 上测试。
+> 需要安装 Node v20 及以上。只在 macOS 上测试。 获取最新数据库必须使用 Android 手机，并且 Root，小白勿试。
 
 ```shell
 git clone https://github.com/ourongxing/maimemo-export.git
