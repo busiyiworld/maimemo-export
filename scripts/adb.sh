@@ -9,10 +9,10 @@ if [ -z "$device" ]; then
   exit 1
 fi
 
-adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/momo.v*.db /sdcard/maimemo.db"
-adb pull /sdcard/maimemo.db "$databaseFolder"
-adb shell rm /sdcard/maimemo.db
+adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/momo.v*.db /sdcard/maimemo_local.db"
+adb pull /sdcard/maimemo_local.db "$databaseFolder"
+adb shell rm /sdcard/maimemo_local.db
 
-adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/notepad.db /sdcard/notepad.db"
-adb pull /sdcard/notepad.db "$databaseFolder"
-adb shell rm /sdcard/notepad.db
+adb shell su -c "cp -rf /data/data/com.maimemo.android.momo/databases/notepad.db /sdcard/maimemo_cloud.db"
+adb pull /sdcard/maimemo_cloud.db "$databaseFolder"
+adb shell rm /sdcard/mamimemo_cloud.db

@@ -1,2 +1,7 @@
 node_modules
 database/*.db
+.output/
+.vercel/
+.vinxi/
+libraries/
+exported/

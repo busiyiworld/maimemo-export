@@ -1,0 +1,16 @@
+diff --git a/package.json b/package.json
+index 22a7d36622ca77c1c3e3ea0ee661d78cff3bb339..e12218ecbbbbde9aa1979395be31bbe0b9b68c32 100644
+--- a/package.json
++++ b/package.json
+@@ -26,7 +26,10 @@
+       "types": "./types/index.d.ts",
+       "default": "./index.js"
+     },
+-    "./promise": "./promise.js"
++    "./promise": {
++      "types": "./types/promise.d.ts",
++      "default": "./promise.js"
++    }
+   },
+   "scripts": {
+     "test": "cargo test",

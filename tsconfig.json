@@ -1,19 +1,26 @@
 {
   "compilerOptions": {
-    "noEmit": true,
-    "module": "ESNext",
     "target": "ES2018",
+    "jsx": "react-jsx",
+    "lib": ["ESNext", "DOM"],
+    "baseUrl": ".",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "paths": {
+      "~/*": ["./app/*"],
+      "@/*": ["./shared/*"]
+    },
+    "resolveJsonModule": true,
     "allowJs": false,
-    "sourceMap": false,
+    "strict": true,
+    "strictNullChecks": true,
     "noImplicitAny": true,
     "downlevelIteration": true,
-    "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
-    "resolveJsonModule": true,
     "importHelpers": true,
-    "strict": true,
-    "baseUrl": "src",
-    "lib": ["ES2020"]
+    "noEmit": true,
+    "sourceMap": false,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": false
   },
-  "include": ["src/**/*.ts"]
+  "include": ["./app/**/*.*", "./src/**/*.ts", "./shared/**/*.ts", "./*.ts"]
 }

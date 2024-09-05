@@ -1,0 +1,28 @@
+html,
+body,
+#app {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+html.dark {
+  background-color: #1d1c1c;
+  color-scheme: dark;
+}
+
+body {
+  --at-apply: color-base;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
+}
+
+th:nth-child(2) {
+  width: 100%;
+}

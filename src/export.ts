@@ -1,151 +1,76 @@
-import * as csv from "csv-stringify/sync"
-import { MaimemoDB } from "maimemo"
-import { NotePad } from "notepad"
-import { translateByDict } from "translater"
-import ProgressBar from "progressbar"
-import { ExportOpt } from "typings"
-import path from "node:path"
-const bar = new ProgressBar(30)
+import { join } from "node:path"
+import fs from "fs-extra"
+import { getLibWords, getLibs, translateAll } from "./get"
+import { checkDatabases, databases, ensureTargetFolders } from "./db"
+import { transform } from "./transform"
+import type { ExportFnProps, ExportLog, Target, TrafficLights } from "@/types"
 
-async function checkFilesExist(files: string[]) {
-  const checks = files.map(file => Bun.file(file).exists())
-  const results = await Promise.all(checks)
-  return results.every(result => result)
-}
+export async function exportLib({ selected, range, type, options, fnEvery }: ExportFnProps & { fnEvery: (log: ExportLog) => Promise<boolean> }) {
+  checkDatabases()
+  const targetFolders = await ensureTargetFolders(options.folderName)
 
-export const export2file = async (
-  data: { word: string; translation: string; list?: string }[],
-  option: {
-    file: string
-    type: "txt" | "list" | "csv"
+  let libs = selected
+  if (range === "all")
+    libs = getLibs(type).map(k => ({
+      id: k.id,
+      name: k.name,
+    }))
+
+  const initStatus = {
+    word: "🟡",
+    list: "🟡",
+    translation: "🟡",
+  } as Record<Target, TrafficLights>
+  const score = {
+    failed: 0,
+    completed: 0,
+    status: { ...initStatus },
   }
-) => {
-  const { type, file } = option
-  const res = (() => {
-    switch (type) {
-      case "txt":
-        return data.map(k => k.word).join("\n")
-      case "csv":
-        return csv.stringify(
-          data.map(k => ({ word: k.word, translation: k.translation }))
-        )
-      case "list":
-        let list = data[0].list!
-        return data
-          .reduce(
-            (acc, cur) => {
-              if (cur.list !== list) {
-                list = cur.list!
-                acc.push("#" + list)
-              }
-              acc.push(cur.word)
-              return acc
-            },
-            ["#" + list]
-          )
-          .join("\n")
-    }
-  })()
-  await Bun.write(file, res)
-}
 
-export const exportLibrary = async (
-  books: string[],
-  db: MaimemoDB | NotePad,
-  option?: ExportOpt
-) => {
-  for (let i = 0; i < books.length; i++) {
-    const book = books[i]
-    const defaultOpt: Required<ExportOpt> = {
-      dir: "libraries",
-      types: ["txt", "list", "csv"],
-      override: false,
-      memorized: false,
-      word: false,
-      bookOpt: {
-        order: "book"
+  for (const lib of libs) {
+    const words = getLibWords({
+      id: lib.id,
+      type,
+      exculedMemorized: options.exculedMemorized,
+    })
+    for (const target of options.target) {
+      let path = join(targetFolders[target], `${lib.name}.txt`)
+      if (target === "translation")
+        path = join(targetFolders[target], `${lib.name}.csv`)
+
+      if (!options.override && fs.existsSync(path)) {
+        score.status[target] = "🟡"
+        continue
       }
-    }
 
-    const { types, dir, override, memorized, bookOpt, word } = option
-      ? Object.assign(defaultOpt, option)
-      : defaultOpt
+      let content = ""
+      if (target === "translation")
+        if (databases.ecdict?.db)
+          content = transform(translateAll(words), target)
+        else
+          continue
+      else
+        content = transform(words, target)
 
-    const files = types.map(type =>
-      path.resolve(
-        dir,
-        type,
-        `${book.replace(/\\|\//g, "|")}.${type === "list" ? "txt" : type}`
-      )
-    )
-    if ((await checkFilesExist(files)) && !override) {
-      bar.render(`${"● ".repeat(files.length)} ${book}`, {
-        completed: i + 1,
-        total: books.length
-      })
-    } else {
-      const res = []
-      const data = (() => {
-        try {
-          return db.getAllWordsInfo(book, bookOpt).reduce((acc, cur) => {
-            const { word: vc_vocabulary, list } = cur
-            if (memorized) {
-              const opt = Array.isArray(memorized)
-                ? {
-                    data: memorized,
-                    type: "memorized" as "memorized" | "unmemorized"
-                  }
-                : memorized
-              const { type, data } = opt
-              if (
-                (type === "memorized" && !data.includes(vc_vocabulary)) ||
-                (type === "unmemorized" && data.includes(vc_vocabulary))
-              )
-                return acc
-            }
-            if (word) {
-              if (
-                ((word === "word" || word === true) &&
-                  /\W/.test(vc_vocabulary)) ||
-                (word === "phrase" && !/\W/.test(vc_vocabulary))
-              )
-                return acc
-            }
-            const translation = translateByDict(vc_vocabulary)
-            acc.push({ word: vc_vocabulary, translation, list })
-            return acc
-          }, [] as { word: string; translation: string; list: string | undefined }[])
-        } catch (err) {
-          console.log(err)
-          return []
-        }
-      })()
-      for (let i = 0; i < files.length; i++) {
-        const file = files[i]
-        const type = types[i]
-        if ((await Bun.file(file).exists()) && !override) {
-          res.push("●")
-          continue
-        }
-        if (!data.length || (type === "list" && !data[0].list)) {
-          res.push("x")
-          continue
-        }
-        try {
-          await export2file(data, {
-            file,
-            type
-          })
-          res.push("√")
-        } catch (err) {
-          console.log(err)
-          res.push("x")
-        }
+      if (!content) {
+        score.status[target] = "🔴"
+        score.failed++
+        continue
       }
-      bar.render(`${res.join(" ")} ${book}`, {
-        completed: i + 1,
-        total: books.length
-      })
+      await fs.writeFile(path, content)
+      score.status[target] = "🟢"
     }
+    score.completed++
+    const log: ExportLog = {
+      completed: score.completed,
+      failed: score.failed,
+      status: [score.status.word, score.status.list, score.status.translation],
+      name: lib.name,
+      all: libs.length,
+      time: new Date().toLocaleString(),
+    }
+    if (await fnEvery(log))
+      return
+    score.status = { ...initStatus }
   }
 }
