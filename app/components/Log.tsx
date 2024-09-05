@@ -6,11 +6,12 @@ export function Log() {
   const exportState = useAtomValue(exportStateAtom)
   const content = useMemo(() => {
     const logs = exportState.logs
-    if (logs.length === 0)
+    if (logs.length === 0) {
       return {
         content: "",
         score: <></>,
       }
+    }
 
     return {
       content: logs.sort(a => a.status.includes("🔴") ? -1 : 1).map(l => `${l.status.join(" ")} ${l.time}\n${l.name}`).join("\n\n"),

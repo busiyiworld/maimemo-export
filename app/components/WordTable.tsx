@@ -150,11 +150,13 @@ export function WordTable() {
                     <td
                       key={cell.id}
                       onClick={() => {
-                        if (cell.column.id === "name")
-                          if (Object.values(rowSelection).filter(v => v).length <= 1)
+                        if (cell.column.id === "name") {
+                          if (Object.values(rowSelection).filter(v => v).length <= 1) {
                             setRowSelection({
                               [row.id]: !row.getIsSelected(),
                             })
+                          }
+                        }
 
                         setPreviewLib({
                           ...previewLib,
@@ -162,11 +164,12 @@ export function WordTable() {
                           id: row.original.id,
                           preview: exportState.status !== "running",
                         })
-                        if (exportState.status === "completed")
+                        if (exportState.status === "completed") {
                           setExportState({
                             ...exportState,
                             status: "idle",
                           })
+                        }
                       }}
                     >
                       {flexRender(

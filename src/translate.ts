@@ -21,13 +21,13 @@ export function translateByDict(word: string): string {
   if (!info || !info.translation)
     return ""
   const { translation } = info
-  if (translation.includes("\n"))
+  if (translation.includes("\n")) {
     return translation
       .split("\n")
       .filter(k => k && !k.includes("人名"))
       .join("\n")
       .replace(/[[〈〔【].+?[】〕〉\]]/g, "")
-
-  else
+  } else {
     return translation.replace(/[[〈〔【].+?[】〕〉\]]/g, "")
+  }
 }

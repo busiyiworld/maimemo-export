@@ -1,4 +1,3 @@
-import { ReactQueryDevtools } from "@tanstack/react-query-devtools"
 import { Title } from "./components/Title"
 import { StatusBar } from "./components/StatusBar"
 import { NavBar } from "./components/NavBar"
@@ -10,7 +9,6 @@ import "./styles/globals.css"
 import "virtual:uno.css"
 import "@unocss/reset/tailwind.css"
 
-// 所有页面都有的
 export function App() {
   return (
     <div className="max-w-screen-lg mx-auto">
@@ -28,7 +26,7 @@ export function App() {
           </div>
         </div>
       </div>
-      <ReactQueryDevtools position="right" />
+      {/* <ReactQueryDevtools position="right" /> */}
     </div>
   )
 }

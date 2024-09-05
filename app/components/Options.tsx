@@ -51,17 +51,17 @@ export function Options() {
           className="accent-primary-600"
           onChange={(e) => {
             const id = e.currentTarget.id as Target
-            if (options.target.includes(id))
+            if (options.target.includes(id)) {
               setOptions({
                 ...options,
                 target: options.target.filter(i => i !== id),
               })
-
-            else
+            } else {
               setOptions({
                 ...options,
                 target: [...options.target, id],
               })
+            }
           }}
         />
       </SettingItem>

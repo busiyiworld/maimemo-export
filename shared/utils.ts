@@ -14,11 +14,12 @@ export function formatDate(date: Date, fmt = "YYYY-mm-dd HH:MM") {
   }
   Object.entries(opt).forEach(([k, v]) => {
     ret = new RegExp(`(${k})`).exec(fmt)
-    if (ret)
+    if (ret) {
       fmt = fmt.replace(
         ret[1],
         ret[1].length === 1 ? v : v.padStart(ret[1].length, "0"),
       )
+    }
   })
   return fmt
 }

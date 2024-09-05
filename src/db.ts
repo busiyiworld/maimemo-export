@@ -15,18 +15,18 @@ export const databases: Record<"maimemo_base" | "ecdict" | "maimemo_cloud", Data
 }
 
 function c(dbPath: string, testSQL: string): DatabaseStatus {
-  if (!fs.existsSync(dbPath))
+  if (!fs.existsSync(dbPath)) {
     return {
       status: false,
       path: dbPath,
       error: "Database not found",
     }
+  }
 
   const db = new Database(dbPath, dbOpt)
   try {
     db.prepare(testSQL).get()
-  }
-  catch {
+  } catch {
     return {
       status: false,
       path: dbPath,

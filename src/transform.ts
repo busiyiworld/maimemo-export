@@ -4,7 +4,7 @@ import type { Target, Word } from "@/types"
 export function transform(words: Word[], traget: Target): string {
   if (traget === "list") {
     let list = words[0]?.list
-    if (list)
+    if (list) {
       return words
         .reduce(
           (acc, cur) => {
@@ -18,8 +18,8 @@ export function transform(words: Word[], traget: Target): string {
           [`#${list}`],
         )
         .join("\n")
-  }
-  else if (traget === "translation") {
+    }
+  } else if (traget === "translation") {
     return stringify(words.map(k => ({
       word: k.word,
       translation: k.translation,
