@@ -13,12 +13,13 @@ export function ExportAction() {
   const { sendJsonMessage, lastJsonMessage } = useWebSocket<ExportLog>(`ws://${location.host}/_ws`)
   const [previewLib, setPreviewLib] = useAtom(previewLibAtom)
   useEffect(() => {
-    if (lastJsonMessage)
+    if (lastJsonMessage) {
       setExportState({
         ...exportState,
         logs: [lastJsonMessage, ...exportState.logs],
-        status: lastJsonMessage.completed === lastJsonMessage.all ? "completed" : "running",
+        status: lastJsonMessage.completed === lastJsonMessage.all || lastJsonMessage.stop ? "completed" : "running",
       })
+    }
   }, [lastJsonMessage])
 
   const exportAll = useCallback(() => {
@@ -29,8 +30,7 @@ export function ExportAction() {
         type: "stop",
         error: "用户主动停止",
       })
-    }
-    else {
+    } else {
       setExportState({ ...exportState, range: "all", status: "running", logs: [] })
       // 异步的
       sendJsonMessage<WSMessgae<ExportFnProps>>({
@@ -55,8 +55,7 @@ export function ExportAction() {
         type: "stop",
         error: "用户主动停止",
       })
-    }
-    else {
+    } else {
       setExportState({ ...exportState, range: "selected", status: "running", logs: [] })
       sendJsonMessage<WSMessgae<ExportFnProps>>({
         type: "export",
@@ -87,10 +86,8 @@ export function ExportAction() {
   const allStatus = useMemo(() => {
     if (!databaseStatus.maimemo_base || (exportState.status === "running" && exportState.range === "selected"))
       return "disabled"
-
     else if (exportState.status === "running" && exportState.range === "all")
       return "stop"
-
     else
       return "idle"
   }, [exportState, databaseStatus.maimemo_base])

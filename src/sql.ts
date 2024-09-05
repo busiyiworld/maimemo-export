@@ -5,7 +5,7 @@ export const sql = {
       WHERE origin_id in (
           SELECT DISTINCT book_origin_id
           FROM BK_VOC_TB)
-      ORDER BY id`,
+      ORDER BY name`,
     queryBaseLibWordsByID: `SELECT spelling AS word, list
       FROM VOC_TB
           INNER JOIN (

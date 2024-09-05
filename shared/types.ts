@@ -51,6 +51,7 @@ export interface ExportLog {
   // 🟢 🟡 🔴 绿=成功 黄=跳过或者没导出 红=失败
   name: string
   time: string
+  stop?: boolean
 }
 export interface SelectedLib {
   id: number

@@ -9,7 +9,7 @@ export default eventHandler({
   handler: () => { },
   websocket: defineWebSocket({
     async open() {
-      console.log("WebSocket opened")
+      console.log("webSocket opened")
     },
     async message(peer, message) {
       const msg = JSON.parse(message.text()) as WSMessgae<ExportFnProps>
@@ -23,7 +23,10 @@ export default eventHandler({
               // 留 100 ms 接收 stop，并且确保不要发送太快，避免 UI 刷新不及时
               const now = Date.now()
               await delay(now - last > 100 ? 1 : 100)
-              peer.send(log)
+              peer.send({
+                ...log,
+                stop,
+              })
               last = now
               return stop
             },
@@ -35,10 +38,10 @@ export default eventHandler({
       }
     },
     async close() {
-      console.log("WebSocket closed")
+      console.log("webSocket closed")
     },
     async error() {
-      console.log("WebSocket error")
+      console.log("webSocket error")
     },
   }),
 })
