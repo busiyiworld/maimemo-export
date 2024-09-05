@@ -1,0 +1,153 @@
+#Unit 1
+young
+handsome
+old
+pretty
+thin
+active
+funny
+kind
+friendly
+clever
+#Unit 2
+first
+second
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+twelfth
+twentieth
+twenty-first
+#Unit 3
+collecting stamps
+climbing rocks
+keeping pets
+taking photos
+watching birds
+playing chess
+making things
+growing flowers
+#Unit 4
+by bus
+by taxi
+on foot
+by bike
+by train
+by ship
+by car
+bookstore
+cinema
+shop
+hospital
+supermarket
+#Unit 5
+travel to Beijing
+take tennis lessons
+visit my aunt
+buy books
+today
+tomorrow
+this Sunday
+next Sunday
+#Word List A
+active
+also
+April
+August
+#Word List B
+bookstore
+by bike
+by bus
+by car
+by ship
+by taxi
+by train
+#Word List C
+calendar
+cinema
+city
+clever
+climb rocks
+collect stamps
+#Word List D
+December
+#Word List E
+eighth
+enjoy
+#Word List F
+February
+festival
+fifth
+first
+fourth
+friendly
+funny
+#Word List G
+grow flowers
+#Word List H
+handsome
+healthy
+hobby
+holiday
+hospital
+#Word List J
+January
+July
+June
+#Word List K
+keep pets
+kind
+kite
+#Word List L
+learn
+like
+#Word List M
+make things
+March
+May
+month
+#Word List N
+next Sunday
+ninth
+no wonder
+November
+#Word List O
+October
+old
+on foot
+#Word List P
+plan
+play chess
+practise
+pretty
+#Word List S
+second
+September
+shop
+stamp
+supermarket
+#Word List T
+take tennis lessons
+take photos
+thin
+think
+third
+this Sunday
+today
+tomorrow
+travel to Beijing
+trip
+twelfth
+twentieth
+twenty-first
+#Word List V
+visit my aunt
+#Word List W
+watch birds
+#Word List Y
+yesterday
+young

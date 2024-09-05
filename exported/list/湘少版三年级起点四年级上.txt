@@ -1,0 +1,105 @@
+#Unit 1
+meet
+#Unit 2
+circle
+square
+line
+dot
+#Unit 3
+funny
+strong
+small
+mouse
+#Unit 4
+these
+flower
+children
+those
+egg
+tree
+grass
+sheep
+#Unit 5
+noodle
+noodles
+hungry
+dumpling
+milk
+bread
+rice
+biscuit
+#Unit 6
+turn
+right
+left
+we
+policemen
+policeman
+up
+down
+#Unit 7
+whose
+wallet
+bag
+scarf
+key
+hat
+mobile phone
+#Unit 8
+wear
+sweater
+dancer
+shoe
+shoes
+her
+brown
+grey
+sock
+socks
+skirt
+#Unit 9
+one hundred
+right
+wrong
+forty-six
+fifty-four
+homework
+twenty
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+#Unit 10
+welcome
+our
+home
+come
+living room
+kitchen
+bathroom
+bedroom
+#Unit 11
+where
+under
+table
+in
+on
+window
+door
+desk
+chair
+wall
+bed
+room
+#Unit 12
+can
+jump
+high
+run
+fast
+far
+swim
+fly

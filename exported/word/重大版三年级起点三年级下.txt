@@ -1,0 +1,157 @@
+boy
+girl
+man
+woman
+pupil
+teacher
+doctor
+nurse
+uncle
+aunt
+bus
+train
+ship
+kite
+panda
+monkey
+father
+mother
+sister
+brother
+grandpa
+grandfather
+grandma
+grandmother
+cousin
+cousin
+coat
+shirt
+dress
+skirt
+cap
+sweater
+T-shirt
+scarf
+water
+juice
+milk
+tea
+pie
+cake
+egg
+ice-cream
+play football
+play basketball
+run
+jump
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+and
+And you?
+all right
+aunt
+basketball
+boy
+brother
+bus
+cake
+can't
+can not
+cap
+child
+children
+Class is over.
+clothes
+coat
+come on
+cousin
+doctor
+dress
+drink
+egg
+eleven
+evening
+fast
+father
+fifteen
+fine
+football
+fourteen
+girl
+go
+good evening
+good night
+grandpa
+grandfather
+grandma
+grandmother
+great
+have
+he
+he's
+he is
+hungry
+ice-cream
+idea
+job
+juice
+jump
+just right
+kite
+late
+let's
+like
+man
+milk
+monkey
+mother
+new
+night
+nurse
+panda
+pie
+play basketball
+play football
+pupil
+put on
+ready
+run
+scarf
+school
+see
+she
+she's
+she is
+ship
+shirt
+sister
+skirt
+small
+some
+start
+sweater
+tea
+teacher
+the
+then
+thirsty
+thirteen
+time
+time for bed
+time for rest
+time for tea
+too
+toy
+train
+try on
+T-shirt
+twelve
+uncle
+water
+we
+What do you like?
+who
+woman

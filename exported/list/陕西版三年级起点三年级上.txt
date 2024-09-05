@@ -1,0 +1,128 @@
+#Unit 1
+hello
+hi
+goodbye
+Miss
+bye-bye
+I'm
+I am
+what's
+what is
+your
+name
+my
+is
+apple
+boy
+cat
+dog
+egg
+fish
+girl
+#Unit 2
+how
+are
+you
+fine
+thank
+this
+nice
+to
+meet
+me
+too
+hair
+ice-cream
+juice
+key
+lion
+milk
+night
+#Unit 3
+good
+morning
+mom
+afternoon
+Mr.
+evening
+dad
+orange
+pear
+question
+rabbit
+sun
+tiger
+#Unit 4
+it's
+it is
+a
+no
+it
+isn't
+is not
+look
+that
+yes
+an
+umbrella
+vegetable
+water
+box
+yellow
+zoo
+#Unit 5
+I
+have
+bag
+in
+how many
+eraser
+pencil
+pen
+crayon
+ruler
+book
+do
+and
+some
+don't
+what
+#Unit 6
+at
+toy
+plane
+ship
+kite
+car
+ball
+bike
+they
+these
+those
+#Unit 7
+bear
+where
+live
+one
+two
+panda
+three
+four
+monkey
+five
+elephant
+ten
+animal
+six
+nine
+#Unit 8
+color
+blue
+green
+red
+orange
+black
+white
+brown
+eight
+seven

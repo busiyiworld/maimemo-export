@@ -1,0 +1,51 @@
+#Unit 1
+new
+student
+window
+door
+schoolbag
+under
+may
+#Unit 2
+body
+head
+arm
+hand
+foot
+leg
+face
+eye
+nose
+mouth
+ear
+hear
+eat
+drink
+smell
+#Unit 3
+eleven
+twelve
+pear
+thirteen
+fourteen
+grape
+fifteen
+strawberry
+sixteen
+banana
+seventeen
+eighteen
+nineteen
+twenty
+#Unit 4
+skirt
+dress
+wear
+T-shirt
+shirt
+shorts
+pants
+shoes
+socks
+wash
+old

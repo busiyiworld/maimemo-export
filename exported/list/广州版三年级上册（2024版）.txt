@@ -1,0 +1,107 @@
+#Unit 1
+ruler
+yes
+Show me ..., please.
+I am ...
+You're ...
+I'm ...
+#Unit 2
+Chinese
+English
+T-shirt
+chocolate
+coffee
+jeep
+tank
+tofu
+wonton
+salad
+What's this?
+It's ...
+#Unit 3
+boy
+girl
+hello
+welcome
+last name
+Miss
+Mr
+Mrs
+Ms
+Good morning!
+Nice to meet you!
+What's your name?
+My name is ...
+I'm ...
+#Unit 4
+red
+yellow
+green
+blue
+white
+coloured pencil
+OK
+How do you spell ...?
+#Unit 5
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+library
+again
+password
+What's the Wi-Fi password?
+Can you say that again?
+Sure!
+#Unit 6
+its
+face
+ear
+nose
+eye
+mouth
+Draw a ...
+This is ...
+These are ...
+What colour is ...?
+#Unit 7
+body
+face the speaker
+nod my head
+keep quiet
+listen to my teacher
+put up my hand
+wait your turn
+How can you be a good listener?
+I see.
+I have a question.
+#Unit 8
+deer
+tiger
+rabbit
+move
+arm
+leg
+fly like a bird
+run like a horse
+swim like a fish
+jump like a monkey
+walk like a bear
+Let's ...
+#Review
+their
+where
+seat
+a music show
+This is my ...
+It's good to see you!
+You are here.
+Thanks!
+Thank you!
+You're welcome.

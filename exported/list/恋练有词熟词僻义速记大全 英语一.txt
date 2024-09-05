@@ -1,0 +1,442 @@
+#A
+account
+address
+appeal
+approach
+about
+about-face
+absolutist
+acquisition
+advocate
+agenda
+aggressive
+air
+allowance
+angle
+appeal
+appreciation
+artificial
+average
+#B
+back
+band-aid
+body
+break
+brief
+backdrop
+badly
+bar
+bearing
+benefit
+bill
+bit
+board
+boot
+brain
+bright
+bread-and-butter
+budding
+build
+business
+#C
+capital
+charitably
+check
+code
+company
+complex
+conduct
+construct
+counter
+cover
+critical
+capacity
+capture
+carry-on
+case
+cast
+cause
+celebrate
+cement
+chain
+check
+circulation
+claim
+class
+clawback
+cloak
+cloud
+colorful
+composition
+concrete
+condition
+conductor
+considerable
+constant
+consume
+content
+contract
+contribution
+conviction
+corporate
+corrupt
+craft
+crash
+cricket
+critical
+curious
+cycle
+#D
+distribution
+due
+duly
+dampen
+dawn
+desperate
+die
+discipline
+dismiss
+display
+ditch
+down
+drag
+drawn-out
+dumb
+dwarf
+#E
+excel
+extraction
+embrace
+engagement
+engineer
+entail
+enterprise
+erupt
+essential
+evade
+even
+evidence
+exchange
+#F
+fade
+figure
+flag
+fulfil
+fan
+far-reaching
+fashion
+fat
+favor
+fetch
+finance
+find
+fine
+firm
+fleeting
+foster
+frequent
+#G
+game
+good
+grasp
+giant
+grant
+ground
+grounding
+#H
+handsome
+host
+hard
+head
+headlong
+headshot
+heart
+hit
+house
+humanity
+#I
+ill
+index
+industrial
+informed
+innocent
+installment
+institution
+interest
+intriguing
+issue
+#J
+justice
+#K
+kill
+knight
+knit
+#L
+label
+labour
+landscape
+lay
+line
+lame
+last
+lasting
+launch
+leverage
+lobby
+lot
+#M
+map
+margin
+mean
+measure
+mend
+mount
+major
+mask
+marvel
+metrics
+model
+modest
+move
+movement
+#N
+nature
+net
+note
+novel
+nuts
+#O
+obvious
+occupation
+off-plan
+orchestrate
+order
+overhead
+overrule
+#P
+paper
+plant
+poach
+post
+practice
+press
+price
+provision
+panel
+party
+performance
+pit
+plague
+plateau
+political
+pool
+possession
+pressure
+pride
+prime
+process
+#Q
+quality
+#R
+reflect
+review
+rigid
+room
+root
+round
+run
+runway
+reactor
+reading
+ready
+reason
+recall
+remote
+resounding
+rightly
+robust
+rosy
+rounded
+route
+row
+rule
+ruling
+run
+runaway
+#S
+scheme
+screen
+seal
+secure
+see
+shaky
+shape
+share
+sharpness
+sift
+sketch
+spark
+spot
+stand
+standstill
+stem
+strike
+subject
+succeed
+suggest
+sacred
+save
+scatter
+scene
+ship
+signal
+sitting
+smooth
+sneak
+sound
+sounding
+span
+speed
+squeeze
+stand
+state
+steep
+still
+story
+straight
+streaming
+stuck
+subscription
+surface
+swell
+#T
+traffic
+thorny
+tie
+tone
+treatment
+trigger
+trust
+turnaround
+turnover
+#U
+undo
+union
+upset
+underline
+undermine
+unsettling
+#V
+view
+value
+variable
+very
+vessel
+vocal
+voice
+volume
+#W
+warrant
+wash
+#A 词组
+a piece of cake
+a string of
+account for
+an end in itself
+at issue
+at length
+at odds with
+#B 词组
+bad debt
+bear on
+beef up
+behind the scenes
+beside the point
+better off
+boil down
+book value
+build on
+by all accounts
+#C 词组
+clamp down
+come down with
+come to light
+#D 词组
+draw on
+drive down
+drive sb's point home
+#E 词组
+embark on
+#F 词组
+fall short of
+flow from
+for all
+for good
+#G 词组
+green belt
+#H 词组
+high street
+#I 词组
+in the interest of
+#K 词组
+keep an eye on
+keep an eye out for
+knock off
+knock sth. off
+knock out
+#L 词组
+law firm
+let rip
+live by
+loom large
+#M 词组
+make the jump
+man of letters
+move in
+#N 词组
+name and shame
+#O 词组
+on the wrong planet
+opera house
+#P 词组
+physical fitness
+pin down
+point person
+press on
+#R 词组
+read off
+reality check
+red ink
+rest on
+rule out
+#S 词组
+safety net
+save for
+set off
+set out
+shed light on
+shop floor
+sign on
+spell out
+spot on
+spot-on
+stand down
+stay put
+sticker shock
+#T 词组
+take a page from
+take a tough line
+take its toll
+take a toll
+the administration
+the bare minimum
+the big picture
+the bigger picture
+the writing is on the wall
+to the letter
+toxic asset
+turn out
+#U 词组
+up in arms
+#W 词组
+work out

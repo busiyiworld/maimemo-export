@@ -1,0 +1,190 @@
+#Unit 1
+Chinese book
+music book
+English book
+art book
+maths book
+science book
+IT book
+story book
+#Unit 2
+face
+eye
+nose
+ear
+mouth
+hair
+big
+small
+long
+short
+#Unit 3
+hand
+arm
+foot
+leg
+body
+head
+clean
+dirty
+left
+right
+#Unit 4
+USA
+UK
+China
+Canada
+Australia
+speak
+sing
+dance
+draw
+#Unit 5
+zoo
+giraffe
+tiger
+lion
+elephant
+beautiful
+lovely
+tall
+short
+strong
+#Unit 6
+PE class
+breakfast
+lunch
+dinner
+go home
+go to school
+get up
+go to bed
+#Word List A
+again
+all right
+animal
+arm
+art
+ask
+Australia
+#Word List B
+baby
+back
+bag
+beautiful
+big
+body
+breakfast
+#Word List C
+call
+Canada
+China
+Chinese
+class
+clean
+close
+come
+#Word List D
+dance
+dinner
+dirty
+draw
+#Word List E
+ear
+elephant
+English
+eye
+#Word List F
+face
+foot
+feet
+from
+#Word List G
+get up
+giraffe
+go home
+go to bed
+go to school
+good bye
+bye
+#Word List H
+hair
+half
+hand
+has
+have
+have a rest
+head
+hear
+heavy
+her
+his
+hurry up
+hurt
+#Word List I
+IT
+#Word List K
+know
+#Word List L
+late
+left
+leg
+lion
+little
+long
+lovely
+lunch
+#Word List M
+maths
+math
+mouth
+Mr.
+Mrs.
+Ms.
+music
+#Word List N
+new
+nose
+#Word List O
+o'clock
+open
+or
+#Word List P
+PE
+physical education
+pull
+#Word List R
+read
+right
+#Word List S
+say
+science
+short
+show
+sing
+sit
+small
+song
+sorry
+speak
+stand
+story
+strong
+#Word List T
+talk
+talk about
+tall
+these
+they
+those
+tiger
+touch
+#Word List U
+UK
+USA
+#Word List W
+we
+What time is it?
+What's wrong?
+#Word List Z
+zoo

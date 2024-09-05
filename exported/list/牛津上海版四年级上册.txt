@@ -1,0 +1,133 @@
+#Module 1 Unit 1
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+classmate
+#Module 1 Unit 2
+paint
+draw
+read
+write
+swim
+jump
+fast
+picture
+very
+well
+fly
+high
+#Module 1 Unit 3
+happy
+hungry
+thirsty
+sad
+full
+tired
+new
+back
+biscuit
+then
+#Module 2 Unit 1
+uncle
+aunt
+cousin
+police
+officer
+#Module 2 Unit 2
+doctor
+nurse
+teacher
+student
+firefighter
+cook
+bus driver
+#Module 2 Unit 3
+coat
+shirt
+blouse
+T-shirt
+skirt
+sweater
+jeans
+shorts
+pink
+friend
+#Module 3 Unit 1
+canteen
+computer lab
+office
+gym
+behind
+in front of
+building
+lesson
+lunch
+#Module 3 Unit 2
+supermarket
+post office
+restaurant
+next to
+between
+street
+shop
+near
+city
+many
+some
+#Module 3 Unit 3
+a packet of sweets
+a loaf of bread
+a bowl of noodles
+a bar of chocolate
+a packet of biscuits
+a bottle of water
+#Module 4 Unit 1
+hay
+grass
+corn
+meat
+Don't litter.
+Don't walk on the grass.
+Don't pick flowers.
+Don't throw stones.
+farm
+rubbish
+visit
+bin
+#Module 4 Unit 2
+sketchbook
+cap
+camera
+aviary
+fountain
+pond
+far away
+road
+take
+#Module 4 Unit 3
+sunny
+rainy
+cloudy
+windy
+warm
+hot
+wet
+dry
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+China
+Australia
+always

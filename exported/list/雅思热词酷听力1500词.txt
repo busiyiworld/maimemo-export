@@ -1,0 +1,1508 @@
+#Chapter 1 租房场景 1.1 房租账单
+rent
+deposit
+bill
+cash
+landlord
+landlady
+tenant
+house agency
+#Chapter 1 租房场景 1.2 地理位置
+location
+city centre
+suburb
+outskirts
+countryside
+rural area
+village
+southern
+avenue
+block
+district
+postcode
+neighbourhood
+community
+surrounding
+#Chapter 1 租房场景 1.3 房型户型
+accommodation
+property
+flat
+dormitory
+dorm
+halls of residence
+motel
+guest house
+youth hostel
+host family
+private
+double bedroom
+bedsit
+living room
+cloakroom
+basement
+dining room
+roommate
+#Chapter 1 租房场景 1.4 内部设施
+facility
+furniture
+decoration
+cabinet
+cupboard
+drawer
+cooker
+fridge
+freezer
+washing machine
+air conditioning
+electric fan
+radiator
+vacuum cleaner
+water heater
+basin
+kettle
+dishwasher
+microwave oven
+stereo system
+toaster
+elevator
+lift
+#Chapter 1 租房场景 1.5 外部设施
+courtyard
+garage
+balcony
+corridor
+fence
+fountain
+swimming pool
+car park
+laundry room
+kindergarten
+nursery
+primary school
+elementary school
+#Chapter 1 租房场景 1.6 家居用品
+pillow
+bed sheet
+mattress
+blanket
+carpet
+towel
+apron
+curtain
+wardrobe
+#Chapter 1 租房场景 1.7 特殊要求
+requirement
+personal detail
+preference
+pet
+noisy
+crack
+leak
+special diet
+vegetarian
+red meat
+seafood
+peanut
+dairy
+catering
+full board
+shared area
+hotel
+study
+kitchen
+toilet
+bathroom
+shower
+dryer
+stove
+garden
+restaurant
+#Chapter 2 旅游场景 2.1 景点相关
+UK
+the United Kingdom
+London
+Sydney
+New Zealand
+New York
+Canada
+Canadian
+Toronto
+Australia
+Australian
+United States of America
+USA
+America
+the States
+American
+France
+French
+Paris
+Italy
+Italian
+Rome
+Germany
+German
+Japan
+Japanese
+Switzerland
+Swiss
+Switzer
+Russia
+Russian
+Spain
+Spanish
+Greece
+Greek
+destination
+lookout point
+viewing shelter
+stunning view
+sunrise
+location
+position
+site
+spot
+region
+waterfall
+museum
+cinema
+theatre
+church
+landscape
+landmark
+country
+historical interest
+art gallery
+cave
+castle
+temple
+tower
+safari park
+wildlife
+exhibition
+statue
+sculpture
+mountain
+palace
+tunnel
+coast
+aquarium
+desert
+tropical rainforest
+amusement park
+theme park
+playground
+organic farm
+main entrance
+access
+exit
+post office
+ticket office
+gift shop
+souvenir
+formal garden
+herb garden
+workshop
+street art
+wretched boat
+agriculture fair
+concert hall
+craft shop
+conference centre
+#Chapter 2 旅游场景 2.2 旅游项目
+vacation
+tour
+trip
+journey
+excursion
+hiking
+adventure
+entertainment
+leisure activity
+recreation
+sightseeing
+sailing
+wreck diving
+paddling pool
+rafting
+fishing
+SPA service
+massage
+camping
+horse riding
+balloon ride
+survival course
+cookery lesson
+feed animals
+donation
+adopt
+weather observation
+cater for
+#Chapter 2 旅游场景 2.3 交通工具
+transportation
+traffic
+vehicle
+wheel
+bus service
+double-decker bus
+coach
+railway
+station
+expressway
+subway
+minivan
+caravan
+truck
+tram
+ferry
+cruise
+canoe
+steamship
+flight
+terminal
+pick-up point
+first class
+leg-room
+cabin
+departure
+arrival
+motorcycle
+walking
+cable car
+#Chapter 2 旅游场景 2.4 住宿相关
+check in
+lounge
+foyer
+suite
+B&B
+bed and breakfast
+room service
+cottage
+locker room
+ground floor
+complex
+#Chapter 2 旅游场景 2.5 花费相关
+cost
+spend
+pay
+fare
+fee
+expense
+charge
+price list
+change
+pocket money
+finance
+financial
+payment
+check
+cheque
+pounds
+refund
+optional
+exchange rate
+currency
+bank
+account
+accommodation package
+special offer
+reserve
+in advance
+in ahead of time
+return ticket
+round-trip ticket
+single ticket
+one-way ticket
+#Chapter 2 旅游场景 2.6 旅行装备
+equipment
+necessity
+luggage
+baggage
+suitcase
+mobile phone
+digital camera
+video camera
+telescope
+compass
+mosquito net
+luxury tent
+glove
+torch
+life jacket
+raincoat
+swimming suit
+casual clothes
+sweater
+trousers
+spare socks
+boots
+sandals
+sunscreen
+lip balm
+high-energy snacks
+bottled water
+#Chapter 2 旅游场景 2.7 人物相关
+tourist
+traveller
+passenger
+tour guide
+travel agency
+adult
+senior citizen
+married couple
+disabled
+wheelchair
+backpacker
+hitch-hiker
+retired
+nationality
+#Chapter 2 旅游场景 2.8 注意事项
+recommend
+signature
+notice board
+reception desk
+insurance
+health check
+contract
+passport
+ID card
+driving licence
+embassy
+safety regulation
+safety helmet
+permit
+current
+waterproof
+emergency
+accident
+non-smoking area
+alarm system
+double-lock
+time limit
+thunderstorm
+discount
+radio programme
+Internet access
+leaflet
+guide book
+visitor centre
+#Chapter 2 旅游场景 2.9 方位相关
+on one side of
+on the other side of
+on the corner of
+at the back of
+beside
+opposite to
+nearby
+towards
+cross
+go through
+close to
+go straight ahead
+next to
+in front of
+behind
+beyond
+right opposite
+parallel to
+along
+go across
+far from
+at the end of
+go past
+crossroad
+T-junction
+intersection
+trail
+route
+corner
+bend
+corridor
+pavement
+pedestrian crossing
+circle
+half circle
+round
+circular
+curved
+triangle
+rectangle
+diamond
+a row of
+beach
+fish farm
+cab
+taxi
+train
+plane
+bicycle
+mountain bike
+return
+holiday house
+waiting room
+order
+first come, first served
+Master Card
+Visa Card
+sunglasses
+rope
+umbrella
+sleeping bag
+local people
+parents
+child
+elder
+group ticket
+family ticket
+book online
+website
+visa
+path
+ladder
+#Chapter 3 休闲娱乐 3.1 饮食相关
+café
+cafeteria
+canteen
+refectory
+dining room
+dining hall
+restaurant
+catering service
+takeaway
+take-away
+buffet
+menu
+starter
+dish
+bowl
+spoon
+plate
+fork
+napkin
+tissue
+coffee
+chilled mineral water
+tap water
+soft drink
+lemonade
+juice
+cocktail
+alcohol
+balanced diet
+ingredient
+flour
+salad
+cheese
+hamburger
+sandwich
+nut
+lamb
+turkey
+lobster
+oyster
+snack
+refreshment
+biscuit
+cookie
+dessert
+chocolate
+jam
+yogurt
+vegetable
+potato
+corn
+protein
+vitamin
+calorie
+nutrition
+salt
+sugar
+bitter
+spicy
+#Chapter 3 休闲娱乐 3.2 运动相关
+sport
+fitness
+club
+membership
+keep-fit studio
+gym
+exercise equipment
+weight-training
+stop watch
+coach
+assessment
+trial session
+champion
+peak time
+rush hour
+changing room
+skiing
+water-skiing
+kite-surfing
+roller-skating
+rock climbing
+badminton
+yoga
+judo
+kick-boxing
+snowboarding
+stretch
+golf
+tennis
+table tennis
+volleyball
+squash
+#Chapter 3 休闲娱乐 3.3 购物相关
+shopping
+department store
+convenience store
+grocery
+purchase
+customer
+client
+annual subscription fee
+joining fee
+budget
+retail
+discount
+receipt
+invoice
+display
+label
+promotion
+sold out
+item
+checklist
+worksheet
+texture
+cotton
+nylon
+wool
+velvet
+silk
+rubber
+leather
+metal
+model
+pattern
+average
+demand
+supply
+best buy
+sample
+household electrical appliance
+laptop
+purse
+wallet
+cosmetic
+perfume
+soap
+shampoo
+stationery
+ink
+paperclip
+string
+bottle top
+frame
+raw material
+fuel
+coal
+firewood
+brake
+container
+jar
+tank
+crystal
+indicator
+iron
+candle
+cigar
+advantage
+disadvantage
+smelly
+effective
+efficient
+second-hand
+essential
+precious
+valuable
+fashionable
+old-fashioned
+satisfactory
+risky
+sharp
+proper
+smooth
+expensive
+costly
+economical
+attractive
+artificial
+reasonable
+relevant
+reliable
+automatic
+solid
+transparent
+#Chapter 3 休闲娱乐 3.4 节日活动
+festival
+holiday
+celebration
+opening ceremony
+farewell party
+activity
+venue
+auditorium
+schedule
+theatrical event
+drama
+comedy
+stage
+microphone
+exterior
+charity
+donate
+rehearsal
+audience
+participant
+city council
+press
+prize
+award
+invitation
+highlight
+poster
+workshop
+model making
+wood carving
+picnic
+cool box
+fancy dress ball
+improvement
+redevelopment
+reorient
+refurbishment
+under construction
+volunteer
+effect
+performance
+ballet dancing
+music
+musical instrument
+piano
+cello
+violin
+guitar
+flute
+screening
+circus
+clown
+magic
+puppet
+#Chapter 3 休闲娱乐 3.5 服饰衣着
+clothes
+wear
+costume
+dress code
+jacket
+suit
+blouse
+jeans
+school uniform
+sneakers
+coke
+meat
+chicken
+beef
+pork
+bacon
+ham
+steak
+barbecue
+BBQ
+crab
+shrimp
+rice
+noodle
+bread
+pizza
+hotdog
+French fries
+chips
+butter
+pie
+strawberry
+blueberry
+pineapple
+tomato
+carrot
+cucumber
+mushroom
+onion
+cabbage
+honey
+sweet
+sour
+sauce
+#Chapter 4 工作场景 4.1 职业类型
+occupation
+full-time job
+vacancy
+staff
+permanent job
+office assistant
+cook
+waiter
+chef
+receptionist
+designer
+accountant
+treasurer
+secretary
+reporter
+journalist
+engineer
+architect
+carpenter
+craftsman
+lawyer
+manager
+director
+photographer
+programmer
+consultant
+cleaner
+police
+#Chapter 4 工作场景 4.2 工作地点
+industry
+factory
+company
+organization
+workplace
+tennis court
+child care centre
+bakery
+customer service
+maintenance
+branch bank
+advertising agency
+#Chapter 4 工作场景 4.3 工作要求
+application form
+resume
+job interview
+recruit
+employ
+job offer
+contract
+academic background
+career center
+reference
+working experience
+personality
+attitude
+gender
+social ability
+communication skill
+reliable
+conflict
+individual talent
+work permit
+job responsibility
+qualification
+teamwork
+cooperation
+arm badge
+clear voice
+think quickly
+fluent
+vision
+washing-up
+#Chapter 4 工作场景 4.4 薪金待遇
+benefit
+welfare
+salary
+wage
+income
+earnings
+tip
+incentive
+flexible working hours
+overtime
+medical insurance
+opportunity for promotion
+colleague
+paid vacation
+coffee break
+day off
+shift
+#Chapter 5 健康医疗 5.1 场所人员
+health center
+medical center
+clinic
+hospital
+pharmacy
+dentist
+nurse
+patient
+#Chapter 5 健康医疗 5.2 身体部位
+chin
+neck
+throat
+chest
+shoulder
+finger
+toe
+nail
+elbow
+wrist
+waist
+bone
+joint
+ankle
+skeleton
+lung
+kidney
+muscle
+blood
+cell
+#Chapter 5 健康医疗 5.3 常见疾病
+disease
+cough
+fever
+allergy
+heart problem
+bad eyesight
+deaf
+blind
+scar
+ache
+back pain
+injury
+wound
+sting
+infection
+bacteria
+mental disease
+#Chapter 5 健康医疗 5.4 药物名称
+medicine
+medication
+pill
+capsule
+tablet
+herb
+painkiller
+vitamin
+antibiotic
+eyedrops
+#Chapter 5 健康医疗 5.5 救护治疗
+surgery
+operation
+diagnose
+treatment
+medical care
+therapy
+side effect
+prescription
+make an appointment
+injection
+vaccinate
+acupuncture
+bandage
+ice pack
+ambulance
+first-aid kit
+X-ray
+eye
+ear
+mouth
+nose
+arm
+leg
+knee
+foot
+catch a cold
+flu
+sleeping sickness
+#Chapter 6 学术场景 6.1 学科类别
+major
+subject
+discipline
+science
+arts
+geography
+geology
+biology
+physics
+chemistry
+mathematics
+statistics
+business studies
+economics
+finance
+management
+politics
+literature
+linguistics
+psychology
+philosophy
+journalism
+sociology
+anthropology
+archaeology
+astronomy
+engineering
+#Chapter 6 学术场景 6.2 学历学位
+primary school
+pupil
+secondary school
+college
+university
+undergraduate
+degree
+master
+institution
+freshman
+diploma
+certificate
+credit
+scholarship
+tuition
+#Chapter 6 学术场景 6.3 课程相关
+course
+session
+module
+lecture
+seminar
+tutorial
+semester
+term
+orientation
+register
+academic
+campus
+#Chapter 6 学术场景 6.4 作业相关
+assessment
+evaluation
+attendance
+examination
+quiz
+plus
+failure
+target
+standard
+level
+handout
+feedback
+assignment
+written work
+presentation
+slide
+report
+project
+article
+essay
+thesis
+dissertation
+proposal
+theory
+purpose
+outline
+summary
+abstract
+contents page
+literature review
+conclusion
+appendix
+extension
+deadline
+survey
+investigation
+research
+group discussion
+observation
+questionnaire
+confidentiality
+interview
+recorder
+experiment
+case study
+analysis
+data
+figure
+graph
+strategy
+technique
+approach
+specialist knowledge
+draft
+revision
+preparation
+priority
+concern
+concentrate
+field trip
+argument
+assumption
+expectation
+sample
+measurement
+insert
+sentence
+paragraph
+layout
+bullet points
+submit
+criteria
+amendment
+accurate
+relevant
+straightforward
+critical
+independent learning
+solution
+sequence
+consequence
+#Chapter 6 学术场景 6.5 人物相关
+international student
+exchange student
+mature student
+student union
+student representative
+student advisor
+faculty
+lecturer
+tutor
+professor
+mentor
+supervisor
+instructor
+administrator
+expert
+coordinator
+#Chapter 6 学术场景 6.6 图书馆
+library
+reception desk
+circulation desk
+overdue fine
+loan period
+renew
+recall
+self-access centre
+bookshelf
+printer
+photocopier
+computer lab
+computer terminal
+resources room
+multimedia room
+audio-visual room
+software
+category
+catalogue
+archive
+publish
+copyright
+periodical
+journal article
+current issue
+novel
+fiction
+version
+reference book
+bibliography
+textbook
+electronic book
+editing
+documentary
+card index
+historian
+mass media
+law school
+graduate school
+language lessons
+speech
+full-time
+part-time
+mark
+score
+grade
+goal
+note-taking skill
+paper
+passage
+example
+chapter
+cover page
+topic
+title
+heading
+subheading
+header
+footer
+key words
+introduction
+result
+timetable
+director of studies
+information desk
+return area
+due date
+headphone
+visual guidance
+magazine
+newspaper
+#Chapter 7 自然科学 7.1 动物相关
+dolphin
+whale
+crocodile
+eagle
+goose
+kangaroo
+zebra
+elephant
+camel
+lion
+deer
+monkey
+ape
+donkey
+rabbit
+horse
+sheep
+goat
+cow
+bear
+rat
+shark
+turtle
+snake
+dinosaur
+frog
+sea horse
+duck
+chicken
+hen
+swan
+butterfly
+ant
+spider
+worm
+mite
+species
+die out
+wildlife
+creature
+beast
+organism
+gene
+mammal
+cattle
+livestock
+reptile
+amphibian
+insect
+pest
+parasite
+coral
+behaviour
+hibernation
+reproduction
+life cycle
+self-defense
+instinctive reaction
+navigation
+diversity
+estimate
+habitat
+sanctuary
+threat
+skin
+fur
+feather
+shell
+tongue
+sense of smell
+food chain
+prey
+predator
+carnivorous
+footprint
+hunting
+#Chapter 7 自然科学 7.2 植物相关
+vegetation
+forest
+woodland
+willow
+pine tree
+branch
+seed
+scent
+leaf
+root
+log
+crop
+grain
+agriculture
+irrigation
+fibre
+bloom
+blossom
+#Chapter 7 自然科学 7.3 环境地理
+continent
+Asia
+Africa
+America
+Europe
+Antarctica
+Oceania
+North Pole
+explorer
+environment
+surrounding
+conservation
+ecology
+nature
+planet
+solar
+atmosphere
+climate
+weather
+temperature
+humid
+drought
+storm
+shady
+evaporate
+filter
+surface
+organic
+sustainable
+damage
+global warming
+iceberg
+rainfall
+pollution
+toxic
+influence
+impact
+low-frequency noise
+insulation
+soil conditioner
+fertilizer
+energy-efficient
+alternative energy
+recycling
+plastic
+cement
+concrete
+waste
+fragile
+erosion
+carbon dioxide
+oxygen
+ozone layer
+release
+greenhouse effect
+rubbish
+incineration plant
+international cooperation
+public awareness
+breakthrough
+shortage
+population
+ocean
+tide
+resource
+volcano
+cliff
+plain
+wetland
+distortion
+atlas
+boundary
+satellite
+monitor
+density
+altitude
+gravity
+vertical
+bird nest
+jaw
+mane
+wing
+tail
+fin
+palm tree
+grass
+flower
+weed
+seaweed
+sea level
+weight
+length
+depth
+height
+#Chapter 8 人文社科 8.1 历史文化
+ancient
+ancestor
+originate
+initial
+evolution
+revolution
+tribe
+primitive
+isolation
+distance
+symbol
+suffer
+dwelling
+settlement
+establish
+invasion
+voyage
+pirate
+Roman Empire
+remain
+discover
+fragment
+intact
+precious
+luxury
+soldier
+slave
+labour
+plough
+arrow
+clay
+pottery
+rock painting
+carving
+dome
+angle
+printing press
+decade
+century
+phenomenon
+religion
+melting pot
+immigration
+democratic
+modern
+contemporary
+middle class
+wealth
+sufficient
+committee
+divorce rate
+popularity
+youth culture
+peer
+maturity
+parental
+stimulate
+self-centred
+depression
+shame
+old-fashioned
+mystery
+legend
+realistic
+impression
+motion picture
+projection
+adaptation
+tension
+subtitle
+broadcast
+album
+symphony orchestra
+compose
+passive
+intelligent
+comprehensive
+integrate
+complicated
+physical education
+PE
+gender studies
+election
+#Chapter 8 人文社科 8.2 商业竞争
+stock market
+strategic marketing
+manufacture
+economy
+capital
+investment
+profit
+campaign
+consumer
+commercial
+funding
+sponsorship
+risk management
+crisis
+recognise
+restriction
+mission statement
+project-oriented
+competitive
+description
+decision
+retail
+barcode
+random
+remote working
+leadership
+potential
+commodity
+merchant
+productivity
+creativity
+morale
+moral
+global vision
+combination
+collaborate
+expertise
+import
+successful
+achievement
+ambition
+motivation
+determination
+aspiration
+innovation
+stability
+ignorance
+superiority
+#Chapter 8 人文社科 8.3 犯罪相关
+crime
+criminal
+murder
+robbery
+thief
+theft
+steal
+violence
+bullying
+abuse
+aggressive
+court
+justice
+judge
+punishment
+prison
+illegal
+victim
+witness
+evidence
+blame
+deliberately
+intentional
+misfortune
+conflict
+war
+weapon
+poverty
+private property
+indifference

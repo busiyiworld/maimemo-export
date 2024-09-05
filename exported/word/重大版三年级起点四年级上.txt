@@ -1,0 +1,163 @@
+Chinese book
+music book
+English book
+art book
+maths book
+science book
+IT book
+story book
+face
+eye
+nose
+ear
+mouth
+hair
+big
+small
+long
+short
+hand
+arm
+foot
+leg
+body
+head
+clean
+dirty
+left
+right
+USA
+UK
+China
+Canada
+Australia
+speak
+sing
+dance
+draw
+zoo
+giraffe
+tiger
+lion
+elephant
+beautiful
+lovely
+tall
+short
+strong
+PE class
+breakfast
+lunch
+dinner
+go home
+go to school
+get up
+go to bed
+again
+all right
+animal
+arm
+art
+ask
+Australia
+baby
+back
+bag
+beautiful
+big
+body
+breakfast
+call
+Canada
+China
+Chinese
+class
+clean
+close
+come
+dance
+dinner
+dirty
+draw
+ear
+elephant
+English
+eye
+face
+foot
+feet
+from
+get up
+giraffe
+go home
+go to bed
+go to school
+good bye
+bye
+hair
+half
+hand
+has
+have
+have a rest
+head
+hear
+heavy
+her
+his
+hurry up
+hurt
+IT
+know
+late
+left
+leg
+lion
+little
+long
+lovely
+lunch
+maths
+math
+mouth
+Mr.
+Mrs.
+Ms.
+music
+new
+nose
+o'clock
+open
+or
+PE
+physical education
+pull
+read
+right
+say
+science
+short
+show
+sing
+sit
+small
+song
+sorry
+speak
+stand
+story
+strong
+talk
+talk about
+tall
+these
+they
+those
+tiger
+touch
+UK
+USA
+we
+What time is it?
+What's wrong?
+zoo

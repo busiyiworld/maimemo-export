@@ -1,0 +1,96 @@
+#Unit 1
+new
+cap
+behind
+beside
+between
+watch
+glasses
+#Unit 2
+spring
+summer
+autumn
+winter
+#Unit 3
+river
+lake
+boat
+cloud
+sky
+mountain
+sun
+moon
+star
+#Unit 4
+write
+busy
+read
+draw
+paint
+dance
+sing
+#Unit 5
+cook
+sleep
+play
+eat
+drink
+watch
+#Unit 6
+skip
+basketball
+football
+table tennis
+#Unit 7
+today
+Saturday
+Tuesday
+music
+class
+Wednesday
+Friday
+tomorrow
+Sunday
+Monday
+Thursday
+#Unit 8
+come from
+from
+China
+the USA
+Australia
+Canada
+France
+the UK
+country
+#Unit 9
+how much
+help
+want
+yuan
+knife
+crayon
+brush
+ball
+toy car
+#Unit 10
+feet
+with
+finger
+knee
+#Unit 11
+ticket
+hurry
+late
+his
+shirt pocket
+#Unit 12
+any
+money
+so
+buy
+some
+tea
+coffee
+juice
+water

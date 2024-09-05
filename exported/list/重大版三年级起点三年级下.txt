@@ -1,0 +1,183 @@
+#Unit 1
+boy
+girl
+man
+woman
+pupil
+teacher
+doctor
+nurse
+#Unit 2
+uncle
+aunt
+bus
+train
+ship
+kite
+panda
+monkey
+#Unit 3
+father
+mother
+sister
+brother
+grandpa
+grandfather
+grandma
+grandmother
+cousin
+cousin
+#Unit 4
+coat
+shirt
+dress
+skirt
+cap
+sweater
+T-shirt
+scarf
+#Unit 5
+water
+juice
+milk
+tea
+pie
+cake
+egg
+ice-cream
+#Unit 6
+play football
+play basketball
+run
+jump
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+#Word List A
+and
+And you?
+all right
+aunt
+#Word List B
+basketball
+boy
+brother
+bus
+#Word List C
+cake
+can't
+can not
+cap
+child
+children
+Class is over.
+clothes
+coat
+come on
+cousin
+#Word List D
+doctor
+dress
+drink
+#Word List E
+egg
+eleven
+evening
+#Word List F
+fast
+father
+fifteen
+fine
+football
+fourteen
+#Word List G
+girl
+go
+good evening
+good night
+grandpa
+grandfather
+grandma
+grandmother
+great
+#Word List H
+have
+he
+he's
+he is
+hungry
+#Word List I
+ice-cream
+idea
+#Word List J
+job
+juice
+jump
+just right
+#Word List K
+kite
+#Word List L
+late
+let's
+like
+#Word List M
+man
+milk
+monkey
+mother
+#Word List N
+new
+night
+nurse
+#Word List P
+panda
+pie
+play basketball
+play football
+pupil
+put on
+#Word List R
+ready
+run
+#Word List S
+scarf
+school
+see
+she
+she's
+she is
+ship
+shirt
+sister
+skirt
+small
+some
+start
+sweater
+#Word List T
+tea
+teacher
+the
+then
+thirsty
+thirteen
+time
+time for bed
+time for rest
+time for tea
+too
+toy
+train
+try on
+T-shirt
+twelve
+#Word List U
+uncle
+#Word List W
+water
+we
+What do you like?
+who
+woman

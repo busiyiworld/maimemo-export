@@ -1,0 +1,899 @@
+#Bridging Unit 1
+unit
+bridging unit
+section
+greet
+each
+other
+each other
+hear
+box
+Ms
+oh
+everyone
+start
+conversation
+spell
+bell
+Helen
+Ella
+Emma
+Peter
+Brown
+PRC
+PLA
+VR
+WHO
+UN
+Miller
+#Bridging Unit 2
+bottle
+eraser
+key
+talk
+age
+wake
+late
+thing
+pair
+need
+You're welcome.
+answer
+#Bridging Unit 3
+fun
+yard
+carrot
+down
+goose
+geese
+pig
+cup
+grape
+sheep
+farm
+grass
+count
+another
+else
+circle
+look at
+#Unit 1
+question
+think
+make friends
+get to know
+far
+full
+full name
+grade
+last name
+classmate
+class teacher
+first name
+mistake
+job
+country
+or
+same
+twin
+favourite
+both
+band
+pot
+a lot
+tofu
+parrot
+guitar
+tennis
+hour
+page
+even
+hey
+play the guitar
+would
+would like to
+'d like to
+information
+hobby
+re
+Green
+UK
+US
+Smith
+Lisa
+Tom
+hot pot
+Sally
+Wood
+Sydney
+Australia
+Mapo tofu
+Beijing roast duck
+Singapore
+Pauline
+Lee
+Coco
+London
+#Unit 2
+mean
+husband
+bat
+ping-pong bat
+play ping-pong
+together
+every day
+fishing rod
+spend
+a lot of
+lots of
+really
+member
+activity
+chess
+Chinese chess
+grandparent
+funny
+laugh
+different
+violin
+have fun
+pink
+hat
+left
+handsome
+knee
+always
+night
+at night
+in the middle
+grandchild
+grandchildren
+son
+hike
+go hiking
+next to
+David
+Jim
+Kate
+Lily
+Ireland
+Fred
+Sam
+Jane
+Jack
+Sarah
+Oscar
+Lucy
+#Unit 3
+hall
+dining hall
+front
+in front of
+building
+across
+across from
+centre
+center
+gym
+gymnasium
+field
+sports field
+office
+between
+clock
+Mrs
+large
+blackboard
+special
+smart
+whiteboard
+put up
+important
+notice
+locker
+drawer
+at the back
+at the back of
+corner
+wall
+bookcase
+screen
+at school
+different from
+modern
+exercise
+do exercises
+amazing
+raise
+flag
+most
+change
+seat
+delicious
+How about ...?
+yours
+send
+similar
+similar to
+sound
+bye for now
+Flora
+#Unit 4
+biology
+IT
+information technology
+geography
+history
+boring
+useful
+exciting
+past
+good with
+number
+help sb. with
+reason
+listen to
+good at
+remember
+as
+AM
+a.m.
+PM
+p.m.
+busy
+study
+French
+excellent
+instrument
+singer
+future
+in the future
+term
+work out
+problem
+in class
+magic
+life
+scientist
+Baker
+Mike
+Davis
+Canada
+#Unit 5
+club
+join
+choose
+drama
+play Chinese chess
+feeling
+safe
+news
+musical
+musical instrument
+exactly
+drum
+ability
+paint
+climb
+more
+act
+act on
+at home
+interested
+interested in
+nature
+beef
+soon
+than
+more than
+mind
+fall
+fall in love with
+take photos
+collect
+insect
+discover
+wildlife
+Linda
+Alice
+Bill
+Jenny
+#Unit 6
+tour
+popular
+tourist
+spot
+famous
+mountain
+kiwi
+forest
+guide
+famous for
+lotus
+culture
+adult
+tooth
+teeth
+province
+wonderful
+view
+sun
+rise
+sky
+turn
+top
+purple
+sand
+volleyball
+seashell
+such as
+sea lion
+flying fish
+sea horse
+New Zealand
+Daming Lake
+Mount Huangshan
+West Lake
+Zhangjiajie National Forest Park
+Mount Taishan
+Five Great Mountains
+Waikiki
+Hawaii
+#Vocabulary from Primary School A
+a
+an
+about
+after
+afternoon
+again
+age
+ago
+air
+all
+also
+always
+and
+angry
+animal
+answer
+any
+apple
+arm
+art
+ask
+astronaut
+at
+aunt
+autumn
+#Vocabulary from Primary School B
+baby
+back
+bad
+bag
+ball
+banana
+basketball
+be
+am
+is
+are
+beach
+bear
+beautiful
+because
+bed
+bee
+before
+begin
+behind
+beside
+best
+between
+bicycle
+bike
+big
+bird
+birthday
+black
+blackboard
+blue
+boat
+body
+book
+box
+boy
+breakfast
+bring
+brought
+brother
+brown
+bus
+busy
+but
+buy
+by
+bye
+goodbye
+#Vocabulary from Primary School C
+cake
+call
+can
+candle
+candy
+cap
+car
+card
+careful
+cat
+catch
+caught
+chair
+chicken
+child
+children
+China
+Chinese
+chore
+cinema
+city
+class
+classroom
+clean
+clever
+clock
+close
+clothes
+cloudy
+coat
+cold
+colour
+color
+come
+computer
+cook
+cool
+cousin
+cow
+cry
+cup
+cut
+cute
+#Vocabulary from Primary School D
+dance
+day
+dear
+desk
+difficult
+dinner
+dirty
+do
+does
+doctor
+dog
+doll
+door
+down
+draw
+dress
+drink
+driver
+duck
+#Vocabulary from Primary School E
+ear
+early
+earth
+easy
+eat
+egg
+elephant
+email
+English
+evening
+every
+excited
+exercise
+eye
+#Vocabulary from Primary School F
+face
+family
+famous
+fan
+far
+farm
+farmer
+fast
+father
+dad
+favourite
+favorite
+feel
+film
+find
+fine
+fire
+fish
+floor
+flower
+fly
+food
+foot
+feet
+football
+for
+free
+friend
+from
+front
+fruit
+#Vocabulary from Primary School G
+game
+garden
+get
+gift
+girl
+give
+glass
+go
+good
+goodbye
+bye
+grandfather
+grandpa
+grandmother
+grandma
+grape
+grass
+great
+green
+#Vocabulary from Primary School H
+hair
+half
+hand
+happy
+hard
+have
+has
+he
+head
+healthy
+hear
+heavy
+hello
+help
+helpful
+her
+here
+hi
+hill
+him
+his
+holiday
+home
+hometown
+horse
+hospital
+hot
+hour
+house
+how
+hungry
+hurry
+hurt
+#Vocabulary from Primary School I
+I
+ice
+ice cream
+idea
+ill
+in
+interesting
+internet
+it
+its
+#Vocabulary from Primary School J
+job
+juice
+jump
+#Vocabulary from Primary School K
+keep
+kid
+kind
+kitchen
+kite
+know
+#Vocabulary from Primary School L
+lake
+last
+learn
+left
+leg
+lesson
+let
+letter
+library
+light
+like
+lion
+listen
+little
+live
+long
+look
+looks
+lot
+love
+lovely
+lunch
+#Vocabulary from Primary School M
+make
+man
+men
+many
+map
+maths
+math
+may
+me
+meat
+meet
+middle
+milk
+minute
+Miss
+money
+monkey
+month
+moon
+morning
+mother
+mum
+mom
+mouse
+mice
+mouth
+move
+Mr
+Mrs
+Ms
+much
+mum
+music
+must
+my
+#Vocabulary from Primary School N
+name
+near
+never
+new
+next
+nice
+night
+no
+noodle
+nose
+not
+now
+nurse
+#Vocabulary from Primary School O
+o'clock
+of
+off
+often
+OK
+old
+on
+open
+or
+orange
+our
+out
+over
+#Vocabulary from Primary School P
+pair
+panda
+paper
+parent
+park
+party
+PE
+pencil
+people
+pet
+phone
+photo
+photograph
+photos
+piano
+picture
+pig
+ping-pong
+pink
+place
+plane
+plant
+play
+playground
+please
+police
+potato
+put
+#Vocabulary from Primary School Q
+question
+quiet
+#Vocabulary from Primary School R
+rabbit
+rain
+read
+red
+rice
+right
+river
+robot
+room
+ruler
+run
+#Vocabulary from Primary School S
+sad
+safe
+say
+school
+schoolbag
+science
+sea
+season
+see
+sell
+share
+she
+sheep
+ship
+shirt
+shoe
+shop
+short
+shorts
+should
+show
+sing
+sister
+sit
+skirt
+sleep
+slow
+small
+snow
+so
+sock
+some
+sometimes
+song
+sorry
+soup
+space
+speak
+sport
+spring
+stand
+stood
+star
+stop
+story
+street
+strong
+student
+study
+subject
+summer
+sun
+sunny
+supermarket
+sure
+sweater
+sweep
+swim
+#Vocabulary from Primary School T
+table
+tail
+take
+talk
+tall
+taxi
+tea
+teacher
+tell
+thank
+that
+the
+their
+them
+then
+there
+these
+they
+thin
+think
+this
+those
+tidy
+tiger
+time
+tired
+to
+today
+toilet
+tomato
+tomatoes
+tomorrow
+too
+top
+toy
+train
+travel
+tree
+trousers
+try
+turn
+#Vocabulary from Primary School U
+umbrella
+uncle
+under
+up
+us
+use
+#Vocabulary from Primary School V
+vegetable
+very
+visit
+#Vocabulary from Primary School W
+wait
+waitress
+wake
+walk
+wall
+want
+warm
+wash
+watch
+water
+way
+we
+wear
+weather
+week
+welcome
+well
+what
+when
+where
+which
+white
+who
+whose
+why
+will
+win
+won
+window
+windy
+winter
+wish
+with
+woman
+women
+wonderful
+word
+work
+worker
+world
+worry
+write
+wrong
+#Vocabulary from Primary School Y
+year
+yellow
+yes
+yesterday
+you
+your
+#Vocabulary from Primary School Z
+zoo

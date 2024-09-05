@@ -1,0 +1,2851 @@
+#a- 表示 “使......，加强”
+abandon
+abide
+against
+alone
+aloud
+amaze
+amend
+arise
+arouse
+ashamed
+avoid
+await
+awake
+award
+aware
+#a- 表示 “在......”
+aboard
+abreast
+abroad
+ahead
+ashore
+asleep
+away
+#ab-/abs- 表示”相反，去掉，离去“
+abnormal
+absent
+absolute
+absorb
+abstract
+#ab-/ac-/af-/ap-/ar-/as-/at- 表示”加强“
+abound
+absurd
+abundance
+abundant
+accelerate
+accompany
+account
+accuse
+accustomed
+acknowledge
+acquaint
+acquaintance
+affiliate
+affirm
+appear
+applaud
+applause
+approach
+appropriate
+approximate
+arrange
+array
+arrest
+arrow
+assert
+attach
+#ad- 表示”做......，加强“
+adapt
+adjacent
+adjoin
+adjust
+administer
+administration
+admire
+adore
+adverb
+#be- 表示”使......“
+behave
+betray
+beware
+bewilder
+#be- 表示“加以......”
+behalf
+beloved
+#be- 表示“在......”
+beneath
+#cin-/con-/co-/col-/cor- 表示”加强”
+collapse
+combine
+comfort
+command
+commemorate
+comment
+compact
+complain
+complaint
+comprehend
+comprehension
+comprehensive
+conceal
+condemn
+confidence
+confident
+confirm
+consolidate
+contact
+contrive
+convict
+convince
+correct
+corrode
+#cin-/con-/co-/col-/cor- 表示”共同”
+coalition
+collaborate
+colleague
+collect
+collection
+collide
+commend
+commerce
+committee
+commonplace
+commonwealth
+communicate
+community
+commute
+compile
+compromise
+concept
+condense
+conflict
+confront
+confuse
+congress
+connect
+connection
+consult
+contagious
+context
+correlate
+council
+#de- 表示“使......，加强”
+declare
+defence
+defense
+defendant
+definition
+demand
+demonstrate
+depict
+deplore
+devote
+#de- 表示“去除，去掉，离开”
+defy
+delete
+deliver
+desert
+detach
+detect
+#de- 表示“向下“
+defer
+depress
+derive
+detail
+#de- 表示“毁”
+destruction
+#di-/du-/dou(b)- 表示”使....，分开“
+dilute
+disperse
+distill
+divert
+divorce
+#di-/du-/dou(b)- 表示”两，双“
+dilemma
+diploma
+dubious
+duplicate
+#dif- 表示”分开“
+differ
+difference
+diffluence
+diffuse
+#dif- 表示”不，否定”
+difficult
+#dis- 表示“不，没有”
+disappear
+disaster
+disclaim
+disease
+disgust
+dislike
+dismay
+disregard
+#dis- 表示”分开，分散“
+discipline
+discourse
+discreet
+discrepancy
+discuss
+dissipate
+disturb
+#dis- 表示”除去，去掉”
+disable
+discharge
+discount
+discourage
+disguise
+displace
+#e-/ex- 表示“使......，加强”
+elaborate
+erect
+evil
+exaggerate
+excite
+exquisite
+#e-/ex- 表示“出，外“
+elapse
+elite
+emit
+erase
+evade
+evaluate
+evaporate
+excel
+excerpt
+exchange
+exclude
+exert
+exhaust
+exile
+expand
+explode
+exploit
+explosion
+expose
+#eco- 表示”生态；经济“
+ecology
+economic
+economical
+economics
+economy
+ecotourism
+#em-/en- 表示”进入......之中，包围“
+embark
+embed
+embrace
+enclosure
+engage
+enroll
+enthusiasm
+entry
+environment
+#em-/en- 表示”使......”
+embody
+emphasis
+employ
+enable
+encode
+encounter
+encourage
+engine
+enhance
+enlarge
+enlighten
+enrich
+entail
+entitle
+#fore- 表示“前面，预先”
+fore
+forecast
+forehead
+foremost
+foresee
+former
+#geo- 表示“地，土地，地球”
+geocentric
+geography
+geology
+geometry
+#il-/ir- 表示“向内，进入”
+illuminate
+illusion
+illustrate
+irrigate
+#il-/ir- 表示“加强”
+irritate
+#im-/in- 表示“不，无”
+immune
+impossible
+indocile
+ineffective
+ineffectual
+inertia
+inevitable
+infirm
+injury
+intact
+invisible
+#im-/in- 表示“使......，加以......，在其中”
+impair
+impose
+incorporate
+increasingly
+indorse
+endorse
+indulge
+ingredient
+inherit
+inquire
+enquire
+intricate
+intrigue
+#im-/in- 表示“向内，进入”
+index
+indoor
+inhale
+inland
+inlet
+inner
+input
+insert
+insight
+installation
+installment
+intrude
+invade
+invasion
+invest
+investigate
+#inter- 表示”相互“
+interact
+interdependence
+interview
+#inter- 表示”在......之间”
+interfere
+interference
+interim
+international
+interpret
+interval
+interprovincial
+#mis- 表示“错误，坏”
+misfortune
+mislead
+misunderstand
+misuse
+#ob-/op- 表示“逆;反;不”
+object
+opaque
+opponent
+oppose
+opposite
+#ob-/op- 表示“加强”
+observe
+obtain
+offend
+offensive
+oppress
+#ob-/op- 表示“出，外”
+outbreak
+outdoor
+outlet
+outside
+outskirts
+#out- 表示“太，过分”
+outrage
+#over- 表示“过度，过分”
+overflow
+overhear
+overtime
+#over- 表示“在......之上，凌驾“
+overcoat
+overcome
+overhead
+overlap
+overlook
+overseas
+overtake
+overvalue
+overwhelm
+#over- 表示“翻转”
+overnight
+overthrow
+overturn
+#para- 表示“(在)旁边，超，相反”
+paradox
+paragraph
+parallel
+paralyze
+parasite
+#para- 表示“保护”
+parachute
+#pre- 表示”在前，提前，预先“
+precaution
+precedent
+preceding
+predecessor
+pregnant
+prejudice
+premise
+premium
+preposition
+prestige
+presumably
+pretext
+#pro- 表示”向前，在前”
+procreation
+profile
+progress
+project
+prolong
+prominent
+promote
+prompt
+prospect
+protect
+purchase
+pursue
+pursuit
+prophet
+portray
+#pro- 表示”代理，代替“
+pronoun
+#re- 表示”反，相反，不“
+rebel
+rebellion
+reflect
+reproach
+reveal
+#re- 表示“回，向后”
+rebound
+refrain
+refuge
+refund
+refuse
+refute
+relate
+relax
+release
+repay
+restraint
+retire
+retreat
+revenge
+reward
+#re- 表示”一再，重新”
+recall
+recite
+recommend
+reconcile
+recover
+recovery
+recreate
+recruit
+redundant
+refine
+refresh
+rehearsal
+rejoice
+remark
+remarkable
+remedy
+remind
+remove
+renew
+repetition
+replace
+represent
+reproduce
+resource
+rescue
+restore
+retail
+retrieve
+#sub-/suc-/suf-/sup- 表示“副，分支，下级”
+subordinate
+subtitle
+#sub-/suc-/suf-/sup- 表示“下，在下面”
+submarine
+submerge
+subtle
+subway
+succeed
+suffer
+support
+suppose
+suppress
+#sub-/suc-/suf-/sup- 表示“接近，靠近”
+suburb
+#super-/supre- 表示“超级”
+superb
+supermarket
+supersonic
+#super-/supre- 表示“在......上面”
+superficial
+superiority
+superstition
+supervise
+supreme
+#super-/supre- 表示“过多”
+superfluous
+#sur-/sus- 表示“上，超”
+surname
+surplus
+surround
+surroundings
+survival
+#sur-/sus- 表示“下，在......下”
+surrender
+survey
+susceptible
+suspect
+suspend
+sustain
+#sym-/syn-/sy- 表示”共同，一起”
+symptom
+symmetry
+sympathy
+symposium
+synthesis
+synthetic
+syndrome
+system
+#tran-/trans-/tra- 表示“横过，越过”
+transmit
+transparent
+#tran-/trans-/tra- 表示“变换，转移”
+transaction
+transform
+transient
+transistor
+translate
+transplant
+#un- 表示“不，没有”
+unconcerned
+uneasy
+unemployment
+unexpected
+unfortunately
+unimpressive
+#un- 表示“打开，解开”
+uncover
+undo
+unfold
+unload
+#under- 表示“在......下”
+undergo
+undergraduate
+underground
+underlie
+underlying
+undermine
+underneath
+undertake
+#under- 表示“不足，不够“
+underestimate
+underfund
+#uni-/un- 表示”单一，一个”
+unanimous
+uniform
+unify
+union
+unique
+unite
+unity
+universal
+universalize
+#up- 表示“上，向上”
+update
+upgrade
+uphold
+upper
+upright
+uproar
+#with- 表示“向后，相反”
+withdraw
+withhold
+withstand
+#-able/-iable/-ible/-ble“可...的；能...的；有...的”
+amiable
+contemptible
+charitable
+considerable
+desirable
+edible
+fashionable
+flexible
+formidable
+horrible
+incredible
+innumerable
+liable
+miserable
+plausible
+reasonable
+reliable
+unimaginable
+vulnerable
+#-acy/-cy 表名词“性质，状态，情况”
+accuracy
+adequacy
+#-age 表名词“场所”
+cottage
+village
+#-age 表示“集合名词，总称”
+baggage
+bandage
+beverage
+carriage
+coverage
+garbage
+heritage
+luggage
+package
+sausage
+storage
+voltage
+#-age 表示“动作的结果”
+marriage
+#-age 表示“状态，情况”
+advantage
+hostage
+savage
+shortage
+#-al/-ial/-cal/-ical/-ual 表名词“人，物”
+animal
+cathedral
+cereal
+credentials
+pedal
+rival
+spiral
+terminal
+#-al/-ial/-cal/-ical/-ual 表名词“行为，状况“
+denial
+journal
+refusal
+trial
+#-al/-ial/-cal/-ical/-ual“具有…的，属于…的，…的”
+additional
+aerial
+annual
+artificial
+aural
+astrological
+beneficial
+brutal
+chemical
+chronological
+classical
+colonial
+commercial
+confidential
+crucial
+crystal
+decimal
+dental
+digital
+editorial
+electrical
+essential
+mathematical
+eternal
+exceptional
+external
+global
+fatal
+federal
+feudal
+gradual
+horizontal
+hysterical
+hypocritical
+identical
+imperial
+industrial
+integral
+internal
+judicial
+lateral
+liberal
+marital
+memorial
+mental
+moral
+mortal
+municipal
+mutual
+national
+naval
+neutral
+numerical
+oval
+periodical
+personal
+pharmaceutical
+physical
+plural
+potential
+racial
+radical
+rational
+reciprocal
+ritual
+royal
+rural
+serial
+skeptical
+technical
+thermal
+tropical
+verbal
+virtual
+#-ality 表名词“状态态，性质”
+dignity
+hospitality
+integrity
+morality
+nationality
+personality
+#-an/-ain/-aire “人，精通...的人，信仰...的人”
+civilian
+millionaire
+orphan
+republican
+veteran
+#-an/-ain/-aire -an “...的，属于...地方的”
+urban
+#-an/-ain/-aire -ain表名词“物“
+mountain
+porcelain
+#-ance 表名词”状态，状况，性质“或”......的行为“
+acceptance
+alliance
+allowance
+appearance
+disturbance
+ignorance
+guidance
+nuisance
+reliance
+renaissance
+resemblance
+tolerance
+#-ant 表示容词”......的“
+arrogant
+brilliant
+dominant
+extravagant
+fragrant
+ignorant
+indignant
+malignant
+militant
+reluctant
+resistant
+resultant
+tolerant
+#-ant 表名词“人”
+accountant
+consultant
+immigrant
+merchant
+participant
+#-ant 表名词“物，剂”
+excitant
+remnant
+warrant
+#-ar 表名词“人，物”
+burglar
+calendar
+cellar
+collar
+pillar
+scholar
+seminar
+#-ar 表形容词“有......性质的”
+familiar
+lunar
+muscular
+peculiar
+polar
+singular
+vulgar
+#-ary/-iliary “...的，有...性质的”
+arbitrary
+auxiliary
+contrary
+customary
+documentary
+elementary
+extraordinary
+imaginary
+literary
+military
+monetary
+revolutionary
+rotary
+secondary
+#-ary/-iliary 表名词“场所”
+boundary
+library
+#-ary/-iliary 表名词“人，物”
+anniversary
+secretary
+vocabulary
+#-ate/-iate/-ivate 表示容词“具有......的，有......性质的”
+accurate
+articulate
+deliberate
+delicate
+illiterate
+ultimate
+#-ate/-iate/-ivate 表示名词“职位，学位”
+candidate
+doctorate
+magistrate
+pirate
+senate
+#-ate/-iate/-ivate 表示动词“做，造成，使......”
+accumulate
+alienate
+alternate
+calculate
+concentrate
+congratulate
+contaminate
+contemplate
+cultivate
+decorate
+dedicate
+deteriorate
+differentiate
+equate
+emigrate
+escalate
+estimate
+fabricate
+fascinate
+fluctuate
+frustrate
+graduate
+imitate
+insulate
+integrate
+intimidate
+isolate
+liberate
+lubricate
+meditate
+migrate
+necessitate
+negotiate
+penetrate
+regulate
+rotate
+segregate
+terminate
+tolerate
+vibrate
+violate
+#-cracy/-crat 表名词“统治”
+bureaucracy
+democracy
+#-dom 表名词“领域，......”
+filmdom
+kingdom
+#-dom 表名词“身份，状态，性质”
+freedom
+queendom
+random
+wisdom
+#-ed 表形容词”有......的，如......的”
+advanced
+limited
+sacred
+skilled
+wicked
+wretched
+#-ed 表形容词“已......的，被......的”
+learned
+married
+scattered
+situated
+#-el/-et/-let/-ette 表名词“地点，场所”
+channel
+tunnel
+#-el/-et/-let/-ette 表名词“人，总称，物“
+blanket
+bracket
+colonel
+personnel
+vessel
+violet
+#-el/-et/-let/-ette 表名词“小的东西或状态”
+banquet
+cabinet
+leaflet
+pamphlet
+parcel
+planet
+tablet
+cassette
+#-en/-on 表名词“人，物，小”
+burden
+cannon
+chicken
+citizen
+maiden
+melon
+patron
+#-en/-on 表形容词“由......制成的;似......的”
+golden
+wooden
+#-en/-on 表动词“使......”
+fasten
+harden
+heighten
+loosen
+slacken
+strengthen
+threaten
+waken
+#-ence/-ience/-ency/-iency 表名词”性质，状态，行为”
+absence
+audience
+currency
+deficiency
+efficiency
+essence
+existence
+frequency
+incidence
+obedience
+presence
+tendency
+violence
+#-ent 表名词“人，物”
+adolescent
+correspondent
+resident
+momentum
+patent
+#-ent 表形容词”具有......性质的，......状态的“
+ancient
+different
+innocent
+latent
+magnificent
+obedient
+prevalent
+prudent
+sufficient
+turbulent
+violent
+#-er/-ier/-ter/-ee/-eer/-ess/-eur ”人, 从事...的人, 女性“
+barber
+carrier
+cashier
+censor
+character
+customer
+dealer
+employee
+engineer
+entrepreneur
+headhunter
+holder
+hostess
+mistress
+pioneer
+plumber
+practitioner
+premier
+princess
+refugee
+reporter
+shopkeeper
+teenager
+volunteer
+waitress
+youngster
+#-er/-ier/-ter/-ee/-eer/-ess/-eur ”物，动物，机器“
+amplifier
+banner
+border
+chamber
+counter
+cylinder
+drawer
+frontier
+hamburger
+hammer
+helicopter
+layer
+locker
+monster
+prayer
+remainder
+saucer
+shelter
+shutter
+skyscraper
+slipper
+steamer
+tanker
+timber
+#-er/-ter 表示”动作反复，连续动作“
+flatter
+foster
+glitter
+hinder
+hover
+linger
+lumber
+mutter
+ponder
+render
+scatter
+shiver
+slaughter
+utter
+wander
+#-ery/-ory/-atory/-itory 表名词”场所，地点“
+dormitory
+dorm
+lavatory
+surgery
+territory
+#-ery/-ory/-atory/-itory 表名词”物“
+accessory
+directory
+incensory
+#-ery/-ory/-atory/-itory ”有...性质的，与...有关的”
+advisory
+compulsory
+contradictory
+introductory
+slippery
+#-ful 表示”充满......的（量）“
+awful
+bellyful
+careful
+dreadful
+faithful
+fearful
+fruitful
+graceful
+handful
+harmful
+helpful
+hopeful
+peaceful
+powerful
+thoughtful
+#-fy/-ify/-ise/-ize 表动词”使......，......化“
+amplify
+clarify
+classify
+exemplify
+identify
+justify
+magnify
+purify
+qualify
+quantify
+rectify
+simplify
+specify
+verify
+authorize
+civilize
+civilise
+criticize
+criticise
+dramatize
+professionalize
+realize
+realise
+recognize
+recognise
+#-ian/-ician 表示”精于某种学术或从事某种职业的人“
+electrician
+historian
+librarian
+musician
+pedestrian
+physician
+technician
+vegetarian
+#-id 表形容词”有......性质的，如......的，......的“
+humid
+invalid
+splendid
+stupid
+timid
+#-ile 表名词”物体“
+missile
+reptile
+textile
+#-ile 表形容词”属于......的，可......的“
+fertile
+fragile
+hostile
+juvenile
+#-ine/-in 表名词”状态，性质“
+famine
+medicine
+routine
+turbine
+#-ine/-in 表名词”人，多指女人”
+heroine
+#-ine/-in 表形容词“具有......性质的，如......的”
+divine
+feminine
+marine
+masculine
+#-ine/-in 表化学名词
+cocaine
+heroin
+#-ing 表名词“行为的产物，与行为有关的物品”
+bowling
+building
+clothing
+dwelling
+feeling
+finding
+handwriting
+heading
+hearing
+leading
+lightning
+lobbying
+opening
+outing
+prompting
+rearing
+restructuring
+saving
+shareholding
+shortcoming
+sightseeing
+#-ing 表名词“......学”
+engineering
+#-ing 表形容词“正......的，令人......的，......的”
+corresponding
+cunning
+fitting
+following
+overwhelming
+owing
+striking
+varying
+#is 表名词“性质，情况”
+analysis
+basis
+crisis
+hypothesis
+thesis
+#-ish/-sh 表形容词“像....一样，有....性质的”
+foolish
+selfish
+#-ish/-sh 表动词“使......”
+abolish
+anguish
+astonish
+blush
+cherish
+diminish
+finish
+flourish
+furnish
+punish
+vanish
+#-itude 表名词“情况，性质，状态，事物”
+altitude
+attitude
+latitude
+magnitude
+multitude
+#-le 表动词“反复，连续”
+giggle
+huddle
+scramble
+shuttle
+twinkle
+#-le 表动词“使......”
+bundle
+cripple
+dazzle
+handle
+mingle
+smuggle
+sparkle
+sprinkle
+startle
+tackle
+tangle
+tumble
+whistle
+#-le 表形容词“......的”
+brittle
+feeble
+#-less 表示容词“无......的，不......的”
+reckless
+regardless
+restless
+ruthless
+#-ly 表形容词“如......的，有......性质的”
+deadly
+elderly
+jolly
+monthly
+quarterly
+timely
+#-ly 表副词“......地”
+barely
+consequently
+directly
+exceedingly
+gently
+highly
+literally
+merely
+namely
+practically
+presently
+rarely
+readily
+scarcely
+seemingly
+#-ment 表名词“行为，状态或结果”
+agreement
+argument
+augment
+engagement
+entitlement
+establishment
+harassment
+investment
+management
+movement
+ornament
+payment
+refreshment
+replacement
+shipment
+statement
+temperament
+#-ment 表名词“物，组织机构或地点”
+basement
+document
+equipment
+fragment
+garment
+government
+monument
+parliament
+pavement
+#-or/-ior 表名词“人”
+ambassador
+author
+bachelor
+editor
+governor
+junior
+mayor
+senator
+senior
+censor
+sponsor
+superior
+traitor
+tutor
+warrior
+#-or/-ior 表名词“物“
+anchor
+corridor
+detector
+error
+horror
+razor
+semiconductor
+terror
+#-or/-ior 表形容词“有......性质的，属于......的”
+exterior
+inferior
+interior
+#-ous/-ious/-eous/-uous/-aneous “有...性质的，关于...的”
+ambitious
+anxious
+cautious
+courageous
+disastrous
+erroneous
+furious
+glorious
+gorgeous
+instantaneous
+monotonous
+mysterious
+nervous
+numerous
+poisonous
+ridiculous
+rigorous
+simultaneous
+spacious
+spontaneous
+strenuous
+tedious
+tremendous
+vicious
+#-ry/-ery 表名词”场地，地点“
+cemetery
+dairy
+laundry
+scenery
+#-ry/-ery 表集合名词
+ferry
+lorry
+lottery
+machinery
+poetry
+poultry
+#-ry/-ery 表名词”......学“
+chemistry
+theory
+#-ry/-ery 表名词”行为，状态，性质“
+mystery
+#-ship 表名词”某种关系，状态，性质，情况，身份“
+fellowship
+hardship
+leadership
+membership
+ownership
+relationship
+scholarship
+worship
+#-th 表名词”行为，性质，状态“
+birth
+depth
+growth
+length
+strength
+warmth
+width
+#-tic/-atic/-etoc/-astoc/-(i)stic(al)/-ic/-ific ”有...性质的，属于...的，具有...的”
+academic
+aesthetic
+analytic
+analytical
+arithmetic
+authentic
+automatic
+basic
+Catholic
+characteristic
+chronic
+classic
+comic
+cosmic
+democratic
+diplomatic
+dramatic
+drastic
+eccentric
+elastic
+electronic
+energetic
+enthusiastic
+epidemic
+ethnic
+exotic
+genetic
+gigantic
+heroic
+historic
+identic
+intrinsic
+linguistic
+magic
+magnetic
+materialistic
+optimistic
+organic
+panic
+patriotic
+pessimistic
+plastic
+realistic
+romantic
+sarcastic
+scientific
+specific
+statistical
+sympathetic
+systematic
+terrific
+toxic
+tragic
+#-tion/-ation/-ition/-sion/-ision/-ion “行为，状态，结果”
+addition
+ambition
+auction
+automation
+aviation
+caution
+civilization
+civilisation
+classification
+collision
+combination
+communication
+confusion
+conjunction
+consideration
+consumption
+conversion
+conviction
+corporation
+declaration
+destination
+division
+edition
+erosion
+expansion
+expedition
+explanation
+fashion
+federation
+fraction
+function
+identification
+illustration
+imagination
+imitation
+indignation
+inflation
+intuition
+invitation
+limitation
+meditation
+manifestation
+navigation
+persuasion
+plantation
+preparation
+qualification
+recognition
+regulation
+revelation
+salvation
+sanction
+selection
+vegetation
+friction
+#-tion/-ation/-ition/-sion/-sion/-ision/-ion “物，用品”
+cushion
+junction
+tuition
+#-tive/-ative/-itive/-ive “有...性质的，有...倾向的，属于...的”
+aggressive
+alternative
+cognitive
+imaginative
+imperative
+indicative
+initiative
+irrespective
+massive
+naive
+narrative
+negative
+performative
+progressive
+qualitative
+quantitative
+representative
+respective
+#-tive/-ative/-itive/-ive 表名词“人，物”
+detective
+explosive
+#-ture/-iture/-ure/-ue 表名词“行为，行为的结果或行为有关之物”
+architecture
+brochure
+departure
+expenditure
+failure
+fixture
+fracture
+infrastructure
+literature
+mixture
+moisture
+picture
+sculpture
+texture
+#-y/-ty/-ety/-ity/-cy 表名词“性质，状态，情况，行为”
+ability
+agony
+anxiety
+authority
+charity
+clarity
+delivery
+discovery
+dynasty
+fancy
+mercy
+density
+entity
+faculty
+glory
+identity
+enquiry
+inquiry
+liberty
+loyalty
+luxury
+majesty
+memory
+misery
+monopoly
+necessity
+penalty
+practicality
+poverty
+quantity
+reality
+relativity
+royalty
+scrutiny
+strategy
+symphony
+therapy
+variety
+velocity
+vicinity
+victory
+virtuosity
+#-y/-ty/-ety/-ity/-cy 表名词“人或物，地点”
+academy
+artery
+balcony
+category
+celebrity
+colony
+county
+deputy
+galaxy
+gallery
+hierarchy
+jury
+majority
+property
+treaty
+pharmacy
+#-y/-ty/-ety/-ity/-cy “多...的，有...的，...的”
+bloody
+clumsy
+faulty
+gloomy
+guilty
+hasty
+irony
+lofty
+nasty
+shabby
+shady
+wealthy
+weary
+worthy
+#-ward 表形容词和副词“......，朝......”
+awkward
+backward
+downward
+inward
+outward
+straightforward
+upward
+#act 表示“做;驱使”
+act
+action
+activate
+activity
+react
+#ag 表示“做，代理;引导”
+agency
+agenda
+agent
+agitate
+#ball/bol 表“球;投，抛”
+balloon
+ballot
+baseball
+bullet
+symbol
+#-bar/barr 表示“栏，障碍，木条”
+bar
+barrel
+barrier
+embarrass
+#bat/batt 表示“打，击”
+bat
+battle
+combat
+debate
+#bat/batt 表示“走“
+acrobat
+#cap/capt/cept/ceive/ceit/ceipt/cip/cup ”拿，抓，握住“
+accept
+anticipate
+capable
+capacity
+captive
+capture
+conceive
+cupboard
+deceit
+deceive
+exception
+occupation
+occupy
+perceive
+reception
+recipe
+recipient
+#cap/capt/cept/ceive/ceit/ceipt/cip/cup ”头；资本“
+cabbage
+capital
+capitalism
+#card/cart/chart表示”纸片“
+cartoon
+chart
+charter
+discard
+#card/cord表示”心，心脏“
+accord
+accordance
+accordingly
+cardinal
+cordial
+record
+#ced/cede/ceed/cess 表示”走，前进，让步“
+access
+ancestor
+concede
+concession
+exceed
+excess
+excessive
+precede
+procedure
+proceed
+proceeding
+process
+procession
+recede
+succession
+successive
+successor
+#cent/centi/cant cen/centi 表示”一百“
+centigrade
+centimeter
+century
+percent
+percentage
+#cent/centi/cant cant/cent表示“唱，歌”
+accent
+descant
+incentive
+#cern/cert/crjme/crimin cern/cert/crimin表示“搞清，区别”
+ascertain
+certain
+certainty
+certificate
+certify
+concern
+concerning
+discern
+discriminate
+#cern/cert/crjme/crimin crime/crimin表示“罪”
+crime
+criminal
+#cid/cis/cas/cay cid/cis表示“切，杀”
+concise
+decisive
+precise
+precision
+suicide
+#cid/cis/cas/cay cas/cid/cay表示“落下，降临”
+accidental
+casual
+casualty
+coincide
+coincidence
+decay
+incident
+incidentally
+occasion
+occasional
+#circ/cycl/cle 表示“圆，环”
+circular
+circulate
+circus
+cycle
+recycle
+#claim/clam 表示“呼喊，叫喊”
+acclaim
+claim
+declaim
+exclaim
+proclaim
+reclaim
+#clin/clim/cli 表示“倾斜；斜坡”
+climate
+climax
+cling
+decline
+incline
+#clos/close/clude/clus/claus 表示“关闭”
+closet
+conclude
+conclusion
+disclose
+enclose
+exclusive
+include
+inclusive
+preclude
+#cre/creas 表示“增长；产生，做”
+concrete
+create
+creation
+creative
+creativity
+creature
+decrease
+increase
+recreation
+#crit/cris 表示“批评，判断”
+criterion
+critic
+critical
+criticism
+hypocrisy
+#cur/curr/curs 表示“跑”，引申为“发生”
+course
+current
+curriculum
+excursion
+incur
+intercourse
+occur
+occurrence
+recur
+secure
+security
+#cur/curr/curs 表示“关心，关爱“
+curiosity
+#dict/dic 表示”说；断言“
+addict
+contradict
+contradiction
+dictate
+dictation
+indicate
+indication
+predict
+verdict
+#dom 表示”房屋；驯服；控制“
+domain
+dome
+domestic
+dominate
+predominant
+#dib/dot/dit/dow 表示”给予，捐赠“
+anecdote
+condition
+donate
+endow
+tradition
+#duc/duce/duct 表示”引导;带来“
+conduct
+conductor
+deduce
+deduct
+educate
+induce
+introduce
+introduction
+product
+productive
+productivity
+reduction
+#dur 表示”持久“
+durable
+duration
+during
+endurance
+endure
+#equ/equi 表示”平等，相等，平均“
+adequate
+equal
+equality
+equation
+equator
+equivalent
+#fabl/fabul/fess 表示”说，讲“
+confess
+profession
+professional
+professor
+#fac/fact/feas/fect/feat/fic/fici/fict/fit 表示”做，制作“
+affect
+affection
+benefit
+defect
+effect
+effective
+efficient
+facility
+factor
+feasible
+feat
+fiction
+infect
+infectious
+perfection
+proficiency
+profit
+profitable
+sacrifice
+suffice
+#fac/fact/feas/fect/feat/fic/fici/fict/fit 表示脸，面”
+feature
+interface
+preface
+surface
+#fer 表示“带来，拿来”
+confer
+conference
+indifferent
+infer
+inference
+preferable
+preference
+refer
+reference
+transfer
+#fin/fine 表示“结束；范围”
+confine
+define
+definite
+finance
+financial
+finite
+indefinitely
+infinite
+#flu/fluc 表示“流动”
+affluent
+flu
+fluent
+fluid
+flush
+influence
+influential
+#force/fort 表示“力量”
+effort
+enforce
+force
+reinforce
+#force/fort 表示“运气“
+fortune
+#form 表示”形成；形状，形式“
+conform
+conformity
+formal
+formation
+formula
+formulate
+inform
+perform
+performance
+reform
+uniformity
+#fund/found 表示”基础“
+foundation
+founder
+fund
+fundament
+fundamental
+profound
+#gen/gene/gener/genu/geni/ge 表示”出生，产生;种族“
+degenerate
+gender
+gene
+generate
+generation
+generator
+generous
+genius
+genuine
+homogeneous
+hydrogen
+ingenious
+nitrogen
+#gest/gister 表示”带来“
+congestion
+digest
+register
+suggest
+#gra/grat/gree 表示”令人高兴的；满意；高雅“
+agreeable
+congratulation
+disgrace
+grace
+gracious
+grateful
+gratitude
+#graph/gram 表示”写，画“
+bibliography
+biography
+diagram
+grammar
+graph
+graphic
+telegram
+telegraph
+#grav/griev/grief 表示”重“
+aggravate
+grave
+gravity
+grief
+grieve
+#habit/hibit 表示”居住；有，拿“
+exhibit
+habitat
+inhabit
+inhabitant
+inhibit
+prohibit
+#her/hes 表示”粘附“
+adhere
+coherent
+cohesive
+hesitate
+inherent
+#hum 表示”人“
+humanity
+#hun 表示”土，地“
+humble
+humiliate
+#hum 表示”湿“
+humidity
+#it 表示“行走”
+circuit
+exit
+initial
+initiate
+transition
+#ject 表示“投掷，扔”
+eject
+inject
+objection
+objective
+objectivity
+projector
+reject
+subject
+subjective
+#lect/lig/leg 表示“讲，读”
+allege
+dialect
+diligent
+lecture
+legend
+#lect/lig/leg 表示“选择“
+collective
+elect
+elegant
+eligible
+intellect
+intellectual
+intelligence
+intelligent
+intelligible
+neglect
+negligible
+recollect
+religious
+select
+#lect/lig/leg lig表示“绑”
+liability
+obligation
+oblige
+#lect/lig/leg leg表示“法律”
+delegate
+illegal
+legacy
+legal
+legislation
+legitimate
+#lev/liev 表示“提高，兴起；变轻”
+alleviate
+elevate
+elevator
+level
+lever
+levy
+relevant
+relief
+relieve
+#limin/lim 表示“门槛”，引申为“限制”
+eliminate
+limit
+limp
+preliminary
+supraliminal
+#line 表示“线，路线”
+airline
+deadline
+guideline
+hardline
+headline
+linear
+liner
+outline
+pipeline
+streamline
+underline
+#loc/loco 表示“地方”
+allocate
+local
+locality
+locate
+location
+locomotive
+#log/logu/loqu 表示“说话”
+analogy
+apology
+catalogue
+eloquent
+logic
+logical
+#mach/mech 表示“机器”
+machine
+mechanic
+mechanical
+mechanism
+mechanize
+#mani/manu 表示“手”
+manage
+manifest
+manipulate
+manual
+manufacture
+manuscript
+#med/medi/mid 表示“中间”
+immediate
+intermediate
+medieval
+medium
+midst
+#merg/merge/mers/merse 表示“沉，没”
+emerge
+emergency
+emersion
+immerse
+merge
+#meter/metr/meas/mens 表示“计量，测量”
+diameter
+dimension
+immense
+measure
+parameter
+thermometer
+#mini/min 表示“小”
+miniature
+minimize
+minimum
+minor
+minority
+minus
+#mini/min 表示“伸出，突出“
+eminent
+#miss/mit 表示”送，放出“
+admission
+commission
+commit
+dismiss
+intermittent
+mission
+missionary
+omit
+permission
+promising
+submit
+transmission
+#mob/mot/mov/ 表示”动“
+emotion
+mob
+mobile
+mobilize
+mobilise
+motion
+motivate
+motive
+remote
+removal
+#mod 表示”方式，模式；风度“
+accommodate
+commodity
+mode
+model
+moderate
+modest
+modify
+#nomy/nomin/onym 表示”学科，学术，法则“
+astronomy
+autonomy
+#nomy/nomin/onym 表示”名称，名字”
+anonymous
+homonymous
+nominate
+#norm 表示“规则，准则”
+abnormal
+enormous
+norm
+normal
+normalization
+transnormal
+#not 表示“知道;标记”
+denote
+notable
+notice
+noticeable
+notify
+notion
+notorious
+#nounce/nounci 表示“讲，说”
+announce
+denounce
+pronounce
+pronunciation
+#nov 表示“新的”
+innovate
+innovation
+novel
+novelty
+renovate
+#nutri/nour/nurs 表示“营养，滋养”
+nourish
+nursery
+nurture
+nutrition
+#oper 表示“工作，运转，操作”
+cooperate
+operate
+operation
+operational
+operator
+#opt 表示“视力;光”
+optical
+#opt 表示“选择”
+adopt
+opt
+option
+optional
+#order/ordin 表示“命令;秩序”
+coordinate
+coordinated
+disorder
+order
+orderly
+ordinary
+#ori/orig 表示“升起;开始”
+orient
+oriental
+orientation
+origin
+original
+originate
+#pari/par 表示“平等，相等”
+comparable
+comparative
+compare
+comparison
+#pari/par 表示“准备“
+apparatus
+prepare
+#pari/par 表示“出现，看见”
+apparent
+parade
+#part 表示“部分；分开”
+apart
+apartment
+compartment
+counterpart
+depart
+impart
+partial
+participate
+particle
+particular
+#pass/pas/pat/pati/path 表示“走;通过”
+bypass
+compass
+compatible
+impatient
+overpass
+passage
+passport
+pastime
+surpass
+#pass/pas/pat/pati/path 表示“感情“
+compassion
+passion
+passive
+pathetic
+#pass/pas/pat/pati/path 表示“痛苦，病”
+patient
+#pel/puls 表示“驱动，推”
+compel
+expel
+impulse
+propel
+pulse
+repel
+#pend/pens 表示“花费”
+compensate
+compensation
+expend
+expense
+expensive
+indispensable
+pension
+#pend/pens 表示“悬挂“
+appendix
+depend
+dependent
+independence
+independent
+pendulum
+#per/peri/pir 表示”贯穿，自始至终“
+perfume
+perish
+permanent
+permeate
+perpetual
+persevere
+perspective
+#per/peri/pir 表示”穿过;尝试”
+empirical
+experience
+experiment
+experimental
+expert
+expertise
+pilgrim
+#pet 表示“寻求;力争”
+appetite
+compete
+competent
+competitive
+impetus
+incompetently
+petition
+#ple/plen/pl/pli 表示“满的;填满”
+accomplish
+complement
+complete
+compliment
+implement
+plentiful
+plenty
+supplement
+#ply/pli/plex/plic 表示“重叠，折合”
+appliance
+applicable
+application
+apply
+complex
+complicate
+complicated
+complication
+comply
+explicit
+implication
+implicit
+imply
+multiple
+multiply
+perplex
+plight
+simplicity
+#point/punct 表示“点”
+appoint
+appointment
+disappoint
+punch
+punctual
+standpoint
+viewpoint
+#-polic/polit 表示“国家，城市，引申为”政治“
+metropolitan
+policy
+politician
+politics
+#pon/pos/pound/posit 表示”放，放置“
+component
+compose
+composite
+composition
+compound
+deposit
+disposal
+dispose
+disposition
+exposure
+pose
+position
+positive
+postpone
+posture
+proposal
+propose
+proposition
+purpose
+#popul/publ 表示”人民“
+popular
+population
+public
+publication
+publicity
+publish
+#port 表示”部分“
+portion
+proportion
+#port 表示”拿，运“
+export
+import
+portable
+porter
+transport
+#preci/prais 表示”价格；价值“
+appraise
+appreciate
+praise
+precious
+#press 表示”挤压，逼迫“
+compress
+depression
+express
+expression
+impress
+impression
+impressive
+pressure
+repression
+#prim/prin/pri 表示”第一;主要的“
+primary
+prime
+primitive
+principal
+principle
+prior
+priority
+#pris 表示”抓“
+comprise
+enterprise
+imprison
+prison
+surprise
+#priv 表示”单个;私人的“
+deprive
+privacy
+private
+privilege
+#prob/prov 表示”诚实，正直；证明“
+approval
+approve
+improvement
+probability
+probable
+probe
+#put 表示”认为，思考“
+compute
+computable
+dispute
+disputable
+reputation
+#quest/quire/quis/quer quest/quire/quis/quer表示“寻求，询问;获得“
+acquire
+acquisition
+conquer
+conquest
+quest
+question
+questionnaire
+request
+require
+requirement
+#quest/quire/quis/quer quer表示”抱怨”
+quarrel
+#radi/ray 表示“光线”
+radiant
+radiate
+radiation
+radioactive
+radius
+#rupt 表示“破，断裂”
+abrupt
+bankrupt
+corrupt
+disrupt
+erupt
+interrupt
+#sal/sult 表示“跳”
+assault
+insult
+result
+#sal/sult 表示“盐”
+salary
+#sati/satis/satur 表示“足够，饱足”
+satisfaction
+satisfactory
+satisfy
+saturate
+saturation
+#scend/scent 表示“爬，攀”
+ascend
+descend
+descendant
+descent
+transcend
+#sci 表示“知道”
+conscience
+conscientious
+conscious
+subconscious
+#scrib/script 表示“写”
+describe
+description
+prescribe
+prescription
+script
+subscribe
+#sect/seg 表示“切，割”
+intersection
+section
+sector
+segment
+segmentation
+#sens/sent/senti 表示“感觉”
+consensus
+consent
+nonsense
+resent
+sensation
+sense
+sensible
+sensitive
+sentiment
+#sequ/secut 表示“跟随”
+consecutive
+consequence
+persecute
+prosecute
+sequence
+subsequent
+#serv/serve 表示“服务;保持”
+conservation
+conservative
+deserve
+observation
+preserve
+reservation
+reserve
+reservoir
+service
+#set 表示“放，安置，落下”
+setback
+setting
+settle
+settlement
+upset
+#sid/sess 表示“坐”
+consider
+considerate
+obsession
+possess
+preside
+president
+residence
+session
+subsidy
+#sign 表示“记号，信号;手势”
+assign
+assignment
+designate
+resign
+signal
+signature
+significance
+significant
+signify
+#simil/simul/sembl 表示“相类似，一样”
+assemble
+assembly
+assimilate
+resemble
+similar
+simulate
+#sist 表示“站立”
+assist
+assistant
+consist
+consistent
+persist
+resist
+resistance
+#soci 表示“同伴，引申为”社会“
+associate
+association
+sociable
+social
+socialism
+sociology
+#sol/soli 表示”单独“
+desolate
+solely
+solemn
+solidarity
+solitary
+solo
+#sol/soli 表示”太阳”
+console
+solar
+#solv/solu/solut 表示“松开，溶解”
+dissolve
+resolute
+resolution
+resolve
+soluble
+solution
+solve
+#soph 表示“智慧，聪明”
+philosopher
+philosophy
+sophistic
+sophisticated
+#spec/speci 表示“种类”
+speciality
+specialize
+specialist
+species
+specification
+specimen
+#spect/spec/spic/specul 表示”看“
+aspect
+conspicuous
+despise
+expect
+inspect
+prospective
+respect
+retrospect
+spectacular
+spectator
+spectrum
+speculate
+suspicion
+suspicious
+#sper 表示“希望”
+despair
+desperate
+prosper
+prosperity
+prosperous
+#spir 表示“呼吸”
+aspire
+expire
+inspiration
+inspire
+spirit
+spiritual
+#spond/spons 表示“承诺，约定”
+correspond
+correspondence
+respond
+response
+responsibility
+responsible
+#st/sta/stan/stab/stant/stat/stead 表示“站，立”
+constant
+establish
+estate
+instance
+instant
+stability
+stable
+stack
+stadium
+state
+statesman
+static
+station
+stationary
+stationery
+status
+statute
+steady
+substance
+substantial
+#sting/(s)tinct/stimul 表示“刺;刺激”
+distinct
+distinction
+distinguish
+extinct
+extinguish
+instinct
+stimulate
+sting
+#stitut 表示“建立;放”
+constituent
+constitute
+constitution
+institute
+institution
+substitute
+#strain/strict/string/stretch 表示“拉紧”
+constrain
+restrain
+restrict
+strain
+strict
+string
+stretch
+#strid/strif/striv 表示“竞争”
+stride
+strife
+strive
+#struct/stru 表示“建造，建立;结构体”
+construct
+construction
+destroy
+destructive
+instruct
+instruction
+instrument
+instrumental
+obstruct
+obstruct
+obstruction
+structure
+#sum/summ/sumpt 表示“加”
+sum
+summarize
+summary
+summit
+#sum/summ/sumpt 表示“拿，取”
+assume
+assumption
+consume
+consumerism
+presume
+resume
+#sur/sure 表示“肯定;安全”
+assurance
+assure
+ensure
+insurance
+insure
+reassure
+#tain/ten/tin 表示“拿住”
+attain
+contain
+container
+content
+continual
+continue
+continuous
+detain
+entertain
+entertainment
+maintenance
+retain
+retention
+tenant
+#temper/tempor “时间”
+contemporary
+temper
+temporary
+#tempt 表示“尝试，诱惑”
+attempt
+tempt
+temptation
+#tempt 表示“蔑视“
+contempt
+#tend/tent/tens 表示”伸展“
+attend
+attendant
+attention
+contend
+contention
+extend
+extension
+extensive
+extent
+intend
+intense
+intensity
+intensive
+intention
+pretend
+tend
+tender
+tense
+tension
+tentative
+#test/testi 表示”测试;证据“
+contest
+protest
+testify
+testimony
+#tort 表示”扭曲“
+distort
+retort
+torment
+torture
+#tract 表示”拉，拖“
+attract
+attractive
+contract
+distract
+extract
+subtract
+tractor
+#tribut/tribute 表示”给予“
+attribute
+contribute
+contribution
+distribute
+tribute
+#typ 表示”模式，形状;打字“
+prototype
+stereotype
+typical
+typist
+#us/util 表示”用“
+abuse
+unusual
+usage
+utilize
+utilise
+#vac/vacu/van/void 表示”空“
+evacuate
+vacant
+vacation
+vacuum
+vain
+vanity
+void
+#val/vail/valu 表示”价值“
+avail
+available
+invaluable
+valuable
+#val/vail/valu 表示”强壮”
+prevail
+valid
+#var/vari/vary 表示“变化”
+variable
+variation
+various
+vary
+#ven/vent 表示“来”
+advent
+adventure
+avenue
+convenience
+convention
+conventional
+intervene
+invent
+inventory
+prevent
+revenue
+#ven/vent 表示“风”
+ventilate
+#vers/vert/verse 表示“转”
+adverse
+advertise
+avert
+controversial
+controversy
+conversely
+convert
+diverse
+diversion
+inverse
+invert
+reverse
+universe
+versatile
+verse
+version
+vertical
+#via/vi/vey 表示“道路”
+convey
+deviate
+obvious
+previous
+trivial
+triviality
+via
+#vid/vis 表示“看”
+advisable
+device
+envisage
+evidence
+evident
+envy
+provided
+provision
+revise
+video
+visible
+vision
+visual
+#vid/vis 表示“分开”
+devise
+divide
+dividend
+individual
+#viv/vit/vig 表示”生命“
+revive
+survive
+vigorous
+vital
+vitamin
+vivid
+#voc/vok 表示”叫喊;声音“
+advocate
+evoke
+provoke
+vocal
+vocation
+#vol/volu/volve/volt/volunt 表示”卷，转“
+evolution
+evolve
+involve
+revolt
+revolution
+revolve
+volume
+#vol/volu/volve/volt/volunt volunt表示”意志，意愿”
+voluntary

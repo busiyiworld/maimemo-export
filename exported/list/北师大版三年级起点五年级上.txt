@@ -1,0 +1,95 @@
+#Unit 1
+job
+teacher
+doctor
+vet
+juggler
+Miss
+telephone
+call
+farmer
+policeman
+nurse
+student
+singer
+worker
+taxi
+driver
+#Unit 2
+animal
+rabbit
+squirrel
+meet
+cute
+snake
+scary
+a lot
+go away
+fox
+beautiful
+interesting
+funny
+clever
+#Unit 3
+clothes
+T-shirt
+trousers
+cap
+shoes
+too
+expensive
+cheap
+size
+only
+shorts
+dress
+skirt
+shirt
+sweater
+socks
+#Unit 4
+position
+on
+under
+in
+in front of
+magic
+gone
+table
+behind
+box
+desk
+door
+window
+bed
+floor
+chair
+#Unit 5
+place
+zoo
+supermarket
+post office
+train station
+excuse me
+near
+next to
+town
+map
+down
+street
+then
+turn
+between
+lake
+park
+toilet
+cage
+cinema
+bus
+bus stop
+hospital
+#Unit 6
+actor
+dancer
+angry
+again

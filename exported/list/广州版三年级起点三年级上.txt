@@ -1,0 +1,178 @@
+#Unit 1 Hello!
+module
+greeting
+good
+morning
+Ms
+hello
+hi
+goodbye
+bye
+mum
+afternoon
+evening
+Mr
+Miss
+#Unit 2 How are you?
+dad
+are
+you
+How are you?
+fine
+night
+grandpa
+grandma
+#Unit 3 What's your name?
+introduction
+I
+am
+I'm
+I am
+what
+is
+what's
+what is
+your
+my
+name
+let
+us
+let's
+let us
+be
+friend
+Let's be friends.
+#Unit 4 This is my dad
+this
+teacher
+nice
+meet
+Nice to meet you.
+new
+too
+#Unit 5 Wash your face
+body
+wash
+face
+oh
+don't
+do not
+touch
+eye
+hand
+and
+hair
+clean
+nose
+ear
+foot
+feet
+foot
+#Unit 6 Touch your head
+child
+children
+child
+play
+a
+game
+OK
+head
+not
+mouth
+leg
+an
+#Unit 7 A picture of my family
+picture
+of
+family
+that
+that's
+that is
+man
+father
+yes
+he
+he's
+he is
+who
+who's
+who is
+boy
+it
+it's
+it is
+me
+brother
+girl
+sister
+lady
+mother
+woman
+#Unit 8 Who's that lady?
+she
+she's
+she is
+no
+isn't
+is not
+so
+young
+thank
+tall
+old
+baby
+cute
+strong
+uncle
+thin
+aunt
+pretty
+#Unit 9 Is it a cat?
+toy
+cat
+rabbit
+dog
+bear
+ball
+kite
+#Unit 10 I have a ship
+show
+please
+have
+ship
+plane
+car
+bus
+bike
+boat
+#Unit 11 Do you have a pencil?
+school
+thing
+do
+ruler
+may
+use
+here
+Here you are.
+pencil
+sorry
+bag
+pen
+book
+eraser
+PRC
+UK
+USA
+#Unit 12 Put it on the desk
+put
+on
+desk
+in
+the
+box
+under
+bed
+room
+tidy
+table
+chair

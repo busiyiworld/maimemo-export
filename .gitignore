@@ -4,4 +4,3 @@ database/*.db
 .vercel/
 .vinxi/
 libraries/
-exported/

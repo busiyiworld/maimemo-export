@@ -1,0 +1,68 @@
+aeroplane
+bus
+ship
+car
+pineapple
+cake
+bread
+glass
+bag
+sweet
+sweet
+lemon
+sour
+salt
+salty
+coffee
+bitter
+tiger
+lion
+panda
+monkey
+clever
+strong
+toy train
+doll
+skateboard
+robot
+lovely
+hat
+scarf
+jacket
+a pair of gloves
+a pair of socks
+a pair of shoes
+funny
+his
+circle
+square
+triangle
+star
+rectangle
+house
+sky
+sea
+mountain
+river
+plant a tree
+have a picnic
+ice-skate
+ski
+body
+head
+shoulder
+arm
+finger
+hand
+knee
+leg
+foot
+feet
+park
+cinema
+zoo
+our
+class
+party
+take a photograph
+parent

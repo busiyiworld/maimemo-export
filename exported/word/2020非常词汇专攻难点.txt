@@ -1,0 +1,1572 @@
+abolish
+cancel
+accept
+receive
+accurate
+precise
+annoy
+irritate
+beneficial
+profitable
+charge
+expense
+cite
+quote
+devote
+dedicate
+economical
+economic
+effective
+efficient
+eliminate
+exclude
+fancy
+imagination
+favorable
+favorite
+genius
+talent
+gift
+present
+grand
+magnificent
+heal
+cure
+ignorant
+innocent
+ignore
+disregard
+illustrate
+interpret
+immerse
+submerge
+imply
+infer
+importance
+consequence
+increase
+magnify
+situation
+position
+technology
+technique
+label
+tag
+venture
+adventure
+mature
+ripe
+rare
+scarce
+rate
+ratio
+limit
+limitation
+stern
+strict
+ban
+prohibit
+forbid
+hardly
+scarcely
+barely
+beam
+glare
+flare
+decline
+refuse
+reject
+identify
+distinguish
+recognize
+aim
+goal
+purpose
+obscure
+ambiguous
+vague
+obvious
+evident
+apparent
+scenery
+scene
+view
+justify
+testify
+certify
+universal
+common
+general
+vanish
+disappear
+fade
+abandon
+desert
+discard
+basis
+base
+foundation
+campaign
+motion
+movement
+elementary
+basic
+essential
+fundamental
+pay
+payment
+wage
+salary
+grasp
+grip
+guarantee
+assure
+memory
+recollection
+sign
+signal
+adjoining
+adjacent
+admission
+admittance
+adapt
+adjust
+enlighten
+instruct
+form
+shape
+fate
+fortune
+criminal
+guilty
+affect
+influence
+affection
+love
+agreeable
+pleasant
+surprise
+amaze
+comprise
+constitute
+conceive
+imagine
+concrete
+specific
+indignity
+insult
+condemn
+blame
+admit
+confess
+potential
+implicit
+practical
+practicable
+precious
+valuable
+conscious
+aware
+predict
+forecast
+contemporary
+modern
+responsibility
+liability
+transport
+traffic
+assault
+attack
+rein
+curb
+distinct
+distinctive
+constant
+continual
+debate
+argue
+dispute
+accident
+incident
+event
+design
+project
+scheme
+meaning
+purport
+sense
+thrive
+prosper
+flourish
+admire
+worship
+adore
+feature
+characteristic
+trait
+bear
+stand
+endure
+implement
+appliance
+equipment
+sophisticated
+complicated
+complex
+claim
+request
+require
+acquire
+obtain
+secure
+merely
+simply
+only
+alter
+convert
+modify
+alternative
+choice
+option
+range
+extent
+field
+scope
+fairly
+quite
+rather
+pretty
+region
+area
+victim
+prey
+presume
+assume
+relevant
+related
+moderate
+temperate
+ruin
+destroy
+protect
+defend
+cruel
+brutal
+avert
+avoid
+humorous
+funny
+fresh
+new
+frank
+sincere
+drift
+float
+rob
+steal
+rim
+edge
+revolt
+rebel
+mistake
+error
+misfortune
+disaster
+blunder
+slip
+compulsory
+compulsive
+notify
+inform
+rent
+hire
+historical
+historic
+flee
+escape
+trench
+ditch
+climate
+weather
+appoint
+nominate
+infectious
+contagious
+unfold
+open
+feminine
+female
+vibrate
+shake
+war
+warfare
+walk
+step
+endeavor
+attempt
+try
+raise
+arise
+rise
+diminish
+decrease
+reduce
+disease
+illness
+disorder
+transform
+vary
+change
+likely
+apt
+prone
+appropriate
+suitable
+proper
+custom
+habit
+convention
+crush
+clash
+crash
+creep
+crawl
+climb
+mortal
+fatal
+deadly
+rock
+swing
+sway
+corporation
+company
+firm
+boundary
+border
+frontier
+consent
+assent
+comply
+vast
+immense
+huge
+massive
+voyage
+journey
+trip
+travel
+soldier
+veteran
+glimpse
+glance
+fare
+fee
+deceive
+cheat
+mankind
+man
+idle
+lazy
+faithful
+loyal
+reward
+award
+complement
+supplement
+mutual
+common
+dubious
+doubtful
+humble
+modest
+prospect
+perspective
+sturdy
+vigorous
+resist
+withstand
+progressive
+advanced
+product
+produce
+doubt
+suspect
+assist
+aid
+estimate
+evaluate
+requirement
+requisite
+furnish
+provide
+loyalty
+devotion
+hostage
+pawn
+hasty
+reckless
+disabled
+handicapped
+rhythm
+rhyme
+shear
+share
+browse
+skim
+brochure
+pamphlet
+credible
+credulous
+comprehension
+understanding
+evoke
+summon
+conquest
+triumph
+victory
+break
+crack
+snap
+compound
+blend
+integrate
+apparatus
+instrument
+device
+beat
+hit
+strike
+ordinary
+common
+general
+comment
+commentary
+remark
+single
+separate
+particular
+amplify
+expand
+extend
+recreation
+amusement
+entertainment
+elevate
+hoist
+lift
+mend
+repair
+patch
+obstacle
+hindrance
+obstruction
+tale
+narrative
+anecdote
+scatter
+disperse
+spread
+conflict
+contest
+combat
+fight
+state
+declare
+announce
+proclaim
+release
+publish
+alike
+similar
+additional
+extra
+assign
+allocate
+convict
+sentence
+contend
+rival
+slack
+loose
+undermine
+weaken
+ornament
+decorate
+scar
+seam
+isolate
+separate
+clear
+distinct
+slaughter
+massacre
+yell
+shout
+fake
+imitation
+administer
+manage
+appeal
+lure
+route
+passage
+authentic
+real
+originate
+initiate
+grief
+misery
+shrewd
+smart
+skip
+leap
+staple
+principal
+vain
+arrogant
+fascinate
+charm
+swamp
+marsh
+token
+souvenir
+deduction
+induction
+reverse
+invert
+pistol
+gun
+pact
+bargain
+comic
+ridiculous
+vacant
+blank
+empty
+naked
+bare
+bald
+pause
+cease
+halt
+excessive
+extravagant
+extreme
+display
+expose
+reveal
+crucial
+critical
+vital
+subsidiary
+auxiliary
+secondary
+resource
+source
+origin
+hinder
+restrict
+prohibit
+profit
+advantage
+benefit
+position
+vocation
+career
+expectation
+hope
+outlook
+controversy
+argument
+debate
+former
+preceding
+previous
+available
+accessible
+attainable
+attractive
+beautiful
+handsome
+pretty
+conference
+rally
+session
+symposium
+leak
+seep
+dazzle
+shine
+levy
+impose
+contaminate
+pollute
+detach
+separate
+rigorous
+rigid
+solidarity
+unity
+revive
+restore
+percentage
+proportion
+deny
+contradict
+revenge
+retaliate
+clutch
+clench
+character
+temperament
+ambitious
+aspiring
+spacious
+capacious
+esteem
+regard
+stimulate
+propel
+vocal
+outspoken
+attribute
+ascribe
+attach
+adhere
+remove
+deprive
+upright
+straightforward
+amend
+correct
+junction
+juncture
+abnormal
+unusual
+supervise
+administer
+scorn
+despise
+gesture
+posture
+decline
+descend
+aggressive
+militant
+compensate
+pay
+contrary
+opposite
+shatter
+smash
+environment
+setting
+surroundings
+magazine
+periodical
+journal
+distant
+remote
+far
+legal
+lawful
+legitimate
+criterion
+standard
+gauge
+assignment
+task
+job
+factor
+element
+ingredient
+maintain
+preserve
+stay
+age
+era
+epoch
+response
+reply
+answer
+adequate
+sufficient
+enough
+ultimate
+final
+last
+adolescent
+teenager
+youth
+remove
+eliminate
+dismiss
+queer
+odd
+peculiar
+wholesome
+well
+healthy
+sound
+seize
+snatch
+grab
+capture
+be contrary to
+in and out
+prefer to
+lack of
+by accident
+contribute to
+provide ... with
+if only
+rather than
+be obliged to
+aim for
+give up
+in theory
+take measures
+depend on
+at large
+give in
+be inclined to
+concern for
+no longer
+go against
+show up
+only if
+renege on
+take advantage of
+keep ... from doing
+on behalf of
+be confronted with
+be unlikely to
+stay away from
+take the lead
+be considered as
+be puzzled by
+by nature
+as a result
+pay attention to
+be dominant over
+get over
+at the end of
+as usual
+a bit of
+be peculiar to
+as for
+as to
+derive from
+be generous to
+sum up
+in contrast
+die out
+take one's stand
+wipe out
+search for
+be resistant to
+up in arms
+approve of
+benefit from
+be similar to
+subscribe to
+seek to
+make no difference
+add to
+turn out
+as if
+as a result of
+intend to
+trade with
+cast doubt on
+lose faith in
+would rather
+anything but
+do harm to
+owe to
+be cautious about
+refer to
+in terms of
+be applicable to
+in turn
+feel disappointed at
+be disappointed at
+set out
+make up
+sign on
+prior to
+exert influence on
+take pride in
+suffer from
+conform to
+stumble on
+be obsessed with
+instead of
+stick to
+in brief
+be conscious of
+no less than
+by all means
+on average
+on the average
+on an average
+accuse of
+have nothing to do with
+fail to
+in fact
+at odds with
+compete with
+in favor of
+draw a conclusion
+insist on
+show sympathy for
+once for all
+be equipped with
+put down to
+for fear of
+for fear that
+bring about
+cling to
+persuade sb. into
+ward off
+shut down
+in addition
+be accessible to
+be interested in
+in trouble
+be vulnerable to
+take efforts
+play a role in
+impinge on
+out of date
+result in
+for instance
+comply with
+as a means of
+be second to
+for example
+such as
+prevent ... from doing
+evolve from
+on the basis of
+on the contrary
+slow down
+result from
+be deprived of
+cope with
+in consequence
+provide for
+at stake
+be satisfied with
+split up
+draw on
+stress the importance of
+so that
+regard as
+be accountable to
+be entitled to
+discontent with
+put forward
+by way of
+be agreeable to
+at risk
+go through
+indifference to
+regardless of
+be susceptible to
+come across
+in a sense
+be worth doing
+in vain
+be likely to
+apart from
+trifle with
+for long
+according to
+in a word
+doze off
+be parallel to
+be parallel with
+so long as
+as long as
+be unprepared for
+root in
+on the whole
+owing to
+be subject to
+at all
+be exposed to
+so far
+in effect
+with regard to
+adhere to
+as far as
+because of
+point out
+filter out
+be willing to
+lead up to
+fall asleep
+be eager to
+other than
+cannot but
+be dependent on
+in order to
+look up to
+thirst for
+shut out
+take in
+at all costs
+in particular
+be biased against
+fold into
+take ... to extremes
+be immune to
+be reluctant to
+in general
+now that
+keep down
+by contrast
+in contrast
+make fun of
+at length
+apply to
+in time
+blame on
+by means of
+run against
+get rid of
+rest on
+be regarded as
+reliance on
+arise from
+check on
+take place
+along with
+nothing more than
+call for
+in the wake of
+tend to
+stick to
+lay off
+carry on
+scrape through
+act on
+act upon
+above all
+seem to
+in line with
+ignorance about
+deal with
+access to
+resort to
+wake up
+on the other hand
+step out of
+in face of
+oppose to
+by chance
+look for
+be concerned with
+be busy with
+adapt to
+live up to
+thank sb. for sth.
+by occasion of
+engage with
+in sequence
+fall in with
+face up to
+take pleasure in
+take a pleasure in
+exchange ... for ...
+be opposite to
+give credit to sb. for ...
+give sb. credit for
+make an impression on sb.
+leave an impression on sb.
+be opposed to
+in short supply
+come into use
+commit oneself to ...
+accuse ... of ...
+be critical of
+complain of
+be short of
+lean against
+be worthy of
+play with fire
+in no case
+pick up
+be identified with
+be honest with
+be acquainted with
+by no means
+remedy for
+within reach of
+within one's reach
+flesh out
+to date
+apologize to sb. for sth.
+share with
+no end of
+stick with
+in memory of
+give effect to
+break sb. of sth.
+deride ... as
+seize on sth.
+seize upon sth.
+be intent on
+call ... in question
+be supposed to do sth.
+in behalf of
+agree on
+agree upon
+allow for
+on equal terms
+in of sight
+be in sight
+out of sight
+be out of sight
+be sensitive to
+distinguish between
+speak ill of
+set aside
+in decline
+be on holiday
+go on holiday
+feed on sth.
+feed sb. on sth.
+with all one's heart
+be aware of
+be convenient to
+be convenient for
+blame sb. for sth.
+strike into
+come into action
+in ignorance of
+correspond to
+be at home
+feel at home
+arrive on
+in person
+keep one's word
+take the side of
+consist of
+of one's own
+come into effect
+go into force
+in the way
+at intervals
+at ... intervals
+perform on
+perform ... on
+come into fashion
+at ease
+at one's ease
+enter into
+be eligible for
+proceed with
+beyond the reach of
+on one's honor
+stem from
+be content to do sth.
+confess to
+in the absence of
+run risk of
+take risk of
+in respect to
+with respect to
+owe ... to
+be in the habit of
+in pursuit of
+come into power
+in essence
+in keeping with
+knock out
+strike sb. as sth.
+exclude from
+in one's favor
+intervene in
+compensate for sth.
+compensate sb. for sth.
+go to great pains
+in the view of
+in the eyes of
+in one's eyes
+on occasion
+be equal to
+drop out
+sort out
+bound for
+in the face of
+be preferable to
+come into sight
+prevail over
+emerge from
+have an ear for
+place trust in
+put trust in
+have trust in
+be faithful to
+in no way
+speak well of
+be subject to
+trust to
+trust ... to
+have words with sb.
+be out of use
+distinguish ... from ...
+on schedule
+give rise to
+be relevant to
+be valid for
+close off
+cry out against
+remark on
+remark upon
+cater to sb.
+cater to sth.
+in accord with
+take the initiative
+at the mercy of
+in view of
+interfere in
+coupled with
+combined with
+in of touch with sb.
+out of touch with sb.
+it occurs to sb. that ...
+be concerned with
+dispose of
+throw away
+react against
+to one's heart's content
+be popular with
+be popular among
+cope with
+take ... into account
+specialize in
+in charge of ...
+be liable to
+amount to
+go for sth.
+go into effect
+go on duty
+come off duty
+work one's way through
+escape from
+be on the watch for sb.
+be on the watch for sth.
+press on
+in the light of
+attempt to
+persuade sb. to do sth.
+on one's guard
+on one's guard against
+come into blossom
+be fortunate in
+prohibit ... from
+have an effect on
+be ignorant of
+convince sb. of
+take ... into consideration
+jump on
+at a standstill
+be on one's back
+originate in
+originate from
+be scheduled for
+in excuse of
+beyond dispute
+in support of
+impress on
+take charge of
+lend itself to
+lend themselves to
+have impact
+have an impact
+have an impact on
+have impact on
+a matter of course
+as a matter of course
+catch a glimpse of
+get a glimpse of
+rest on
+rest upon
+in the position of
+on no account
+impose ... on
+on one's own
+no more than
+of one's own accord
+be engaged in
+boast of
+boast about
+at the risk of
+in despair
+make the most of
+range between
+live from hand to mouth
+in accordance with
+in the short term
+in doubt
+with reference to
+in reference to
+adjust to
+come at sb.
+be fed up with
+get fed up with
+gain access to
+be in debt to ...
+beyond belief
+be grateful to sb. for sth.
+be fit for sth.
+be fit to do sth.
+at the expense of
+be distinct from
+be different from
+in good repair
+for the sake of
+under consideration
+restrain ... from
+revolve around
+reflect on
+take delight in
+be in a mess
+appeal to
+keep a watch on
+keep a close watch on
+tell ... from
+keep pace with
+put sb. at one's ease
+at a loss
+with ease
+in force
+on demand
+probe into
+relieve ... of ...
+come into existence
+exert ... on ...
+behind schedule
+get laid off
+in the mood to
+in the mood for
+know sb. by sight
+be typical of ...
+have little to do with ...
+on the face of it
+derive ... from
+obtain ... from
+when it comes to sth.
+at one's convenience
+be response for
+concentrate on
+concentrate upon
+adapt ... for ...
+confirm sb. in
+by virtue of
+in virtue of
+be caught in
+react to
+in existence
+be in existence
+close one's eyes to
+close shut one's eyes to
+under way
+spare a moment to do
+range from ... to ...
+senior to
+dismiss sb. as sth.
+dismiss sth. as sth.
+knock off
+out of breath
+concern oneself about
+concern oneself with
+on earth
+have the last word
+substitute for
+for certain
+be considerate of
+on the ground of
+on the grounds of
+on the ground that
+on the grounds that
+have confidence in sb.
+have confidence in sth.
+share in
+take a glance at
+take a look at
+in place
+bring ... into practice
+put ... into practice
+abide by
+be on about sth.
+by turns
+on memory of
+be ashamed of
+congratulate sb. on
+in place of
+instead of
+have an advantage over
+be indicative of
+at one's leisure
+keep ... to oneself
+be used to doing
+at random
+lean on
+encourage sb. in
+look sb. in the eye
+on the increase
+demand sth. of sb.
+demand sth. from sb.
+on the back of
+with the result that
+turn one's back on sb.
+on record
+be out of practice
+get out of practice
+on a large scale
+in search of
+by comparison
+in comparison with
+fit into
+inferior to
+in one's face
+fade away
+absence of mind
+plead for
+hinder ... from
+force ... on ...
+be involved in
+in consequence of
+as a whole
+protect ... from
+be guilty of
+spread out
+on condition that
+out of reach
+center one's attention on
+restrict ... to
+sensible of
+mention sth. to sb.
+be fond of
+yield to
+as a matter of fact
+in order
+be in order
+make reflection on ...
+in good faith
+in one's own right
+lay the roots for
+come to the point
+in the first place
+in agreement
+in agreement with
+get stuck in
+free of charge
+be sorry for
+to taste
+to one's taste
+be under repair
+fall to the ground
+rest with
+in one's honor
+keep faith with
+be shocked at
+be shocked by
+be based on
+be based upon
+side with sb.
+be in effect
+be certain of
+work out ideas
+on no consideration
+superior to
+to one's delight
+to one's regret
+to one's sorrow
+to one's relief
+be jealous of
+to begin with
+leave sb. in the dust
+leave sth. in the dust
+be absorbed in
+bring to mind
+call to mind
+be consistent with
+operate on sb.
+attach ... to ...
+jump at
+under the impression that
+by reason of
+account for
+out of the question
+take ... for granted
+be capable of
+be accustomed to
+set sth. on fire
+arise from of
+arise out of
+except for
+apart from
+in contrast to
+in contrast with
+keep track of
+in fear of
+persist in
+be bound up with
+discharge from ...
+be confident of
+in the form of
+of no account
+in advance
+be occupied with
+be true to
+proceed from
+bear in mind
+bear ... in mind
+keep in mind
+keep ... in mind
+be free from
+to the point
+play ... off against ...
+be stuck in
+get into the habit of
+be exclusive of ...
+comment on ...
+respond to
+in honor of
+at the cost of
+on one's own account
+in hopes of
+charge sb. with sth.
+fall into the habit
+fall into the habit of
+find fault with
+in condition
+in out of condition
+a string of
+shed light on
+break up
+be in the right
+in the air
+with the exception of
+expose ... to ...
+at the sight of
+at the thought of
+for short
+at peace with ...
+be at peace with ...
+occupy oneself with
+occupy oneself in
+up in the air
+be tempted to do sth.
+equivalent to
+be equivalent to
+conceive of
+word for word
+be eager for
+do away with
+throw ... into ...
+behind one's back
+compare ... to ...
+go short of
+at will
+be content with
+beyond expression
+on a diet
+in good condition
+in bad condition
+answer for
+make sense
+in connection with
+be in use
+be used
+catch sight of
+catch the sight of
+in dispute
+consult sb. on sth.
+consult sb. about sth.
+turn a blind eye to
+hunt for
+long for
+be equipped with
+in response to
+in demand
+get the better of
+give sb. an account of
+on faith
+beat ... at
+to the purpose
+objection to
+objection to doing sth.
+abundant in
+be abundant in
+there is no point in doing sth.
+for a change
+in public
+in difficulty
+detach from
+beyond hope
+have sb. by the throat
+throw light on
+beyond reason
+beyond all reason
+forge ahead
+fall short of
+in relation to
+with relation to
+react on
+react upon
+on the spot
+make out
+confine to
+be obliged to
+be obliged to sb.
+participate in
+be liable for
+cast off
+invest ... in
+keep company with
+at the back of
+place an emphasis on
+at all events
+extract from
+arrange for sb. to do sth.
+in excess of
+be identical with
+for the benefit of
+be cautious of
+be anxious about
+charge ... for ...
+stand down
+expect of
+fall back
+favorable to
+be favorable to
+at first glance
+at first sight
+compare ... with ...
+have a word with sb.
+rely on
+be particular about
+be particular over
+accord with
+in accord with
+in consideration of
+in proportion to
+contrast ... with ...
+on the decline
+feel equal to ...
+admit of
+in the interests of
+be absent from ...
+interfere with
+put ... down to ...
+attend to
+on business
+with a will
+on account of
+pile into

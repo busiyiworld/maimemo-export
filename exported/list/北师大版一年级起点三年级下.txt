@@ -1,0 +1,72 @@
+#Unit 7
+restaurant
+menu
+like
+chicken
+noodles
+bread
+fruit
+meat
+vegetables
+dumplings
+hamburgers
+#Unit 8
+big
+beautiful
+tall
+small
+peacock
+old
+turtle
+young
+bad
+good
+happy
+short
+fast
+slow
+fat
+thin
+long
+#Unit 9
+hot
+soup
+thirsty
+some
+cola
+hungry
+milk
+cold
+fresh
+favorite
+coffee
+water
+iced tea
+#Unit 10
+store
+hat
+new
+clock
+storybook
+sell
+newspaper
+magazine
+watch
+umbrella
+toys
+#Unit 11
+well
+stomach
+hurt
+mouth
+hair
+face
+head
+arm
+hand
+leg
+foot
+#Unit 12
+ticket
+train
+window

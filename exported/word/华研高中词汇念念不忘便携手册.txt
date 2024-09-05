@@ -1,0 +1,3080 @@
+similar
+familiar
+particular
+regular
+frequent
+merely
+final
+eventually
+event
+frighten
+fair
+concern
+reason
+reasonable
+proper
+equal
+equality
+act
+react
+action
+active
+activity
+alive
+wake
+awake
+aware
+asleep
+able
+ability
+disabled
+available
+appoint
+appointment
+disappoint
+disappointed
+vital
+special
+especially
+specific
+actual
+actually
+strange
+partly
+least
+simple
+simplify
+true
+false
+instead
+nature
+natural
+weather
+climate
+normal
+highly
+serious
+pollute
+pollution
+official
+government
+govern
+altogether
+protect
+protection
+rare
+pretty
+earn
+gain
+win
+obtain
+found
+consider
+confirm
+clear
+plan
+predict
+contribute
+submit
+promise
+pretend
+fade
+attempt
+doubt
+double
+suspect
+respect
+inspect
+expect
+fond
+invite
+persuade
+support
+request
+search
+research
+excuse
+apology
+apologise
+apologize
+regret
+repeat
+anger
+rude
+panic
+pain
+painful
+desperate
+laughter
+silent
+lively
+vivid
+friendship
+character
+characteristic
+instruct
+instruction
+reputation
+preference
+nowadays
+decade
+urban
+safety
+vehicle
+wheel
+civil
+civilian
+civilisation
+civilization
+disaster
+preparation
+arise
+raise
+rise
+encourage
+discourage
+courage
+increase
+decrease
+improve
+promote
+accelerate
+develop
+development
+growth
+perform
+performance
+excellent
+surface
+voice
+language
+oral
+accent
+spelling
+abroad
+interview
+opinion
+thought
+author
+authority
+host
+guest
+gifted
+present
+presentation
+represent
+representative
+thankful
+treat
+treatment
+hardship
+sweat
+sadness
+merry
+possess
+possession
+observe
+analyse
+analyze
+handle
+height
+significance
+precious
+convenient
+convenience
+plenty
+spare
+public
+prevent
+lose
+loss
+miss
+shut
+depth
+freedom
+aside
+beauty
+tiny
+danger
+cost
+spend
+pay
+expense
+purchase
+percent
+percentage
+discount
+cash
+charge
+accuse
+accept
+afford
+supply
+pack
+package
+packet
+parcel
+worth
+worthy
+worthwhile
+deserve
+value
+valuable
+useless
+educate
+education
+lecture
+coach
+hopeful
+grateful
+confident
+create
+creative
+attract
+attractive
+attraction
+superior
+superb
+volunteer
+voluntary
+satisfy
+satisfaction
+pleasant
+attend
+attain
+attach
+foreign
+population
+intend
+intention
+purpose
+desire
+list
+storage
+rush
+draw
+strike
+drag
+recent
+ancient
+last
+essential
+favour
+favor
+favourite
+favorite
+pleased
+pleasure
+base
+basis
+basic
+fundamental
+fill
+offer
+provide
+cover
+discover
+discovery
+recover
+cure
+bleed
+medicine
+medical
+pill
+tablet
+aid
+assist
+account
+attack
+compete
+competition
+invent
+invention
+view
+preview
+review
+require
+requirement
+scene
+scenery
+sight
+top
+warn
+advise
+advice
+recommend
+suggest
+suggestion
+saying
+remind
+respond
+response
+responsible
+responsibility
+shoulder
+enter
+entrance
+entry
+exit
+order
+vacation
+lie
+due
+consist
+consistent
+regard
+regardless
+thick
+thin
+cause
+result
+reflect
+reflection
+affect
+affection
+outcome
+consequence
+conclude
+conclusion
+globe
+pole
+lead
+chief
+professional
+expert
+guide
+guidance
+avoid
+depend
+independent
+rely
+smart
+clever
+bright
+fool
+stupid
+silly
+competence
+intelligent
+intelligence
+update
+figure
+statistic
+digital
+reliable
+flexible
+fix
+convince
+consult
+quarrel
+argue
+argument
+debate
+associate
+association
+negotiate
+register
+sheet
+birthplace
+sex
+male
+female
+within
+arrival
+kingdom
+minister
+ministry
+president
+court
+crime
+criminal
+murder
+arrest
+prison
+anyhow
+somehow
+nowhere
+path
+traffic
+form
+inform
+information
+guarantee
+refuse
+reject
+decline
+believe
+belief
+unbelievable
+fail
+failure
+differ
+difference
+science
+scientific
+appear
+appearance
+disappear
+damage
+escape
+absent
+absence
+wild
+wildlife
+vast
+environment
+surround
+surroundings
+plastic
+poison
+poisonous
+harm
+harmful
+injure
+injury
+hurt
+wound
+ruin
+hit
+beat
+impress
+impressive
+impression
+sightseeing
+eyesight
+express
+expression
+alarm
+chat
+greet
+attention
+unique
+slim
+awful
+obvious
+victory
+champion
+private
+personal
+personally
+personnel
+serve
+service
+reserve
+reservation
+prefer
+influence
+knowledge
+acknowledge
+challenge
+relevant
+relative
+contrary
+controversial
+contradict
+contradictory
+resist
+confidential
+conventional
+defeat
+overcome
+revise
+revision
+obey
+violate
+violent
+violence
+cruel
+symptom
+example
+shadow
+trick
+secret
+cheat
+trap
+hook
+end
+ending
+endless
+drop
+deadline
+routine
+include
+regulation
+agenda
+timetable
+method
+approach
+access
+manner
+communicate
+communication
+conversation
+speech
+celebrate
+compromise
+pass
+passage
+damp
+warmth
+wind
+spoken
+decision
+skill
+skilful
+skillful
+technique
+technical
+technology
+talent
+strength
+strengthen
+weak
+weakness
+trouble
+forgive
+sympathy
+attitude
+object
+objection
+treasure
+benefit
+beneficial
+welfare
+honour
+honor
+motivation
+qualify
+qualification
+identity
+identification
+symbol
+sign
+signal
+gesture
+theme
+licence
+license
+level
+recognise
+recognize
+feeling
+hide
+statue
+portrait
+chance
+mark
+remark
+complain
+declare
+whisper
+explain
+explanation
+shout
+reply
+slip
+sink
+slide
+crowd
+switch
+transform
+reform
+replace
+sharp
+sharpen
+shape
+measure
+ahead
+effect
+sense
+sensible
+sensitive
+mean
+means
+meaning
+meanwhile
+matter
+case
+point
+quality
+relate
+relation
+relationship
+link
+connect
+connection
+combine
+mix
+mixture
+unite
+habit
+hobby
+taste
+leisure
+tradition
+balance
+remote
+initial
+absorb
+culture
+apply
+applicant
+application
+candidate
+elect
+vote
+compare
+barrier
+commercial
+generous
+selfish
+profit
+command
+praise
+congratulate
+congratulation
+patient
+patience
+passive
+puzzle
+concentrate
+considerate
+consideration
+optimistic
+outgoing
+embarrass
+curious
+excite
+anxious
+anxiety
+nervous
+fear
+upset
+common
+gradual
+shame
+ashamed
+bit
+stable
+firm
+peace
+peaceful
+neighbourhood
+neighborhood
+countryside
+system
+systematic
+litter
+drunk
+care
+function
+stress
+energy
+energetic
+power
+powerful
+fuel
+produce
+product
+output
+force
+effort
+breath
+breathe
+possible
+possibility
+impossible
+risk
+article
+goods
+process
+procedure
+channel
+pattern
+programme
+program
+participate
+demand
+quantity
+progress
+count
+average
+amount
+dozen
+mass
+total
+graduate
+senior
+junior
+teenager
+adult
+adolescent
+youth
+childhood
+mankind
+beast
+creature
+homeland
+agent
+agency
+citizen
+previous
+usual
+unusual
+practice
+practical
+involve
+indicate
+envy
+interrupt
+destroy
+upper
+beneath
+prove
+approve
+approval
+forecast
+foresee
+examine
+examination
+exam
+test
+finance
+financial
+budget
+check
+cheque
+operate
+operation
+accumulate
+advance
+general
+continue
+immediately
+mental
+physical
+physics
+sudden
+smooth
+certain
+complex
+accurate
+accuracy
+correct
+fun
+funny
+cautious
+caution
+tolerate
+temporary
+contemporary
+brief
+positive
+absolute
+brilliant
+blame
+scold
+determine
+social
+society
+policy
+political
+politics
+wedding
+divorce
+dawn
+dusk
+darkness
+behalf
+fetch
+vain
+shave
+jog
+stadium
+per
+position
+stage
+platform
+condition
+situation
+circumstance
+background
+status
+rank
+grade
+score
+income
+salary
+wage
+bonus
+credit
+hire
+employ
+unemployment
+resign
+quit
+withdraw
+retire
+labour
+labor
+pregnant
+atmosphere
+state
+statement
+phenomenon
+moment
+calm
+joy
+delight
+inspire
+relax
+comfortable
+comfort
+allow
+allowance
+forbid
+ban
+follow
+permit
+disagree
+shallow
+constant
+main
+mainland
+permanent
+primary
+steady
+instant
+former
+latter
+bite
+bark
+wag
+chain
+shake
+casual
+cross
+across
+wrinkle
+wave
+receive
+receipt
+reception
+admit
+admission
+track
+advantage
+disadvantage
+drawback
+achieve
+achievement
+acquire
+acquisition
+inquiry
+enquiry
+judge
+judgement
+judgment
+comment
+justice
+adjust
+appreciate
+entertainment
+divide
+division
+separate
+abandon
+remove
+rid
+reduce
+swing
+bow
+burst
+twist
+staff
+collect
+collection
+monitor
+contain
+load
+save
+waste
+lack
+evaluate
+match
+term
+tournament
+race
+calculate
+complete
+universe
+universal
+nation
+national
+nationality
+nationwide
+international
+worldwide
+spread
+widespread
+abstract
+throughout
+hunger
+courtyard
+dormitory
+dorm
+range
+arrange
+arrangement
+distant
+distance
+reach
+shoot
+shot
+touch
+length
+space
+bound
+border
+boundary
+frontier
+edge
+interval
+area
+circle
+circulate
+recipe
+record
+alternative
+explore
+fluent
+native
+aggressive
+ambiguous
+apparent
+artificial
+hero
+sceptical
+skeptical
+brave
+explicit
+origin
+arbitrary
+data
+database
+conscious
+appropriate
+comprehension
+major
+majority
+minority
+annual
+narrow
+slight
+light
+lightning
+sunlight
+flashlight
+modest
+extra
+gentle
+gentleman
+prohibit
+bond
+direct
+director
+directory
+direction
+limit
+restriction
+clarify
+outline
+cheer
+cheerful
+guilty
+stick
+refer
+reference
+conference
+punish
+punishment
+focus
+appeal
+belong
+occur
+humour
+humor
+humourous
+humorous
+secure
+security
+memory
+memorial
+role
+success
+successful
+succeed
+mention
+block
+subscribe
+tend
+tendency
+straight
+straightforward
+cater
+hunt
+adapt
+adaptation
+adopt
+adore
+servant
+master
+manage
+construct
+construction
+exist
+existence
+splendid
+hardly
+exact
+fortune
+fortunate
+unfortunate
+luck
+lucky
+surprise
+behave
+behaviour
+behavior
+truth
+conduct
+conductor
+bear
+foster
+experience
+substitute
+preserve
+conservation
+conservative
+amaze
+amazing
+amuse
+amusement
+confuse
+annoy
+awkward
+aspect
+angle
+trip
+travel
+tour
+tourism
+decorate
+decoration
+classify
+classic
+occupy
+occupation
+paint
+accommodation
+equip
+equipment
+lay
+settle
+settlement
+solid
+fierce
+severe
+potential
+notice
+evident
+evidence
+choose
+choice
+select
+glance
+stare
+glare
+overlook
+boil
+mess
+various
+diverse
+affair
+task
+dislike
+shortly
+blow
+topic
+subject
+subjective
+knock
+share
+realise
+realize
+reality
+ignore
+suffer
+suffering
+copy
+misunderstand
+flow
+pour
+imagine
+section
+district
+zone
+department
+depart
+departure
+material
+raw
+fact
+deed
+indeed
+enthusiastic
+dynamic
+eager
+honest
+plain
+sincerely
+devote
+commit
+commitment
+ambition
+aim
+goal
+target
+admire
+administration
+corporation
+add
+addition
+plus
+introduce
+introduction
+deliver
+convey
+transport
+grasp
+consume
+consumer
+custom
+accustomed
+export
+import
+advertise
+advertisement
+ad
+brand
+cycle
+recycle
+schedule
+daily
+punctual
+delay
+postpone
+cancel
+pause
+hesitate
+wise
+wisdom
+legal
+illegal
+law
+valid
+innocent
+mature
+fresh
+refresh
+apart
+apartment
+flat
+weight
+weigh
+loose
+tight
+rigid
+strict
+precise
+approximately
+assess
+beg
+seek
+remain
+desert
+proud
+pride
+prejudice
+stubborn
+wonderful
+wonder
+privilege
+glory
+award
+reward
+prize
+single
+individual
+self
+bachelor
+marry
+spot
+blank
+stain
+shelter
+relief
+defend
+defence
+defense
+guard
+duty
+dismiss
+mistake
+fault
+error
+shortcoming
+otherwise
+bare
+grand
+distinguish
+distinction
+discuss
+discussion
+announce
+broadcast
+industry
+agriculture
+harvest
+exchange
+bargain
+trade
+business
+enterprise
+company
+accompany
+companion
+couple
+colleague
+fellow
+folk
+undertake
+campaign
+movement
+sacrifice
+survive
+victim
+blind
+sponsor
+donate
+organise
+organize
+organisation
+organization
+academic
+academy
+institute
+institution
+branch
+committee
+faith
+religion
+pray
+parallel
+suitable
+suit
+willing
+swift
+hurry
+rapid
+random
+probably
+likely
+unlike
+alike
+lately
+screen
+repair
+beyond
+adequate
+distribute
+seal
+seed
+sob
+yell
+sigh
+howl
+clumsy
+deliberately
+accident
+incident
+coincidence
+entire
+thorough
+extreme
+extension
+broad
+enlarge
+rob
+horrible
+scare
+shock
+terrible
+terrify
+terror
+sort
+category
+type
+typical
+standard
+criterion
+ordinary
+extraordinary
+outstanding
+magic
+ridiculous
+principle
+alcohol
+mood
+journalist
+photographer
+media
+press
+pressure
+burden
+rough
+tough
+insist
+swear
+suppose
+guess
+assume
+assumption
+theory
+theoretical
+describe
+description
+urge
+urgent
+tense
+tension
+emergency
+immigration
+journey
+luggage
+destination
+adventure
+necessary
+content
+concept
+correspond
+conflict
+battle
+war
+collision
+crash
+oppose
+opposite
+offence
+offense
+disturb
+bother
+boom
+explode
+expand
+expose
+multiply
+erupt
+struggle
+rescue
+dilemma
+breakthrough
+evolution
+revolution
+march
+wander
+pace
+trend
+speed
+rate
+pity
+mercy
+skip
+scan
+sweep
+publish
+edition
+editor
+print
+draft
+exhibition
+tutor
+seize
+hug
+fold
+tear
+bend
+roll
+shrink
+split
+dip
+leak
+float
+liquid
+flood
+stream
+steam
+steel
+freeze
+pure
+polish
+fancy
+fantasy
+fantastic
+audience
+witness
+visual
+mild
+dull
+ceremony
+anniversary
+monument
+dynasty
+generation
+chew
+choke
+nutrition
+appetite
+digest
+disgust
+tasty
+tasteless
+bitter
+salty
+sour
+starve
+interpret
+translate
+diploma
+certificate
+degree
+maximum
+minimum
+minus
+medium
+furnish
+debt
+owe
+deposit
+insure
+compensate
+currency
+fare
+fee
+wealth
+wealthy
+bless
+pale
+mourn
+sorrow
+bury
+funeral
+tomb
+weep
+scream
+whistle
+cast
+wipe
+fasten
+shade
+shabby
+worn
+tiresome
+perfume
+addicted
+abrupt
+absurd
+astonish
+break away
+break away from
+break down
+break in
+break into
+break out
+break through
+break up
+bring about
+bring back
+bring out
+bring up
+call for
+call in
+call off
+call on
+call out
+call up
+cut down
+cut in
+cut off
+cut out
+cut through
+cut up
+come about
+come across
+come along
+come down
+come down to
+come from
+come into
+come into being
+come off
+come on
+come out
+come out with
+come over
+come through
+come up
+come up with
+get along
+get along with sb.
+get around
+get away
+get away from
+get back
+get down
+get down to sth.
+get down to doing sth.
+get in
+get into
+get off
+get on
+get on with
+get out
+get out of
+get over
+get through
+get together
+get up
+give away
+give in
+give off
+give out
+give up
+go after
+go against
+go ahead
+go along
+go around
+go away
+go back
+go by
+go down
+go for
+go in for
+go into
+go off
+go on
+go out
+go over
+go through
+go up
+hold back
+hold off
+hold on
+hold on to
+hold out
+hold up
+keep away from
+keep off
+keep on
+keep on doing sth.
+keep to
+keep up
+keep up with
+look after
+look around
+look at
+look back
+look down on
+look down upon
+look for
+look forward to sth.
+look forward to doing sth.
+look into
+look on
+look upon
+look out
+be careful
+take care
+look out for
+look over
+look through
+look up
+look up to
+make up
+make up for sth.
+make up to sb.
+made up one's mind
+be made up of
+be made of
+be made from
+make off
+make out
+make over
+put away
+put down
+put in
+put off
+put on
+put out
+put together
+put up
+put up with
+set about
+set aside
+set down
+set off
+set out for
+set out to do sth.
+set up
+take apart
+take away
+take back
+take down
+take in
+take off
+take on
+take out
+take over
+take to
+take up
+turn around
+turn down
+turn in
+turn into
+turn ... into ...
+turn out
+turn out to be
+turn over
+turn to
+turn up
+add to
+add up
+add up to
+build up
+carry on
+carry out
+catch on
+catch up
+catch up with
+check in
+check out
+count on
+deal with
+depend on
+die down
+die out
+do away with
+do with
+do without
+drop by
+end up
+end up with
+fall down
+fall off
+fall over
+feed on
+figure out
+find out
+fix up
+focus on
+hand down
+hand in
+hand out
+hand over
+hand up
+knock at
+knock on
+knock down
+knock into
+lead to
+leave out
+let out
+lie in
+live on
+live up to
+pass away
+pass by
+pass down
+pay back
+pay off
+pick out
+pick up
+point out
+pull on
+pull up
+refer to
+result from
+result in
+rule out
+run away
+run away from sb.
+run away from sth.
+run into
+run up against
+see off
+see through
+settle down
+show off
+show up
+speak for
+speak out
+stand by
+stand for
+stand out
+stand up
+stay up
+stay over
+stick to
+think about
+think of
+think out
+think over
+think twice
+throw away
+use up
+work on
+work out
+call off
+come off
+cut off
+get off
+give off
+go off
+hold off
+keep off
+make off
+put off
+set off
+take off
+turn off
+fall off
+pay off
+see off
+show off
+be based on
+call on
+carry on
+catch on
+come on
+count on
+decide on
+depend on
+rely on
+feed on
+focus on
+concentrate on
+get on
+go on
+hang on
+hold on
+insist on
+keep on
+knock on
+live on
+look down on
+look down upon
+look on
+look upon
+pull on
+put on
+take on
+turn on
+try on
+work on
+be cast down
+break down
+burn down
+calm down
+come down to
+come down
+cut down
+die down
+fall down
+get down to sth.
+get down to doing sth.
+get down
+go down
+hand down
+knock down
+look down on
+look down upon
+pass down
+put down
+set down
+settle down
+slow down
+take down
+tear down
+turn down
+break up
+bring up
+call up
+cheer up
+clean up
+come up
+cut up
+dress up
+dry up
+get up
+give up
+go up
+hold up
+keep up
+look up
+make up
+make up for sth.
+put up
+set up
+take up
+turn up
+add up
+build up
+fix up
+hang up
+pack up
+pick up
+pull up
+show up
+speed up
+split up
+stand up
+stay up
+tidy up
+use up
+look up to
+make up to sb.
+add up to
+live up to
+catch up
+catch up with
+end up
+end up with
+come up with
+keep up with
+put up with
+break out
+bring out
+burst out
+call out
+carry out
+check out
+come out
+cross out
+cut out
+die out
+drop out
+fade out
+figure out
+find out
+get out
+give out
+go out
+hand out
+hold out
+leave out
+let out
+look out
+be careful
+take care
+make out
+pick out
+point out
+put out
+rule out
+send out
+squeeze out
+set about
+set out for
+set out to do sth.
+speak out
+stand out
+take out
+think out
+turn out
+turn out to be
+watch out
+work out
+believe in
+break in
+break out in tears
+call in
+check in
+cut in
+drop in
+fill in
+get in
+give in
+go in for
+hand in
+join in
+keep in touch with
+keep ... in mind
+lie in
+persist in
+put in
+result in
+succeed in
+take in
+take part in
+take pride in
+turn in
+break into
+burst into
+come into
+come into being
+divide ... into ...
+get into
+go into
+look into
+put one's heart into ...
+turn into
+turn ... into ...
+knock into
+run into
+talk sb. into doing sth.
+persuade sb. into doing sth.
+add to
+add up to
+belong to
+compare ... to
+get close to
+get used to sth.
+be used to sth.
+get used to doing sth.
+be used to doing sth.
+give birth to
+go into
+keep to
+lead to
+live up to
+look up to
+make one's way to ...
+next to
+point to
+put an end to ...
+refer to
+stick to
+take to
+turn to
+blow away
+break away
+break away from
+clear away
+die away
+do away with
+get away
+get away from
+give away
+go away
+keep away from
+put away
+take away
+pass away
+run away
+run away from sb.
+run away from sth.
+take away
+throw away
+account for
+apply for
+ask for
+beg for
+call for
+care for
+get ready for
+go for
+go in for
+long for
+look for
+hunt for
+make up for sth.
+run for
+search for
+seek for
+speak for
+stand for
+take ... for example
+wait for
+wish for
+hope for
+come over
+get over
+go over
+look over
+make over
+take over
+turn over
+fall over
+hand over
+stay over
+think over
+watch over
+agree with sb.
+compare with
+deal with
+do with
+fall in love with
+get along with
+get away with
+get on with
+go with
+keep in touch with
+be concerned about
+bring about
+care about
+come about
+complain about
+set about
+think about
+worry about
+apart from
+be made from
+break away
+break away from
+come from
+die from
+differ from
+be different from
+get away from
+hear from
+keep away from
+learn from
+prevent ... from
+result from
+run away from sb.
+run away from sth.
+suffer from
+accept sb.'s apology
+accuse sb. of sth.
+accuse sb. of doing sth.
+achieve one's goal
+achieve success
+adapt oneself to
+adapt to the new environment
+apologize to sb.
+apologize to sb. for sth.
+make an apology to sb.
+make an apology to sb. for sth.
+attempt to do sth.
+attend school
+attend university
+attend the meeting
+attract sb.'s attention
+draw sb.'s attention
+call sb.'s attention
+break one's promise
+break out in tears
+break the habit of
+break the law
+break the rule
+bring sth. to effect
+bring sth. into effect
+bring sth. back to life
+bring sb. back to life
+brush one's teeth
+burst into cheers
+burst into laughter
+burst out laughing
+burst into tears
+can't help but do sth.
+can't help doing sth.
+catch a glimpse of
+catch fire
+catch sight of
+cause damage to ...
+change one's mind
+chat on line
+come to an end
+come to life
+come to power
+come into power
+come true
+commit a crime
+date back to
+develop a lifelong friendship with sb.
+display one's deep sympathy
+do a good deed
+do business
+do housework
+do one's best
+do one's homework
+do research on ...
+do sb. a favour
+do well in ...
+do better in ...
+do wrong
+draw a conclusion
+draw attention to
+earn a living
+earn one's living
+make a living
+make one's living
+earn money
+make money
+fall asleep
+fall ill
+fall in love with sb.
+follow sb.'s advice
+take sb.'s advice
+follow customs
+follow sb.'s instructions
+follow the rules
+gain weight
+put on weight
+lose weight
+get close to
+get hold of
+get ready for
+get rid of
+get dressed
+be dressed
+get lost
+be lost
+get married
+be married
+get married to sb.
+be married to sb.
+get tired of
+be tired of
+get used to sth.
+be used to sth.
+get used to doing sth.
+be used to doing sth.
+give birth to
+give sb. a hand
+lend sb. a hand
+go abroad
+go bad
+go Dutch
+go shopping
+go fishing
+go sailing
+go camping
+go skating
+go to a movie
+go to school
+go to work
+go to see a doctor
+go to sleep
+have a break
+have a cold
+have a cough
+have a headache
+have a fever
+have a gift for
+have a good time
+have a great time
+have a wonderful time
+have fun
+have great fun
+have access to ...
+have an effect on ...
+have an effect upon ...
+have breakfast
+have lunch
+have supper
+have lessons
+have classes
+have no choice but to do sth.
+have some difficulty with ...
+have some trouble with ...
+have some problems with ...
+have a seat
+take a seat
+have one's seat
+take one's seat
+hold a meeting
+hold a party
+hold one's breath
+keep a record
+keep records
+keep an eye on
+keep in touch with
+keep one's word
+keep ... in mind
+lay eggs
+lead a cosy life
+have a cosy life
+live a cosy life
+lead an active life
+have an active life
+live an active life
+lose control
+be out of control
+lose face
+lose heart
+lose one's life
+lose one's sight
+lose one's voice
+lose sight of ...
+make ends meet
+make both ends meet
+make use of ...
+make full use of ...
+make the most of ...
+make the best of ...
+make a contribution to ...
+make a great contribution to ...
+make a difference
+make no difference
+make a decision
+make a difference
+make a mistake
+make mistakes
+make a promise
+make fun of ...
+make it
+make one's acquaintance
+make one's way to ...
+make progress
+make progress in ...
+make sense
+make sure
+make up one's mind
+obey the rules
+break the rules
+obey the law
+observe the law
+occur to sb.
+offer advice about ...
+offer advice on ...
+play a part
+play a part in
+play a trick on sb.
+play football
+play basketball
+play the piano
+put an end to ...
+put one's heart into ...
+put ... to use
+raise money for ...
+return to normal
+run a business
+run a restaurant
+start a restaurant
+satisfy the needs of ...
+meet the needs of ...
+save money
+save sb.'s life
+serve in the army
+serve the dishes
+serve the people
+set a goal
+set foot on ...
+set foot in ...
+set sail for
+set sb. free
+set an example to ...
+give an example to ...
+set a good example to ...
+give a good example to ...
+shake hands with sb.
+start a fire
+stay the same
+remain the same
+support the family
+raise the family
+surf the internet
+take advantage of
+take care of
+take care
+take chances
+take a chance
+take charge of
+take control of
+take it easy
+take part in
+take place
+take pride in
+take risks
+take a risk
+take steps to do sth.
+take measures to do sth.
+take action to do sth.
+take the place of sb.
+take sb.'s place
+take turns to do sth.
+take turns in doing sth.
+take ... for example
+tell a lie
+tell the difference between A and B
+tell the truth
+tend to do sth.
+turn a deaf ear to ...
+wait in line
+wait in a queue
+stand in line
+stand in a queue
+on account of
+on average
+on behalf of
+on board
+on business
+on condition that
+if
+on duty
+on earth
+on foot
+on holiday
+on purpose
+on sale
+on the contrary
+on the whole
+on top of
+on the one hand ... on the other hand ...
+in a flash
+in a moment
+in a while
+in a minute
+in a second
+in a hurry
+in a word
+in short
+in other words
+in addition
+in advance
+in all
+in total
+altogether
+in all
+in case
+in case of
+in charge
+in common
+in conclusion
+in danger
+in danger of
+in debt
+in demand
+in detail
+in fact
+in reality
+in effect
+as a matter of fact
+in general
+in good condition
+in poor condition
+in history
+in nature
+in need
+in one's opinion
+in one's view
+in particular
+in place
+in practice
+in public
+in rags
+in return
+in silence
+in store
+in the distance
+in the end
+in the meantime
+in the past
+in the future
+in the short term
+in the long term
+in theory
+in time
+in total
+in trouble
+in turn
+in vain
+in shape
+out of shape
+in fashion
+in front of
+in the front of
+in front
+in face of
+in favour of
+in honour of
+in memory of sb.
+in need of
+in possession of
+in praise of
+in search of
+in spite of
+despite
+regardless of
+in terms of
+in the name of
+in the form of
+in view of
+in contrast to
+in order to
+in relation to
+in response to
+in reply to
+in contact with
+in harmony with
+in exchange for
+out of breath
+out of control
+lose control
+out of date
+out of order
+out of place
+out of reach
+out of one's reach
+out of sight
+out of work
+out of question
+out of the question
+home and abroad
+at home and abroad
+at a loss
+at ease
+at last
+at length
+at most
+at once
+right away
+right now
+at present
+at random
+at risk
+at the age of ...
+at the cost of
+at the same time
+meanwhile
+at times
+at war
+for a moment
+for a while
+for a minute
+for ever
+for good
+for example
+for instance
+for fear of
+for fear that
+for free
+for sure
+for the first time
+for the first time ever
+for the reason
+for the sake of
+for the time being
+for one thing ..., for another ...
+from time to time
+from now on
+from then on
+from that moment on
+from one generation to another
+from the bottom of one's heart
+by accident
+by chance
+by and by
+by coincidence
+by contrast
+by mistake
+by nature
+by the end of
+by the time
+by the way
+by means of sth.
+by means of doing sth.
+by all means
+in all ways
+by no means
+in no way
+by this means
+in this way
+by air
+by boat
+by bus
+by train
+according to
+around the corner
+around the clock
+because of
+due to
+thanks to
+along with
+except for
+in this way
+instead of
+next to
+regardless of
+under arrest
+under attack
+under fire
+under construction
+under control
+under discussion
+under repairs
+up to date
+up to now
+up to
+with regard to
+in regard to
+with the help of
+with the purpose of
+of one's own
+on one's own
+by oneself
+be crazy about
+be curious about
+be excited about
+be particular about
+be aimed at
+be amazed at
+be good at
+be common for
+be fit for
+be suitable for
+be honoured for
+be qualified for
+be responsible for
+be to blame for
+be harmful to sb.
+do harm to sb.
+harm sb.
+be lost in
+be involved in
+be ashamed of
+be aware of
+become aware of
+be fond of
+be full of
+be jealous of
+be made up of
+be proud of
+be short of
+be sure of
+be sure about
+be tired of
+get tired of
+be uncertain of
+be uncertain about
+be accustomed to sth.
+be accustomed to doing sth.
+be used to sth.
+be used to doing sth.
+be addicted to
+be equal to
+be grateful to
+be loyal to
+be faithful to
+be devoted to
+be opened to
+be related to
+be similar to
+be up to sb.
+be angry with sb.
+be angry with sb. for sth.
+be armed with
+be bored with
+be busy with sth.
+be busy doing sth.
+be occupied with sth.
+be occupied in doing sth.
+be blessed with
+be equipped with
+be faced with
+be fed up with
+be linked with
+be pleased with
+be satisfied with
+be content with
+feel content with
+be content to do sth.
+be popular with
+be strict with sb.
+be surrounded with
+be surrounded by
+be eager for
+long for
+be dying for
+be absent from
+be different from
+be free from
+be badly off
+be well off
+be eager to do sth.
+be familiar with
+get familiar with
+be familiar to sb.
+be famous for
+be famous as
+be afraid of
+be afraid to do
+be reduced to ...
+be reduced by ...
+be worth doing sth.
+be worthy of sth.
+be worthy of being done
+be worthy to be done
+be about to do sth.
+be bound to do sth.
+be delighted to do sth.
+be desperate to do sth.
+be determined to do sth.
+determine to do sth.
+be forced to do sth.
+be likely to do sth.
+be supposed to do sth.
+be used to do sth.
+be willing to do sth.
+be able to do sth.
+be of benefit
+be of great importance
+be of great value
+be of use
+be of no use
+be on good terms
+be on good terms with sb.
+be stressed out
+all in all
+hand in hand
+back to back
+face to face
+one by one
+side by side
+again and again
+over and over again
+time and time again
+all one's life
+all over
+all over the world
+all throughout the world
+all over the country
+all throughout the country
+all the same
+all the time
+all the way
+all together
+all year round
+throughout the year
+above all
+ahead of
+far away
+far from
+one after another
+pretty well
+well off
+badly off
+before long
+day after day
+day by day
+day and night
+just now
+just then
+later on
+now and then
+once in a while
+once more
+once again
+once upon a time
+one day
+some day
+sooner or later
+so far
+the day after tomorrow
+the day before yesterday
+the other day
+private school
+public school
+primary education
+primary school
+elementary education
+elementary school
+secondary education
+secondary school
+junior high school
+senior high school
+further education
+physical education
+track and field
+school year
+academic year
+student union
+beginning courses
+basic courses
+advanced courses
+required courses
+compulsory courses
+optional courses
+online courses
+academic performance
+record card
+all-round ability
+open-book exams
+close-book exams
+make-up exams
+an academic essay
+a research project
+data analysis
+a technical term
+graduation ceremony
+a high school diploma
+a high college diploma
+Bachelor of Arts
+BA
+Bachelor of Science
+BSc
+BS
+Master of Arts
+MA
+Master of Science
+MSc
+MS
+overseas students
+foreign students
+high season
+peak season
+low season
+off season
+summer vacation
+travel agency
+travel agent's
+a tour guide
+public transport
+public transportation
+traffic lights
+zebra crossing
+taxi stand
+bus station
+railway station
+gas station
+booking office
+ticket office
+driving licence
+driver's licence
+traffic jam
+rush hour
+non-stop flight
+non-stop train
+direct flight
+first class
+VIP class
+business class
+tourist class
+economy class
+single ticket
+one-way ticket
+return ticket
+round-trip ticket
+historic spot
+tourist spot
+cultural sites
+places of interest
+places of great interest
+theme park
+twin room
+double room
+single room
+room service
+business hours
+hit songs
+action film
+action movie
+folk art
+art gallery
+work of art
+artistic work
+modern sculpture
+oil painting
+art museum
+concert hall
+live concert
+folk music
+folk song
+classical music
+pop music
+opera house
+exhibition hall
+mass media
+traditional media
+new media
+best seller
+TV channel
+front page
+headline news
+current affairs
+chat show
+a reality show
+a talk show
+a quiz show
+science fiction
+body language
+native language
+mother tongue
+fairy tale
+computer games
+video games
+sun bath
+water recreation
+fishing industry
+farming products
+senior manager
+sales manager
+human resource
+job vacancy
+employment agency
+work experience
+job interview
+job offer
+business culture
+working condition
+sick leave
+working hours
+work schedule
+business trip
+day shift
+night shift
+flexible working hours
+natural resources
+water shortage
+fresh water
+underground water
+tap water
+bottled water
+boiled water
+solar power
+solar energy
+wind power
+water power
+nuclear power
+electric power
+a power station
+a power plant
+renewable resources
+extreme weather
+heavy rain
+snow storm
+sand storm
+global warming
+greenhouse effect
+soil pollution
+water pollution
+light pollution
+noise pollution
+air pollution
+carbon dioxide
+environmental damage
+endangered species
+a nature reserve
+recycled materials
+cell phone
+mobile phone
+pay phone
+human being
+human race
+ID card
+family name
+family tree
+given name
+first name
+people with disabilities
+disabled people
+personal affair
+heart disease
+heart attack
+aches and pains
+mental illness
+mental health
+health center
+waiting room
+emergency room
+emergency treatment
+medical care
+junk food
+ground floor
+first floor
+second floor
+living room
+sitting room
+dining room
+washing machine
+fast food restaurant
+shopping mall
+department store
+jewelry store
+chain store
+checkout counter
+parking lot
+online shopping
+post code
+zip code
+a voluntary organization
+voluntary work
+wedding ceremony
+opening ceremony
+fire escapes
+fire exit
+first aid
+common sense
+sense of responsibility
+as if
+as though
+as long as
+so long as
+as soon as
+but for
+even if
+even though
+ever since
+if only
+in order that
+instead of ...
+no longer
+not ... any longer
+now that
+rather than
+would rather than
+so that
+so ... that ...
+soon after
+the moment ...
+the minute ...
+the moment that ...
+the minute that ...
+what if ...
+both ... and ...
+not only ... but also ...
+either ... or ...
+neither ... nor ...
+not ... but ...
+a bit
+a little
+a little bit
+a bit of
+a few
+a great deal of
+a great many
+a good many
+scores of
+a handful of
+a large amount of
+a great amount of
+large amounts of
+a large quantity of
+large quantities of
+a lot of
+lots of
+a mass of
+masses of
+a number of
+a large number of
+a great number of
+plenty of
+dozens of
+hundreds of
+thousands of
+millions of
+most of
+a pair of
+a piece of
+a couple of
+a series of
+a set of
+a total of
+a kind of
+a type of
+a variety of
+varieties of
+various
+and so on
+after all
+as a consequence of
+as a result of
+as a consequence
+as a result
+as a matter of fact
+as a whole
+as far as
+as far as I am concerned
+as far as I know
+as follows
+as soon as possible
+as to
+as for
+as usual
+as well as
+and
+as well
+too
+as ... as possible
+as ... as one can
+each other
+generally speaking
+how far
+how long
+how often
+how old
+how soon
+if necessary
+if possible
+just so-so
+no wonder
+to be honest
+honestly speaking
+to make matters worse
+to make things worse
+to one's credit
+to one's knowledge
+to one's regret
+to one's sorrow
+to one's surprise
+to one's joy
+to the point
+when it comes to
+what's more
+more and more
+more or less
+less than
+more than
+not only
+more A than B
+no more than
+only
+not more than
+all right
+all the best
+Excuse me.
+Everything goes well.
+All goes well.
+Good luck!
+Hands up.
+Help oneself to sth.
+How are you?
+How do you do!
+How is it going?
+Here you are.
+It depends.
+I dare say ...
+I'm sorry.
+Let me see.
+My goodness!
+Nice to meet you.
+Nice meeting you.
+Never mind.
+Of course.
+Say "Hi" to sb. for me.
+say goodbye to sb.
+See you soon.
+See you later.
+Thank goodness!
+This way, please.
+Well done!
+What about ...?
+How about ...?
+What's on?
+What's up?
+What's wrong?
+What's the matter?
+Would you mind ...?
+You're welcome.

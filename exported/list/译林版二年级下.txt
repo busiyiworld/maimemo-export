@@ -1,0 +1,52 @@
+#Unit 1
+on
+under
+behind
+in
+a sofa
+a vase
+a basket
+#Unit 2
+rice
+broccoli
+fish
+soup
+meat
+noodles
+#Unit 3
+Maths
+Chinese
+English
+PE
+Art
+Music
+#Unit 4
+ear
+hair
+eye
+mouth
+face
+nose
+#Unit 5
+skip
+ride a bike
+skate
+swim
+#Unit 6
+a dress
+a skirt
+shorts
+a T-shirt
+a blouse
+a hat
+#Unit 7
+beach
+pool
+ice cream
+orange juice
+#Unit 8
+queue up
+clean up
+push
+talk
+shout

@@ -1,0 +1,7172 @@
+#Sentence 01 核心词表
+considerable
+great
+large
+much
+substantial
+react
+respond
+detect
+undetected
+detectable
+signal
+alien
+civilisation
+#Sentence 01 表示“争论，争辩”的词
+bicker
+brawl
+contention
+contentious
+controversial
+controversy
+controvert
+counter
+debatable
+deny
+disagreement
+disprove
+dispute
+dissentious
+eloquence
+eloquent
+gainsay
+quarrel
+argue
+rebut
+refute
+rejoinder
+retort
+squabble
+tiff
+wrangle
+#Sentence 01 与“探索太空”有关的词
+dweller
+evolution
+extract
+remove
+cull
+abstract
+habitable
+humidity
+inhospitable
+inorganic
+lander
+manned space flight
+microbial
+orbiter
+organic
+planetary
+primitive microbe
+reside in
+solar
+space probe
+spacecraft
+ultraviolet radiation
+ultraviolet
+underground water
+#Sentence 01 表示“探索”的词
+explore
+ferret
+grope
+risk
+seek
+venture
+#Sentence 02 核心词表
+world war
+interrupt
+interruption
+raw
+natural
+stifle
+silk
+industry
+#Sentence 02 与“战争行为”有关的词
+aggressiveness
+aggressively
+air war
+assault
+battle field
+besiege
+blockade
+bombing
+campaign
+classified
+cold war
+collision
+collide
+combat
+combative
+confidential
+conquer
+conqueror
+defeat
+defense
+diplomacy
+diplomatic
+disarm
+disarmament
+encircle
+encroach
+enlist
+envelop
+exterminate
+insurrection
+intrude
+invade
+invasion
+invader
+martial
+onslaught
+outbreak
+rebellion
+rebel
+rebellious
+repulse
+repel
+revolt
+riot
+tactic
+trespass
+truce
+warfare
+wreck
+wrecking
+#Sentence 02 与“军事设施、装备”有关的词
+airfield
+armament
+cannon
+fortress
+radar
+weapon
+#Sentence 02 与”战争中的军队“有关的词
+armada
+bellicose
+fleet
+flotilla
+militant
+military
+morale
+mutiny
+navy
+troop
+#Sentence 03 核心词表
+migration
+migrate
+issue
+biologist
+biology
+biological
+microbiology
+define
+definition
+in part
+sort
+#Sentence 03 与“常考的动物”相关的词
+bat
+beast
+beaver
+buffalo
+camel
+chimpanzee
+donkey
+fauna
+genus
+gibbon
+giraffe
+gorilla
+herd
+herdsman
+hippo
+horde
+horn
+koala
+marmot
+niche
+ox
+pony
+reindeer
+rhinoceros
+seal
+sloth
+whale
+woodpecker
+yak
+zebra
+zoology
+#Sentence 03 形容“动物类别”的词
+aquatic
+carnivore
+carnivorous
+class
+coelenterate
+domestic
+domesticate
+family
+habitat
+herbivorous
+homotherm
+invertebrate
+vertebrate
+omnivorous
+order
+poikilotherm
+predator
+predatory
+prey
+primate
+quarry
+rodent
+scavenger
+suborder
+#Sentence 03 与“动物行为”有关的词
+chirp
+dormancy
+estivation
+hibernation
+graze
+overgraze
+gregarious
+hatch
+leap
+migrate
+emigrate
+immigrate
+migratory
+nest
+peck
+pregnant
+reproduce
+reproduction
+reproductive
+spawn
+squeak
+#Sentence 04 核心词表
+way
+backstage
+tour
+show round
+theatre
+operate
+operation
+operational
+#Sentence 04 与“戏剧创作”有关的词
+a tragic ending
+dialogue
+drama
+main plot
+monologue
+offstage
+playwright
+puppet
+script
+thespian
+#Sentence 04 表示“戏剧种类”的词
+black comedy
+dance drama
+farce
+modern drama
+music drama
+musical comedy
+opera
+pantomime
+pantomimic
+puppet show
+satirical comedy
+sentimental comedy
+situation comedy
+sitcom
+tragedy
+tragic
+#Sentence 04 与“戏剧表演”有关的词
+act
+comedian
+curtain call
+funnyman
+hero
+heroic
+heroine
+impersonate
+interval
+mime
+repertoire
+stagehand
+#Sentence 04 表达“方式，方法”的词
+approach
+solution
+avenue
+direct
+indirect
+fashion
+fashionable
+forthright
+means
+tool
+method
+mode
+pathway
+procedure
+recipe
+knack
+shortcut
+tip
+via
+#Sentence 05 核心词表
+afraid
+happen
+magazine
+disappear
+row
+#Sentence 05 形容“担心，忧虑”的词
+alarm
+anxious
+uneasy
+#Sentence 05 形容“消失，灭绝”的词
+evaporate
+evaporation
+vaporize
+extinct
+extinction
+fade
+fade-in
+fade-out
+linger
+vanish
+vanished
+#Sentence 05 与“杂志，报纸”有关的词
+advertising
+anthology
+article
+big news
+bimonthly
+biweekly
+business magazine
+circulation
+column
+columnist
+consumer magazine
+contributor
+distribution
+editor
+editor-in-chief
+encyclopedia
+evening edition
+fortnightly
+fortnight
+full-page
+government organ
+headline
+journal
+literary magazine
+low-cost
+magazine cover
+monthly
+morning edition
+news magazine
+newsboy
+newspaper
+newsprint
+newssheet
+paperback
+popular paper
+publication
+publisher
+quality paper
+quarterly
+science magazine
+trade paper
+weekly
+#Sentence 06 核心词表
+psychological
+psychologically
+claim
+legitimacy
+evoke
+trust
+#Sentence 06 形容“合法性”的词
+counselor
+illegal
+illegality
+illegally
+lawful
+legal
+legislation
+legislative
+legitimate
+legitimately
+legitimise
+outlaw
+vested
+#Sentence 06 与“心理学分支”有关的词
+abnormal psychology
+criminal psychology
+educational psychology
+group psychology
+individual psychology
+personality psychology
+social psychology
+#Sentence 06 与“心理学研究内容”有关的词
+acrophobia
+affective
+affection
+allergy
+apathy
+assertive
+attributable
+claustrophobia
+congenital
+delusion
+deviance
+deviant
+disorder
+disorderly
+emotional
+illusion
+mirage
+innate
+insane
+sane
+instinct
+mental
+multiple personality
+pathology
+phobia
+psychiatry
+psychic
+rational
+retrospection
+spiritual
+sympathy
+symptom
+trauma
+#Sentence 06 与“法律”有关的词
+abolish
+accomplice
+acquittal
+annul
+annulment
+arbitration
+bill
+cancellation
+captivity
+codification
+condone
+confirmation
+constitution
+court
+culprit
+decree
+defendant
+denounce
+deposition
+detain
+domineering
+enforcement
+exempt
+extradition
+eyewitness
+hearing
+impeach
+imprison
+imprisonment
+incriminate
+indemnity
+indemnification
+interrogatory
+jurisprudence
+legality
+legislation
+liability
+non-observance
+notary
+observance
+patent
+penalty
+query
+ratification
+recidivist
+remit
+revocation
+substantiate
+summons
+testify
+#Sentence 06 表示“诉讼”的词
+accusation
+indictment
+lawsuit
+nonsuit
+plaintiff
+plea
+proceeding
+prosecute
+sue
+#Sentence 07 核心词表
+display
+exhibition
+show
+warning
+critical
+uncritical
+critically
+emerge
+spontaneous
+criticism
+suppress
+squash
+restrain
+suppressant
+suppression
+#Sentence 07 与“艺术展览”有关的词
+aesthetic
+ancient calligraphy and painting
+art
+artistic
+artware
+bronze ware
+cradle
+creative art
+decorative art
+display cabinet
+edify
+edification
+exhibit
+exhibition
+fine art
+glassware
+jadeware
+language art
+medium
+performing art
+photography work
+plastic art
+porcelain
+primitive art
+reproducibility
+show
+space art
+startling
+time and spatial art
+time art
+#Sentence 07 与“博物馆”有关的词
+art museum
+audio tour
+British Museum
+caption
+dinosaur
+dinosaur model
+educational
+exhibition opening time
+explain
+fossil
+ground map
+historic
+incomparable
+Jurassic Period
+Louvre
+main entrance
+military equipment
+military museum
+museum plan
+museum staff
+National Museum of China
+American Museum of Natural History
+natural history museum
+no flash
+on display
+painting
+The Palace Museum
+precious
+pterosaur
+security camera
+security system
+science museum
+sculpture
+showpiece
+ticket counter
+tyrannosaurus
+unearthly
+with access all day
+#Sentence 08 核心词表
+vertical
+attempt
+try
+address
+undoubted
+undoubtedly
+face
+produce
+generate
+manufacture
+#Sentence 08 与“粮食作物”有关的词
+barley
+beet
+bland
+broccoli
+butter
+cabbage
+carrot
+celery
+cereal
+chop
+coarse cereal
+corn
+crop
+cucumber
+cuisine
+dry farmland
+edible
+farm
+foodstuff
+grain
+highland barley
+inedible
+irrigated land
+leek
+lettuce
+millet
+mustard
+oat
+onion
+pea
+peanut
+pepper
+planting industry
+potato
+pumpkin
+radish
+rice
+rotation
+rye
+sesame
+soybean
+spinach
+sugarcane
+tea
+tomato
+wheat
+#Sentence 08 与“方位”有关的词
+disorient
+entry
+entrance
+access
+exit
+forth
+frontal
+horizon
+lateral
+lateralize
+bilateral
+oriental
+orientation
+outlet
+overhead
+verge
+zenith
+#Sentence 09 核心词表
+hollow
+container
+contain
+container
+cover
+core
+layer
+molten
+#Sentence 09 与“工艺加工工序”有关的词
+bubble
+configuration
+detach
+ditch
+embed
+emboss
+gel
+harden
+lapping
+lubricant
+lubricate
+meld
+mosaic
+mould
+nugget
+perforate
+quarry
+refine
+seam
+smelt
+spark
+tinker
+weld
+#Sentence 09 与“制造，生产”有关的词
+assemble
+assembly
+behave
+conserve
+conservative
+fabricate
+generative
+manufacture
+manufactured
+manufacturer
+mechanical
+preserve
+keep
+store
+productive
+#Sentence 09 与“常考物体”有关的词
+article
+item
+board
+canvas
+craft
+entity
+girdle
+leash
+souvenir
+spur
+stick
+strip
+tugboat
+varnish
+vessel
+#Sentence 09 表示“空”的词
+cavern
+cavity
+empty
+evacuate
+evacuation
+vacant
+vacuous
+vacuum
+void
+#Sentence 10 核心词表
+theorist
+ideal
+idealistic
+ideally
+pride
+collective
+accomplishment
+credit
+give ... credit for
+discredit
+belief
+credibility
+credible
+incredible
+faith
+persuade
+#Sentence 10 与“专家”有关的词
+aesthetician
+aesthetics
+astrologist
+astrology
+botanist
+demographer
+demography
+ecologist
+entomologist
+entomology
+ethnologist
+ethnology
+geographer
+geologist
+geology
+linguistician
+linguistics
+mathematician
+meteorologist
+meteorology
+neurologist
+neurology
+oceanographer
+oceanography
+ornithologist
+ornithology
+paleontologist
+paleontology
+pathologist
+pathology
+philosopher
+philosophy
+physiologist
+physiology
+seismologist
+seismology
+#Sentence 10 表“隐藏”含义的词
+conceal
+cryptic
+dissemble
+feign
+hide
+lurk
+pretend
+seclusion
+sneak
+#Sentence 11 核心词表
+think of sb. as sth.
+think of sth. as sth.
+essentially
+essential
+visual
+experience
+afford
+affordable
+underestimate
+importance
+#Sentence 11 与“电影制作”有关的词
+action
+adaptation
+adaptable
+adapter
+board of censors
+cast
+casting
+censor
+censorship
+cinematographer
+cinematography
+close-up
+costume
+crew
+cutting
+director
+dissolve
+dub
+edit
+exterior
+film industry
+filmmaking
+full shot
+in the spotlight
+leading actor and actress
+lighting
+long shot
+play a role
+plot
+poster
+scenario
+scenarist
+screen
+screening
+screenplay
+screenwriter
+scriptwriter
+setting
+shooting
+slow motion
+sound effect
+sound recording
+soundtrack
+special effect
+stand-in
+storyline
+supporting actor and actress
+video camera
+visual effect
+walk-on
+#Sentence 11 与“看电影”有关的词
+3D glasses
+animation
+anime
+banned film
+box office
+catch a flick
+clip
+drive-in theater
+film festival
+IMAX
+late movie
+movie star
+must-see movie
+popcorn
+preview
+release time
+stereo glasses
+tearjerker
+ticket
+touching
+moving
+zombie
+#Sentence 11 与“电影类别”有关的词
+action film
+affectional film
+comedy
+detective film
+documentary
+martial arts movie
+newsreel
+romantic comedy
+thriller
+#Sentence 12 核心词表
+transport
+transportation
+concern
+due
+extent
+#Sentence 12 形容“货物重量、数量”的词
+a set of
+circa
+cubic
+dozen
+gallon
+gram
+gross
+in length
+liter
+metric
+net weight
+ounce
+pound
+specification
+tare
+the number of
+tolerance
+ton
+#Sentence 12 与“程度”有关的词
+absolute
+barely
+merely
+categorical
+definite
+positive
+unconditional
+clean
+totally
+completely
+complete
+dead
+drastic
+violent
+entirely
+solely
+exorbitant
+excessive
+unreasonable
+fairly
+relatively
+grossly
+greatly
+hardly
+scarcely
+imperative
+necessary
+urgent
+impetuous
+inordinate
+immoderate
+intense
+severe
+intensive
+concentrated
+nearly
+almost
+profoundly
+deeply
+rough
+approximate
+roughly
+approximately
+nearly
+sharp
+sudden
+somewhat
+to some degree
+utterly
+absolutely
+vehemence
+vehement
+#Sentence 12 表达“变化”的词
+deform
+deformation
+deformed
+fickle
+#Sentence 13 核心词表
+track
+temporal
+inventor
+sundial
+length
+direction
+#Sentence 13 与“历史发明”有关的词
+decimalism
+decimal
+gunpowder
+hieroglyphic
+paper-making
+printing
+seismograph
+waterwheel
+#Sentence 13 与“历史考古”有关的词
+antiquarian
+Bronze Age
+Iron Age
+material culture
+#Sentence 13 与“时间”有关的词
+abiding
+abrupt
+chronic
+concur
+concurrent
+contemporary
+cursory
+dated
+duration
+elapse
+eternal
+everlasting
+extant
+extemporaneous
+former
+formerly
+hasty
+immediate
+immediately
+impromptu
+improvise
+instantaneous
+interlude
+juncture
+lasting
+lately
+nocturnal
+obsolete
+overdue
+perennial
+permanent
+pressing
+previous
+previously
+schedule
+session
+simultaneously
+synchronise
+temporary
+transient
+transitory
+urgent
+#Sentence 14 核心词表
+analysis
+analyst
+analyse
+figure
+proportion
+seed
+germinate
+detail
+impressive
+affecting
+impressively
+#Sentence 14 与“植物繁殖和生长过程”有关的词
+blossom
+bud
+cross-breed
+fructification
+fruit
+fruition
+germ
+immature
+kernel
+life cycle
+luxuriant
+photosynthesis
+photosynthetic
+pistil
+pollen
+pollinate
+respiration
+respiratory
+ripe
+shell
+shoot
+sow
+sprout
+stamen
+starch
+tassel
+transplantation
+transplant
+wither
+#Sentence 14 与“树干，叶子”有关的词
+arboreal
+deciduous
+foliage
+hawthorn
+leaf
+leaflet
+leafstalk
+stalk
+stem
+timber
+tissue
+vein
+#Sentence 14 常考“花卉”相关词
+bunch
+daffodil
+flora
+floral
+horticulture
+jasmine
+orchid
+ovary
+petal
+sunflower
+tulip
+#Sentence 14 常考“低矮植物”相关词
+fern
+mushroom
+shrub
+bush
+scrub
+#Sentence 14 与“植物学”相关的词
+botany
+botanical
+botanist
+vegetable
+vegetative
+vegetal
+vegetarian
+vegetarianism
+vegetation
+#Sentence 15 核心词表
+Inuit
+actually
+starve
+curtail
+climate
+certainly
+impact
+#Sentence 15 与“气候变化”有关的词
+anthropogenic
+biomass energy
+climate change
+greenhouse
+heat
+off-gas
+off-gas line
+precipitation change
+species extinction
+#Sentence 15 与“常见气候类型”有关的词
+littoral climate
+monsoon climate
+plateau climate
+polar climate
+sub-tropical climate
+temperate climate
+tropical climate
+tropical marine climate
+#Sentence 15 与“健康行为”有关的词
+activity
+austere
+biological clock
+chaotic lifestyle
+deep breath
+detoxify
+diet
+dietary
+digest
+do exercise
+exercise
+fitness
+health
+healthful
+healthy lifestyle
+hibernation
+keep fit
+keep in good health
+keep warm
+lifestyle
+living habit
+massage
+meditation
+nourishing
+peace
+perspire
+reasonable rest
+sit still
+sleep
+tonic
+tranquil
+unhurried
+wellbeing
+#Sentence 15 与“气象”有关的词
+barometer
+blizzard
+convection zone
+droplet
+drought
+funnel
+gale
+hurricane
+meteorology
+ozone layer
+tempest
+tornado
+troposphere
+typhoon
+whirlwind
+#Sentence 16 核心词表
+image
+puzzle
+decipher
+rewarding
+reward
+recognition
+#Sentence 16 表示“满意”的词
+complacent
+content
+contented
+fulfilled
+fulfil
+fulfilment
+gratify
+gratification
+relieved
+relieve
+relief
+satiate
+satisfaction
+satisfactory
+unsatisfactory
+satisfy
+dissatisfied
+suffice
+#Sentence 16 与“困难”有关的词
+adversity
+adverse
+arduous
+complicated
+confront
+deadlock
+despairing
+dilemma
+elusive
+elude
+embarrass
+embarrassed
+embarrassing
+embarrassingly
+embarrassment
+flounder
+handicap
+handicapped
+harsh
+hassle
+hiccup
+intricate
+involved
+knotty
+laborious
+opaque
+opaquely
+opaqueness
+painstaking
+plight
+precipitous
+predicament
+quandary
+rigorous
+rigorously
+stranded
+strand
+strenuous
+stringent
+troublesome
+#Sentence 17 核心词表
+material
+appear
+comparatively
+trivial
+trifling
+petty
+important
+main
+supplier
+supply
+customer
+#Sentence 17 与“商业”有关的词
+bid
+bidding
+commercial
+commerce
+consolidate
+consolidation
+contractor
+corporate
+corporation
+earnings
+salary
+haggle
+payment
+#Sentence 17 与“办公用具和仪器”有关的词
+adhesive
+attendance machine
+blotter
+bookend
+book stand
+briefcase
+cabinet
+cellophane tape
+clasp envelope
+copier
+correction fluid
+correction pen
+correction tape
+cutter
+desk calendar
+expanding file
+fastener
+fax
+floppy disk
+holder
+inkpad
+intercom
+locker
+mouse pad
+office equipment
+office supply
+office table
+pad
+pin
+printer
+printing ink
+projector
+scanner
+stapler
+stationery
+voice recorder
+#Sentence 17 与“贸易业务”有关的词
+access to
+adequate preparation
+be acquainted with
+business cycle
+business letter
+enclose
+essential factor
+financial gain
+win-win situation
+#Sentence 18 核心词表
+tin
+surface
+flat
+horizontal
+horizontally
+parallel
+#Sentence 18 与“工业生产加工”有关的词
+blowdown
+brim
+composite
+convolute
+demanding
+distend
+flow model
+flow sheet
+foam
+intertwine
+invert
+malleable
+meshed
+mold
+on stream
+on-stream inspection
+procedural model
+rotate
+rust
+scrap
+sectional
+trek
+wastage
+wrought
+#Sentence 18 表示“保持，保留”的词
+maintain
+reserve
+reservation
+retain
+#Sentence 18 与“热”有关的词
+radiate
+radiation
+scorching
+sticky
+thermal
+warm
+hot
+tropical
+#Sentence 19 核心词表
+assume
+improvement
+telecommunication
+lead to
+dispersal
+no longer
+force
+#Sentence 19 与“网络通信”有关的词
+addressee
+click rate
+cursor
+cyberspace
+email
+Facebook
+friend circle
+internet media
+live broadcast
+mass communication
+mass media
+net friend
+network communication
+network
+one-to-many model
+social media site
+twitter
+visit
+website
+WeChat
+wide
+#Sentence 19 与“电话、广播通信”有关的词
+aerial
+answering
+area code
+broadcast media
+broadcast
+broadcasting
+burgeoning
+cellphone
+deliver information
+dial
+digital media
+direct dialing
+earphone
+extension
+fixed-line
+frequency adjustment
+function
+handset
+icon
+inbox
+indoor aerial
+infectivity
+International Direct Dialing
+leave a message
+long distance call
+long wave
+loudspeaker
+make a call
+medium wave
+megahertz
+microblog
+mobile phone
+operator
+passcode
+phone book
+public radio
+put through
+radio wave
+radio
+reach
+rebroadcast
+receiver
+refresh
+short wave
+supervision
+tape recorder
+telecom
+telephone
+transmitter
+unavailable
+voicemail
+wave length
+working mode
+#Sentence 20 核心词表
+compare
+invention
+inventive
+pale
+significance
+significant
+significantly
+since
+achieve
+achievement
+depend on
+originate
+origination
+originator
+originative
+#Sentence 20 表示“重要”的词
+cardinal
+chief
+chiefly
+crucial
+dominant
+elementary
+elite
+essential
+fateful
+foremost
+fundamental
+gist
+key
+largely
+leading
+momentous
+optimum
+outweigh
+paramount
+pivotal
+predominantly
+predominate
+primary
+primarily
+principal
+vital
+#Sentence 20 表示“比较”的词
+comparative
+comparatively
+contrast
+counterpart
+equal
+equality
+equally
+equate
+equivalent
+inferior
+inferiority
+peerless
+preferable
+relative
+relatively
+resemble
+superior
+versus
+#Sentence 21 核心词表
+regulation
+mercury
+emission
+implement
+implementation
+perform
+execute
+utensil
+instrument
+#Sentence 21 表示“规定，制度”的词
+given
+stipulate
+#Sentence 21 与“有机，无机化学”有关的词
+acetate
+aluminium
+amalgam
+carbon dioxide
+carbonic oxide
+chemical element
+cohere
+coherent
+coke
+copper
+corrosive
+desalinise
+factorable
+foul
+gold
+halogen
+inert gases
+inorganic chemistry
+inorganic matter
+inorganic polymer
+iron
+lead
+lifeless
+natural polymer
+organic chemistry
+organic polymer
+organics
+oxidize
+patina
+periodic table of elements
+polymer
+rare metal
+scalding
+silver
+sodium
+supra polymer
+synthetic fibre
+synthetic plastics
+synthetic rubber
+titanium
+toxic chemical
+zinc
+#Sentence 21 与“投资理财”有关的词
+advisor
+consultant
+consult
+dividend
+expected return
+financial plan
+financing
+fixed income
+foreign exchange
+forward rate
+futures
+house property
+increment
+investment diversification
+money management
+ratio
+risk assessment
+store of value
+systematic risk
+trust product
+#Sentence 22 核心词表
+task
+apply
+paraconsciously
+accessible
+consciousness
+self-consciousness
+conscious
+#Sentence 22 与“教育过程中的常识”有关的词
+altruistic
+altruism
+confusion
+confuse
+differentiation
+differentiate
+egoism
+emotional state
+empathy
+identification
+identify
+interaction
+interact
+introspection
+introspective
+inward
+outward
+metacognition
+psychology
+self
+self-aware
+#Sentence 22 与“学校教育阶段目标”有关的词
+all-round
+all-round talent
+basic education
+basic quality
+compulsory education
+enlightening
+exam-oriented education
+higher education
+labor skill
+lower secondary education
+moral value
+pedagogy
+pedagogic
+pre-primary education
+primary education
+quality-oriented education
+registered school
+#Sentence 22 与“正向积极的教育理念”有关的词
+amenable
+appropriate
+inappropriate
+consequently
+consequent
+earnest
+even-tempered
+temper
+inherited
+inherit
+lead by example
+maturation
+mature
+modest
+modesty
+naughty
+naughtiness
+obedient
+obedience
+outcome
+participate
+participant
+praise
+promise
+promising
+puberty
+rebellion period
+rebellious
+rebellion
+self-esteem
+self-sufficiency
+#Sentence 23 核心词表
+conflict
+mouthpiece
+executive
+execute
+external
+internal
+mediator
+#Sentence 23 与“公司部门”有关的词
+Advertising Department
+Business Office
+department
+division
+Export Department
+General Accounting Department
+General Affairs Department
+Human Resources Department
+Import Department
+International Department
+Personnel Department
+Planning Department
+Product Development Department
+Public Relations Department
+Research and Development
+Sales Department
+Technology Department
+#Sentence 23 表示“帮助”的词
+assist
+assistant
+assistance
+service
+door-to-door service
+#Sentence 23 与“冲突，竞争”有关的词
+admonish
+adverse
+admonish
+unfavorable
+harmful
+assail
+baste
+belligerent
+compete
+contend
+emulate
+feud
+fulminate
+hostile
+offensive
+inoffensive
+punch
+repel
+repulsive
+rival
+strife
+struggle
+tantalize
+thump
+#Sentence 24 核心词表
+chlorophyll
+molecule
+capture
+convert
+#Sentence 24 与“树”有关的词
+acorn
+bamboo
+birch
+bough
+box
+branch
+camphor tree
+coconut palm
+cypress
+deciduous tree
+elm
+evergreen broad-leaf forest
+evergreen tree
+fir
+ginkgo
+hardy
+hardiness
+hickory
+ivy
+laurel
+maple tree
+oak
+palm
+phoenix tree
+pine
+poplar
+sandalwood
+satinwood
+sequoia
+sycamore
+trunk
+twig
+verdant
+verdure
+vine
+virgin
+willow
+windbreak
+#Sentence 24 形容“充满，充塞”的词
+abound
+overfill
+permeate
+permeation
+permeant
+penetrate
+teem
+#Sentence 24 表示“吸收，吸入”的词
+absorb
+absorption
+assimilate
+digest
+inhale
+inhalation
+intake
+#Sentence 25 核心词表
+clothing
+standard
+determine
+determined
+employee
+employer
+employment
+supervisor
+administrator
+inappropriate
+item
+#Sentence 25 与“服装，衣服”有关的词
+apron
+attire
+beret
+cashmere
+cotton
+fabric
+garb
+linen
+overall
+overcoat
+pajamas
+scarf
+shawl
+suit
+waistcoat
+wool
+#Sentence 25 与“失误，失败”有关的词
+abortive
+blunder
+defective
+demerit
+drawback
+disadvantage
+err
+erroneous
+erroneously
+failure
+fallible
+flaw
+flop
+heedless
+ignore
+inaccurate
+incorrectly
+misjudge
+neglect
+negligence
+negligent
+offhand
+omission
+omit
+regardless
+slovenly
+typo
+#Sentence 25 表示“不合适，不适宜”的词
+impropriety
+incompetent
+ineligible
+inept
+unbecoming
+unseemly
+#Sentence 25 表示“命令，要求”的词
+bidding
+nominate
+command
+instruction
+mandatory
+request
+requisition
+#Sentence 26 核心词表
+participant
+beforehand
+before
+tune
+compose
+composer
+computer
+guess
+speculate
+rate
+#Sentence 26 与“音乐演唱者”有关的词
+alto
+baritone
+cantata
+choir
+chorus
+conservatory
+soprano
+tenor
+#Sentence 26 表示“乐队，乐器”的词
+accordion
+bagpipe
+band
+banjo
+bass
+bassoon
+cello
+clarinet
+flute
+guitar
+harmonica
+harp
+oboe
+orchestra
+organ
+pan pipes
+percussion
+piano
+saxophone
+string
+trombone
+trumpet
+viola
+violin
+wind
+#Sentence 26 与“演唱、演奏乐曲的类型”有关的词
+concerto
+duet
+episode
+lullaby
+plainsong
+sonata
+symphony
+#Sentence 26 描述“乐曲”的词
+chord
+euphonious
+harsh
+movement
+pitch
+prelude
+rest
+rhythm
+scale
+tone
+#Sentence 26 与“音乐创作中的计算机智能”有关的词
+accelerate
+advanced science
+advanced
+advance
+advent
+artificial reality
+artificial
+authentic
+break boundaries
+computer science
+cutting edge
+enhance efficiency
+boost efficiency
+high-end
+highly productive
+high-tech
+intellectual
+semi-automatic
+user friendly
+#Sentence 27 核心词表
+identical
+alike
+duplicate
+dissimilar
+distinct
+at least
+ailment
+fraternal
+vulnerability
+vulnerable
+root
+with respect to
+heredity
+hereditary
+inherited
+#Sentence 27 表示“原因”的词
+account
+ascribe
+attribute
+be credited to ...
+causality
+cause
+derive
+for the sake of
+gratuitous
+unwarranted
+justification
+justify
+reason
+result from
+result in
+#Sentence 27 表示“整体与部分”的词
+constituent
+fragment
+holistic
+integral
+integrate
+integration
+disintegrate
+integrity
+panoramic
+partial
+partially
+portion
+section
+segment
+#Sentence 27 与“遗传”有关的词
+blood type
+chromosome
+color-blindness
+decode
+deletion
+DNA sequence
+dominant heredity
+family tree
+gene
+genetic
+genetics
+genome
+mutation
+recessive inheritance
+substitution
+substitute
+substituted
+transgene
+transgenic
+#Sentence 28 核心词表
+perhaps
+graphic
+lifelike
+vivid
+pictorial
+vague
+obscure
+expression
+self-awareness
+in general
+rage
+#Sentence 28 形容“愤怒，生气”的词
+annoyance
+annoyed
+be angry with
+be beside oneself with rage
+blow up
+enrage
+exasperate
+flip out
+fret
+fume
+furibund
+furious
+irate
+fierce
+turbulent
+meek
+calm
+unperturbed
+fury
+get worked up
+grouchy
+in a temper
+incense
+indignant
+indignation
+inflame
+infuriate
+irritate
+lose one's temper
+make one's blood boil
+make sb. nuts
+nettlesome
+out of patience
+outrage
+provoke
+irritate
+anger
+provoking
+wrath
+#Sentence 28 表示“普遍”的词
+average
+ordinary
+catholic
+commonplace
+diffusive
+exhaustive
+thorough
+complete
+hackneyed
+mediocre
+mediocrity
+mostly
+pervasive
+prevalent
+rare
+uncommon
+prevalence
+routine
+regular
+ubiquitous
+ubiquity
+unanimous
+agreeing
+unanimously
+usually
+widespread
+#Sentence 29 核心词表
+geography
+affect
+influence
+locate
+prevent
+preventative
+prevention
+preventive
+#Sentence 29 表示“影响”的词
+consequence
+contribute
+contributor
+contribution
+disempower
+effective
+immune
+resistant
+invulnerable
+immunity
+influential
+interact
+interaction
+interplay
+interrelationship
+pliable
+predispose
+predisposition
+predominant
+susceptibility
+susceptible
+#Sentence 29 与“治疗，康复”有关的词
+curative
+heal
+healing
+psychiatric
+recover
+remedy
+surgery
+surgical
+therapist
+therapy
+#Sentence 29 与“疾病”有关的词
+alcoholism
+anemia
+angina
+appendicitis
+arthritis
+asthma
+bronchitis
+bunion
+cancer
+chickenpox
+coma
+concussion
+cough
+diabetes
+dislocation
+dysmenorrhoea
+enteritis
+fracture
+haemorrhage
+hepatitis
+hypertension
+hypotension
+leukemia
+malaria
+pharyngitis
+pneumonia
+rabies
+smallpox
+tetanus
+tracheitis
+tuberculosis
+tumor
+#Sentence 30 核心词表
+similarly
+collect
+collective
+beyond
+enlarge
+develop
+development
+undeveloped
+developing
+interest
+#Sentence 30 表示“收集，聚集”的词
+accumulate
+accumulation
+amass
+attend
+collection
+congregate
+convene
+gather
+party
+#Sentence 30 形容“扩大”的词
+amplify
+deflate
+shrink
+augment
+augmentation
+broaden
+dilate
+escalate
+expand
+expanding
+expansion
+expanse
+extend
+extension
+magnify
+outstretch
+sprawl
+swell
+#Sentence 30 表示“范围”的词
+compass
+realm
+region
+regional
+scope
+spectrum
+sphere
+territory
+territorial
+zone
+horizontal
+horizontally
+#Sentence 30 表示“引起兴趣”的词
+appeal
+accuse
+appetite
+captivate
+intrigue
+intriguing
+orient
+#Sentence 30 表示“可能”的词
+contingency
+feasible
+imaginable
+likelihood
+presumably
+presume
+presumable
+probability
+probable
+likely
+#Sentence 31 核心词表
+suspense
+suspend
+suspended
+suspender
+suspensive
+distance
+far
+as a whole
+#Sentence 31 形容“距离”的词
+abut
+adjacent
+detached
+separate
+adjoin
+adjoining
+afield
+alienate
+alienated
+alienation
+border
+contiguous
+distant
+estrange
+faraway
+nearness
+closeness
+neighbouring
+proximity
+ulterior
+vicinity
+#Sentence 31 与“感觉”有关的词
+daze
+downhearted
+exhaust
+exhaustion
+exhaustible
+faint
+indefatigable
+intuition
+listless
+ravenous
+sensation
+sensational
+sensitive
+sensitivity
+sensory
+sensuous
+sentient
+#Sentence 31 与“建筑设计考虑因素”有关的词
+blueprint
+centre around
+concept
+construct
+context
+district
+entertainment
+entertain
+entrance
+make use of
+pedestrian
+project
+purpose
+ring road
+site
+structure
+#Sentence 32 核心词表
+regard
+comparison
+feeble
+undeveloped
+#Sentence 32 形容“虚弱，无力”的词
+breakdown
+disintegration
+classification
+emaciate
+emaciated
+flimsy
+fragile
+frail
+unbreakable
+sturdy
+impotence
+meagre
+pitiful
+slender
+slenderness
+slight
+slightly
+tender
+weaken
+weakness
+#Sentence 32 形容“强壮”的词
+fierce
+firm
+hardy
+lusty
+potent
+robust
+robustness
+robustly
+sturdy
+healthy
+delicate
+stocky
+stout
+unyielding
+#Sentence 32 与“感官”有关的词
+counterintuitive
+imperceptible
+tactile
+vacuity
+#Sentence 33 核心词表
+suggest
+advise
+propose
+confess
+book
+opportunity
+chance
+#Sentence 33 表示“建议，意见”的词
+advice
+advocate
+comment
+commentator
+counsel
+judgment
+mention
+opinion
+proposal
+recommend
+recommendation
+remark
+remarkable
+submit
+utterance
+verdict
+#Sentence 33 与“餐厅预订”有关的词
+booth
+buffet
+cancel the reservation
+change the reservation
+chef
+dinner jacket
+dress code
+enjoy a good reputation
+entree
+in advance
+in the corner
+in the lounge
+keep the table
+name
+nonsmoking
+pay a deposit
+private room
+reserve ahead of time
+restaurant
+smoking area
+table for two
+time
+under the name of
+VIP room
+wait for a table
+wait time
+window
+with a fine view of
+#Sentence 33 与“日常生活”有关的词
+babysit
+baggage
+dwell
+furniture
+hurdle
+litter
+outing
+regimen
+residency
+rubbish
+trash
+singe
+sojourn
+sustenance
+tease
+kid
+toy
+#Sentence 34 核心词表
+ancestral
+tortoise
+settle
+settler
+settlement
+adapt
+adaptable
+unique
+uniqueness
+subspecies
+#Sentence 34 与“爬行，两栖动物”有关的词
+alligator
+amphibian
+amphibiology
+bullfrog
+camouflage
+chameleon
+cobra
+crawl
+creep
+crocodile
+frog
+lizard
+python
+regenerate
+regeneration
+respiratory
+salamander
+serpent
+shed
+skin
+snake
+tadpole
+tail
+terrestrial
+toad
+turtle
+#Sentence 34 与“生态环境”有关的词
+barrenness
+biont
+biosphere
+deforestation
+desertification
+eco-environment
+ecosystem
+environmental
+forestation
+hydrosphere
+interactional
+interrelation
+jungle
+lithosphere
+pedosphere
+rejuvenation
+shield
+surroundings
+transpiration
+uninhabited
+#Sentence 34 表示“适应”的词
+acclimatize
+accommodation
+adjust
+compatible
+condition
+conform
+flexibility
+reorient
+resilience
+socialize
+specialization
+#Sentence 35 核心词表
+continuous
+continuously
+reckless
+rash
+synthetic
+synthetically
+chemical
+counter-productive
+#Sentence 35 形容“效果”的词
+asymmetric
+effectual
+efficacy
+invalid
+oblique
+overarch
+unrequited
+validate
+impotent
+unfounded
+#Sentence 35 与“节肢动物”有关的词
+abdomen
+ant
+antenna
+tentacle
+arthropod
+bee
+black widow spider
+bumblebee
+butterfly
+centipede
+dragonfly
+firefly
+fly
+ladybug
+scorpion
+sting
+#Sentence 35 表示“合成，混合”的词
+blend
+compound
+fuse
+merge
+meld
+smelt
+divide
+separate
+split
+mingle
+mixture
+synthesis
+#Sentence 35 表示“化学元素，试剂”的词
+adhesive
+alchemy
+alkali
+alloy
+ammonia
+calcium
+carbon
+derivative
+helium
+hydrate
+hydrocarbon
+impurity
+intermediary
+iodine
+ion
+isotope
+limestone
+metal
+metalloid
+methane
+nitrogen
+oxygen
+particle
+plastic
+silica
+silicon
+silver
+sodium
+sulfur
+#Sentence 35 形容“化学过程”的词
+action
+biochemistry
+bleach
+catalysis
+caustic
+corrode
+decay
+decomposition
+dye
+erode
+erosion
+explode
+explosive
+hydronic
+ignite
+polymerization
+reagent
+rot
+rotten
+scorch
+sear
+solubility
+solvent
+stale
+tint
+#Sentence 36 核心词表
+laughter
+tap
+expressive
+machinery
+emotion
+motor
+circuit
+vocalisation
+#Sentence 36 形容“高兴”的词
+amused
+amusing
+beaming
+blessed
+bliss
+blithe
+blithesome
+brighten
+delight
+delightful
+ecstasy
+ecstatic
+elation
+enrapture
+exaltation
+exalt
+exalted
+excitement
+exhilaration
+exhilarate
+exult
+exultant
+gleeful
+grin
+hilarious
+intoxicate
+intoxication
+joyous
+jubilant
+merry
+merrily
+mirth
+overjoyed
+pleasing
+rapture
+ravish
+rejoice
+#Sentence 36 形容“懊悔”的词
+amorous
+compunction
+contrite
+penitential
+repentance
+sentimental
+#Sentence 36 表达“同情”的词
+commiserate
+consolation
+empathetic
+#Sentence 36 表达“正面情感”的词
+effusive
+endearment
+enviable
+fondness
+inclination
+nostalgia
+#Sentence 36 表达“负面情感”的词
+fraternize
+impassive
+profane
+#Sentence 36 与“社交中的表现”有关的词
+adjust oneself
+attractive personality
+be adept in
+convincing
+convince
+cooperative
+incooperative
+generous
+generosity
+greeting
+informal
+intelligent
+intelligence
+interpersonal relationship
+keep promise
+moderate
+networking skill
+punctual
+punctuality
+relationship network
+reliable
+trustworthy
+sociable
+unsociable
+tolerant
+tolerance
+#Sentence 37 核心词表
+poll
+polling
+nurture
+decline
+recline
+incline
+factor
+cause
+disjunction
+perception
+perceptible
+perceptive
+reality
+#Sentence 37 表示“培养，养育”的词
+breed
+cultivate
+cultivation
+cultural
+foster
+fosterling
+fosterer
+nourish
+nourishing
+#Sentence 37 表示“导致”的词
+conduce
+generate
+generation
+generator
+induce
+inducement
+inducible
+trigger
+stimulus
+initiate
+cause
+#Sentence 37 形容“事实，实际”的词
+factual
+literally
+practically
+virtually
+#Sentence 37 与“政治”有关的词
+affiliate
+anarchism
+authoritative
+authority
+autonomy
+ballot
+centralize
+commission
+committee
+confederacy
+confederate
+congress
+dictatorial
+dictatorship
+diplomatic
+dispensation
+domain
+area
+field
+election
+embargo
+factious
+ideology
+ignominy
+indignity
+kingdom
+league
+parade
+partisan
+petition
+privilege
+procession
+regime
+regimen
+rejection
+sanction
+sanctionist
+scandal
+self-government
+senate
+sovereign
+unconventional
+veto
+vote
+#Sentence 38 核心词表
+soil
+fertility
+fertilizer
+pesticide
+growth
+algae
+increase
+run-off
+#Sentence 38 与“消灭虫害”有关的词
+anopheles
+beetle
+biocenosis
+bug
+cabbage worm
+cockroach
+cricket
+flea
+grasshopper
+locust
+hazardous
+horsefly
+insect
+insecticide
+integrated pest management
+larva
+louse
+mosquito
+moth
+pest
+rootworm
+silkworm
+spider
+termite
+vermin
+wasp
+#Sentence 38 与“农业施肥及除草”有关的词
+additive
+cancer-causing chemical
+communicable
+concoction
+contaminant
+cyanide
+exacerbation
+exacerbate
+fertilize
+fertilization
+herbicide
+herb
+nitrogen
+pesticide residues
+phosphate fertilizer
+resistant
+sprayer
+weed
+#Sentence 38 与“藻类”有关的词
+algae pollution
+aquatic plant
+brown algae
+exuberant
+green algae
+red algae
+sargassum
+seaweed
+symbiosis
+underwater
+#Sentence 39 核心词表
+span
+century
+stretch
+extend
+boundary
+jungle-clad
+clad
+volcano
+volcanic
+coral
+outlier
+#Sentence 39 与“年代日期”有关的词
+calendar
+decade
+epoch
+epochal
+era
+fortnight
+leap year
+lunar calendar
+solar calendar
+#Sentence 39 与“珊瑚”有关的词
+acidification
+atoll
+blast fishing
+calcium carbonate
+cluster
+colony
+community
+continental shelf
+crustacean
+exoskeleton
+fishery
+fore reef
+fringing reef
+marine species
+mollusk
+polyp
+rainforests of the sea
+reef crest
+sea anemone
+secrete
+secretion
+shoreline protection
+sponge
+spongy
+stony coral
+#Sentence 39 与“火山”有关的词
+active volcano
+caldera
+char
+cone volcano
+crater
+bowl-shaped crater
+crust
+depression
+dormant
+earthquake
+eject
+erupt
+eruption
+extinct volcano
+fault
+lava
+lithogenous
+magma
+magnitude
+mantle
+outburst
+plate
+seismic
+seismology
+shield volcano
+squirt
+stratum
+tectonic plate
+tremor
+volcanic ash
+volcanic dome
+volcanic dust
+#Sentence 40 核心词表
+multiplan
+insurance
+pre-existing
+medical
+#Sentence 40 与“医疗卫生服务”有关的词
+abscission
+acupuncture
+allergic
+birth control
+clinical
+convalesce
+convalescent
+deliver
+delivery
+doctor in charge
+epidemic
+homeopathy
+houseman
+inquiry
+leave hospital
+nurse
+recuperate
+recover
+sanatorium
+seclude
+secluded
+transplant
+ward
+#Sentence 40 与“疾病或缺陷”有关的词
+athlete's foot
+awkward
+bald
+blind
+body odor
+clumsy
+colour blindness
+congenital heart disease
+deaf
+defect
+disabled
+disadvantaged
+discrimination
+dull
+dwarfism
+fool
+gigantism
+harelip
+idiot
+impaired
+lame
+limp
+malformation
+mute
+obesity
+sickish
+slothful
+torpor
+#Sentence 40 形容“包含，包括”的词
+comprise
+embody
+contain
+incarnate
+embrace
+encompass
+inclusive
+inclusively
+incorporate
+comprehend
+embody
+involve
+involvement
+#Sentence 41 核心词表
+grapple
+acceptable
+heavily
+scrutinize
+sales
+marketing
+marketer
+#Sentence 41 与“医学药物”有关的词
+antibiotic
+antidote
+aspirin
+bacterial
+be allergic to
+capsule
+clinic
+clinical trial
+dentist
+diagnose
+dispenser
+drop
+drug abuse
+efficacy
+epidemic prevention
+eye drops
+family doctor
+herbal
+hygiene
+illness
+injection
+medication
+narcotic
+non-drowsy
+drowsy
+ointment
+pain-killer
+pediatrician
+penicillin
+pharmaceutical
+physician
+pill
+potency
+powder
+prescription
+psychiatrist
+surgeon
+syrup
+tablet
+test result
+to get vaccinated
+vitamin
+wholesome
+#Sentence 41 与“公司”有关的词
+branch
+company profile
+conglomerate
+consortium
+corporate culture
+departmental
+headquarter
+joint venture
+premise
+state-owned enterprise
+#Sentence 42 核心词表
+reasoning
+replenish
+ice sheet
+latitude
+freedom
+liberty
+reflect
+reflection
+space
+reduce
+decrease
+warming
+ocean
+atmosphere
+atmospheric
+#Sentence 42 表示“缩减”的词
+constrict
+contract
+pact
+treaty
+deduct
+deductible
+deflate
+detract
+dwindle
+indent
+lessen
+narrow
+narrow-minded
+restriction
+shrink
+subtract
+subtraction
+#Sentence 42 与“气候变暖原因及影响”有关的词
+anticipated effect
+combustion
+combustibility
+Copenhagen Accord
+energy consumption
+exhaust gas
+expansion of desert
+extreme weather
+give off
+glacier
+global warming
+greenhouse effect
+greenhouse gas
+heat wave
+heating
+human activity
+Kyoto Protocol
+melt
+potential problems
+precipitation
+reduce emission
+rising sea level
+temperature increase
+the warming of global temperature
+#Sentence 42 表示“地球经纬度地区”的词
+Antarctica
+Arctic
+equator
+hemisphere
+longitude
+meridian
+temperate zone
+the Antarctic
+tropic
+#Sentence 43 核心词表
+theory
+theorize
+theoretical
+relate
+relative
+relation
+distinguish
+distinguish ... from ...
+discern
+differentiate
+inevitable
+doomed
+unavoidable
+inevitably
+#Sentence 43 形容“关系，联系”的词
+accord
+affiliate
+affinity
+association
+union
+bond
+close
+closeness
+collaborate
+collaboration
+collaborative
+complement
+concerted
+congenial
+congruity
+consensus
+unanimity
+correlate
+dependence
+dependent
+derivative
+displace
+fusion
+hinge
+implicate
+incompatible
+incongruity
+incongruous
+intimacy
+intimate
+irrelevant
+mutual
+relation
+respective
+subsidiary
+substitute
+supplant
+sway
+#Sentence 44 核心词表
+childhood
+bound up with
+system
+systematic
+numeration
+imagination
+consider
+consideration
+problem
+facility
+#Sentence 44 与“童年”相关的词
+childhood memories
+childhood dream
+naive
+childish
+puerile
+juvenile
+innocent
+#Sentence 44 表达“想象”的词
+conceive
+conceivable
+envisage
+envision
+fancy
+imagine
+imaginary
+imaginative
+unimaginable
+visualize
+#Sentence 44 形容“才能，天赋”的词
+apt
+aptitude
+attainment
+attain
+calibre
+capacity
+competent
+inefficient
+creativity
+disable
+gift
+inborn
+inherent
+insightful
+intelligence
+mentality
+potency
+potential
+viability
+#Sentence 44 表示“相关，关联”的词
+connect
+connection
+correlation
+relevance
+combine
+join
+relevant
+irrelevant
+#Sentence 45 核心词表
+mathematics
+mathematical
+chance
+appreciate
+appreciation
+appreciative
+appreciable
+#Sentence 45 与“算数”有关的词
+accuracy
+accurate
+inaccurate
+algebra
+altitude
+approximate
+approximately
+arc
+arithmetic
+ascending
+ascend
+assumption
+assume
+calculus
+complementary
+congruent
+coordinate
+cube
+cubic
+decimal
+denominator
+derivative
+deviation
+divide
+enumerate
+error
+even
+odd
+exponent
+formula
+hyperbola
+infinity
+intersect
+intersection
+invariance
+logarithm
+maximize
+multiply
+numerator
+pentagon
+percentage
+permutation
+power
+progression
+quadrant
+quotient
+sequence
+slope
+statistics
+summation
+addition
+classification
+combination
+dimension
+dimensional
+fraction
+function
+equation
+#Sentence 45 与“几何学”有关的词
+circumference
+cone
+cylinder
+diameter
+ellipse
+geometry
+geometric
+perimeter
+polygon
+radius
+rectangle
+square
+symmetry
+asymmetry
+triangle
+#Sentence 46 核心词表
+negotiate
+range
+ranger
+benefit
+advantage
+beneficial
+discounted
+private
+secret
+personal
+healthcare
+purchase
+buy
+purchaser
+scheme
+along with
+one-off
+amusement
+#Sentence 46 与“协商，谈判”有关的词
+coordinate
+coordination
+coordinator
+consult
+consultation
+convention
+meeting
+conference
+intercede
+negotiable
+pact
+reconcile
+reconciliation
+treaty
+unanimity
+#Sentence 46 与“娱乐，消遣”有关的词
+amuse
+distraction
+entertain
+leisure
+leisured
+pastime
+recess
+recreate
+recreation
+recreational
+relaxation
+repose
+slacken
+vacation
+#Sentence 46 与“福利，利益”有关的词
+entitlement
+subsidise
+welfare
+well-being
+#Sentence 47 核心词表
+enthusiast
+flight
+fantasy
+jet
+pack
+equipment
+enable
+climb
+vertically
+forwards
+backwards
+#Sentence 47 形容“狂热，热衷“的词
+crazy
+devoted
+fanatic
+fanaticism
+frenetic
+frenzy
+furor
+mania
+zealotry
+#Sentence 47 形容”热情“的词
+ardent
+ardor
+cordial
+enthusiasm
+enthusiastic
+fervent
+fervor
+passionate
+verve
+zeal
+zealous
+zest
+#Sentence 47 表示”渴望，追求“的词
+ache for
+aspire
+court
+crave
+desirable
+desire
+desirous
+desperate for
+hunger
+long
+reverie
+yearn
+yen
+#Sentence 47 与”方向，方位“有关的词
+clockwise
+decline
+disorientate
+incline
+orientate
+slope
+uphill
+#Sentence 48 核心词表
+typical
+typically
+high-pitched
+exaggerated
+exaggerate
+exaggeration
+repetitious
+repetition
+source
+fascination
+fascinate
+linguist
+linguistic
+#Sentence 48 表示”夸张“的词
+boast
+boastful
+bombastic
+brag
+magniloquent
+overstate
+pretentious
+#Sentence 48 与”理解，了解“有关的词
+acquaint
+acquaintance
+ambiguous
+apprehend
+comprehend
+comprehensible
+comprehension
+comprehension
+evident
+explicit
+grasp
+ignorance
+ignorant
+intelligible
+unintelligible
+incomprehensible
+tangibly
+tangible
+intangible
+understandable
+understanding
+#Sentence 48 与“婴儿语言学习”有关的词
+acquisition
+acquire
+alphabet
+alphabetical
+first-language acquisition
+language acquisition
+language study
+mother tongue
+native language
+oral
+phonetic
+pronounce
+pronounceable
+spoken language
+#Sentence 48 形容“说话方式”的词
+accost
+chat
+coax
+colloquial
+confide
+declaim
+dumb
+mute
+speechless
+voiceless
+effuse
+equivocate
+excuse
+gabble
+gossip
+grumble
+hearsay
+hoarse
+hubbub
+nonsense
+oration
+outwit
+rumble
+solicit
+#Sentence 49 核心词表
+psychologist
+character
+undergo
+transformation
+meaningful
+trait
+attribute
+personality
+#Sentence 49 形容“正面性格”的词
+adorable
+adore
+ambitious
+ambition
+aspiring
+aspire
+bravery
+brave
+brilliant
+courageous
+courage
+daring
+fearless
+forgiving
+genial
+amiable
+humorous
+humor
+independent
+ingenuous
+naive
+intrepid
+intrepidity
+perfect
+perfection
+quick wit
+romantic
+romanticism
+spunky
+#Sentence 49 形容“负面性格”的词
+arbitrary
+arrogant
+haughty
+bad-tempered
+barbaric
+savage
+bossy
+conceited
+conceit
+dishonest
+honest
+foxy
+crafty
+hasty
+haste
+hasten
+hypocritical
+hypocrisy
+impatient
+irresponsible
+responsible
+irritable
+irritation
+passive
+inactive
+quarrelsome
+rude
+selfish
+vulgar
+vulgarity
+weird
+odd
+#Sentence 50 核心词表
+hull
+hang
+lift
+frame
+clear of sth.
+seabed
+suction
+surrounding
+surround
+surroundings
+mud
+salvage
+progress
+progressive
+progression
+stage
+#Sentence 50 与“海洋地质环境”有关的词
+cape
+channel
+coast
+coastal
+gulf
+inlet
+islet
+main stream
+maritime
+ocean current
+oceanic basin
+oceanic ridge
+oceanic trench
+offshore
+saline
+sea level
+sediment
+sedimentation
+sedimentary
+shallow
+strait
+submarine
+#Sentence 50 与“海洋考古”有关的词
+ancient
+antique
+antiquity
+archaeological
+archaeologist
+archaeology
+archaic
+artifact
+ascend
+burial object
+chronological
+data processing
+excavate
+excavation
+medieval
+Mesolithic
+Neolithic
+origination
+Paleolithic
+prehistoric
+prehistory
+primordial
+remainder
+remains
+remnant
+remote sensing
+residue
+scientific method
+skull
+trace
+unearth
+vestige
+#Sentence 51 核心词表
+population
+rapidly
+remain
+more or less
+the arrival of ...
+deadly
+deathful
+fatal
+islander
+immunity
+immune
+immunology
+#Sentence 51 表示“致命，死亡”的词
+assassination
+choke
+defunct
+demise
+expire
+expiry
+incinerate
+invasive
+lethal
+mischievous
+naughty
+harmful
+mortal
+mortality
+immortal
+immortality
+noxious
+poisonous
+smother
+suicide
+suicidal
+toxic
+toxicity
+non-toxic
+toxin
+poison
+venom
+venomous
+#Sentence 51 与“判断”有关的词
+affirm
+affirmation
+reaffirm
+assert
+assertive
+assertiveness
+assertion
+believe
+conclude
+declare
+deem
+discern
+discerning
+discernible
+dogmatic
+illegible
+pending
+presume
+presumably
+presumable
+protest
+suppose
+#Sentence 52 核心词表
+crude
+awareness
+aware
+unaware
+deal
+dealer
+political
+#Sentence 52 有关“环境保护”的词
+acid rain
+air pollution
+biodegradable
+carbon emission
+carpool
+climatic deterioration
+deteriorate
+disposable
+drive less
+ecological degradation
+environmental awareness
+environmental issue
+environmental pollution
+environmental protection
+groundwater contamination
+hybrid electric vehicle
+industrial waste control
+land resource
+low carbon
+mass transportation
+mineral resource
+noise pollution
+plastic bag
+pollutant
+polluter
+pollution
+radioactive
+rainfall
+recycle
+refuse disposable goods
+renewable
+reuse
+sustainable development strategy
+water conservation
+water pollution
+water resource
+white pollution
+worsen
+#Sentence 52 有关“认识，意识”的词
+acquaintance
+automatically
+cognition
+conscious
+subliminal
+subliminally
+perceive
+detect
+comprehend
+unaware
+#Sentence 53 核心词表
+exist
+existence
+coexistence
+primitive
+traverse
+game
+survival
+#Sentence 53 与“人类进化”有关的词
+biophysical environment
+cave man
+common descent
+cranial
+Darwin
+Darwinism
+degenerate
+degradation
+descendant
+descend
+directional selection
+ecological anthropologist
+evolutionary change
+evolve
+evolution
+evolutionary
+extinction
+food chain
+hominid
+natural selection
+offspring
+origin
+outgrow
+paleoanthropologist
+paleoanthropology
+psychological anthropologist
+weed out
+#Sentence 53 与“频率”有关的词
+consecutive
+successive
+constantly
+fitful
+frequency
+frequently
+incessant
+incoherent
+occasional
+occasionally
+periodical
+periodically
+journal
+magazine
+perpetual
+eternal
+permanent
+continuous
+temporary
+swift
+#Sentence 54 核心词表
+composer
+introduce
+introduction
+studious
+avoidance
+avoid
+pattern
+repeat
+repeatedly
+#Sentence 54 形容“优秀道德品质”的词
+austerity
+courtesy
+diligence
+forgiveness
+gentilesse
+grace
+honesty
+humility
+kindness
+moral
+morality
+moralism
+norm
+superstructure
+upright
+valor
+virtue
+willpower
+#Sentence 54 与“流行歌曲”有关的词
+album
+blues
+cassette
+composition
+country-folk
+country-pop
+cowboy
+disc
+funk
+hip-hop
+house
+jazz
+melodic
+melody
+music
+musical
+notation
+punk
+rap
+record
+reggae
+royalty
+soul
+stereo
+tape
+tempo
+timbre
+tuneful
+vocal
+#Sentence 54 表示“重复”的词
+duplicate
+duplication
+copy
+replicate
+#Sentence 54 表示“开始，开端”的词
+commence
+commencement
+inaugurate
+inauguration
+inaugural
+initial
+initially
+initiate
+preliminary
+renew
+renewal
+resume
+threshold
+doorway
+outset
+#Sentence 55 核心词表
+general
+generalization
+sense
+prescriptivism
+view
+variety
+language
+inherently
+ought to
+impose
+#Sentence 55 表示“合适，适用”的词
+adaptable
+adaption
+advisable
+becoming
+coincide
+concur
+agree
+conformity
+fit
+fitting
+pertinent
+plausible
+properly
+suit
+suitable
+#Sentence 55 与“语言学”相关的词
+abridge
+clause
+concise
+genre
+glossary
+grammar
+implicit
+lexical
+lingual
+parlance
+phonemics
+sentence
+sound
+syllable
+symbol
+symbolic
+tense
+#Sentence 56 核心词表
+decide
+species
+indication
+rural
+urban
+urbanization
+setting
+#Sentence 56 表达“展示，表明”的词
+demonstration
+denote
+signify
+disclose
+conceal
+hide
+exhibit
+exhibition
+expose
+exposure
+manifest
+point
+presentation
+proclaim
+declare
+announce
+proclamation
+revelation
+disclosure
+concealment
+uncover
+unveil
+#Sentence 56 形容“农村环境”的词
+backward
+cheap living expenses
+economic gap
+extension
+hamlet
+idyllic
+imbalance
+in the long run
+infrastructure
+locality
+low crime rate
+monotonous
+on the brink of
+outskirts
+pastoral
+quietness
+suburb
+tedious
+tranquility
+uninformed
+#Sentence 56 形容“城市环境”的词
+booming
+centralisation
+city centre
+city planner
+commercialisation
+metropolis
+municipal
+municipality
+real estate
+residential area
+residential quarter
+shopping centre
+slum
+traffic congestion
+urban construction
+urban sprawl
+#Sentence 57 核心词表
+result
+announce
+announcement
+announcer
+reveal
+disease
+associate
+combine
+join
+afflict
+torment
+torture
+#Sentence 57 与“调查研究”有关的词
+adequate for
+assessment
+bear through
+concentrate on
+describe as
+effort
+environmental aspect
+feedback
+financial strain
+fulfill duty
+go to great lengths to
+goal-oriented
+goal-setting
+high-efficiency
+in-depth interview
+merit
+outward
+profitability analysis
+questionnaire
+risk analysis
+sampling survey
+statistic analysis
+SWOT analysis
+target
+task-oriented
+under investigation
+#Sentence 57 与“老年常见疾病”有关的词
+ache
+Alzheimer's
+Alzheimer's disease
+amnesia
+atrophy
+backache
+central paralysis
+dehydrate
+dementia
+diagnosable
+disturbance
+dreaminess
+dry eyes
+emotional instability
+endocrine
+enfeeble
+epilepsy
+fatigue
+get numb
+hemiplegia
+insomnia
+language barrier
+lose consciousness
+memory deterioration
+migraine
+nerve system
+nervousness
+neuralgia
+neurological
+paralysis
+paralytic
+paralyse
+Parkinson's disease
+sleep disorder
+tinnitus
+#Sentence 58 核心词表
+consolidation
+consolidate
+episodic
+process
+course
+procedure
+encode
+decode
+information
+strengthen
+stabilise
+stabilisation
+stability
+store
+facilitate
+retrieval
+retrieve
+#Sentence 58 有“促进，加强”含义的词
+arouse
+cause
+elicit
+elicitation
+foment
+fortify
+hasten
+haste
+impel
+compel
+dispel
+impetus
+incite
+instigate
+intensify
+rise
+kindle
+promote
+promotion
+prompt
+promptly
+propel
+stimulate
+stimulus
+urge
+#Sentence 58 形容“稳定”的词
+balance
+erratic
+immobile
+mobile
+immobility
+immutable
+inactive
+active
+poise
+stable
+unstable
+static
+dynamic
+stationary
+steady
+steadily
+variable
+variability
+#Sentence 58 表示“处理”的词
+deal
+dispose
+handle
+tackle
+treat
+#Sentence 59 核心词表
+in the course of
+conduct
+a number of
+discover
+discovery
+fail to
+obvious
+profound
+abstruse
+esoteric
+trend
+influence
+impact
+effect
+consumer
+consumerism
+aspiration
+aspire
+attitude
+behaviour
+manner
+conduct
+#Sentence 59 形容“多”的词
+abundant
+abundance
+ample
+copious
+excessive
+excess
+lavish
+extravagant
+mass
+miscellaneous
+multitude
+numerous
+plenteous
+plentiful
+plethora
+profuse
+profusion
+prolific
+productive
+substantial
+plentiful
+substantially
+substance
+sufficient
+insufficient
+swarm
+wealth
+#Sentence 59 与“销售方案中的目标消费者”有关的词
+bundling
+bundle
+client
+gender
+low-income
+passivity
+passive
+propensity
+purchasing power
+target audience
+targeted
+target
+temptation
+upscale
+#Sentence 60 核心词表
+conviction
+historical
+relic
+infallible
+testimony
+regard
+objective
+goal
+aim
+value
+#Sentence 60 表示“文物，遗迹”的词
+bequest
+heritage
+inheritance
+legacy
+#Sentence 60 形容“对事物的负面态度”的词
+begrudge
+desperate
+flatter
+flatterer
+flattery
+hesitate
+hesitation
+indecision
+indifferent
+jealous
+scruple
+vacillate
+#Sentence 60 表示“肯定，确定”的词
+ascertain
+clarify
+conceal
+cover
+confident
+definite
+undoubtedly
+#Sentence 60 与“科学”相关的词
+doctrine
+exact
+exactly
+institute
+scale
+symbolic
+tentative
+theoretical
+theoretically
+#Sentence 61 核心词表
+switch
+swap
+autoganzfeld
+automate
+automation
+variant
+technique
+perform
+performance
+random
+irregular
+arbitrary
+designed
+arranged
+selection
+choice
+#Sentence 61 与“电脑配件”有关的词
+bluetooth
+card reader
+CD
+compact disc
+CD-ROM
+compact disc read-only memory
+copycat
+cord
+CPU
+central processing unit
+expandable
+film
+headset
+USB hub
+ink box
+keyboard
+lens
+memory card
+memory-chip
+microphone
+modem
+monitor
+motherboard
+mouse
+plug in
+power adapter
+power supply
+router
+slot
+solid state disk
+trial version
+USB cable
+webcam
+#Sentence 61 与“任务”有关的词
+accomplish
+assign
+assignment
+mission
+responsibility
+#Sentence 62 核心词表
+facility
+available
+station
+journey
+voyage
+require
+need
+requirement
+full fare
+produce
+valid
+invalid
+inspection
+inquiry
+scrutiny
+#Sentence 62 与“乘坐交通工具”有关的词
+airliner
+airplane
+automobile
+bunk
+by tube
+carriage
+compartment
+cruise ship
+destination
+electric tram
+escalator
+ferryboat
+light rail
+platform
+subway station
+terminus
+transportation
+vessel
+ocean-going vessel
+yacht
+#Sentence 62 与“设施，设备，仪器”有关的词
+amenity
+apparatus
+appliance
+axis
+device
+fixture
+gadget
+gear
+handle
+instrument
+instrumental
+maneuver
+outfit
+pivot
+practical
+rig
+sanitation
+#Sentence 63 核心词表
+industrial
+output
+productivity
+capacity
+output
+soar
+withdraw
+aquifer
+#Sentence 63 与“生活用水”相关的词
+distilled water
+drain
+drainage
+drinking water
+fresh water
+groundwater
+hard water
+running water
+salt water
+sea water
+sewage
+surface water
+tap water
+waste water
+#Sentence 63 表示“增长，升高”的词
+ascend
+ascending
+boost
+burgeon
+enhance
+enhancement
+enhanced
+hoist
+raise
+skyrocket
+spiral
+#Sentence 63 表示“减缓，降低”的词
+abate
+depress
+depression
+descend
+drop
+fall
+reduction
+reduce
+slip
+#Sentence 63 与“人口分布、结构”相关的词
+age structure
+birth rate
+census
+family planning
+mobile population
+natural growth
+populate
+population
+populous
+rural population
+sex ratio
+uneven
+urban population
+#Sentence 63 与“发达国家工厂生产”有关的词
+assembly line
+automated production
+automatic
+current production
+industrialisation process
+maintenance
+manual
+workshop
+#Sentence 64 核心词表
+achiever
+self-regulatory
+regulate
+regulation
+strategy
+transfer
+transference
+transferable
+unfamiliar
+#Sentence 64 形容“使用，运用”的词
+access
+application
+deploy
+employ
+employee
+employer
+employment
+employable
+revival
+utilize
+utilization
+#Sentence 64 与“学习”有关的词
+academic
+academia
+academically
+discipline
+dissertation
+essay
+literate
+margin
+pamphlet
+thesis
+transcript
+#Sentence 64 表示“转换，转变”的词
+conversion
+diversion
+shift
+shifting
+transform
+transformation
+transformer
+transition
+transformation
+change
+transitional
+#Sentence 64 形容“优异，优秀”的词
+awesome
+cool
+excellence
+excellent
+fantastic
+first-class
+super
+terrific
+wonderful
+#Sentence 65 核心词表
+indicate
+indicator
+indication
+bilingual
+cognitive
+mechanism
+recruit
+recruitment
+recruiter
+alternate
+compensate
+pay
+damage
+#Sentence 65 与“语言学分科”有关的词
+diction
+lexicology
+linguistic
+morphology
+morphological
+phonology
+semantics
+syntax
+#Sentence 65 与“双语教育”有关的词
+consistency
+consistent
+dominance
+fluent
+identity
+immersion
+interpreter
+literate
+proficient
+#Sentence 65 形容“敏锐机智”的词
+acumen
+canny
+dexterous
+discerning
+keen
+penetrating
+perspicacious
+sharpen
+shrewd
+dull
+smart
+#Sentence 65 与“神经网络”有关的词
+brain stem
+central nervous system
+centralis
+gray matter
+nerve
+neuron
+peripheral
+periphery
+spinal cord
+spinal nerve
+tract
+traction
+tractor
+white matter
+#Sentence 66 核心词表
+monopoly
+cinnamon
+impossible
+spice
+trade
+overall
+diminish
+curtail
+decrease
+increase
+potential
+possible
+potentiality
+supersede
+#Sentence 66 与“贸易中的个体”有关的词
+entrepreneur
+exporter
+export
+importer
+import
+transnational
+#Sentence 66 形容“贸易活动”的词
+allocation
+allocate
+channel
+commerce
+commercial
+commercialise
+consume
+cooperation
+depression
+equilibrium
+establish
+establishment
+expansion
+externality
+external
+fluctuate
+waver
+vary
+inflation
+investment
+invest
+loyalty
+lucrative
+macroeconomics
+microeconomics
+mutual benefit
+negotiation
+predictability
+transaction
+deal
+exchange
+#Sentence 66 与“贸易中的资金”有关的词
+appreciation
+capital
+fund
+depreciation
+fiscal
+hyperinflation
+tariff
+taxation
+tax
+trade price
+#Sentence 66 与“贸易中的商品”有关的词
+commodity
+goods
+inventory
+merchandise
+production
+trademark
+#Sentence 67 核心词表
+feature
+attract
+lure
+attractive
+attraction
+attractant
+attention
+interactive
+blockbuster
+stunning
+stun
+scenery
+backdrop
+#Sentence 67 与“电影影片”有关的词
+commentator
+comment
+copyright
+correspondent
+edition
+editorial
+montage
+post-synchronization
+premiere
+romance
+subtitle
+title
+trailer
+#Sentence 67 形容“自然景观”的词
+canyon
+creek
+crystal
+estuary
+gorge
+jungle
+landscape
+lawn
+limpid
+meadow
+mirage
+natural
+panorama
+picturesque
+plain
+plateau
+highland
+tableland
+puddle
+scenic
+shade
+spectacle
+spring
+summit
+peak
+trickle
+tundra
+#Sentence 67 形容"建筑宏伟壮丽“的词
+glorious
+gorgeous
+grand
+magnificent
+magnificently
+magnificence
+radiant
+solemn
+spectacular
+splendid
+#Sentence 67 形容”精巧精致“的词
+delicate
+elaborate
+elegant
+elegance
+inelegant
+exquisite
+graceful
+polished
+polish
+refined
+#Sentence 68 核心词表
+researcher
+aging
+note
+treatment
+on the market
+prove
+build-up
+molecular
+cellular
+infirmity
+#Sentence 68 与”分子，细胞“有关的词
+cell biologist
+cell division
+cell
+cellular
+marrow cell
+molecular engineering
+organic molecule
+organism
+organic
+stem cell
+#Sentence 68 表示“损坏，破坏”的词
+demolish
+demolition
+destruction
+destructive
+devastate
+disruption
+disrupt
+impair
+strengthen
+improve
+injure
+injury
+spoil
+undermine
+#Sentence 68 与“衰老，体弱”有关的词
+accompany
+aging of population
+decrepit
+delicate
+exquisite
+elderly
+emaciate
+emaciated
+frail
+later
+life
+lifetime
+moribund
+regressive
+senior citizen
+slender
+support
+take care of
+wrinkle
+#Sentence 69 核心词表
+tend
+humanity
+humankind
+mercy
+glacial
+episode
+episodic
+#Sentence 69 与“气候，气压”有关的词
+anticyclone
+atmospheric
+density
+direct sunlight
+element
+elemental
+evaporated
+evaporation
+hectopascal
+moist
+moisture
+mysterious
+seasonal demand
+subtropical
+sunrise
+sunset
+tropical cyclone
+uncontaminated
+#Sentence 69 与“天气”有关的词
+balmy
+breeze
+brisk
+centigrade
+chilly
+chill
+damp
+moist
+dank
+dew
+dewdrop
+downfall
+downpour
+drizzle
+fahrenheit
+foggy
+freezing
+freeze
+frigid
+frigidity
+frost
+frosty
+hail
+haze
+hazy
+humid
+light air
+mist
+misty
+moderate rain
+nippy
+overcast
+rain cats and dogs
+serene
+shower
+sleet
+smog
+smoggy
+snowflake
+storm
+stuffy
+swelter
+sweltering
+tepid
+#Sentence 69 形容“反对”的词
+averse
+disapprove
+frown
+hostility
+object
+objection
+opponent
+#Sentence 69 形容“思考”的词
+agonize
+chew
+considerate
+inconsiderate
+contemplate
+contemplation
+contemplative
+haunt
+recall
+meditate
+meditation
+muse
+Muse
+nostalgic
+nostalgia
+pensive
+ponder
+preoccupation
+recollect
+recollection
+speculate
+speculation
+speculative
+#Sentence 70 核心词表
+common
+mammal
+mammalian
+reptile
+reptilian
+remote
+ancestor
+marine
+various
+worm-like
+creature
+primeval
+bacteria
+#Sentence 70 与“海洋生物”有关的词
+clam
+crab
+cuttlefish
+dolphin
+jellyfish
+lobster
+octopus
+oyster
+plankton
+porpoise
+prawn
+salmon
+sardine
+scale
+seagull
+shrimp
+starfish
+walrus
+#Sentence 70 与“鸟，家禽类”有关的词
+beak
+bill
+canary
+eagle
+falcon
+finch
+fowl
+ostrich
+peacock
+turkey
+vulture
+#Sentence 70 与“细菌，病毒”有关的词
+aerobic
+anaerobic
+antibody
+bacillus
+bacteriological
+colony
+colonial
+decline phase
+decompose
+degradation
+degrade
+disinfection
+disinfect
+exponential growth
+fermentation
+ferment
+fission
+fissionable
+fissility
+fungus
+germ
+germiculture
+inconspicuous
+infection
+invisible
+involution form
+log phase
+microbe
+microbial
+microbiology
+microbiologist
+microorganism
+microscope
+multiply
+pathogen
+pathogenic
+rot away
+stationary phase
+sterilisation
+sterilise
+vaccine
+vaccinate
+vaccination
+virus
+viral
+#Sentence 71 核心词表
+finished
+product
+dominate
+domination
+dominance
+flow
+thanks to
+technological
+advance
+lightweight
+component
+ingredient
+element
+constituent
+manufactured
+tend to
+bulky
+#Sentence 71 与“工业技术进步”有关的词
+3D printer
+alter
+antivirus program
+appeal to
+artificial intelligence
+cutting-edge technology
+digital age
+engineering technology
+future thinking
+high technology
+industrial structure
+industrialise
+inflatable
+intelligent system
+nanometer
+precise
+precisely
+precision
+robot
+scientific theory
+simulate
+state-of-the-art
+strategic choice
+technological development
+technology
+telematics
+unprecedented
+wireless technology
+#Sentence 71 与“科技创新”相关的词
+creative mind
+curiosity
+initiative
+research and develop
+revolutionise
+scientific invention
+scientific research
+technical innovation
+technical science
+#Sentence 72 核心词表
+actual
+actually
+construction
+harmful
+mainly
+massive
+great
+huge
+amounts of
+concrete
+dioxide
+manufacturing
+#Sentence 72 与“房屋类别”有关的词
+block
+cottage
+detached house
+dormitory
+high-rise flat
+hut
+mansion
+multi-storey building
+ranch house
+semi-detached house
+shanty
+single-storey house
+studio apartment
+terrace
+terraced house
+town house
+villa
+#Sentence 72 与“房间与房屋设施”相关的词
+apartment
+attic
+bathroom
+bedroom
+bedsit
+boardroom
+cellar
+corridor
+cramped
+dining room
+garage
+hall
+hallway
+laundry room
+living room
+lobby
+lounge
+porch
+sanctum
+schoolroom
+sewer
+single room
+skyscraper
+to lay the foundation
+storehouse
+spacious
+#Sentence 73 核心词表
+evidence
+fascinating
+anecdote
+anecdotal
+similarity
+exception
+norm-referenced
+#Sentence 73 形容“相同，相似”的词
+analogy
+analogous
+likeness
+comparable
+similar
+like
+homogeneous
+kindred
+heterogeneous
+dissimilar
+uniform
+uniformity
+#Sentence 73 形容“不同”的词
+differ
+differentiate
+differentiation
+discriminate
+discrepancy
+difference
+accord
+distinct
+distinctive
+distinction
+diverge
+divergent
+diverse
+diversity
+separate
+vary
+variable
+various
+#Sentence 73 形容“明显”的词
+noticeably
+prominence
+significantly
+transparent
+#Sentence 73 形容“吸引”的词
+absorbing
+addict
+addictive
+addiction
+allure
+appealing
+bait
+charisma
+charismatic
+draw
+engrossed
+entice
+fascinate
+fascination
+fascinating
+glamorous
+grip
+intriguing
+inviting
+magnet
+magnetism
+magnetize
+mesmerize
+tempt
+temptation
+tempting
+#Sentence 74 核心词表
+ethnography
+offer
+insight
+present
+current
+presentation
+valuable
+invaluable
+existing
+exist
+existence
+#Sentence 74 与“人类学”有关的词
+aboriginal
+adult
+antecedent
+anthropoid
+anthropology
+clan
+descent
+ethnic
+ethnology
+exotic
+native
+forebear
+forefather
+forerunner
+hybrid
+indigenous
+inexplicable
+explicable
+minority
+paternity
+patriarch
+precursor
+predecessor
+race
+racial
+ritual
+ceremony
+formality
+social group
+stereotype
+stratification
+taboo
+tribal
+tribalism
+tribe
+#Sentence 74 表示“需要，必备”的词
+entail
+indispensable
+necessity
+prerequisite
+precondition
+requisite
+#Sentence 75 核心词表
+hiring
+requirement
+necessity
+need
+employment
+human resources
+document
+attain
+recognise
+identify
+realise
+#Sentence 75 与“获得，得到”有关的词
+acquire
+acquisitive
+attainable
+attainment
+gain
+get
+obtain
+procure
+procurement
+profit
+redeem
+retrieve
+secure
+seize
+#Sentence 75 表示“承认，认可”的词
+accredited
+acknowledge
+admission
+admit
+approve
+authorize
+avow
+comply
+concede
+concession
+connivance
+connive
+grant
+take ... for granted
+nod
+permissible
+permit
+permissible
+ratify
+reception
+tacit
+tolerate
+#Sentence 75 与“求职”相关的词
+applicant
+apply
+between jobs
+certificate
+collect information
+credential
+CV
+curriculum vitae
+degree
+educational background
+educational history
+face-to-face
+headhunting company
+hobby
+hunt
+job description
+job fair
+job hunting
+job opportunity
+job hunter
+opening
+profile
+qualification
+qualified
+recruiter
+résumé
+seize the opportunity
+unemployed
+vacant position
+vocational guidance
+#Sentence 76 核心词表
+impression
+comprehensive
+comprehension
+coverage
+scope
+render
+rendering
+#Sentence 76 与“教育”有关的词
+academia
+alumna
+arts
+award
+chancellor
+compulsory
+mandatory
+enforced
+confer
+curriculum
+dais
+didactic
+elective
+elicitation
+enlighten
+enroll
+extracurricular
+faculty
+heuristic
+humanities
+illiteracy
+inculcate
+instruct
+teach
+internationalization
+literacy
+matriculate
+minor
+mobility
+obligatory
+optional
+rostrum
+rote learning
+scholarship
+science
+secondary
+semester
+specialization
+specialty
+subject
+symposium
+tertiary
+tuition
+universal
+vocational
+#Sentence 77 核心词表
+sleeper
+subject
+availability
+reservation
+booking
+two-berth
+cabin
+except
+exceptional
+in the case of
+solo
+include
+contain
+fare
+#Sentence 77 与“出行，旅行”有关的词
+agency
+atlas
+backpack
+knapsack
+coach
+excursion
+expedition
+guide
+hike
+hostel
+itinerary
+route
+way
+path
+tram
+trip
+vehicle
+visa
+#Sentence 77 与“价格，费用”有关的词
+charge
+cost
+expense
+fee
+price
+pricey
+#Sentence 77 表示“除…之外，不包括”的词
+besides
+exceptional
+extraordinary
+outstanding
+unusual
+ordinary
+common
+exclude
+exclusion
+exclusive
+extra
+spare
+extraneous
+#Sentence 78 核心词表
+principle
+turbine
+power
+tidal
+current
+present
+existing
+blade
+similar
+propeller
+propel
+tide
+predictable
+input
+constant
+constantly
+constancy
+#Sentence 78 与“水相关的动作”的词
+dampen
+dip
+drift
+float
+drifter
+exude
+gush
+immerse
+influx
+infuse
+meander
+moisten
+humidify
+overflow
+saturate
+drench
+soak
+splash
+splatter
+sprinkle
+spout
+spray
+spurt
+submerge
+#Sentence 78 与“预知，预测”相关的词
+forecast
+foresee
+predict
+foresight
+foretell
+imminent
+prediction
+promising
+hopeful
+bright
+hopeless
+prospect
+prospective
+anticipated
+provident
+surmise
+tendency
+#Sentence 79 核心词表
+discovery
+lead
+field
+known as
+neuroeconomics
+study
+secret
+success
+economic
+environment
+environmental
+demand
+innovation
+novelty
+reformation
+able
+differently
+competitor
+competition
+#Sentence 79 与“经济学”有关的词
+abundance
+profusion
+affluence
+wealth
+scarcity
+deficiency
+affluence
+bankruptcy
+brand
+name-brand
+budget
+collateral
+commission
+currency
+deflation
+distribution
+enterprise
+expenditure
+financial
+industrialisation
+merge
+monetary
+patronage
+poverty
+privatise
+profitability
+prosperity
+quota
+allotment
+portion
+ransom
+refund
+sponsorship
+stock
+surplus
+unemployment
+employment
+#Sentence 80 核心词表
+detrimental
+effect
+effective
+effectively
+effectiveness
+ineffective
+noise
+situation
+limit
+disability
+speech
+verbal
+communication
+extremely
+exceptionally
+intensely
+vulnerable
+#Sentence 80 表示“限制”的词
+bondage
+bound
+circumscribe
+confine
+boundary
+fetter
+quell
+restrain
+restraint
+restrict
+temperance
+#Sentence 80 表示“交流沟通”的词
+consort
+correspondence
+disseminate
+impart
+liaison
+propagate
+produce
+multiply
+propagation
+reciprocal
+#Sentence 80 形容“烦躁，打扰”的词
+boredom
+boring
+bothersome
+disarrange
+distract
+distraction
+gloomy
+harass
+uproar
+vex
+#Sentence 81 核心词表
+time
+transit
+transportation
+delivery
+transition
+transitional
+widely-separated
+location
+place
+spot
+site
+astronomer
+astronomy
+calculate
+figure
+calculation
+parallax
+angle
+angular
+apparent
+apparently
+difference
+position
+astronomical
+observer
+#Sentence 81 表示“显著，明显”的词
+marked
+markedly
+outstanding
+pronounced
+remarkable
+unusual
+extraordinary
+sensible
+sensibility
+#Sentence 81 与“天体，行星”相关的词
+aerolite
+asteroid
+astrology
+celestial
+comet
+constellation
+cosmic
+cosmos
+eclipse
+galaxy
+infinite
+intergalactic
+interplanetary
+interstellar
+Jupiter
+land
+launch
+launcher
+lunar
+Mars
+meteor
+nebula
+orbit
+planet
+polestar
+radiation
+revolve
+satellite
+star
+stellar
+universe
+universal
+Venus
+#Sentence 82 核心词表
+victimise
+pupil
+likely
+difficulty
+interpersonal
+relationship
+while
+persistently
+bully
+grow up
+physically
+violent
+radical
+convict
+conviction
+anti-social
+offence
+#Sentence 82 与“人际关系中的伙伴”有关的词
+bosom friend
+buddy
+colleague
+companion
+comrade-in-arms
+confidante
+mentor
+partner
+pen pal
+sworn brother
+#Sentence 82 形容“人际关系”的词
+blunt
+bluntly
+coherent
+contact
+couple
+cultural difference
+easy-going
+embarrassment
+extroverted
+fellow-apprentice
+harmony
+introverted
+mature
+offend
+social skill
+#Sentence 82 与“校园霸凌”有关的词
+abuse
+campus violence
+school bullying
+classmate
+cruel
+fight
+ill-treat
+juvenile delinquency
+maltreat
+slap
+torture
+#Sentence 82 与“暴力犯罪”有关的词
+aggressive behaviour
+antisocial behaviour
+commit crimes
+domestic violence
+forcible
+gangster
+life imprisonment
+malice
+motive for crime
+punishment
+school shooting
+the incidence of crime
+to fight crime
+violate
+violation
+violence
+violent inclination
+#Sentence 82 与“违法行为”相关的词
+abduction
+adultery
+breach
+bribery
+calumny
+contravene
+corruption
+delinquency
+embezzlement
+harbour
+homicide
+larceny
+perjury
+slander
+smuggle
+swindle
+#Sentence 83 核心词表
+negative
+organisation
+effectively
+depend
+dependable
+dependence
+dependent
+decision
+#Sentence 83 与“效率”有关的词
+efficient
+efficiency
+inefficient
+#Sentence 83 与“组织，团体，机构”有关的词
+charity
+commonwealth
+corporation
+company
+denomination
+institution
+organize
+arrange
+#Sentence 83 表示“负面效果的行为”
+incur
+inflict
+infliction
+suffer
+withstand
+#Sentence 83 与“政界人员”有关的词
+ambassador
+aristocrat
+autocrat
+commander
+congressman
+congresswoman
+consul
+democrat
+dictator
+emperor
+envoy
+feminist
+general
+minister
+monarch
+monarchy
+president
+chairman
+principal
+republican
+#Sentence 83 与“法庭人员”有关的词
+advocator
+arbitrator
+attorney
+counsel
+jury
+lawyer
+solicitor
+#Sentence 83 与“教职人员”有关的词
+alumnus
+alumna
+dean
+director
+lecturer
+professor
+#Sentence 83 与“从事经济行业的人物”相关的词
+agent
+apprentice
+apprenticeship
+attendant
+auditor
+co-worker
+delegate
+deputy
+novice
+proprietor
+proxy
+representative
+typical
+#Sentence 83 与“宗教人物”相关的词
+adherent
+atheist
+believer
+clergy
+disciple
+skeptic
+zealot
+#Sentence 83 与“反面人物”相关的词
+assassin
+bandit
+barbarian
+burglar
+robber
+exile
+figurehead
+foe
+malcontent
+rebel
+#Sentence 83 与“专业人士”有关的词
+artisan
+artist
+aviator
+biographer
+biography
+choreographer
+connoisseur
+crew
+critic
+educator
+pilot
+#Sentence 83 表示“其他人物”的词
+benefactor
+beneficiary
+donor
+humanitarian
+resident
+spectator
+viewer
+audience
+#Sentence 84 核心词表
+create
+creation
+recreation
+link
+associate
+connection
+relation
+database
+feed
+measurement
+survey
+field survey
+drone
+satellite imagery
+real-time
+data
+#Sentence 84 与“土地，土壤”相关的词
+agrarian
+arable
+arid
+bleak
+cold
+raw
+dismal
+clay
+clod
+contaminated land
+contaminated soil
+desert
+infertile
+fertile
+land carrying capacity
+sterile
+terrace
+topsoil
+tract
+#Sentence 84 表示“提供”的词
+provide
+accommodate
+accommodation
+furnish
+unfurnish
+provision
+preparation
+clause
+#Sentence 84 表示“调查，观察”的词
+enquire
+fieldwork
+inquiry
+inspection
+investigate
+observation
+observational
+observe
+perspective
+probe
+questionary
+#Sentence 85 核心词表
+continue
+discontinue
+rage
+National Trust
+conservator
+mobilise
+local
+stationer
+especially
+bulk
+supply
+blotting paper
+desperately
+#Sentence 85 与“灾害，灾难，不幸”有关的词
+anguish
+avalanche
+calamity
+casualty
+cataclysm
+catastrophe
+catastrophic
+debris
+deluge
+destroy
+disaster
+disastrous
+famine
+massacre
+misfortune
+fortune
+mishap
+slaughter
+torment
+persecute
+unfortunate
+upheaval
+victim
+sacrifice
+wreckage
+#Sentence 85 与“动机，动力”有关的词
+impetuous
+impulse
+impulsive
+momentum
+motivate
+motivation
+motivational
+motive
+stimulus
+#Sentence 85 与“火灾救援”有关的词
+accidental explosion
+alarm bell
+blast
+burning area
+burning intensity
+collapse
+combustible
+death by burning
+death count
+devastating effect
+elevated temperature
+elevator
+emergency exit
+extinguish
+fire alarm
+fire engine access
+fire engine
+fire extinguisher
+fire hydrant
+fire injury
+fire inspection
+fire insurance
+fire telephone
+firefighting
+fireman
+firefighter
+first aid telephone
+first aid
+inhibition
+lifesaver
+origin of the fire
+oxygen deficiency
+perish
+poisonous atmosphere
+refuge
+relief work
+rescue
+save
+self-contained breathing equipment
+smoke
+stair
+suffocation
+water
+#Sentence 86 核心词表
+contribution
+physics
+immense
+demonstrate
+demonstration
+display
+show
+illustrate
+subsequent
+subsequently
+generation
+nuclear
+physicist
+chemist
+#Sentence 86 形容“重大，巨大”的词
+colossal
+enormous
+enormously
+gigantic
+tiny
+microscopic
+immeasurable
+incalculable
+magnitude
+mammoth
+mighty
+prodigious
+wonderful
+huge
+tremendous
+vast
+vastness
+vastly
+#Sentence 86 形容“杰出，超群”的词
+celebrated
+complimentary
+eminent
+entitle
+laudable
+legendary
+lofty
+matchless
+notable
+notably
+noteworthy
+noted
+pre-eminent
+prominent
+renowned
+supreme
+#Sentence 86 表示“称赞，赞美”的词
+commend
+compliment
+laud
+#Sentence 86 表示“尊敬，敬畏”的词
+deference
+dignify
+dignified
+prestige
+respect
+respectable
+revere
+reverence
+#Sentence 86 与“物理学”有关的词
+accelerator
+atom
+beam
+chafe
+clutter
+cohesion
+concave
+conduction
+convex
+decelerate
+declivity
+dilute
+distillation
+dynamic
+elasticity
+elastic
+electricity
+electron
+focus
+gravity
+inertia
+intensity
+liquid
+magnetic
+magnetism
+matter
+mechanics
+negative
+neutron
+nucleus
+positive
+precipitate
+pressure
+proton
+quantum
+refraction
+resonance
+solid
+temperature
+thaw
+thermodynamics
+thermometer
+vector
+velocity
+speed
+rapidity
+ventilation
+#Sentence 87 核心词表
+taxonomist
+taxonomy
+overlook
+forget
+ignore
+ecology
+limited
+specimen
+sample
+taxonomic
+investigation
+#Sentence 87 形容“价值”的词
+devalue
+appreciation
+appreciative
+appreciable
+estimate
+ETA
+ETD
+evaluate
+invaluable
+profitable
+beneficial
+lucrative
+unprofitable
+worthless
+worthy
+unworthy
+#Sentence 87 形容“支持，支撑”的词
+behalf
+bolster
+endorse
+supportive
+sustain
+sustainable
+sympathetic
+#Sentence 87 表示“检查”的词
+check
+checker
+check-in
+check-out
+checklist
+checked
+check-up
+examine
+examiner
+examination
+inspect
+inspector
+inspection
+scrutiny
+inquiry
+inspection
+neglect
+#Sentence 87 表示“数量”的词
+block
+countless
+fraught
+innumerable
+majority
+quantitative
+quantity
+redundant
+suffuse
+total
+volume
+#Sentence 87 形容“少”的词
+dearth
+deficient
+inadequate
+lacking
+paucity
+rareness
+scant
+scarce
+scarcity
+skimpy
+sole
+solely
+solitary
+sparse
+sparsely
+sporadic
+sporadically
+tiny
+#Sentence 88 核心词表
+combine
+combine ... with ...
+combination
+oppose
+characteristic
+confidence
+capable
+achievement
+anxiety
+director
+directory
+#Sentence 88 形容“恐惧，害怕”的词
+aghast
+appall
+appalling
+collapse
+cowardly
+bold
+cower
+recoil
+craven
+cowardly
+creep
+creepy
+dread
+dreadful
+fear
+flutter
+formidable
+frightening
+awesome
+fright
+funk
+horrify
+horror
+intimidate
+frighten
+menace
+panic
+petrified
+petrify
+scare
+terrified
+terrify
+terror
+terrorise
+threaten
+timid
+timidity
+timidly
+tremble
+trembling
+trepidation
+xenophobic
+#Sentence 88 形容“才能，能力”的词
+ability
+capability
+competence
+disposition
+nature
+fortitude
+spunk
+knack
+quality
+trait
+resourceful
+skillful
+stamina
+endurance
+talent
+gift
+temperament
+versatile
+many-sided
+talented
+all-around
+vigor
+#Sentence 89 核心词表
+radical
+radically
+extensive
+complex
+complicated
+intricate
+involved
+knotty
+simple
+professional
+dedicated
+staff
+personnel
+adviser
+#Sentence 89 与“企业决策中职业素养”有关的词
+adaptability
+ambition
+creative
+creativity
+decisive
+determination
+diligent
+discretion
+extroversive
+innovative
+leadership
+mastermind
+obliged
+problem-solving
+prudential
+teamwork
+#Sentence 89 表示“奉献”的词
+commitment
+dedication
+devote
+devotion
+#Sentence 89 与“企业人员”有关的词
+buyer
+CEO
+Chief Executive Officer
+controller
+GM
+General Manager
+manager
+seniority
+subordinate
+subordination
+supervisory
+#Sentence 89 与“工作”有关的词
+appoint
+audition
+career advisor
+career objective
+career
+chore
+dismiss
+dismissive
+dismissal
+draft
+drudgery
+entry
+entrance
+access
+get fired
+hand over
+hectic
+busy
+internship
+log
+name plate
+occupation
+officeholder
+officially
+overtime
+part-time job
+position sought
+profession
+quit office
+quit
+relevant document
+resign
+resignation letter
+sketch
+undertaking
+vocation
+vocational
+#Sentence 90 核心词表
+summarise
+generalize
+statement
+grammarian
+describe
+description
+prescribe
+diversity
+diverse
+variation
+halt
+#Sentence 90 与“语言学研究”有关的词
+affix
+antonym
+auxiliary verb
+bilingualism
+code-switching
+coinage
+cultural background
+cultural identity
+cultural conflict
+dialect
+dialectal variation
+dominant language
+Indo-European language
+intonation
+Latin
+linguistics
+multilingual
+paraphrase
+prefix
+Sanskrit
+suffix
+synonym
+#Sentence 90 表达“说明”含义的词
+accentuate
+accentuation
+clarify
+clarification
+convey
+delineate
+depict
+represent
+picture
+elucidate
+emphasize
+emphatic
+emphasis
+enunciate
+exemplify
+exposition
+expound
+highlight
+illuminate
+illustrate
+insinuate
+interpretation
+explanation
+narrate
+reiterate
+specify
+stress
+underline
+#Sentence 91 核心词表
+interdisciplinary
+contradictory
+clack
+heel
+pavement
+hiss
+intrusive
+relax
+relaxation
+#Sentence 91 与“声音”有关的词
+bark
+brittle
+brittleness
+chink
+clash
+click
+crack
+crash
+scream
+hum
+snap
+stroke
+strike
+thunder
+thunderstorm
+thundercloud
+whisper
+whistle
+#Sentence 91 表示“干涉，干扰”的词
+infringe
+interfere
+interference
+interpose
+intervene
+obstacle
+#Sentence 91 形容“活泼”的词
+animate
+bouncing
+frisky
+frolicsome
+playful
+vibrant
+vivacious
+#Sentence 91 表示“矛盾”的词
+contradict
+contradiction
+discord
+friction
+accord
+harmony
+#Sentence 91 与“声学”有关的词
+acoustician
+acoustics technology
+audible
+audio
+auditory
+echo
+harmonic
+hydrophone
+infrasound
+mechanical wave
+rarefaction
+rarefy
+resonate
+resonance
+reverberation
+reverberate
+sonar
+sonic
+sound waves
+supersonic
+ultrasonic frequency
+ultrasound
+vocalization
+wave motion
+#Sentence 92 核心词表
+pagoda
+taper
+successive
+floor plan
+weight
+corresponding
+pillar
+#Sentence 92 与“建筑结构”有关的词
+aisle
+walkway
+amphitheatre
+architect
+architectural
+architectural
+architecture
+archway
+background wall
+bay window
+beam
+building technique
+cabin
+ceiling
+chamber
+compartment
+circus
+civil engineering
+colonnade
+column
+decorate
+decorative
+ornamental
+dome
+downcomer
+draftsman
+elevation
+elevate
+lay the foundation
+ledge
+lintel
+log structure
+metal frame
+monumental architecture
+ornament
+plane graph
+rebuild
+reconstruction
+residential
+resident
+restructure
+roof
+structural
+structure
+subtle design
+vault
+vaulted
+wing
+#Sentence 92 与“常见建筑材料”有关的词
+brick
+cement
+composite board
+granite
+marble
+monolith
+mortar
+plaster
+plasterboard
+slate
+wood
+#Sentence 92 与“常见建筑风格”有关的词
+baroque
+byzantine
+classical architecture
+rococo
+Romanesque architecture
+#Sentence 93 核心词表
+accident
+occur
+occurrence
+establishment
+federal
+aviation
+administration
+oversee
+operation
+aircraft
+congested
+congestion
+#Sentence 93 与“航空航天”有关的词
+astronaut
+spaceman
+embark
+enroute
+microwave
+navigation
+navigation monitor
+observatory
+satellite communication
+shuttle
+spaceship
+spacecraft
+telescope
+veer
+#Sentence 93 与“交通路况”有关的词
+block up
+congestion
+detour
+devious
+deviousness
+GPS
+jostle
+muddy
+orderly
+disorderly
+overcrowd
+overcrowded
+overspeed
+roundabout way
+slippery
+slip
+smoothly
+smooth
+traffic control
+traffic jam
+#Sentence 93 与“政府职能”有关的词
+administrator
+administrative
+allege
+alleged
+charter
+cohesion
+enact
+enactment
+governance
+macro-control
+mandate
+mandatory
+plenary
+pragmatic
+prohibit
+prohibition
+safeguard
+social security
+supervise
+supervision
+viable
+#Sentence 94 核心词表
+tourist
+flock
+congregate
+assemble
+far-flung
+gaze
+marvel
+marvelous
+reminder
+ingenuity
+artistry
+#Sentence 94 与“古代建筑”有关的词
+ancestral hall
+ancestral temple
+ancient architecture
+ancient bridge
+ancient dwelling
+ancient water infrastructure
+bridge
+castle
+catacomb
+Chinese ancient academy
+city defense project
+classical garden
+ecclesiastical building
+folk custom
+Great Wall
+memorial hall
+military defense project
+mosque
+museum
+national custom
+palace
+pavilion
+religious activity
+religious art
+temple
+Temple of Heaven
+Temple of Emperor Qin Shihuang
+#Sentence 94 表示“惊奇，惊讶”的词
+astound
+surprise
+astonish
+breathtaking
+stunning
+exciting
+dismay
+alarm
+dumbfound
+fabulous
+inconceivable
+unimaginable
+unthinkable
+incredible
+unbelievable
+overwhelm
+petrify
+stupefy
+terrify
+startle
+amaze
+striking
+prominent
+outstanding
+impressive
+stun
+daze
+#Sentence 95 核心词表
+antiseptic
+property
+tannin
+ingredient
+hop
+community
+flourish
+succumb
+waterborne
+dysentery
+#Sentence 95 与“常见饮品”有关的词
+black tea
+chamomile tea
+cocoa
+coconut milk
+coconut water
+coke
+diet cola
+energy drink
+grapefruit flavor
+green tea
+ice water
+iced tea
+jasmine tea
+lemon flavor
+lemon tea
+lemonade
+lime flavor
+loose leaf
+milk tea
+mineral water
+orange juice
+purified water
+room temperature water
+soda water
+soda
+sparkling water
+sports drink
+spring water
+still water
+tea bag
+tomato juice
+vegetable juice
+vitamin water
+#Sentence 95 表示“经济繁荣”的词
+boom
+brisk
+business boom
+economic development
+outpace
+#Sentence 95 表示“疾病传染”的词
+acute
+catching
+contagious
+contract
+fester
+feverish
+incubation period
+infect
+infectious
+intoxicate
+morbid
+#Sentence 95 表示“物理属性”的词
+compact
+crisp
+crooked
+twisted
+curved
+bent
+dense
+density
+ethereal
+impervious
+lithe
+lofty
+ponderous
+portable
+slim
+slender
+willowy
+slippery
+slick
+sloppy
+supple
+tenuous
+#Sentence 96 核心词表
+recently
+engineer
+major
+breakthrough
+so-called
+code
+come close to
+ultimate
+ultimately
+maximum
+transmit
+transmitter
+reliably
+play a role in
+mobile
+videophone
+revolution
+#Sentence 96 与“发明，发现行为”有关的词
+accurate
+accuracy
+inaccurate
+contrive
+plan
+criterion
+devise
+invent
+dissect
+expertise
+gauge
+indirect
+#Sentence 96 与“移动电话”有关的词
+android
+app store
+app
+bar phone
+battery
+bluetooth headset
+cellular
+charger
+digital camera
+digital video camera
+download
+GPS navigation unit
+iCloud
+iOS
+iTunes
+low battery
+media player
+mobile banking
+mobile broadband
+mobile payment
+motion sensor
+operating system
+PDA
+personal digital assistant
+pocket-sized
+portable power source
+power off
+program crash
+resolution
+retina
+ringtone
+roaming
+screen protector
+selfie stick
+slide phone
+smart phone
+touch screen
+user interface
+video games
+#Sentence 97 核心词表
+genetically
+biological
+logically
+propose
+proposal
+internal
+measure
+fixed
+programme
+#Sentence 97 形容“控制”的词
+clutch
+curb
+domination
+manipulate
+handle
+maneuver
+mastery
+#Sentence 97 与“人口”有关的词
+demography
+demographer
+emigration
+expectation of life
+general mortality rate
+immigration
+infant mortality rate
+internal migration
+migrant
+migration rate
+mortality
+NPG
+negative population growth
+random sampling
+vital statistics
+ZPG
+zero population growth
+#Sentence 97 与“老龄化”有关的词
+annuity
+desolate
+deserted
+dink
+Double Income No Kids
+disease prevention
+elder
+fertility level
+longevity
+longevous
+medical level
+nursing home
+pension
+old-age pension
+professional care
+progeny
+descendant
+workforce shortage
+#Sentence 98 核心词表
+debate
+challenge
+address
+underlying
+ensure
+identify
+identify ... with ...
+identifiable
+recognize
+determine
+distinguish
+dependency
+unsupportive
+#Sentence 98 与“农业种植”有关的词
+agricultural
+agrochemical
+barren
+barn
+by-product
+compost
+fallow
+farm machine
+fecund
+harvest
+irrigation
+muck
+plant
+planting
+pump
+reap
+reaper
+throughput
+tractor
+warehouse
+yield
+#Sentence 98 表示“解决”的词
+resolve
+soluble
+resoluble
+unsolvable
+solution
+solve
+#Sentence 98 表示“确保”的词
+assure
+solidify
+#Sentence 98 表示“常见作物类型”的词
+cash crop
+grain crop
+grass crop
+green manure crop
+horticultural crop
+medicinal plant
+ornamental plant
+vegetable crop
+#Sentence 98 表示“依赖”的词
+interdependent
+recourse
+reliance
+trust
+distrust
+rely
+#Sentence 99 核心词表
+laboratory
+trial
+experiment
+test
+neutralise
+thunderstorm
+brave
+equip
+equipment
+armoury
+laser
+discharge
+thundercloud
+lightning
+strike
+#Sentence 99 形容“释放，散发”的词
+emit
+exhale
+release
+smell
+#Sentence 99 与“研究，实验”有关的词
+analyse
+annotation
+collect data
+control group
+experiment
+experimental
+finding
+interpret
+interpreter
+lab
+lab report
+model
+null
+research
+research result
+revision
+revise
+sample
+simulation
+simulate
+subject
+treatment group
+#Sentence 99 与“常见能源”有关的词
+alternative energy
+clean energy
+electric
+fuel
+gas
+new energy
+nuclear energy
+ore
+petrol
+petroleum
+resource
+resourceful
+resourcefulness
+solar energy
+tidal energy
+white coal
+wind energy
+wind power generation
+#Sentence 100 核心词表
+eliminate
+secrecy
+surround
+openly
+communicate
+remuneration
+publicise
+bonus
+allocate
+annual
+salary
+lump
+sum
+spread out
+action
+reward
+#Sentence 100 与“薪酬”相关的词
+added
+allowance
+base on
+basic wage
+daily wage
+day-off
+flexible time
+give a raise
+hourly wage
+income
+longevity pay
+merit pay
+perquisite
+visible
+invisible
+potentially
+potential
+motivating
+plus
+post wage
+premium
+probation
+probationary period
+reasonable request
+regular
+salary man
+salary range
+seniority pay
+starting salary
+subsidy
+title allowance
+wage
+#Sentence 100 表示“激励”的词
+elevate
+encourage
+encouragement
+hearten
+incentive
+motivation
+impetus
+inspire
+inspired
+inspiring

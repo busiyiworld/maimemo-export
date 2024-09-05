@@ -1,0 +1,167 @@
+Miss Liu
+Lu Hua
+Max
+Rex
+Mr. White
+Hao Tian
+Du Xiaomao
+Gao Wendi
+car
+ball
+cat
+dog
+pen
+pencil
+ruler
+book
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+red
+white
+yellow
+green
+blue
+crayon
+orange
+pink
+purple
+brown
+black
+picture
+lemon
+banana
+apple
+orange
+watermelon
+pear
+strawberry
+grape
+dad
+daddy
+mum
+mom
+card
+rabbit
+ballon
+plane
+bear
+boat
+a
+an
+afternoon
+apple
+ball
+balloon
+banana
+bear
+birthday
+black
+blue
+boat
+book
+brown
+can
+Can I help you?
+car
+card
+cat
+class
+colour
+color
+crayon
+dad
+daddy
+dear
+dog
+eight
+five
+for
+four
+good
+Good afternoon!
+Good morning!
+grape
+green
+happy
+Happy birthday!
+Happy New Year!
+have
+hello
+help
+Here you are.
+hi
+how
+How old are you?
+I'm
+I am
+it
+it's
+it is
+it isn't
+lemon
+look
+love
+lovely
+Miss
+morning
+Mr.
+mum
+mom
+my
+name
+New Year
+nice
+Nice to meet you.
+nine
+no
+Not at all.
+number
+one
+orange
+orange
+pass
+pear
+pen
+pencil
+picture
+pink
+plane
+please
+purple
+rabbit
+red
+ruler
+same
+seven
+show
+six
+strawberry
+ten
+thank
+Thank you.
+that
+The same to you.
+this
+three
+two
+very much
+watermelon
+what
+what's
+what is
+which
+white
+yellow
+yes
+you
+your
+zero

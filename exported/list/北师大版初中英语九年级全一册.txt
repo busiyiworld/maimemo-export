@@ -1,0 +1,501 @@
+#Unit 1
+nationality
+Australian
+Canadian
+Indian
+Japanese
+Russian
+gesture
+thumb
+wave
+simply
+nod
+agreement
+finger
+silence
+differently
+western
+shrug
+shoulder
+Asian
+bow
+greet
+custom
+certain
+traveller
+kiss
+European
+cheek
+rude
+bottom
+pat
+anger
+clap
+mate
+gas
+sneaker
+petrol
+confused
+standard
+spelling
+grey
+native
+speaker
+confusing
+check
+note
+used
+jumper
+apartment
+tip
+structure
+chant
+as for
+work out
+by the way
+reward
+method
+suit
+make a difference
+in order to
+familiar
+subtitle
+jot down
+phrase
+continuously
+image
+frustrated
+topic
+refer
+refer to
+table
+verb
+tense
+have a try
+no longer
+#Unit 2
+comic
+classic
+bookshop
+how-to
+fly
+adventure
+wonderland
+orphan
+curiosity
+friendship
+publish
+remain
+silly
+drop
+hole
+land
+character
+bright
+reader
+force
+society
+thief
+steal
+preparation
+hang
+quotation
+inspiring
+form
+continuing
+need
+advantage
+well-known
+a world of
+depend
+depend on
+inspire
+period
+prediction
+paint
+juicy
+silent
+focus
+painting
+artist
+carelessly
+sweep
+back and forth
+touch
+take a look at
+move
+consider
+offer
+honestly
+paintbrush
+eagerly
+regret
+lover
+benefit
+aspect
+unlike
+extra
+as long as
+disadvantage
+summary
+#Unit 3
+creativity
+creative
+inventor
+musician
+design
+gun
+bridge
+helicopter
+adding machine
+instrument
+northern
+Italian
+painter
+engineer
+pioneer
+as well
+far
+ahead of
+code
+left-handed
+either way
+mirror
+backwards
+absent
+cancel
+disagree
+weapon
+debate
+position
+response
+cut down
+nuclear
+power
+provide
+energy
+danger
+involved
+traffic jam
+moreover
+pollute
+pollution
+bite
+owner
+blame
+invent
+earmuff
+crayon holder
+Wristies
+popsicle
+stir
+treat
+ice-skate
+cover
+thinking
+wire
+sew
+fur
+steel
+headband
+broken
+tube
+fit
+tightly
+mitten
+wrist
+business
+run
+laser
+typesetting
+come up with
+developer
+publishing
+industry
+modern
+#Unit 4
+circle
+international
+international space station
+lift
+lift off
+manned
+spacecraft
+flight
+space flight
+spaceship
+unmanned
+planet
+gravity
+float
+action
+tie
+rise
+set
+alarm
+muscle
+lunch
+satellite
+achievement
+briefly
+female
+advance
+effort
+citizen
+alien
+unknown
+captain
+spacesuit
+uncomfortable
+take off
+pick
+pick up
+unlucky
+attack
+Earth
+admire
+once
+physics
+chemistry
+mission
+role model
+realise
+faithfully
+#Unit 5
+literature
+novel
+gable
+carriage
+passenger
+braid
+freckle
+make up one's mind
+cherry
+lovely
+shyly
+normally
+apologise
+plot
+trunk
+tusk
+flat
+hose
+iron
+mat
+thick
+upon
+once
+king
+officer
+cloth
+guard
+spot
+obviously
+jacket
+series
+graduation
+epic
+scale
+usual
+marriage
+raise
+resolution
+rich
+direct
+pretend
+other than
+final
+theme park
+related
+related to
+remarry
+separate
+carelessness
+celebrate
+enjoy oneself
+rush
+climax
+#Unit 6
+quality
+behave
+modest
+hard-working
+draft
+name
+voting
+despite
+challenging
+cultural
+teammate
+personality
+pay off
+value
+charity
+found
+foundation
+retire
+policewoman
+treasure
+importantly
+original
+owe
+outdoor
+retired
+look down on
+organised
+caring
+digital
+co-founder
+inc.
+incorporated
+birth
+formal
+schooling
+afford
+fire
+a number of
+impatient
+state
+bluntly
+put up with
+recognise
+revolution
+negative
+beyond
+pressure
+#Unit 7
+fascinate
+trade
+play an important role
+get away
+ancient
+capital
+monument
+edge
+desert
+find out
+connection
+major
+north-west
+despair
+ups and downs
+anonymous
+path
+verse
+metaphor
+sub-zero
+destination
+overcome
+at times
+route
+challenge
+nut
+proper
+injury
+shape
+sharp
+historical
+shopping mall
+waterfront
+landmark
+style
+exist
+#Unit 8
+discovery
+lab
+laboratory
+antibiotic
+century
+disease
+cure
+correctly
+DNA
+block
+building block
+pass on
+characteristic
+a great deal
+able
+be able to
+award
+first-ever
+skin
+suitcase
+effect
+bulb
+above all
+in closing
+honour
+present
+equipment
+researcher
+round
+applause
+chairman
+sprout
+pot
+soil
+observation
+fully
+yet
+patient
+cm
+centimetre
+patience
+overweight
+gradually
+#Unit 9
+reuse
+take action
+ton
+decay
+replace
+bin
+recycling
+reduce
+global
+global warming
+organise
+car pool
+take turns
+to start with
+as usual
+get hold of
+vet
+painful
+handbag
+greatly
+farmland
+affect
+expand
+worth
+seeding
+proudly
+millionaire
+prevent
+towards
+tap
+flush
+take part
+West
+the Middle East
+Oxford
+Harvard
+NBA
+Houston Rockets
+Rookie of the Month
+NBA All-star
+Oscar
+Antarctic
+Atlantic Ocean
+Europe
+Indian Ocean
+Pacific Ocean
+the Silk Road
+the Gobi Desert
+Central Asia
+Macau
+Arctic
+the Bund
+the Oriental Pearl Tower
+Nobel Prize

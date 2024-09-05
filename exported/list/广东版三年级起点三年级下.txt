@@ -1,0 +1,91 @@
+#Unit 1
+big
+small
+they
+sad
+happy
+tall
+short
+hot
+cold
+#Unit 2
+many
+color
+red
+yellow
+blue
+green
+orange
+brown
+pink
+purple
+#Unit 3
+bed
+pillow
+window
+door
+clock
+lamp
+black
+white
+number
+#Unit 4
+supermarket
+these
+pear
+watermelon
+touch
+strawberry
+cherry
+orange
+peach
+grape
+#Unit 5
+where
+morning
+on
+box
+socks
+under
+class
+open
+please
+pants
+between
+skirt
+jacket
+#Unit 6
+countryside
+have
+has
+fork
+spoon
+plate
+here
+excuse
+cup
+tent
+glass
+knife
+chopsticks
+bowl
+#Unit 7
+shop
+time
+o'clock
+eleven
+twelve
+pupil
+#Unit 8
+there
+count
+eat
+sandwich
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty

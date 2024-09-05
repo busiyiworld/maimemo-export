@@ -1,0 +1,84 @@
+#Unit 1
+juggler
+does
+teacher
+juggle
+doctor
+vet
+farmer
+policeman
+nurse
+bus driver
+singer
+worker
+teach
+#Unit 2
+see
+squirrel
+build
+seed
+leaf
+panda
+rabbit
+live
+hole
+grass
+tiger
+leopard
+sheep
+cow
+giraffe
+kangaroo
+lion
+#Unit 3
+too
+expensive
+skirt
+clothes
+cheap
+any
+shoes
+pair
+trousers
+size
+cap
+dress
+coat
+sweater
+jacket
+jeans
+shorts
+sandals
+#Unit 4
+where
+here
+behind
+sofa
+under
+in
+bed
+wardrobe
+on
+in front of
+next to
+bookshelf
+#Unit 5
+town
+map
+near
+train station
+zoo
+park
+go straight
+turn
+left
+right
+toilet
+post office
+supermarket
+cinema
+lake
+street
+bus stop
+hospital
+library

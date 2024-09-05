@@ -1,0 +1,194 @@
+#Unit 1
+Miss Liu
+Lu Hua
+Max
+Rex
+Mr. White
+Hao Tian
+Du Xiaomao
+Gao Wendi
+#Unit 2
+car
+ball
+cat
+dog
+pen
+pencil
+ruler
+book
+#Unit 3
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+#Unit 4
+red
+white
+yellow
+green
+blue
+crayon
+orange
+pink
+purple
+brown
+black
+#Unit 5
+picture
+lemon
+banana
+apple
+orange
+watermelon
+pear
+strawberry
+grape
+#Unit 6
+dad
+daddy
+mum
+mom
+card
+rabbit
+ballon
+plane
+bear
+boat
+#Word List A
+a
+an
+afternoon
+apple
+#Word List B
+ball
+balloon
+banana
+bear
+birthday
+black
+blue
+boat
+book
+brown
+#Word List C
+can
+Can I help you?
+car
+card
+cat
+class
+colour
+color
+crayon
+#Word List D
+dad
+daddy
+dear
+dog
+#Word List E
+eight
+#Word List F
+five
+for
+four
+#Word List G
+good
+Good afternoon!
+Good morning!
+grape
+green
+#Word List H
+happy
+Happy birthday!
+Happy New Year!
+have
+hello
+help
+Here you are.
+hi
+how
+How old are you?
+#Word List I
+I'm
+I am
+it
+it's
+it is
+it isn't
+#Word List L
+lemon
+look
+love
+lovely
+#Word List M
+Miss
+morning
+Mr.
+mum
+mom
+my
+#Word List N
+name
+New Year
+nice
+Nice to meet you.
+nine
+no
+Not at all.
+number
+#Word List O
+one
+orange
+orange
+#Word List P
+pass
+pear
+pen
+pencil
+picture
+pink
+plane
+please
+purple
+#Word List R
+rabbit
+red
+ruler
+#Word List S
+same
+seven
+show
+six
+strawberry
+#Word List T
+ten
+thank
+Thank you.
+that
+The same to you.
+this
+three
+two
+#Word List V
+very much
+#Word List W
+watermelon
+what
+what's
+what is
+which
+white
+#Word List Y
+yellow
+yes
+you
+your
+#Word List Z
+zero

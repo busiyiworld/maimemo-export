@@ -1,0 +1,60 @@
+#Unit 1
+father
+mother
+brother
+sister
+grandmother
+grandfather
+who
+he
+she
+#Unit 2
+classmate
+friend
+woman
+girl
+man
+boy
+look
+his
+name
+her
+or
+#Unit 3
+big
+tall
+pretty
+thin
+short
+handsome
+new
+does
+#Unit 4
+bookshop
+zoo
+school
+supermarket
+park
+hospital
+go
+to
+#Unit 5
+grass
+tree
+flower
+boat
+lake
+hill
+#Unit 6
+Christmas
+Father Christmas
+Christmas tree
+card
+present
+New Year
+merry
+too
+here
+for
+thank
+happy

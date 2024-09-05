@@ -1,0 +1,324 @@
+#Unit 1
+hi
+I
+hello
+name
+fine
+goodbye
+bye
+morning
+thank
+nice
+meet
+#Unit 2
+school
+playground
+library
+classroom
+tidy
+letter
+yes
+#Unit 3
+colour
+red
+yellow
+blue
+orange
+green
+#Unit 4
+friend
+her
+his
+one
+pencil box
+two
+pen
+three
+ruler
+four
+pencil
+five
+book
+black
+in
+under
+on
+chair
+she
+he
+we
+#Unit 5
+six
+seven
+eight
+nine
+ten
+head
+body
+leg
+foot
+arm
+hand
+face
+eye
+nose
+have
+ear
+mouth
+hair
+OK
+big
+tail
+short
+small
+long
+#Unit 6
+family
+father
+teacher
+mother
+doctor
+sister
+happy
+student
+brother
+bus driver
+worker
+love
+cook
+work
+play
+look
+tall
+farmer
+#Vocabulary A
+a
+about
+all around
+an
+and
+any
+apple
+arm
+at
+at home
+#Vocabulary B
+be
+big
+black
+blue
+body
+book
+borrow
+box
+boy
+brother
+bus driver
+but
+bye
+#Vocabulary C
+can
+cap
+care
+cashier
+cat
+chair
+chopsticks
+classroom
+colour
+come on
+cook
+cool
+count
+curly
+cute
+#Vocabulary D
+dad
+desk
+different
+dish
+do
+doctor
+done
+#Vocabulary E
+each other
+ear
+eggshell
+eight
+empty
+everywhere
+eye
+#Vocabulary F
+face
+family
+farmer
+father
+find
+fine
+finger
+fish
+five
+foot
+for
+four
+friend
+fun
+#Vocabulary G
+girl
+good
+goodbye
+green
+#Vocabulary H
+hair
+hand
+happy
+have
+he
+head
+hear
+hello
+help
+helpful
+her
+here
+hi
+his
+hooray
+how
+#Vocabulary I
+I
+in
+ink
+it
+#Vocabulary J
+jam
+jar
+job
+#Vocabulary K
+kid
+kung fu
+#Vocabulary L
+later
+left
+left-handed
+leg
+let
+let's
+letter
+library
+long
+look
+look at
+love
+#Vocabulary M
+make
+many
+may
+me
+meet
+mind map
+morning
+mother
+mouth
+mum
+my
+#Vocabulary N
+name
+nice
+nine
+no
+nose
+now
+#Vocabulary O
+OK
+on
+one
+orange
+#Vocabulary P
+part
+pen
+pencil
+pencil box
+picture
+play
+playground
+please
+policeman
+purple
+#Vocabulary Q
+queen
+quiet
+#Vocabulary R
+red
+right-handed
+robot
+ruler
+#Vocabulary S
+school
+schoolbag
+see
+see you later
+seven
+share
+she
+short
+sister
+six
+small
+smell
+so
+song
+straight
+student
+sure
+#Vocabulary T
+tail
+talk
+tall
+tea
+teacher
+ten
+thank
+thanks
+that
+the
+they
+this
+three
+tidy
+time
+to
+together
+too
+two
+#Vocabulary U
+umbrella
+uncle
+under
+us
+#Vocabulary V
+van
+vegetable
+#Vocabulary W
+we
+what
+where
+win
+wind
+winter
+with
+work
+worker
+worry
+wow
+#Vocabulary X
+X-ray
+#Vocabulary Y
+yellow
+yes
+you
+your
+yo-yo
+#Vocabulary Z
+zebra
+zone
