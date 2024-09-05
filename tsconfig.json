@@ -22,5 +22,5 @@
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": false
   },
-  "include": ["./app/**/*.*", "./src/**/*.ts", "./shared/**/*.ts", "./*.ts"]
+  "include": ["./app/**/*.*", "./src/**/*.ts", "./shared/**/*.ts", "./scripts/*.ts", "./*.ts", "eslint.config.js"]
 }

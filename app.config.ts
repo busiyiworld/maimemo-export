@@ -1,13 +1,13 @@
 import { createApp } from "vinxi"
-import reactRefresh from "@vitejs/plugin-react"
 import tsconfigPaths from "vite-tsconfig-paths"
 import UnoCSS from "unocss/vite"
 import AutoImport from "unplugin-auto-import/vite"
+import react from "@vitejs/plugin-react-swc"
 
 const plugins = [
   tsconfigPaths(),
   UnoCSS(),
-  reactRefresh(),
+  react(),
   AutoImport({
     include: [
       /\.[tj]sx$/,
