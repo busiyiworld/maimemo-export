@@ -7,7 +7,7 @@ const fileName = "词库.md"
 function genTableItem(name: string, target: Target) {
   const suffix = target === "translation" ? "csv" : "txt"
   const encodeName = encodeURIComponent(name)
-  return `<a href="https://github.com/busiyiworld/maimemo-export/blob/main/exported/${target}/${encodeName}.${suffix}">📖</a> <a href="https://raw.githubusercontent.com/busiyiworld/maimemo-export/main/exported/${target}/${encodeName}.${suffix}" download>⬇️</a>`
+  return `[📖](./exported/${target}/${encodeName}.${suffix})`
 }
 
 async function main() {
