@@ -1,12 +1,13 @@
 import { join } from "node:path"
 import fs from "fs-extra"
 import { getLibWords, getLibs, translateAll } from "./query"
-import { databases } from "./db"
+import { checkDatabases, databases } from "./db"
 import { transform } from "./transform"
 import { ensureTargetFolders } from "./dir"
 import type { ExportFnProps, ExportLog, Target, TrafficLights, Word } from "@/types"
 
 export async function exportLib({ selected, range, type, options, fnEvery }: ExportFnProps & { fnEvery: (log: ExportLog) => Promise<boolean> }) {
+  checkDatabases()
   const targetFolders = await ensureTargetFolders(options.folderName)
 
   let libs = selected
@@ -29,8 +30,7 @@ export async function exportLib({ selected, range, type, options, fnEvery }: Exp
   }
 
   for (const lib of libs) {
-    let words: Word[] = []
-    words = getLibWords({
+    const words = getLibWords({
       id: lib.id,
       type,
       exculedMemorized: options.exculedMemorized,

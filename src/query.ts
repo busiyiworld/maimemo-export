@@ -90,7 +90,8 @@ export function getLibWords({
     }
 
     return words
-  } catch {
+  } catch (e) {
+    console.error(e)
     return []
   }
 }
