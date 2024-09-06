@@ -30,6 +30,11 @@ export function NavBar() {
         <div className="i-ph:cloud flex-none" />
         云词库
       </button>
+      <a
+        href="/"
+        className="i-ri:refresh-line text-lg op50 hover:op75"
+        title="刷新"
+      />
       <ThemeToggle />
       <a
         href="https://github.com/busiyiworld/maimemo-export"
