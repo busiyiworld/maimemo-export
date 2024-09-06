@@ -46,6 +46,10 @@ export function WordTable() {
   }, [rowSelection])
 
   useEffect(() => {
+    setRowSelection({})
+  }, [previewLib.type])
+
+  useEffect(() => {
     if (tableRef.current) {
       const mainElement = document.querySelector("#main")!
       const widthWithPaddings = mainElement?.clientHeight

@@ -1,17 +1,23 @@
 import { useAtom } from "jotai"
 import { ThemeToggle } from "./ThemeToggle"
-import { initPreviewLib, previewLibAtom } from "~/atom"
+import { exportStateAtom, initPreviewLib, previewLibAtom } from "~/atom"
 
 export function NavBar() {
   const [previewLib, setPreviewLib] = useAtom(previewLibAtom)
+  const [exportState, setExportState] = useAtom(exportStateAtom)
   return (
     <div className="flex-gap-3 items-center flex-wrap flex">
       <button
         className={c("px3 py1 text-base btn-action", previewLib.type === "base" && "btn-action-active")}
+        disabled={exportState.status === "running"}
         onClick={() => {
           setPreviewLib({
             ...initPreviewLib,
             type: "base",
+          })
+          setExportState({
+            ...exportState,
+            selected: [],
           })
         }}
       >
@@ -20,10 +26,15 @@ export function NavBar() {
       </button>
       <button
         className={c("px3 py1 text-base btn-action", previewLib.type === "cloud" && "btn-action-active")}
+        disabled={exportState.status === "running"}
         onClick={() => {
           setPreviewLib({
             ...initPreviewLib,
             type: "cloud",
+          })
+          setExportState({
+            ...exportState,
+            selected: [],
           })
         }}
       >
