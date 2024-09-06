@@ -22,5 +22,6 @@
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": false
   },
-  "include": ["./app/**/*.*", "./src/**/*.ts", "./shared/**/*.ts", "./scripts/*.ts", "./*.ts", "eslint.config.js"]
+  "include": ["./**/*.ts", "./**/*.tsx"],
+  "exxclude": ["node_modules/**.*"]
 }

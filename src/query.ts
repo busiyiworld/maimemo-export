@@ -1,12 +1,11 @@
 import { sql } from "./sql"
 import { translateByDict } from "./translate"
 import { transform } from "./transform"
-import { checkDatabases, databases } from "./db"
+import { databases } from "./db"
 import type { LibType, Library, Target, Word } from "@/types"
 
 let memorizedWords: string[] = []
 export function getLibs(type: LibType = "base"): Library[] {
-  checkDatabases()
   if (!databases.maimemo_base?.db)
     return []
   if (type === "base") {
@@ -41,7 +40,6 @@ export function previewLibWords({
   exculedMemorized = false,
   target = "word",
 }: Props) {
-  checkDatabases()
   const words = getLibWords({ id, type, exculedMemorized })
   if (target === "translation") {
     if (!databases.maimemo_base?.db)
@@ -62,7 +60,6 @@ export function getLibWords({
   exculedMemorized = false,
 }: Omit<Props, "target">): Word[] {
   try {
-    checkDatabases()
     if (!id || !databases.maimemo_base?.db)
       return []
     let words: Word[] = []

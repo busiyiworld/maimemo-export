@@ -2,8 +2,9 @@ import { defineEventHandler, toWebRequest } from "vinxi/http"
 import { initTRPC } from "@trpc/server"
 import { fetchRequestHandler } from "@trpc/server/adapters/fetch"
 import { z } from "zod"
-import { checkDatabases, ensureExportedFolder } from "./src/db"
-import { getLibs, previewLibWords } from "./src/get"
+import { ensureExportedFolder } from "src/dir"
+import { checkDatabases } from "./src/db"
+import { getLibs, previewLibWords } from "./src/query"
 
 const t = initTRPC.create()
 

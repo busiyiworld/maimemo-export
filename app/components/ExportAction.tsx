@@ -32,7 +32,6 @@ export function ExportAction() {
       })
     } else {
       setExportState({ ...exportState, range: "all", status: "running", logs: [] })
-      // 异步的
       sendJsonMessage<WSMessgae<ExportFnProps>>({
         type: "export",
         data: {
@@ -82,7 +81,7 @@ export function ExportAction() {
 
     else
       return "idle"
-  }, [exportState])
+  }, [exportState, databaseStatus])
   const allStatus = useMemo(() => {
     if (!databaseStatus.maimemo_base || (exportState.status === "running" && exportState.range === "selected"))
       return "disabled"

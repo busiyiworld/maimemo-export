@@ -1,7 +1,6 @@
-import { checkDatabases, databases } from "./db"
+import { databases } from "./db"
 
 export function translateByDict(word: string): string {
-  checkDatabases()
   if (databases.ecdict?.db === undefined)
     throw new Error("ecdict database not found")
   // 缩写
