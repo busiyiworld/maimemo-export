@@ -4,7 +4,7 @@ import { getLibWords, getLibs, translateAll } from "./query"
 import { checkDatabases, databases } from "./db"
 import { transform } from "./transform"
 import { ensureTargetFolders } from "./dir"
-import type { ExportFnProps, ExportLog, Target, TrafficLights, Word } from "@/types"
+import type { ExportFnProps, ExportLog, Target, TrafficLights } from "@/types"
 
 export async function exportLib({ selected, range, type, options, fnEvery }: ExportFnProps & { fnEvery: (log: ExportLog) => Promise<boolean> }) {
   checkDatabases()

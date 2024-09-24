@@ -1,26 +1,25 @@
-import { it } from "vitest"
-import { exportLib } from "../src/db"
+import { checkDatabases, databases } from "src/db"
+import { getLibWords, getLibs } from "src/query"
+import { beforeAll, expect, it } from "vitest"
 
-it.skip("db", async () => {
-  const r = {
-    status: "selected",
-    selected: [{ id: 76, name: "2012雅思词汇加强版" }],
-    type: "base",
-    options: {
-      target: ["word", "translation", "list"],
-      previewTarget: "word",
-      exculedMemorized: false,
-      folderName: "",
-      override: true,
-    },
-  }
-  await exportLib(r.status, r.selected, r.type, r.options, (info: string) => {
-    console.log(info)
-    return false
-  })
+beforeAll(() => {
+  checkDatabases()
 })
 
-it("test", () => {
-  const date = new Date()
-  console.log(new Date(date.getTime() - date.getTimezoneOffset() * 60 * 1000))
+it("db status", async () => {
+  expect(databases.ecdict?.status).toBe(true)
+  expect(databases.maimemo_base?.status).toBe(true)
+  expect(databases.maimemo_cloud?.status).toBe(true)
+})
+
+it("get libs", () => {
+  expect(getLibs("base").length).toBeGreaterThan(0)
+  expect(getLibs("cloud").length).toBeGreaterThan(0)
+})
+
+it("get lib words", () => {
+  const words = getLibWords({ id: 13110210, type: "base", exculedMemorized: false })
+  expect(words.length).toBeGreaterThan(0)
+  expect(getLibWords({ id: 13110210, type: "base", exculedMemorized: true }).length).toBeLessThan(words.length)
+  expect(getLibWords({ id: 458595, type: "cloud", exculedMemorized: false }).length).toBeGreaterThan(0)
 })

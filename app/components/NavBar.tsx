@@ -8,6 +8,7 @@ export function NavBar() {
   return (
     <div className="flex-gap-3 items-center flex-wrap flex">
       <button
+        type="button"
         className={c("px3 py1 text-base btn-action", previewLib.type === "base" && "btn-action-active")}
         disabled={exportState.status === "running"}
         onClick={() => {
@@ -25,6 +26,7 @@ export function NavBar() {
         本地词库
       </button>
       <button
+        type="button"
         className={c("px3 py1 text-base btn-action", previewLib.type === "cloud" && "btn-action-active")}
         disabled={exportState.status === "running"}
         onClick={() => {
@@ -43,7 +45,7 @@ export function NavBar() {
       </button>
       <a
         href="/"
-        className="i-ri:refresh-line text-lg op50 hover:op75"
+        className="i-ph:arrow-clockwise-bold op50 hover:op75"
         title="刷新"
       />
       <ThemeToggle />
@@ -51,6 +53,7 @@ export function NavBar() {
         href="https://github.com/busiyiworld/maimemo-export"
         target="_blank"
         className="i-carbon-logo-github text-lg op50 hover:op75"
+        rel="noreferrer noopener"
       />
     </div>
   )

@@ -9,7 +9,7 @@ export function Log() {
     if (logs.length === 0) {
       return {
         content: "",
-        score: <></>,
+        score: null,
       }
     }
 
