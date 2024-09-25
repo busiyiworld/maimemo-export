@@ -5,6 +5,7 @@
   "packageManager": "pnpm@9.9.0",
   "scripts": {
     "dev": "vinxi dev",
+    "build": "vinxi build",
     "adb": "bash scripts/adb.sh",
     "test": "vitest",
     "lint": "eslint .",

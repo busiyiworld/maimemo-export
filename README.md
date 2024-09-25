@@ -1,5 +1,5 @@
-![](assets/preview.light.png#gh-light-mode-only)
-![](assets/preview.dark.png#gh-dark-mode-only)
+![](screenshots/preview.light.png#gh-light-mode-only)
+![](screenshots/preview.dark.png#gh-dark-mode-only)
 
 > [!IMPORTANT]
 > 中文翻译并非导出自墨墨背单词，而是使用 [ECDICT](https://github.com/skywind3000/ECDICT-ultimate) 的数据，无法做到与墨墨背单词一致。
