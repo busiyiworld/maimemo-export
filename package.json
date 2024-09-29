@@ -51,6 +51,7 @@
     "unocss-preset-scrollbar": "^0.3.1",
     "unplugin-auto-import": "^0.18.2",
     "vinxi": "0.4.1",
+    "vite-plugin-with-nitro": "0.0.0-beta.4",
     "vite-tsconfig-paths": "^5.0.1",
     "vitest": "^2.0.5"
   },

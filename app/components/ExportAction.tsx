@@ -10,7 +10,7 @@ export function ExportAction() {
   const [exportState, setExportState] = useAtom(exportStateAtom)
   const exporterOptions = useAtomValue(exporterOptionsAtom)
   const databaseStatus = useAtomValue(databaseStatusAtom)
-  const { sendJsonMessage, lastJsonMessage } = useWebSocket<ExportLog>(`ws://${location.host}/_ws`)
+  const { sendJsonMessage, lastJsonMessage } = useWebSocket<ExportLog>(`/_ws`)
   const [previewLib, setPreviewLib] = useAtom(previewLibAtom)
   useEffect(() => {
     if (lastJsonMessage) {

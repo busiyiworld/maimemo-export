@@ -39,7 +39,10 @@ export function WordTable() {
     (
       setExportState(prev => ({
         ...prev,
-        selected: [...Object.entries(rowSelection).filter(([_, v]) => v).map(([k]) => libs.find(l => l.id === Number(k))!),
+        selected: [...Object
+          .entries(rowSelection)
+          .filter(([_, v]) => v)
+          .map(([k]) => libs.find(l => l.id === Number(k))!),
         ],
       }),
       ))
@@ -121,7 +124,7 @@ export function WordTable() {
         />
         <div className="i-ph-magnifying-glass-duotone absolute left-2 top-3 flex op50" />
       </div>
-      <table ref={tableRef} className="block relative scrollbar-base">
+      <table ref={tableRef} className="block relative overflow-auto">
         <thead className="sticky z-10 top-0 bg-base shadow-gray-500/15 shadow">
           {table.getHeaderGroups().map(headerGroup => (
             <tr key={headerGroup.id}>
